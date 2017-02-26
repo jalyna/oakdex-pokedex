@@ -4,3 +4,4 @@ gemspec
 
 gem 'json-schema'
 gem 'rspec'
+gem 'rake'
