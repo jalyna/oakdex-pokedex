@@ -1,3 +1,6 @@
+require 'simplecov'
+SimpleCov.start
+
 require 'oakdex/pokedex'
 
 RSpec.configure do |config|
