@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "title": "Pokedex Types",
+  "properties": {
+    "names": {
+      "type": "object",
+      "properties": {
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ]
+    },
+    "effectivness": {
+      "type": "object",
+      "properties": {
+        "Normal": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Fighting": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Flying": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Poison": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Ground": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Rock": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Bug": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Ghost": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Steel": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Fire": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Water": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Grass": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Electric": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Psychic": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Ice": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Dragon": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Dark": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "Fairy": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 2
+        }
+      },
+      "required": [
+        "Normal",
+        "Fighting",
+        "Flying",
+        "Poison",
+        "Ground",
+        "Rock",
+        "Bug",
+        "Ghost",
+        "Steel",
+        "Fire",
+        "Water",
+        "Grass",
+        "Electric",
+        "Psychic",
+        "Ice",
+        "Dragon",
+        "Dark",
+        "Fairy"
+      ]
+    }
+  },
+  "required": [
+    "names",
+    "effectivness"
+  ]
+}
