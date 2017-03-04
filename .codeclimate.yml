@@ -12,5 +12,6 @@ ratings:
   - "lib/**"
   - "data/**"
   - "**.rb"
-  exclude_paths:
-  - "spec/**/*"
+
+exclude_paths:
+- "spec/**/*"
