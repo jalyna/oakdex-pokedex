@@ -2,6 +2,7 @@ require 'ostruct'
 
 module Oakdex
   module Pokedex
+    # Base Class for Dex Entries
     class Base
       def self.translate(attribute, name)
         define_method(name) do |locale = 'en'|
