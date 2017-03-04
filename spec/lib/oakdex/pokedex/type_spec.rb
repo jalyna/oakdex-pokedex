@@ -9,7 +9,8 @@ describe Oakdex::Pokedex::Type do
       },
       'effectivness' => {
         'Normal' => 1.0
-      }
+      },
+      'color' => '#000000'
     }
   end
 
@@ -24,6 +25,10 @@ describe Oakdex::Pokedex::Type do
   describe '#effectivness_for' do
     it { expect(subject.effectivness_for('Normal')).to eq(1.0) }
     it { expect(subject.effectivness_for('Foo')).to be_nil }
+  end
+
+  describe '#color' do
+    it { expect(subject.color).to eq('#000000') }
   end
 
   describe '.find' do
