@@ -1,0 +1,238 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "title": "Pokemon",
+  "properties": {
+    "names": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "national_id": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 721
+    },
+    "types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "abilities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "hidden": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    },
+    "gender_ratios": {
+      "type": ["object", "null"],
+      "properties": {
+        "female": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100.0
+        },
+        "male": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100.0
+        }
+      },
+      "required": []
+    },
+    "catch_rate": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "egg_groups": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "hatch_time": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "height_us": {
+      "type": "string"
+    },
+    "height_eu": {
+      "type": "string"
+    },
+    "weight_us": {
+      "type": "string"
+    },
+    "weight_eu": {
+      "type": "string"
+    },
+    "base_exp_yield": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "leveling_rate": {
+      "type": "string"
+    },
+    "ev_yield": {
+      "type": "object",
+      "properties": {
+        "hp": {
+          "type": "integer"
+        },
+        "atk": {
+          "type": "integer"
+        },
+        "def": {
+          "type": "integer"
+        },
+        "sp_atk": {
+          "type": "integer"
+        },
+        "sp_def": {
+          "type": "integer"
+        },
+        "speed": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "hp",
+        "atk",
+        "def",
+        "sp_atk",
+        "sp_def",
+        "speed"
+      ],
+      "additionalProperties": false
+    },
+    "color": {
+      "type": "string"
+    },
+    "base_friendship": {
+      "type": "integer"
+    },
+    "base_stats": {
+      "type": "object",
+      "properties": {
+        "hp": {
+          "type": "integer"
+        },
+        "attack": {
+          "type": "integer"
+        },
+        "defense": {
+          "type": "integer"
+        },
+        "sp_atk": {
+          "type": "integer"
+        },
+        "sp_def": {
+          "type": "integer"
+        },
+        "speed": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "hp",
+        "attack",
+        "defense",
+        "sp_atk",
+        "sp_def",
+        "speed"
+      ]
+    },
+    "learnset": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "parent": {
+            "type": "string"
+          },
+          "move": {
+            "type": "string"
+          },
+          "level": {
+            "type": "integer"
+          },
+          "tm": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "move"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "names",
+    "national_id",
+    "types",
+    "abilities",
+    "gender_ratios",
+    "catch_rate",
+    "egg_groups",
+    "hatch_time",
+    "height_us",
+    "height_eu",
+    "weight_us",
+    "weight_eu",
+    "base_exp_yield",
+    "leveling_rate",
+    "ev_yield",
+    "color",
+    "base_friendship",
+    "base_stats",
+    "learnset"
+  ],
+  "additionalProperties": false
+}
