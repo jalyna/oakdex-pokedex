@@ -1,18 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
+  "title": "Pokedex Move",
   "properties": {
     "index_number": {
-      "type": "integer"
+      "type": "integer",
+      "minimum": 0
     },
     "pp": {
-      "type": "integer"
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 40
     },
     "max_pp": {
-      "type": "integer"
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 64
     },
     "power": {
-      "type": "integer"
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 250
     },
     "accuracy": {
       "type": "integer",
@@ -23,7 +31,8 @@
       "type": "string"
     },
     "category": {
-      "type": "string"
+      "type": "string",
+      "enum" : ["physical", "status", "special"]
     },
     "priority": {
       "type": "integer",
@@ -31,7 +40,20 @@
       "maximum": 7
     },
     "target": {
-      "type": "string"
+      "type": "string",
+      "enum" : [
+        "target",
+        "all_adjacent_foes",
+        "all_foes",
+        "user",
+        "anyone_but_user",
+        "user_and_adjacent_ally",
+        "user_and_allies",
+        "adjacent_ally",
+        "all_adjacent",
+        "everyone",
+        "target_foe"
+      ]
     },
     "critical_hit": {
       "type": "integer",
