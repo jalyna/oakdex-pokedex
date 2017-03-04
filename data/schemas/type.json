@@ -3,6 +3,10 @@
   "type": "object",
   "title": "Pokedex Types",
   "properties": {
+    "color": {
+      "type": "string",
+      "pattern": "^#[A-Fa-f0-9]{6}$"
+    },
     "names": {
       "type": "object",
       "properties": {
@@ -155,7 +159,8 @@
   },
   "required": [
     "names",
-    "effectivness"
+    "effectivness",
+    "color"
   ],
   "additionalProperties": false
 }
