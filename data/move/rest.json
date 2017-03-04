@@ -1,0 +1,30 @@
+{
+  "index_number": 156,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Hvile",
+    "fr": "Repos",
+    "de": "Erholung",
+    "gr": "Ανάπαυση",
+    "it": "Riposo",
+    "pl": "Odpoczynek",
+    "en": "Rest"
+  },
+  "descriptions": {
+    "en": "The user takes a nap to fully restore its HP and recover from any status abnormalities."
+  },
+  "type": "Psychic"
+}

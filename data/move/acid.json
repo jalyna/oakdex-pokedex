@@ -1,0 +1,30 @@
+{
+  "index_number": 51,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 40,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Syre",
+    "fr": "Acide",
+    "de": "Säure",
+    "gr": "Οξύ",
+    "it": "Acido",
+    "pl": "Kwas",
+    "en": "Acid"
+  },
+  "descriptions": {
+    "en": "A Poison-type attack. Has a one-in-three chance of lowering the target's Defense."
+  },
+  "type": "Poison"
+}

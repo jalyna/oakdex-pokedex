@@ -1,0 +1,31 @@
+{
+  "index_number": 17,
+  "pp": 35,
+  "max_pp": 56,
+  "power": 60,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "anyone_but_user",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Vingeangreb",
+    "fr": "Cru-Aile",
+    "de": "Flügelschlag",
+    "gr": "Πτερωτή",
+    "it": "Attacco d'Ala",
+    "pl": "Atak Skrzydeł",
+    "tr": "Kanat Saldırısı",
+    "en": "Wing Attack"
+  },
+  "descriptions": {
+    "en": "A Flying-type attack. The attacking Pokémon spreads its wings and charges at the target."
+  },
+  "type": "Flying"
+}

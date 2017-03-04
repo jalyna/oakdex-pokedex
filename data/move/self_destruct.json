@@ -1,0 +1,30 @@
+{
+  "index_number": 120,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 200,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Selvdestruktion",
+    "fr": "Destruction",
+    "de": "Finale",
+    "gr": "Αυτοκαταστροφή",
+    "it": "Autodistruz.",
+    "pl": "Samo-Zniszczenie",
+    "en": "Self-Destruct"
+  },
+  "descriptions": {
+    "en": "The user explodes, inflicting damage on the enemy, then faints. Useless against Ghost-type."
+  },
+  "type": "Normal"
+}

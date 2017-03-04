@@ -1,0 +1,31 @@
+{
+  "index_number": 6,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 40,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Kasse I",
+    "fr": "Jackpot",
+    "de": "Zahltag",
+    "gr": "Φιλαργυρία",
+    "it": "Giornopaga",
+    "pl": "Dzień Zapłaty",
+    "tr": "Ödeme Günü",
+    "en": "Pay Day"
+  },
+  "descriptions": {
+    "en": "A move that also nets money at the end of battle. How much depends on the attack frequency and level."
+  },
+  "type": "Normal"
+}

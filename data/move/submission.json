@@ -1,0 +1,29 @@
+{
+  "index_number": 66,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 80,
+  "accuracy": 80,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Underkastelse",
+    "fr": "Sacrifice",
+    "de": "Überroller",
+    "gr": "Υποταγή",
+    "it": "Sottomissione",
+    "en": "Submission"
+  },
+  "descriptions": {
+    "en": "The strongest Fighting attack. One quarter of the damage it inflicts comes back to hurt the attacker."
+  },
+  "type": "Fighting"
+}

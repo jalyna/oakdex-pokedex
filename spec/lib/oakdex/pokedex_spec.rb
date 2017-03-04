@@ -33,4 +33,15 @@ describe Oakdex::Pokedex do
       expect(described_class.find_ability('Foo')).to be_nil
     end
   end
+
+  describe '.find_move' do
+    it 'returns move' do
+      move = described_class.find_move('Aqua Ring')
+      expect(move).to be_instance_of(Oakdex::Pokedex::Move)
+    end
+
+    it 'returns nil if move does not exist' do
+      expect(described_class.find_move('Foo')).to be_nil
+    end
+  end
 end

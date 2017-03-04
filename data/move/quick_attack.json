@@ -1,0 +1,30 @@
+{
+  "index_number": 98,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 40,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 1,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Hurtigt AngrebLynangreb",
+    "fr": "Vive-attaque",
+    "de": "Ruckzuckhieb",
+    "gr": "Βολίδα",
+    "it": "Attacco Rapido",
+    "pl": "Szybki Atak",
+    "en": "Quick Attack"
+  },
+  "descriptions": {
+    "en": "An attack that always strikes first. If both Pokémon use this, the one with higher Speed attacks first."
+  },
+  "type": "Normal"
+}

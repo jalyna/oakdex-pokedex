@@ -1,0 +1,30 @@
+{
+  "index_number": 45,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 0,
+  "accuracy": 100,
+  "category": "status",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Knurre",
+    "fr": "Rugissement",
+    "de": "Heuler",
+    "gr": "Μουγγρητό",
+    "it": "Ruggito",
+    "pl": "Warczenie",
+    "en": "Growl"
+  },
+  "descriptions": {
+    "en": "A technique that lowers the target's Attack power. Can normally be used up to 6 times."
+  },
+  "type": "Normal"
+}

@@ -1,0 +1,29 @@
+{
+  "index_number": 450,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 60,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Piqûre",
+    "de": "Käferbiss",
+    "gr": "Τσίμπημα Εντόμου",
+    "it": "Coleomorso",
+    "pl": "Ukąszenie",
+    "en": "Bug Bite"
+  },
+  "descriptions": {
+    "en": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect."
+  },
+  "type": "Bug"
+}

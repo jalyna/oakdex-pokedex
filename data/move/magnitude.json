@@ -1,0 +1,28 @@
+{
+  "index_number": 222,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Ampleur",
+    "de": "Intensität",
+    "gr": "Σεισμική Ένταση",
+    "it": "Magnitudo",
+    "en": "Magnitude"
+  },
+  "descriptions": {
+    "en": "A Ground-type attack. The power of the attack will vary each time it is used."
+  },
+  "type": "Ground"
+}

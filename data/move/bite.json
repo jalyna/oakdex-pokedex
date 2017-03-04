@@ -1,0 +1,30 @@
+{
+  "index_number": 44,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 60,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Bide",
+    "fr": "Morsure",
+    "de": "Biss",
+    "gr": "Δάγκωμα",
+    "it": "Morso",
+    "pl": "Gryzienie",
+    "en": "Bite"
+  },
+  "descriptions": {
+    "en": "A bite made using sharp fangs. This may cause the opponent to flinch, and it might not attack."
+  },
+  "type": "Dark"
+}

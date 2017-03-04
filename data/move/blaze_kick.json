@@ -1,0 +1,30 @@
+{
+  "index_number": 299,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 85,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Flammespark",
+    "fr": "Pied Brûleur",
+    "de": "Feuerfeger",
+    "gr": "Φλεγόμενο Λάκτισμα",
+    "it": "Calciardente",
+    "pl": "Ogniokop",
+    "en": "Blaze Kick"
+  },
+  "descriptions": {
+    "en": "A kick with a high critical-hit ratio. May cause a burn."
+  },
+  "type": "Fire"
+}

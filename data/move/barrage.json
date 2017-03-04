@@ -1,0 +1,29 @@
+{
+  "index_number": 140,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 15,
+  "accuracy": 85,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Dæmning",
+    "fr": "Pilonnage",
+    "de": "Stakkato",
+    "gr": "Καταιγισμός",
+    "it": "Att. Pioggia",
+    "en": "Barrage"
+  },
+  "descriptions": {
+    "en": "Several spheres are thrown consecutively at the target to inflict damage."
+  },
+  "type": "Normal"
+}

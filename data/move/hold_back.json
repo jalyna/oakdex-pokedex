@@ -1,0 +1,27 @@
+{
+  "index_number": 610,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 40,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Retenue",
+    "de": "Zurückhaltung",
+    "it": "Riguardo",
+    "en": "Hold Back"
+  },
+  "descriptions": {
+    "en": "The user holds back when it attacks and the target is left with at least 1 HP."
+  },
+  "type": "Normal"
+}

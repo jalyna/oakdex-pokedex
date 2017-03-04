@@ -1,0 +1,31 @@
+{
+  "index_number": 36,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 90,
+  "accuracy": 85,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "cz": "Bourací útok",
+    "dk": "Nedlægge",
+    "fr": "Bélier",
+    "de": "Bodycheck",
+    "gr": "Κατακρήμνιση",
+    "it": "Riduttore",
+    "pl": "Usunięcie",
+    "en": "Take Down"
+  },
+  "descriptions": {
+    "en": "A charging attack. One quarter of the damage it inflicts comes back to hurt the attacker."
+  },
+  "type": "Normal"
+}

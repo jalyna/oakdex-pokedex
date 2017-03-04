@@ -1,0 +1,30 @@
+{
+  "index_number": 172,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 60,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Flammehjul",
+    "fr": "Roue de Feu",
+    "de": "Flammenrad",
+    "gr": "Φλεγόμενος Τροχός",
+    "it": "Ruotafuoco",
+    "pl": "Krąg Ognia",
+    "en": "Flame Wheel"
+  },
+  "descriptions": {
+    "en": "A Fire-type attack. Has a one-in-ten chance of inflicting a burn on the target."
+  },
+  "type": "Fire"
+}
