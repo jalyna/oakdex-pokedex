@@ -22,4 +22,15 @@ describe Oakdex::Pokedex do
       expect(described_class.find_nature('Foo')).to be_nil
     end
   end
+
+  describe '.find_ability' do
+    it 'returns ability' do
+      ability = described_class.find_ability('Battle Armor')
+      expect(ability).to be_instance_of(Oakdex::Pokedex::Ability)
+    end
+
+    it 'returns nil if ability does not exist' do
+      expect(described_class.find_ability('Foo')).to be_nil
+    end
+  end
 end

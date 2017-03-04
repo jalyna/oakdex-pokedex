@@ -1,6 +1,7 @@
 require 'json'
 require 'oakdex/pokedex/type'
 require 'oakdex/pokedex/nature'
+require 'oakdex/pokedex/ability'
 
 module Oakdex
   # Class that handles Pokedex Requests
@@ -20,6 +21,14 @@ module Oakdex
 
       def find_nature(name)
         natures[name]
+      end
+
+      def abilities
+        @abilities ||= map_json_data('ability', Ability)
+      end
+
+      def find_ability(name)
+        abilities[name]
       end
 
       private
