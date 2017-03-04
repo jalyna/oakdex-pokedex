@@ -1,0 +1,323 @@
+{
+  "names": {
+    "fr": "Feunnec",
+    "de": "Fynx",
+    "it": "Fennekin",
+    "en": "Fennekin"
+  },
+  "national_id": 653,
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze"
+    },
+    {
+      "name": "Magician",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "20.7 lbs.",
+  "weight_eu": "9.4 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "sp_atk": 62,
+    "sp_def": 60,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 5,
+      "move": "Ember"
+    },
+    {
+      "level": 11,
+      "move": "Howl"
+    },
+    {
+      "level": 14,
+      "move": "Flame Charge"
+    },
+    {
+      "level": 17,
+      "move": "Psybeam"
+    },
+    {
+      "level": 20,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 25,
+      "move": "Lucky Chant"
+    },
+    {
+      "level": 27,
+      "move": "Light Screen"
+    },
+    {
+      "level": 31,
+      "move": "Psyshock"
+    },
+    {
+      "level": 35,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 38,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 41,
+      "move": "Psychic"
+    },
+    {
+      "level": 43,
+      "move": "Sunny Day"
+    },
+    {
+      "level": 46,
+      "move": "Magic Room"
+    },
+    {
+      "level": 48,
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Munna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Magic Coat"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Magic Coat"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Wish"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Wish"
+    }
+  ]
+}

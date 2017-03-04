@@ -1,0 +1,321 @@
+{
+  "names": {
+    "fr": "Kravarech",
+    "de": "Tandrak",
+    "it": "Dragalge",
+    "en": "Dragalge"
+  },
+  "national_id": 691,
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point"
+    },
+    {
+      "name": "Adaptability",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 55,
+  "egg_groups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "179.7 lbs.",
+  "weight_eu": "81.5 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 90,
+    "sp_atk": 97,
+    "sp_def": 123,
+    "speed": 44
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 0,
+      "move": "Twister"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 5,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 9,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 12,
+      "move": "Bubble"
+    },
+    {
+      "level": 15,
+      "move": "Acid"
+    },
+    {
+      "level": 19,
+      "move": "Camouflage"
+    },
+    {
+      "level": 23,
+      "move": "Poison Tail"
+    },
+    {
+      "level": 25,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 28,
+      "move": "Double Team"
+    },
+    {
+      "level": 32,
+      "move": "Toxic"
+    },
+    {
+      "level": 35,
+      "move": "Aqua Tail"
+    },
+    {
+      "level": 38,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 42,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 53,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 59,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 67,
+      "move": "Twister"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Haze"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Haze"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Haze"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Haze"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Haze"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Haze"
+    },
+    {
+      "parent": "Marill",
+      "move": "Play Rough"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Play Rough"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Venom Drench"
+    }
+  ]
+}

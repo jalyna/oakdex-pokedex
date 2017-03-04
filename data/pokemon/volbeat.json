@@ -1,0 +1,499 @@
+{
+  "names": {
+    "fr": "Muciole",
+    "de": "Volbeat",
+    "it": "Volbeat",
+    "en": "Volbeat"
+  },
+  "national_id": 313,
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate"
+    },
+    {
+      "name": "Prankster",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0
+  },
+  "catch_rate": 150,
+  "egg_groups": [
+    "Bug",
+    "Human-Like"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "39.0 lbs.",
+  "weight_eu": "17.7 kg",
+  "base_exp_yield": 140,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 55,
+    "sp_atk": 47,
+    "sp_def": 75,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Flash"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Double Team"
+    },
+    {
+      "level": 8,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 12,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 15,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 19,
+      "move": "Moonlight"
+    },
+    {
+      "level": 22,
+      "move": "Tail Glow"
+    },
+    {
+      "level": 26,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 29,
+      "move": "Protect"
+    },
+    {
+      "level": 33,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 36,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 40,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 43,
+      "move": "Play Rough"
+    },
+    {
+      "level": 47,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Illumise",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Bug Buzz"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Dizzy Punch"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Encore"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Encore"
+    },
+    {
+      "parent": "Illumise",
+      "move": "Encore"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Encore"
+    },
+    {
+      "parent": "Machop",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Throh",
+      "move": "Seismic Toss"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Trick"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Trick"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Trick"
+    }
+  ]
+}

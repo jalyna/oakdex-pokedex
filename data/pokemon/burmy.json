@@ -1,0 +1,83 @@
+{
+  "names": {
+    "fr": "Cheniti",
+    "de": "Burmy",
+    "it": "Burmy",
+    "en": "Burmy"
+  },
+  "national_id": 412,
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin"
+    },
+    {
+      "name": "Overcoat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "7.5 lbs.",
+  "weight_eu": "3.4 kg",
+  "base_exp_yield": 45,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 29,
+    "defense": 45,
+    "sp_atk": 29,
+    "sp_def": 45,
+    "speed": 36
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Protect"
+    },
+    {
+      "level": 10,
+      "move": "Tackle"
+    },
+    {
+      "level": 15,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 20,
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    }
+  ]
+}

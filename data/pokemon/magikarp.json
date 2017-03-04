@@ -1,0 +1,72 @@
+{
+  "names": {
+    "fr": "Magicarpe",
+    "de": "Karpador",
+    "it": "Magikarp",
+    "en": "Magikarp"
+  },
+  "national_id": 129,
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Water 2",
+    "Dragon"
+  ],
+  "hatch_time": [
+    1530,
+    1784
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "22.0 lbs.",
+  "weight_eu": "10.0 kg",
+  "base_exp_yield": 40,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "sp_atk": 15,
+    "sp_def": 20,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 15,
+      "move": "Tackle"
+    },
+    {
+      "level": 30,
+      "move": "Flail"
+    }
+  ]
+}

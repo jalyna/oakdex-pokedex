@@ -1,0 +1,499 @@
+{
+  "names": {
+    "fr": "Feuillajou",
+    "de": "Vegimak",
+    "it": "Pansage",
+    "en": "Pansage"
+  },
+  "national_id": 511,
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "Gluttony"
+    },
+    {
+      "name": "Overgrow",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "23.1 lbs.",
+  "weight_eu": "10.5 kg",
+  "base_exp_yield": 63,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "sp_atk": 53,
+    "sp_def": 48,
+    "speed": 64
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Play Nice"
+    },
+    {
+      "level": 4,
+      "move": "Leer"
+    },
+    {
+      "level": 7,
+      "move": "Lick"
+    },
+    {
+      "level": 10,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 13,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 16,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 19,
+      "move": "Bite"
+    },
+    {
+      "level": 22,
+      "move": "Seed Bomb"
+    },
+    {
+      "level": 25,
+      "move": "Torment"
+    },
+    {
+      "level": 28,
+      "move": "Fling"
+    },
+    {
+      "level": 31,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 34,
+      "move": "Grass Knot"
+    },
+    {
+      "level": 37,
+      "move": "Recycle"
+    },
+    {
+      "level": 40,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 43,
+      "move": "Crunch"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Covet"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Covet"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Disarming Voice"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Persian",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Role Play"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Role Play"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Role Play"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    }
+  ]
+}

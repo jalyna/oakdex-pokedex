@@ -1,0 +1,474 @@
+{
+  "names": {
+    "fr": "Leuphorie",
+    "de": "Heiteira",
+    "it": "Blissey",
+    "en": "Blissey"
+  },
+  "national_id": 242,
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure"
+    },
+    {
+      "name": "Healer",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0
+  },
+  "catch_rate": 30,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "103.2 lbs.",
+  "weight_eu": "46.8 kg",
+  "base_exp_yield": 608,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 3,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 140,
+  "base_stats": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "sp_atk": 75,
+    "sp_def": 135,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 0,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 5,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 9,
+      "move": "Refresh"
+    },
+    {
+      "level": 12,
+      "move": "Double Slap"
+    },
+    {
+      "level": 16,
+      "move": "Soft-Boiled"
+    },
+    {
+      "level": 20,
+      "move": "Bestow"
+    },
+    {
+      "level": 23,
+      "move": "Minimize"
+    },
+    {
+      "level": 27,
+      "move": "Take Down"
+    },
+    {
+      "level": 31,
+      "move": "Sing"
+    },
+    {
+      "level": 34,
+      "move": "Fling"
+    },
+    {
+      "level": 38,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 42,
+      "move": "Egg Bomb"
+    },
+    {
+      "level": 46,
+      "move": "Light Screen"
+    },
+    {
+      "level": 50,
+      "move": "Healing Wish"
+    },
+    {
+      "level": 54,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Counter"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Gravity"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Heal Bell"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Metronome"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Present"
+    },
+    {
+      "parent": "Marill",
+      "move": "Present"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Present"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Seismic Toss"
+    }
+  ]
+}

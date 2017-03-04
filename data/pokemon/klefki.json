@@ -1,0 +1,324 @@
+{
+  "names": {
+    "fr": "Trousselin",
+    "de": "Clavion",
+    "it": "Klefki",
+    "en": "Klefki"
+  },
+  "national_id": 707,
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Prankster"
+    },
+    {
+      "name": "Magician",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "6.6 lbs.",
+  "weight_eu": "3.0 kg",
+  "base_exp_yield": 165,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "sp_atk": 80,
+    "sp_def": 87,
+    "speed": 75
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fairy Lock"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Fairy Wind"
+    },
+    {
+      "level": 8,
+      "move": "Astonish"
+    },
+    {
+      "level": 12,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 15,
+      "move": "Spikes"
+    },
+    {
+      "level": 18,
+      "move": "Draining Kiss"
+    },
+    {
+      "level": 23,
+      "move": "Crafty Shield"
+    },
+    {
+      "level": 27,
+      "move": "Foul Play"
+    },
+    {
+      "level": 32,
+      "move": "Torment"
+    },
+    {
+      "level": 34,
+      "move": "Mirror Shot"
+    },
+    {
+      "level": 36,
+      "move": "Imprison"
+    },
+    {
+      "level": 40,
+      "move": "Recycle"
+    },
+    {
+      "level": 43,
+      "move": "Play Rough"
+    },
+    {
+      "level": 44,
+      "move": "Magic Room"
+    },
+    {
+      "level": 50,
+      "move": "Heal Block"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Honedge",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Doublade",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Aegislash",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Lock-On"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Lock-On"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Thief"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Thief"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Thief"
+    },
+    {
+      "parent": "Trubbish",
+      "move": "Thief"
+    },
+    {
+      "parent": "Garbodor",
+      "move": "Thief"
+    },
+    {
+      "parent": "Klefki",
+      "move": "Thief"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "names": {
+    "fr": "Vacilys",
+    "de": "Wielie",
+    "it": "Cradily",
+    "en": "Cradily"
+  },
+  "national_id": 346,
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "Suction Cups"
+    },
+    {
+      "name": "Storm Drain",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 3"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "133.2 lbs.",
+  "weight_eu": "60.4 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "sp_atk": 81,
+    "sp_def": 107,
+    "speed": 43
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Wring Out"
+    },
+    {
+      "level": 0,
+      "move": "Swallow"
+    },
+    {
+      "level": 0,
+      "move": "Spit Up"
+    },
+    {
+      "level": 0,
+      "move": "Stockpile"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Constrict"
+    },
+    {
+      "level": 0,
+      "move": "Acid"
+    },
+    {
+      "level": 0,
+      "move": "Ingrain"
+    },
+    {
+      "level": 5,
+      "move": "Acid"
+    },
+    {
+      "level": 9,
+      "move": "Ingrain"
+    },
+    {
+      "level": 13,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 17,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 21,
+      "move": "Brine"
+    },
+    {
+      "level": 26,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 31,
+      "move": "Gastro Acid"
+    },
+    {
+      "level": 36,
+      "move": "Amnesia"
+    },
+    {
+      "level": 44,
+      "move": "Energy Ball"
+    },
+    {
+      "level": 52,
+      "move": "Stockpile"
+    },
+    {
+      "level": 52,
+      "move": "Spit Up"
+    },
+    {
+      "level": 52,
+      "move": "Swallow"
+    },
+    {
+      "level": 61,
+      "move": "Wring Out"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Curse"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Curse"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Endure"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Mega Drain"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Mega Drain"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Recover"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Anorith",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Archen",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Wring Out"
+    }
+  ]
+}

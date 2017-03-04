@@ -1,0 +1,813 @@
+{
+  "names": {
+    "fr": "Drascore",
+    "de": "Piondragi",
+    "it": "Drapion",
+    "en": "Drapion"
+  },
+  "national_id": 452,
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "Battle Armor"
+    },
+    {
+      "name": "Keen Eye",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug",
+    "Water 3"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "135.6 lbs.",
+  "weight_eu": "61.5 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "sp_atk": 60,
+    "sp_def": 75,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thunder Fang"
+    },
+    {
+      "level": 0,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 0,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Knock Off"
+    },
+    {
+      "level": 5,
+      "move": "Knock Off"
+    },
+    {
+      "level": 9,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 13,
+      "move": "Acupressure"
+    },
+    {
+      "level": 16,
+      "move": "Pursuit"
+    },
+    {
+      "level": 20,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 23,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 27,
+      "move": "Venoshock"
+    },
+    {
+      "level": 30,
+      "move": "Hone Claws"
+    },
+    {
+      "level": 34,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 38,
+      "move": "Night Slash"
+    },
+    {
+      "level": 43,
+      "move": "Scary Face"
+    },
+    {
+      "level": 49,
+      "move": "Crunch"
+    },
+    {
+      "level": 53,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 57,
+      "move": "Cross Poison"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Agility"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Agility"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Agility"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Agility"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Agility"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Agility"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Agility"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Durant",
+      "move": "Agility"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Archen",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Binacle",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Barbaracle",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Poison Tail"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Poison Tail"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Poison Tail"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Durant",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Screech"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Screech"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Screech"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Screech"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Screech"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Screech"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Screech"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Screech"
+    },
+    {
+      "parent": "Paras",
+      "move": "Slash"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Slash"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Slash"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Slash"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Slash"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Slash"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Slash"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Slash"
+    },
+    {
+      "parent": "Anorith",
+      "move": "Slash"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Slash"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Slash"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Slash"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Slash"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Slash"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Slash"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Slash"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Slash"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Slash"
+    },
+    {
+      "parent": "Binacle",
+      "move": "Slash"
+    },
+    {
+      "parent": "Barbaracle",
+      "move": "Slash"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Twineedle"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Twineedle"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Whirlwind"
+    }
+  ]
+}

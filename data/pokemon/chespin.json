@@ -1,0 +1,535 @@
+{
+  "names": {
+    "fr": "Marisson",
+    "de": "Igamaro",
+    "it": "Chespin",
+    "en": "Chespin"
+  },
+  "national_id": 650,
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Bulletproof",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "19.8 lbs.",
+  "weight_eu": "9.0 kg",
+  "base_exp_yield": 63,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "sp_atk": 48,
+    "sp_def": 45,
+    "speed": 38
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 5,
+      "move": "Vine Whip"
+    },
+    {
+      "level": 8,
+      "move": "Rollout"
+    },
+    {
+      "level": 11,
+      "move": "Bite"
+    },
+    {
+      "level": 15,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 18,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 27,
+      "move": "Take Down"
+    },
+    {
+      "level": 32,
+      "move": "Seed Bomb"
+    },
+    {
+      "level": 35,
+      "move": "Mud Shot"
+    },
+    {
+      "level": 39,
+      "move": "Bulk Up"
+    },
+    {
+      "level": 42,
+      "move": "Body Slam"
+    },
+    {
+      "level": 45,
+      "move": "Pain Split"
+    },
+    {
+      "level": 48,
+      "move": "Wood Hammer"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Chesnaught",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Numel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Curse"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Furret",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Munna",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Chespin",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Quilladin",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Chesnaught",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Spikes"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiddo",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Gogoat",
+      "move": "Synthesis"
+    }
+  ]
+}

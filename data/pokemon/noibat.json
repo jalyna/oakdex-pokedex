@@ -1,0 +1,376 @@
+{
+  "names": {
+    "fr": "Sonistrelle",
+    "de": "eF-eM",
+    "it": "Noibat",
+    "en": "Noibat"
+  },
+  "national_id": 714,
+  "types": [
+    "flying",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Frisk"
+    },
+    {
+      "name": "Telepathy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "17.6 lbs.",
+  "weight_eu": "8.0 kg",
+  "base_exp_yield": 49,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "sp_atk": 45,
+    "sp_def": 40,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Screech"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Leech Life"
+    },
+    {
+      "level": 11,
+      "move": "Gust"
+    },
+    {
+      "level": 13,
+      "move": "Bite"
+    },
+    {
+      "level": 16,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 18,
+      "move": "Agility"
+    },
+    {
+      "level": 23,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 27,
+      "move": "Roost"
+    },
+    {
+      "level": 31,
+      "move": "Razor Wind"
+    },
+    {
+      "level": 35,
+      "move": "Tailwind"
+    },
+    {
+      "level": 40,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 43,
+      "move": "Super Fang"
+    },
+    {
+      "level": 48,
+      "move": "Air Slash"
+    },
+    {
+      "level": 58,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Archen",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Tailwind"
+    }
+  ]
+}

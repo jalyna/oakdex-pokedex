@@ -1,0 +1,71 @@
+{
+  "names": {
+    "fr": "Chenipan",
+    "de": "Raupy",
+    "it": "Caterpie",
+    "en": "Caterpie"
+  },
+  "national_id": 10,
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust"
+    },
+    {
+      "name": "Run Away",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    2805,
+    3059
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "6.4 lbs.",
+  "weight_eu": "2.9 kg",
+  "base_exp_yield": 39,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "sp_atk": 20,
+    "sp_def": 20,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 15,
+      "move": "Bug Bite"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "names": {
+    "fr": "Négapi",
+    "de": "Minun",
+    "it": "Minun",
+    "en": "Minun"
+  },
+  "national_id": 312,
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "Minus"
+    },
+    {
+      "name": "Volt Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "9.3 lbs.",
+  "weight_eu": "4.2 kg",
+  "base_exp_yield": 142,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "sp_atk": 75,
+    "sp_def": 85,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 0,
+      "move": "Nuzzle"
+    },
+    {
+      "level": 0,
+      "move": "Entrainment"
+    },
+    {
+      "level": 0,
+      "move": "Play Nice"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 4,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 7,
+      "move": "Spark"
+    },
+    {
+      "level": 10,
+      "move": "Encore"
+    },
+    {
+      "level": 13,
+      "move": "Switcheroo"
+    },
+    {
+      "level": 16,
+      "move": "Swift"
+    },
+    {
+      "level": 19,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 22,
+      "move": "Copycat"
+    },
+    {
+      "level": 25,
+      "move": "Fake Tears"
+    },
+    {
+      "level": 28,
+      "move": "Charge"
+    },
+    {
+      "level": 31,
+      "move": "Discharge"
+    },
+    {
+      "level": 34,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 37,
+      "move": "Agility"
+    },
+    {
+      "level": 40,
+      "move": "Trump Card"
+    },
+    {
+      "level": 43,
+      "move": "Thunder"
+    },
+    {
+      "level": 46,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 49,
+      "move": "Entrainment"
+    },
+    {
+      "level": 0,
+      "move": "Charm"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minun",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Discharge"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Discharge"
+    },
+    {
+      "parent": "Minun",
+      "move": "Discharge"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Discharge"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Discharge"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Sing"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Sing"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Sing"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Sing"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Sing"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Sing"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Sweet Kiss"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ]
+}

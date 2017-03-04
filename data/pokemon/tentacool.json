@@ -1,0 +1,364 @@
+{
+  "names": {
+    "fr": "Tentacool",
+    "de": "Tentacha",
+    "it": "Tentacool",
+    "en": "Tentacool"
+  },
+  "national_id": 72,
+  "types": [
+    "water",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "Clear Body"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 3"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "100.3 lbs.",
+  "weight_eu": "45.5 kg",
+  "base_exp_yield": 67,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "sp_atk": 50,
+    "sp_def": 100,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 4,
+      "move": "Supersonic"
+    },
+    {
+      "level": 7,
+      "move": "Constrict"
+    },
+    {
+      "level": 10,
+      "move": "Acid"
+    },
+    {
+      "level": 13,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 16,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 19,
+      "move": "Wrap"
+    },
+    {
+      "level": 22,
+      "move": "Acid Spray"
+    },
+    {
+      "level": 25,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 28,
+      "move": "Barrier"
+    },
+    {
+      "level": 31,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 34,
+      "move": "Brine"
+    },
+    {
+      "level": 37,
+      "move": "Screech"
+    },
+    {
+      "level": 40,
+      "move": "Hex"
+    },
+    {
+      "level": 43,
+      "move": "Sludge Wave"
+    },
+    {
+      "level": 46,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 49,
+      "move": "Wring Out"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Acupressure"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Acupressure"
+    },
+    {
+      "parent": "Shellder",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Cloyster",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Bubble"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Haze"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Tickle"
+    }
+  ]
+}

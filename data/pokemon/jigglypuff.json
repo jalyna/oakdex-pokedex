@@ -1,0 +1,572 @@
+{
+  "names": {
+    "fr": "Rondoudou",
+    "de": "Pummeluff",
+    "it": "Jigglypuff",
+    "en": "Jigglypuff"
+  },
+  "national_id": 39,
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 170,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "12.1 lbs.",
+  "weight_eu": "5.5 kg",
+  "base_exp_yield": 95,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "sp_atk": 45,
+    "sp_def": 25,
+    "speed": 20
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sing"
+    },
+    {
+      "level": 3,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 5,
+      "move": "Pound"
+    },
+    {
+      "level": 8,
+      "move": "Play Nice"
+    },
+    {
+      "level": 11,
+      "move": "Disarming Voice"
+    },
+    {
+      "level": 15,
+      "move": "Disable"
+    },
+    {
+      "level": 18,
+      "move": "Double Slap"
+    },
+    {
+      "level": 21,
+      "move": "Rollout"
+    },
+    {
+      "level": 24,
+      "move": "Round"
+    },
+    {
+      "level": 28,
+      "move": "Wake-Up Slap"
+    },
+    {
+      "level": 32,
+      "move": "Rest"
+    },
+    {
+      "level": 35,
+      "move": "Body Slam"
+    },
+    {
+      "level": 37,
+      "move": "Mimic"
+    },
+    {
+      "level": 40,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 44,
+      "move": "Hyper Voice"
+    },
+    {
+      "level": 49,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Gravity"
+    },
+    {
+      "parent": "Audino",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Misty Terrain"
+    },
+    {
+      "parent": "Marill",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Present"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Present"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Present"
+    },
+    {
+      "parent": "Marill",
+      "move": "Present"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Present"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Marill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Minun",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Castform",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Audino",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ]
+}

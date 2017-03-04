@@ -1,0 +1,277 @@
+{
+  "names": {
+    "fr": "Sulfura",
+    "de": "Lavados",
+    "it": "Moltres",
+    "en": "Moltres"
+  },
+  "national_id": 146,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Flame Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": null,
+  "catch_rate": 3,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    20655,
+    20909
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "132.3 lbs.",
+  "weight_eu": "60.0 kg",
+  "base_exp_yield": 261,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "sp_atk": 125,
+    "sp_def": 85,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Roost"
+    },
+    {
+      "level": 0,
+      "move": "Hurricane"
+    },
+    {
+      "level": 0,
+      "move": "Sky Attack"
+    },
+    {
+      "level": 0,
+      "move": "Heat Wave"
+    },
+    {
+      "level": 0,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 8,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 15,
+      "move": "Agility"
+    },
+    {
+      "level": 22,
+      "move": "Endure"
+    },
+    {
+      "level": 29,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 36,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 43,
+      "move": "Safeguard"
+    },
+    {
+      "level": 50,
+      "move": "Air Slash"
+    },
+    {
+      "level": 57,
+      "move": "Sunny Day"
+    },
+    {
+      "level": 64,
+      "move": "Heat Wave"
+    },
+    {
+      "level": 71,
+      "move": "Solar Beam"
+    },
+    {
+      "level": 78,
+      "move": "Sky Attack"
+    },
+    {
+      "level": 85,
+      "move": "Roost"
+    },
+    {
+      "level": 92,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "names": {
+    "fr": "Carvanha",
+    "de": "Kanivanha",
+    "it": "Carvanha",
+    "en": "Carvanha"
+  },
+  "national_id": 318,
+  "types": [
+    "water",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "Rough Skin"
+    },
+    {
+      "name": "Speed Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 225,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "45.9 lbs.",
+  "weight_eu": "20.8 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 20,
+    "sp_atk": 65,
+    "sp_def": 20,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 4,
+      "move": "Rage"
+    },
+    {
+      "level": 8,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 11,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 15,
+      "move": "Assurance"
+    },
+    {
+      "level": 18,
+      "move": "Screech"
+    },
+    {
+      "level": 22,
+      "move": "Swagger"
+    },
+    {
+      "level": 25,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 29,
+      "move": "Scary Face"
+    },
+    {
+      "level": 32,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 36,
+      "move": "Crunch"
+    },
+    {
+      "level": 39,
+      "move": "Agility"
+    },
+    {
+      "level": 43,
+      "move": "Take Down"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Swift"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Thrash"
+    }
+  ]
+}

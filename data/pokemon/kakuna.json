@@ -1,0 +1,64 @@
+{
+  "names": {
+    "fr": "Coconfort",
+    "de": "Kokuna",
+    "it": "Kakuna",
+    "en": "Kakuna"
+  },
+  "national_id": 14,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    2805,
+    3059
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "22.0 lbs.",
+  "weight_eu": "10.0 kg",
+  "base_exp_yield": 72,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "sp_atk": 25,
+    "sp_def": 25,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 7,
+      "move": "Harden"
+    }
+  ]
+}

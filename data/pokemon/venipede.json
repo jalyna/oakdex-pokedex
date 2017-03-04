@@ -1,0 +1,300 @@
+{
+  "names": {
+    "fr": "Venipatte",
+    "de": "Toxiped",
+    "it": "Venipede",
+    "en": "Venipede"
+  },
+  "national_id": 543,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point"
+    },
+    {
+      "name": "Speed Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "11.7 lbs.",
+  "weight_eu": "5.3 kg",
+  "base_exp_yield": 52,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 59,
+    "sp_atk": 30,
+    "sp_def": 39,
+    "speed": 57
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 0,
+      "move": "Rollout"
+    },
+    {
+      "level": 5,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 8,
+      "move": "Screech"
+    },
+    {
+      "level": 12,
+      "move": "Pursuit"
+    },
+    {
+      "level": 15,
+      "move": "Protect"
+    },
+    {
+      "level": 19,
+      "move": "Poison Tail"
+    },
+    {
+      "level": 22,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 26,
+      "move": "Venoshock"
+    },
+    {
+      "level": 29,
+      "move": "Agility"
+    },
+    {
+      "level": 33,
+      "move": "Steamroller"
+    },
+    {
+      "level": 36,
+      "move": "Toxic"
+    },
+    {
+      "level": 38,
+      "move": "Venoshock"
+    },
+    {
+      "level": 40,
+      "move": "Rock Climb"
+    },
+    {
+      "level": 43,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Spikes"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Twineedle"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Twineedle"
+    }
+  ]
+}

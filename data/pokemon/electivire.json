@@ -1,0 +1,511 @@
+{
+  "names": {
+    "fr": "Élekable",
+    "de": "Elevoltek",
+    "it": "Electivire",
+    "en": "Electivire"
+  },
+  "national_id": 466,
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "Motor Drive"
+    },
+    {
+      "name": "Vital Spirit",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 75.0,
+    "female": 25.0
+  },
+  "catch_rate": 30,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "305.6 lbs.",
+  "weight_eu": "138.6 kg",
+  "base_exp_yield": 243,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "attack": 123,
+    "defense": 67,
+    "sp_atk": 95,
+    "sp_def": 85,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Electric Terrain"
+    },
+    {
+      "level": 0,
+      "move": "Ion Deluge"
+    },
+    {
+      "level": 0,
+      "move": "Fire Punch"
+    },
+    {
+      "level": 0,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 0,
+      "move": "Low Kick"
+    },
+    {
+      "level": 5,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 8,
+      "move": "Low Kick"
+    },
+    {
+      "level": 12,
+      "move": "Swift"
+    },
+    {
+      "level": 15,
+      "move": "Shock Wave"
+    },
+    {
+      "level": 19,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 22,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 26,
+      "move": "Light Screen"
+    },
+    {
+      "level": 29,
+      "move": "Thunder Punch"
+    },
+    {
+      "level": 36,
+      "move": "Discharge"
+    },
+    {
+      "level": 42,
+      "move": "Screech"
+    },
+    {
+      "level": 49,
+      "move": "Thunderbolt"
+    },
+    {
+      "level": 55,
+      "move": "Thunder"
+    },
+    {
+      "level": 62,
+      "move": "Giga Impact"
+    },
+    {
+      "level": 65,
+      "move": "Electric Terrain"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Barrier"
+    },
+    {
+      "parent": "Machop",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machop",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Feint"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Feint"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Feint"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Feint"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Feint"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Fire Punch"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Pangoro",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Ice Punch"
+    },
+    {
+      "parent": "Machop",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Sawk",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Karate Chop"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Meditate"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Rolling Kick"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Rolling Kick"
+    }
+  ]
+}

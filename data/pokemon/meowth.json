@@ -1,0 +1,979 @@
+{
+  "names": {
+    "fr": "Miaouss",
+    "de": "Mauzi",
+    "it": "Meowth",
+    "en": "Meowth"
+  },
+  "national_id": 52,
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "Pickup"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "9.3 lbs.",
+  "weight_eu": "4.2 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "sp_atk": 40,
+    "sp_def": 40,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Bite"
+    },
+    {
+      "level": 9,
+      "move": "Fake Out"
+    },
+    {
+      "level": 14,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 17,
+      "move": "Screech"
+    },
+    {
+      "level": 22,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 25,
+      "move": "Taunt"
+    },
+    {
+      "level": 30,
+      "move": "Pay Day"
+    },
+    {
+      "level": 33,
+      "move": "Slash"
+    },
+    {
+      "level": 38,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 41,
+      "move": "Assurance"
+    },
+    {
+      "level": 46,
+      "move": "Captivate"
+    },
+    {
+      "level": 49,
+      "move": "Night Slash"
+    },
+    {
+      "level": 50,
+      "move": "Feint"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Furret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Numel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Assist"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Assist"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Assist"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Assist"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Assist"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Charm"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Flail"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Flail"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Flail"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Flail"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Munna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Mareep",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Odor Sleuth"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Spite"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Ponyta",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Rapidash",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Oshawott",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Dewott",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Samurott",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Blitzle",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Zebstrika",
+      "move": "Tail Whip"
+    },
+    {
+      "parent": "Emolga",
+      "move": "Tail Whip"
+    }
+  ]
+}

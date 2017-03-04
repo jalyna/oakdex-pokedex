@@ -1,0 +1,384 @@
+{
+  "names": {
+    "fr": "Tutankafer",
+    "de": "Echnatoll",
+    "it": "Cofagrigus",
+    "en": "Cofagrigus"
+  },
+  "national_id": 563,
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    {
+      "name": "Mummy"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "168.7 lbs.",
+  "weight_eu": "76.5 kg",
+  "base_exp_yield": 169,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 58,
+    "attack": 50,
+    "defense": 145,
+    "sp_atk": 95,
+    "sp_def": 105,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Protect"
+    },
+    {
+      "level": 0,
+      "move": "Disable"
+    },
+    {
+      "level": 0,
+      "move": "Haze"
+    },
+    {
+      "level": 5,
+      "move": "Disable"
+    },
+    {
+      "level": 9,
+      "move": "Haze"
+    },
+    {
+      "level": 13,
+      "move": "Night Shade"
+    },
+    {
+      "level": 17,
+      "move": "Hex"
+    },
+    {
+      "level": 21,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 25,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 29,
+      "move": "Curse"
+    },
+    {
+      "level": 33,
+      "move": "Power Split"
+    },
+    {
+      "level": 33,
+      "move": "Guard Split"
+    },
+    {
+      "level": 34,
+      "move": "Scary Face"
+    },
+    {
+      "level": 39,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 45,
+      "move": "Grudge"
+    },
+    {
+      "level": 51,
+      "move": "Mean Look"
+    },
+    {
+      "level": 57,
+      "move": "Destiny Bond"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Heal Block"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Memento"
+    },
+    {
+      "parent": "Muk",
+      "move": "Memento"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Memento"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Memento"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Trubbish",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Garbodor",
+      "move": "Toxic Spikes"
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "names": {
+    "fr": "Kangourex",
+    "de": "Kangama",
+    "it": "Kangaskhan",
+    "en": "Kangaskhan"
+  },
+  "national_id": 115,
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    {
+      "name": "Early Bird"
+    },
+    {
+      "name": "Inner Focus",
+      "hidden": true
+    },
+    {
+      "name": "Parental Bond",
+      "mega": true
+    }
+  ],
+  "gender_ratios": {
+    "female": 100.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "7'03\"",
+  "height_eu": "2.2 m",
+  "weight_us": "176.4 lbs.",
+  "weight_eu": "80.0 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "sp_atk": 40,
+    "sp_def": 80,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Comet Punch"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 7,
+      "move": "Fake Out"
+    },
+    {
+      "level": 10,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 13,
+      "move": "Bite"
+    },
+    {
+      "level": 19,
+      "move": "Double Hit"
+    },
+    {
+      "level": 22,
+      "move": "Rage"
+    },
+    {
+      "level": 25,
+      "move": "Mega Punch"
+    },
+    {
+      "level": 31,
+      "move": "Chip Away"
+    },
+    {
+      "level": 34,
+      "move": "Dizzy Punch"
+    },
+    {
+      "level": 37,
+      "move": "Crunch"
+    },
+    {
+      "level": 43,
+      "move": "Endure"
+    },
+    {
+      "level": 46,
+      "move": "Outrage"
+    },
+    {
+      "level": 49,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 50,
+      "move": "Reversal"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Circle Throw"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Counter"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Disable"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Disable"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Disable"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Disable"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Disable"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Trump Card"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Uproar"
+    }
+  ]
+}

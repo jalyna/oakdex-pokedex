@@ -1,0 +1,416 @@
+{
+  "names": {
+    "fr": "Tarinorme",
+    "de": "Voluminas",
+    "it": "Probopass",
+    "en": "Probopass"
+  },
+  "national_id": 476,
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Sand Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'07\"",
+  "height_eu": "1.4 m",
+  "weight_us": "749.6 lbs.",
+  "weight_eu": "340.0 kg",
+  "base_exp_yield": 184,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "sp_atk": 75,
+    "sp_def": 150,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Magnet Rise"
+    },
+    {
+      "level": 0,
+      "move": "Gravity"
+    },
+    {
+      "level": 0,
+      "move": "Wide Guard"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 0,
+      "move": "Block"
+    },
+    {
+      "level": 0,
+      "move": "Magnet Bomb"
+    },
+    {
+      "level": 4,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 7,
+      "move": "Block"
+    },
+    {
+      "level": 10,
+      "move": "Magnet Bomb"
+    },
+    {
+      "level": 13,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 16,
+      "move": "Rest"
+    },
+    {
+      "level": 19,
+      "move": "Spark"
+    },
+    {
+      "level": 22,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 25,
+      "move": "Power Gem"
+    },
+    {
+      "level": 28,
+      "move": "Rock Blast"
+    },
+    {
+      "level": 31,
+      "move": "Discharge"
+    },
+    {
+      "level": 34,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 37,
+      "move": "Earth Power"
+    },
+    {
+      "level": 40,
+      "move": "Stone Edge"
+    },
+    {
+      "level": 43,
+      "move": "Lock-On"
+    },
+    {
+      "level": 43,
+      "move": "Zap Cannon"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Block"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Block"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Block"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Golem",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Onix",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Endure"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Endure"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Golem",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Golem",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Onix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Wide Guard"
+    }
+  ]
+}

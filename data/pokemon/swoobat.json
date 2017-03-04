@@ -1,0 +1,721 @@
+{
+  "names": {
+    "fr": "Rhinolove",
+    "de": "Fletiamo",
+    "it": "Swoobat",
+    "en": "Swoobat"
+  },
+  "national_id": 528,
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Unaware"
+    },
+    {
+      "name": "Simple",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Field",
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "23.1 lbs.",
+  "weight_eu": "10.5 kg",
+  "base_exp_yield": 149,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "sp_atk": 77,
+    "sp_def": 55,
+    "speed": 114
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Confusion"
+    },
+    {
+      "level": 0,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Assurance"
+    },
+    {
+      "level": 4,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 8,
+      "move": "Gust"
+    },
+    {
+      "level": 12,
+      "move": "Assurance"
+    },
+    {
+      "level": 15,
+      "move": "Heart Stamp"
+    },
+    {
+      "level": 19,
+      "move": "Imprison"
+    },
+    {
+      "level": 21,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 25,
+      "move": "Attract"
+    },
+    {
+      "level": 29,
+      "move": "Amnesia"
+    },
+    {
+      "level": 29,
+      "move": "Calm Mind"
+    },
+    {
+      "level": 32,
+      "move": "Air Slash"
+    },
+    {
+      "level": 36,
+      "move": "Future Sight"
+    },
+    {
+      "level": 41,
+      "move": "Psychic"
+    },
+    {
+      "level": 47,
+      "move": "Endeavor"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Persian",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Charm"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Flatter"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Flatter"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Furret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Natu",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Munna",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Aerodactyl",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Munna",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Synchronoise"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Natu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Venom Drench"
+    }
+  ]
+}

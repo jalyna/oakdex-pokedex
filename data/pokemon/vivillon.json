@@ -1,0 +1,340 @@
+{
+  "names": {
+    "fr": "Prismillon",
+    "de": "Vivillon",
+    "it": "Vivillon",
+    "en": "Vivillon"
+  },
+  "national_id": 666,
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "37.5 lbs.",
+  "weight_eu": "17.0 kg",
+  "base_exp_yield": 185,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "sp_atk": 90,
+    "sp_def": 50,
+    "speed": 89
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 0,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Light Screen"
+    },
+    {
+      "level": 0,
+      "move": "Powder"
+    },
+    {
+      "level": 0,
+      "move": "Sleep Powder"
+    },
+    {
+      "level": 12,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 17,
+      "move": "Psybeam"
+    },
+    {
+      "level": 21,
+      "move": "Supersonic"
+    },
+    {
+      "level": 25,
+      "move": "Draining Kiss"
+    },
+    {
+      "level": 31,
+      "move": "Aromatherapy"
+    },
+    {
+      "level": 35,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 41,
+      "move": "Safeguard"
+    },
+    {
+      "level": 45,
+      "move": "Quiver Dance"
+    },
+    {
+      "level": 50,
+      "move": "Hurricane"
+    },
+    {
+      "level": 55,
+      "move": "Powder"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Paras",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Stun Spore"
+    }
+  ]
+}

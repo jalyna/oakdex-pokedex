@@ -1,0 +1,552 @@
+{
+  "names": {
+    "fr": "Trompignon",
+    "de": "Tarnpignon",
+    "it": "Foongus",
+    "en": "Foongus"
+  },
+  "national_id": 590,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 59,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "sp_atk": 55,
+    "sp_def": 55,
+    "speed": 15
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Absorb"
+    },
+    {
+      "level": 6,
+      "move": "Growth"
+    },
+    {
+      "level": 8,
+      "move": "Astonish"
+    },
+    {
+      "level": 12,
+      "move": "Bide"
+    },
+    {
+      "level": 15,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 18,
+      "move": "Ingrain"
+    },
+    {
+      "level": 20,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 24,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 28,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 32,
+      "move": "Toxic"
+    },
+    {
+      "level": 35,
+      "move": "Synthesis"
+    },
+    {
+      "level": 39,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 43,
+      "move": "Solar Beam"
+    },
+    {
+      "level": 45,
+      "move": "Rage Powder"
+    },
+    {
+      "level": 50,
+      "move": "Spore"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Endure"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Gastro Acid"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Gastro Acid"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Gastro Acid"
+    },
+    {
+      "parent": "Servine",
+      "move": "Gastro Acid"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Gastro Acid"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Growth"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Growth"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Growth"
+    },
+    {
+      "parent": "Paras",
+      "move": "Growth"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Growth"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Growth"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Growth"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Growth"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Growth"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Growth"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Growth"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Growth"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Growth"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Growth"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Growth"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Growth"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Growth"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Growth"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Growth"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Growth"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Growth"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Growth"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Growth"
+    },
+    {
+      "parent": "Servine",
+      "move": "Growth"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Growth"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Growth"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Growth"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Growth"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Growth"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Growth"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Growth"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Growth"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Paras",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Stun Spore"
+    }
+  ]
+}

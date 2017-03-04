@@ -1,0 +1,667 @@
+{
+  "names": {
+    "fr": "Galopa",
+    "de": "Gallopa",
+    "it": "Rapidash",
+    "en": "Rapidash"
+  },
+  "national_id": 78,
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "Run Away"
+    },
+    {
+      "name": "Flame Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "5'07\"",
+  "height_eu": "1.7 m",
+  "weight_us": "209.4 lbs.",
+  "weight_eu": "95.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 105
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 0,
+      "move": "Megahorn"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 4,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 9,
+      "move": "Ember"
+    },
+    {
+      "level": 13,
+      "move": "Flame Wheel"
+    },
+    {
+      "level": 17,
+      "move": "Stomp"
+    },
+    {
+      "level": 21,
+      "move": "Flame Charge"
+    },
+    {
+      "level": 25,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 29,
+      "move": "Take Down"
+    },
+    {
+      "level": 33,
+      "move": "Inferno"
+    },
+    {
+      "level": 37,
+      "move": "Agility"
+    },
+    {
+      "level": 40,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 41,
+      "move": "Fire Blast"
+    },
+    {
+      "level": 45,
+      "move": "Bounce"
+    },
+    {
+      "level": 49,
+      "move": "Flare Blitz"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Ally Switch"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Persian",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Charm"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Numel",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Skiddo",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Gogoat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Combusken",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Blaziken",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Ponyta",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Rapidash",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Flame Wheel"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Excadrill",
+      "move": "Horn Drill"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Munna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Morning Sun"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Blitzle",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Zebstrika",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Bouffalant",
+      "move": "Thrash"
+    }
+  ]
+}

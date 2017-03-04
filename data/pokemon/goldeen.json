@@ -1,0 +1,355 @@
+{
+  "names": {
+    "fr": "Poissirène",
+    "de": "Goldini",
+    "it": "Goldeen",
+    "en": "Goldeen"
+  },
+  "national_id": 118,
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Lightning Rod",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 225,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2′00″",
+  "height_eu": "0.6 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "sp_atk": 35,
+    "sp_def": 50,
+    "speed": 63
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Peck"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Water Sport"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 8,
+      "move": "Horn Attack"
+    },
+    {
+      "level": 13,
+      "move": "Flail"
+    },
+    {
+      "level": 16,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 21,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 24,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 29,
+      "move": "Agility"
+    },
+    {
+      "level": 32,
+      "move": "Waterfall"
+    },
+    {
+      "level": 37,
+      "move": "Horn Drill"
+    },
+    {
+      "level": 40,
+      "move": "Soak"
+    },
+    {
+      "level": 45,
+      "move": "Megahorn"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Aqua Tail"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Aqua Tail"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Aqua Tail"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Aqua Tail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Aqua Tail"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Haze"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Sleep Talk"
+    }
+  ]
+}

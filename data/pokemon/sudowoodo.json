@@ -1,0 +1,479 @@
+{
+  "names": {
+    "fr": "Simularbre",
+    "de": "Mogelbaum",
+    "it": "Sudowoodo",
+    "en": "Sudowoodo"
+  },
+  "national_id": 185,
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Rattled",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 65,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "83.8 lbs.",
+  "weight_eu": "38.0 kg",
+  "base_exp_yield": 144,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "sp_atk": 30,
+    "sp_def": 65,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Wood Hammer"
+    },
+    {
+      "level": 0,
+      "move": "Copycat"
+    },
+    {
+      "level": 0,
+      "move": "Flail"
+    },
+    {
+      "level": 0,
+      "move": "Low Kick"
+    },
+    {
+      "level": 0,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 5,
+      "move": "Flail"
+    },
+    {
+      "level": 8,
+      "move": "Low Kick"
+    },
+    {
+      "level": 12,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 15,
+      "move": "Mimic"
+    },
+    {
+      "level": 15,
+      "move": "Slam"
+    },
+    {
+      "level": 19,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 22,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 26,
+      "move": "Block"
+    },
+    {
+      "level": 29,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 33,
+      "move": "Counter"
+    },
+    {
+      "level": 36,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 40,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 43,
+      "move": "Stone Edge"
+    },
+    {
+      "level": 47,
+      "move": "Hammer Arm"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Onix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Golem",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Endure"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Endure"
+    },
+    {
+      "parent": "Onix",
+      "move": "Harden"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Harden"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Harden"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Harden"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanillite",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanillish",
+      "move": "Harden"
+    },
+    {
+      "parent": "Vanilluxe",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Harden"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Onix",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Golem",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Golem",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Onix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Stealth Rock"
+    }
+  ]
+}

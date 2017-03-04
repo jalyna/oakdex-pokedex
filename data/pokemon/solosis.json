@@ -1,0 +1,619 @@
+{
+  "names": {
+    "fr": "Nucléos",
+    "de": "Monozyto",
+    "it": "Solosis",
+    "en": "Solosis"
+  },
+  "national_id": 577,
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Overcoat"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 40,
+    "sp_atk": 105,
+    "sp_def": 50,
+    "speed": 20
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Psywave"
+    },
+    {
+      "level": 3,
+      "move": "Reflect"
+    },
+    {
+      "level": 7,
+      "move": "Rollout"
+    },
+    {
+      "level": 10,
+      "move": "Snatch"
+    },
+    {
+      "level": 14,
+      "move": "Hidden Power"
+    },
+    {
+      "level": 16,
+      "move": "Light Screen"
+    },
+    {
+      "level": 19,
+      "move": "Charm"
+    },
+    {
+      "level": 24,
+      "move": "Recover"
+    },
+    {
+      "level": 25,
+      "move": "Psyshock"
+    },
+    {
+      "level": 28,
+      "move": "Endeavor"
+    },
+    {
+      "level": 31,
+      "move": "Future Sight"
+    },
+    {
+      "level": 33,
+      "move": "Pain Split"
+    },
+    {
+      "level": 37,
+      "move": "Psychic"
+    },
+    {
+      "level": 40,
+      "move": "Skill Swap"
+    },
+    {
+      "level": 46,
+      "move": "Heal Block"
+    },
+    {
+      "level": 48,
+      "move": "Wonder Room"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Muk",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Banette",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Frillish",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Jellicent",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Night Shade"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Muk",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Castform",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Banette",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Trick"
+    },
+    {
+      "parent": "Banette",
+      "move": "Trick"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Trick"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Trick"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "names": {
+    "fr": "Écrapince",
+    "de": "Krebscorps",
+    "it": "Corphish",
+    "en": "Corphish"
+  },
+  "national_id": 341,
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "Hyper Cutter"
+    },
+    {
+      "name": "Adaptability",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 205,
+  "egg_groups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "25.4 lbs.",
+  "weight_eu": "11.5 kg",
+  "base_exp_yield": 62,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "sp_atk": 50,
+    "sp_def": 35,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 5,
+      "move": "Harden"
+    },
+    {
+      "level": 7,
+      "move": "Vice Grip"
+    },
+    {
+      "level": 10,
+      "move": "Leer"
+    },
+    {
+      "level": 14,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 17,
+      "move": "Protect"
+    },
+    {
+      "level": 20,
+      "move": "Double Hit"
+    },
+    {
+      "level": 23,
+      "move": "Knock Off"
+    },
+    {
+      "level": 26,
+      "move": "Night Slash"
+    },
+    {
+      "level": 31,
+      "move": "Razor Shell"
+    },
+    {
+      "level": 34,
+      "move": "Taunt"
+    },
+    {
+      "level": 37,
+      "move": "Swords Dance"
+    },
+    {
+      "level": 39,
+      "move": "Crunch"
+    },
+    {
+      "level": 43,
+      "move": "Crabhammer"
+    },
+    {
+      "level": 48,
+      "move": "Guillotine"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Anorith",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Archen",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Binacle",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Barbaracle",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Politoed",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Marill",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Archen",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Anorith",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Anorith",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Armaldo",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Marill",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Superpower"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Trump Card"
+    }
+  ]
+}

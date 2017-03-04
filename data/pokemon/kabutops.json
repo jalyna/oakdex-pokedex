@@ -1,0 +1,697 @@
+{
+  "names": {
+    "fr": "Kabutops",
+    "de": "Kabutops",
+    "it": "Kabutops",
+    "en": "Kabutops"
+  },
+  "national_id": 141,
+  "types": [
+    "rock",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Weak Armor",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "89.3 lbs.",
+  "weight_eu": "40.5 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "sp_atk": 65,
+    "sp_def": 70,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Night Slash"
+    },
+    {
+      "level": 0,
+      "move": "Feint"
+    },
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Absorb"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 6,
+      "move": "Absorb"
+    },
+    {
+      "level": 11,
+      "move": "Leer"
+    },
+    {
+      "level": 16,
+      "move": "Mud Shot"
+    },
+    {
+      "level": 21,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 26,
+      "move": "Endure"
+    },
+    {
+      "level": 31,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 36,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 40,
+      "move": "Slash"
+    },
+    {
+      "level": 45,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 54,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 63,
+      "move": "Wring Out"
+    },
+    {
+      "level": 72,
+      "move": "Night Slash"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Shellder",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Cloyster",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Politoed",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Marill",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Lileep",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Cradily",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Flail"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Flail"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Flail"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feebas",
+      "move": "Flail"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Flail"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Flail"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Seel",
+      "move": "Icy Wind"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Icy Wind"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Screech"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tentacool",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tentacruel",
+      "move": "Screech"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Screech"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Screech"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Screech"
+    },
+    {
+      "parent": "Seel",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Take Down"
+    }
+  ]
+}

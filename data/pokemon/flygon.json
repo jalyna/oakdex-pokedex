@@ -1,0 +1,620 @@
+{
+  "names": {
+    "fr": "Libégon",
+    "de": "Libelldra",
+    "it": "Flygon",
+    "en": "Flygon"
+  },
+  "national_id": 330,
+  "types": [
+    "ground",
+    "dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "180.8 lbs.",
+  "weight_eu": "82.0 kg",
+  "base_exp_yield": 234,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 100
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 0,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 0,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 0,
+      "move": "Sand Tomb"
+    },
+    {
+      "level": 0,
+      "move": "Bide"
+    },
+    {
+      "level": 5,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 8,
+      "move": "Bulldoze"
+    },
+    {
+      "level": 12,
+      "move": "Sand Tomb"
+    },
+    {
+      "level": 15,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 19,
+      "move": "Supersonic"
+    },
+    {
+      "level": 22,
+      "move": "Screech"
+    },
+    {
+      "level": 26,
+      "move": "Earth Power"
+    },
+    {
+      "level": 29,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 33,
+      "move": "Earthquake"
+    },
+    {
+      "level": 35,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 36,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 40,
+      "move": "Uproar"
+    },
+    {
+      "level": 43,
+      "move": "Hyper Beam"
+    },
+    {
+      "level": 45,
+      "move": "Dragon Claw"
+    },
+    {
+      "level": 47,
+      "move": "Dragon Rush"
+    },
+    {
+      "level": 0,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 0,
+      "move": "Feint Attack"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Caterpie",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Weedle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Wurmple",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Burmy",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Combee",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Durant",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scatterbug",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Durant",
+      "move": "Fury Cutter"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Gust"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Gust"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Gust"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Gust"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Gust"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Gust"
+    },
+    {
+      "parent": "Combee",
+      "move": "Gust"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Gust"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    }
+  ]
+}

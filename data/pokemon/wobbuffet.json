@@ -1,0 +1,79 @@
+{
+  "names": {
+    "fr": "Qulbutoké",
+    "de": "Woingenau",
+    "it": "Wobbuffet",
+    "en": "Wobbuffet"
+  },
+  "national_id": 202,
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Shadow Tag"
+    },
+    {
+      "name": "Telepathy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "62.8 lbs.",
+  "weight_eu": "28.5 kg",
+  "base_exp_yield": 142,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "sp_atk": 33,
+    "sp_def": 58,
+    "speed": 33
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Counter"
+    },
+    {
+      "level": 0,
+      "move": "Mirror Coat"
+    },
+    {
+      "level": 0,
+      "move": "Safeguard"
+    },
+    {
+      "level": 0,
+      "move": "Destiny Bond"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    }
+  ]
+}

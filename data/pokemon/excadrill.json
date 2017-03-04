@@ -1,0 +1,368 @@
+{
+  "names": {
+    "fr": "Minotaupe",
+    "de": "Stalobor",
+    "it": "Excadrill",
+    "en": "Excadrill"
+  },
+  "national_id": 530,
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Rush"
+    },
+    {
+      "name": "Mold Breaker",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "89.1 lbs.",
+  "weight_eu": "40.4 kg",
+  "base_exp_yield": 178,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "sp_atk": 50,
+    "sp_def": 65,
+    "speed": 88
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Rototiller"
+    },
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Mud Sport"
+    },
+    {
+      "level": 0,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 0,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 5,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 8,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 12,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 15,
+      "move": "Metal Claw"
+    },
+    {
+      "level": 19,
+      "move": "Dig"
+    },
+    {
+      "level": 22,
+      "move": "Hone Claws"
+    },
+    {
+      "level": 26,
+      "move": "Slash"
+    },
+    {
+      "level": 29,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 31,
+      "move": "Horn Drill"
+    },
+    {
+      "level": 36,
+      "move": "Earthquake"
+    },
+    {
+      "level": 42,
+      "move": "Swords Dance"
+    },
+    {
+      "level": 49,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 55,
+      "move": "Drill Run"
+    },
+    {
+      "level": 62,
+      "move": "Fissure"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Numel",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Metal Sound"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Drilbur",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Excadrill",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Skull Bash"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Submission"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "names": {
+    "fr": "Miasmax",
+    "de": "Deponitox",
+    "it": "Garbodor",
+    "en": "Garbodor"
+  },
+  "national_id": 569,
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    {
+      "name": "Stench"
+    },
+    {
+      "name": "Aftermath",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "6'03\"",
+  "height_eu": "1.9 m",
+  "weight_us": "236.6 lbs.",
+  "weight_eu": "107.3 kg",
+  "base_exp_yield": 166,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "sp_atk": 60,
+    "sp_def": 82,
+    "speed": 75
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 0,
+      "move": "Recycle"
+    },
+    {
+      "level": 0,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 3,
+      "move": "Recycle"
+    },
+    {
+      "level": 7,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 12,
+      "move": "Acid Spray"
+    },
+    {
+      "level": 14,
+      "move": "Double Slap"
+    },
+    {
+      "level": 18,
+      "move": "Sludge"
+    },
+    {
+      "level": 23,
+      "move": "Stockpile"
+    },
+    {
+      "level": 23,
+      "move": "Swallow"
+    },
+    {
+      "level": 25,
+      "move": "Body Slam"
+    },
+    {
+      "level": 29,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 34,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 39,
+      "move": "Toxic"
+    },
+    {
+      "level": 46,
+      "move": "Amnesia"
+    },
+    {
+      "level": 49,
+      "move": "Belch"
+    },
+    {
+      "level": 54,
+      "move": "Gunk Shot"
+    },
+    {
+      "level": 59,
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Onix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Golem",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Onix",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Sand-Attack"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Sand-Attack"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Sand-Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Sand-Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Sand-Attack"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Golem",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Klefki",
+      "move": "Spikes"
+    }
+  ]
+}

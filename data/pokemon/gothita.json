@@ -1,0 +1,503 @@
+{
+  "names": {
+    "fr": "Scrutella",
+    "de": "Mollimorba",
+    "it": "Gothita",
+    "en": "Gothita"
+  },
+  "national_id": 574,
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Frisk"
+    },
+    {
+      "name": "Shadow Tag",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "12.8 lbs.",
+  "weight_eu": "5.8 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "sp_atk": 55,
+    "sp_def": 65,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 3,
+      "move": "Confusion"
+    },
+    {
+      "level": 7,
+      "move": "Tickle"
+    },
+    {
+      "level": 8,
+      "move": "Play Nice"
+    },
+    {
+      "level": 10,
+      "move": "Fake Tears"
+    },
+    {
+      "level": 14,
+      "move": "Double Slap"
+    },
+    {
+      "level": 16,
+      "move": "Psybeam"
+    },
+    {
+      "level": 19,
+      "move": "Embargo"
+    },
+    {
+      "level": 24,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 25,
+      "move": "Psyshock"
+    },
+    {
+      "level": 28,
+      "move": "Flatter"
+    },
+    {
+      "level": 31,
+      "move": "Future Sight"
+    },
+    {
+      "level": 33,
+      "move": "Heal Block"
+    },
+    {
+      "level": 37,
+      "move": "Psychic"
+    },
+    {
+      "level": 40,
+      "move": "Telekinesis"
+    },
+    {
+      "level": 46,
+      "move": "Charm"
+    },
+    {
+      "level": 48,
+      "move": "Magic Room"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Abra",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Machop",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Elgyem",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Beheeyem",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Pawniard",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Bisharp",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Pancham",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Pangoro",
+      "move": "Dark Pulse"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Mean Look"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Miracle Eye"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Miracle Eye"
+    },
+    {
+      "parent": "Elgyem",
+      "move": "Miracle Eye"
+    },
+    {
+      "parent": "Beheeyem",
+      "move": "Miracle Eye"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Uproar"
+    }
+  ]
+}

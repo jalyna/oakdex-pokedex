@@ -1,0 +1,368 @@
+{
+  "names": {
+    "fr": "Pyronille",
+    "de": "Ignivor",
+    "it": "Larvesta",
+    "en": "Larvesta"
+  },
+  "national_id": 636,
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "abilities": [
+    {
+      "name": "Flame Body"
+    },
+    {
+      "name": "Swarm",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
+  "weight_us": "63.5 lbs.",
+  "weight_eu": "28.8 kg",
+  "base_exp_yield": 72,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 55,
+    "attack": 85,
+    "defense": 55,
+    "sp_atk": 50,
+    "sp_def": 55,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 10,
+      "move": "Leech Life"
+    },
+    {
+      "level": 20,
+      "move": "Take Down"
+    },
+    {
+      "level": 30,
+      "move": "Flame Charge"
+    },
+    {
+      "level": 40,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 50,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 60,
+      "move": "Flame Wheel"
+    },
+    {
+      "level": 70,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 80,
+      "move": "Amnesia"
+    },
+    {
+      "level": 90,
+      "move": "Thrash"
+    },
+    {
+      "level": 100,
+      "move": "Flare Blitz"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Metapod",
+      "move": "Harden"
+    },
+    {
+      "parent": "Kakuna",
+      "move": "Harden"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Harden"
+    },
+    {
+      "parent": "Silcoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Cascoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Harden"
+    },
+    {
+      "parent": "Spewpa",
+      "move": "Harden"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Magnet Rise"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Morning Sun"
+    },
+    {
+      "parent": "Caterpie",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Weedle",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Ariados",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Wurmple",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Joltik",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Scatterbug",
+      "move": "String Shot"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "names": {
+    "fr": "Tygnon",
+    "de": "Nockchan",
+    "it": "Hitmonchan",
+    "en": "Hitmonchan"
+  },
+  "national_id": 107,
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Inner Focus",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 100.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "4'07\"",
+  "height_eu": "1.4 m",
+  "weight_us": "110.7 lbs.",
+  "weight_eu": "50.2 kg",
+  "base_exp_yield": 159,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "sp_atk": 35,
+    "sp_def": 110,
+    "speed": 76
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Close Combat"
+    },
+    {
+      "level": 0,
+      "move": "Counter"
+    },
+    {
+      "level": 0,
+      "move": "Focus Punch"
+    },
+    {
+      "level": 0,
+      "move": "Revenge"
+    },
+    {
+      "level": 0,
+      "move": "Comet Punch"
+    },
+    {
+      "level": 6,
+      "move": "Agility"
+    },
+    {
+      "level": 11,
+      "move": "Pursuit"
+    },
+    {
+      "level": 16,
+      "move": "Mach Punch"
+    },
+    {
+      "level": 16,
+      "move": "Bullet Punch"
+    },
+    {
+      "level": 21,
+      "move": "Feint"
+    },
+    {
+      "level": 26,
+      "move": "Vacuum Wave"
+    },
+    {
+      "level": 31,
+      "move": "Quick Guard"
+    },
+    {
+      "level": 36,
+      "move": "Thunder Punch"
+    },
+    {
+      "level": 36,
+      "move": "Ice Punch"
+    },
+    {
+      "level": 36,
+      "move": "Fire Punch"
+    },
+    {
+      "level": 41,
+      "move": "Sky Uppercut"
+    },
+    {
+      "level": 46,
+      "move": "Mega Punch"
+    },
+    {
+      "level": 50,
+      "move": "Detect"
+    },
+    {
+      "level": 56,
+      "move": "Focus Punch"
+    },
+    {
+      "level": 61,
+      "move": "Counter"
+    },
+    {
+      "level": 66,
+      "move": "Close Combat"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Bullet Punch"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Counter"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Counter"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Endure"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "High Jump Kick"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Mach Punch"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Rapid Spin"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Vacuum Wave"
+    }
+  ]
+}

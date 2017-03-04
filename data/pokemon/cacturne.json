@@ -1,0 +1,589 @@
+{
+  "names": {
+    "fr": "Cacturne",
+    "de": "Noktuska",
+    "it": "Cacturne",
+    "en": "Cacturne"
+  },
+  "national_id": 332,
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil"
+    },
+    {
+      "name": "Water Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Grass",
+    "Human-Like"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "170.6 lbs.",
+  "weight_eu": "77.4 kg",
+  "base_exp_yield": 166,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "sp_atk": 115,
+    "sp_def": 60,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 0,
+      "move": "Revenge"
+    },
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Absorb"
+    },
+    {
+      "level": 0,
+      "move": "Growth"
+    },
+    {
+      "level": 4,
+      "move": "Absorb"
+    },
+    {
+      "level": 7,
+      "move": "Growth"
+    },
+    {
+      "level": 10,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 13,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 16,
+      "move": "Needle Arm"
+    },
+    {
+      "level": 19,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 22,
+      "move": "Ingrain"
+    },
+    {
+      "level": 26,
+      "move": "Payback"
+    },
+    {
+      "level": 30,
+      "move": "Spikes"
+    },
+    {
+      "level": 32,
+      "move": "Spiky Shield"
+    },
+    {
+      "level": 35,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 38,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 44,
+      "move": "Energy Ball"
+    },
+    {
+      "level": 49,
+      "move": "Cotton Spore"
+    },
+    {
+      "level": 54,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 59,
+      "move": "Destiny Bond"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Acid"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Acid"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Acid"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Acid"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Acid"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Acid"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Acid"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Belch"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Belch"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Block"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Counter"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Counter"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Counter"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Counter"
+    },
+    {
+      "parent": "Sawk",
+      "move": "Counter"
+    },
+    {
+      "parent": "Kadabra",
+      "move": "Disable"
+    },
+    {
+      "parent": "Alakazam",
+      "move": "Disable"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Disable"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Disable"
+    },
+    {
+      "parent": "Machop",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Paras",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Machop",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Electabuzz",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Electivire",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Low Kick"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Drowzee",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Hypno",
+      "move": "Switcheroo"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Teeter Dance"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Worry Seed"
+    }
+  ]
+}

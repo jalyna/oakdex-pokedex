@@ -1,0 +1,544 @@
+{
+  "names": {
+    "fr": "Étourvol",
+    "de": "Staravia",
+    "it": "Staravia",
+    "en": "Staravia"
+  },
+  "national_id": 397,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Intimidate"
+    },
+    {
+      "name": "Reckless",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "34.2 lbs.",
+  "weight_eu": "15.5 kg",
+  "base_exp_yield": 119,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 50,
+    "sp_atk": 40,
+    "sp_def": 40,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 5,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 9,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 13,
+      "move": "Double Team"
+    },
+    {
+      "level": 18,
+      "move": "Endeavor"
+    },
+    {
+      "level": 23,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 28,
+      "move": "Aerial Ace"
+    },
+    {
+      "level": 33,
+      "move": "Take Down"
+    },
+    {
+      "level": 38,
+      "move": "Agility"
+    },
+    {
+      "level": 43,
+      "move": "Brave Bird"
+    },
+    {
+      "level": 48,
+      "move": "Final Gambit"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Detect"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Detect"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Detect"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Fury Attack"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Sand Attack"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Uproar"
+    }
+  ]
+}

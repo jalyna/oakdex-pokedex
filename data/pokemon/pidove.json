@@ -1,0 +1,288 @@
+{
+  "names": {
+    "fr": "Poichigeon",
+    "de": "Dusselgurr",
+    "it": "Pidove",
+    "en": "Pidove"
+  },
+  "national_id": 519,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Big Pecks"
+    },
+    {
+      "name": "Rivalry",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "4.6 lbs.",
+  "weight_eu": "2.1 kg",
+  "base_exp_yield": 53,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "sp_atk": 36,
+    "sp_def": 30,
+    "speed": 43
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 4,
+      "move": "Growl"
+    },
+    {
+      "level": 8,
+      "move": "Leer"
+    },
+    {
+      "level": 11,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 15,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 18,
+      "move": "Roost"
+    },
+    {
+      "level": 22,
+      "move": "Detect"
+    },
+    {
+      "level": 25,
+      "move": "Taunt"
+    },
+    {
+      "level": 29,
+      "move": "Air Slash"
+    },
+    {
+      "level": 32,
+      "move": "Razor Wind"
+    },
+    {
+      "level": 36,
+      "move": "Feather Dance"
+    },
+    {
+      "level": 39,
+      "move": "Swagger"
+    },
+    {
+      "level": 43,
+      "move": "Facade"
+    },
+    {
+      "level": 46,
+      "move": "Tailwind"
+    },
+    {
+      "level": 50,
+      "move": "Sky Attack"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Natu",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Morning Sun"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Natu",
+      "move": "Wish"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Wish"
+    }
+  ]
+}

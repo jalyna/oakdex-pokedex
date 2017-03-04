@@ -1,0 +1,464 @@
+{
+  "names": {
+    "fr": "Loupio",
+    "de": "Lampi",
+    "it": "Chinchou",
+    "en": "Chinchou"
+  },
+  "national_id": 170,
+  "types": [
+    "water",
+    "electric"
+  ],
+  "abilities": [
+    {
+      "name": "Volt Absorb"
+    },
+    {
+      "name": "Water Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "26.5 lbs.",
+  "weight_eu": "12.0 kg",
+  "base_exp_yield": 66,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "sp_atk": 56,
+    "sp_def": 56,
+    "speed": 67
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 6,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 9,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 12,
+      "move": "Water Gun"
+    },
+    {
+      "level": 17,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 20,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 23,
+      "move": "Spark"
+    },
+    {
+      "level": 28,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 31,
+      "move": "Flail"
+    },
+    {
+      "level": 34,
+      "move": "Discharge"
+    },
+    {
+      "level": 39,
+      "move": "Take Down"
+    },
+    {
+      "level": 42,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 45,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 47,
+      "move": "Ion Deluge"
+    },
+    {
+      "level": 50,
+      "move": "Charge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Agility"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Agility"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Agility"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Agility"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Mist"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Screech"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Soak"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Soak"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Soak"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Soak"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Soak"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Soak"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Soak"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Whirlpool"
+    }
+  ]
+}

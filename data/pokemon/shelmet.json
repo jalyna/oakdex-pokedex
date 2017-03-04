@@ -1,0 +1,367 @@
+{
+  "names": {
+    "fr": "Escargaume",
+    "de": "Schnuthelm",
+    "it": "Shelmet",
+    "en": "Shelmet"
+  },
+  "national_id": 616,
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "Hydration"
+    },
+    {
+      "name": "Overcoat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "17.0 lbs.",
+  "weight_eu": "7.7 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "sp_atk": 40,
+    "sp_def": 65,
+    "speed": 25
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Leech Life"
+    },
+    {
+      "level": 4,
+      "move": "Acid"
+    },
+    {
+      "level": 8,
+      "move": "Bide"
+    },
+    {
+      "level": 13,
+      "move": "Curse"
+    },
+    {
+      "level": 16,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 20,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 25,
+      "move": "Yawn"
+    },
+    {
+      "level": 28,
+      "move": "Protect"
+    },
+    {
+      "level": 32,
+      "move": "Acid Armor"
+    },
+    {
+      "level": 37,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 40,
+      "move": "Body Slam"
+    },
+    {
+      "level": 44,
+      "move": "Bug Buzz"
+    },
+    {
+      "level": 49,
+      "move": "Recover"
+    },
+    {
+      "level": 50,
+      "move": "Guard Swap"
+    },
+    {
+      "level": 56,
+      "move": "Final Gambit"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Encore"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Feint"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Feint"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Feint"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Feint"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Guard Split"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Mud-Slap"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Spikes"
+    }
+  ]
+}

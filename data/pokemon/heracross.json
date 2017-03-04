@@ -1,0 +1,528 @@
+{
+  "names": {
+    "fr": "Scarhino",
+    "de": "Skaraborn",
+    "it": "Heracross",
+    "en": "Heracross"
+  },
+  "national_id": 214,
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Moxie",
+      "hidden": true
+    },
+    {
+      "name": "Skill Link",
+      "mega": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "4'11\"",
+  "height_eu": "1.5 m",
+  "weight_us": "119.0 lbs.",
+  "weight_eu": "54.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "sp_atk": 40,
+    "sp_def": 95,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Arm Thrust"
+    },
+    {
+      "level": 0,
+      "move": "Bullet Seed"
+    },
+    {
+      "level": 0,
+      "move": "Night Slash"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Horn Attack"
+    },
+    {
+      "level": 0,
+      "move": "Endure"
+    },
+    {
+      "level": 7,
+      "move": "Feint"
+    },
+    {
+      "level": 10,
+      "move": "Aerial Ace"
+    },
+    {
+      "level": 16,
+      "move": "Chip Away"
+    },
+    {
+      "level": 19,
+      "move": "Counter"
+    },
+    {
+      "level": 25,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 28,
+      "move": "Brick Break"
+    },
+    {
+      "level": 31,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 34,
+      "move": "Take Down"
+    },
+    {
+      "level": 37,
+      "move": "Megahorn"
+    },
+    {
+      "level": 43,
+      "move": "Close Combat"
+    },
+    {
+      "level": 46,
+      "move": "Reversal"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bide"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bide"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Bide"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bide"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Bide"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Bide"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Bide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Metapod",
+      "move": "Harden"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Harden"
+    },
+    {
+      "parent": "Kakuna",
+      "move": "Harden"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Harden"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Harden"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Harden"
+    },
+    {
+      "parent": "Silcoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Harden"
+    },
+    {
+      "parent": "Cascoon",
+      "move": "Harden"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Harden"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Harden"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Harden"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Seismic Toss"
+    }
+  ]
+}

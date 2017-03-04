@@ -1,0 +1,484 @@
+{
+  "names": {
+    "fr": "Grodrive",
+    "de": "Drifzepeli",
+    "it": "Drifblim",
+    "en": "Drifblim"
+  },
+  "national_id": 426,
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "abilities": [
+    {
+      "name": "Aftermath"
+    },
+    {
+      "name": "Flare Boost",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "base_exp_yield": 174,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "sp_atk": 90,
+    "sp_def": 54,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Phantom Force"
+    },
+    {
+      "level": 0,
+      "move": "Constrict"
+    },
+    {
+      "level": 0,
+      "move": "Minimize"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 4,
+      "move": "Astonish"
+    },
+    {
+      "level": 8,
+      "move": "Gust"
+    },
+    {
+      "level": 13,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 16,
+      "move": "Payback"
+    },
+    {
+      "level": 20,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 25,
+      "move": "Stockpile"
+    },
+    {
+      "level": 27,
+      "move": "Hex"
+    },
+    {
+      "level": 34,
+      "move": "Swallow"
+    },
+    {
+      "level": 34,
+      "move": "Spit Up"
+    },
+    {
+      "level": 40,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 46,
+      "move": "Amnesia"
+    },
+    {
+      "level": 52,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 60,
+      "move": "Explosion"
+    },
+    {
+      "level": 65,
+      "move": "Phantom Force"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Telekinesis"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Defog"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Defog"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Memento"
+    },
+    {
+      "parent": "Muk",
+      "move": "Memento"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Memento"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Memento"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Memento"
+    },
+    {
+      "parent": "Castform",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Castform",
+      "move": "Weather Ball"
+    }
+  ]
+}

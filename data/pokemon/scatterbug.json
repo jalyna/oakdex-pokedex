@@ -1,0 +1,151 @@
+{
+  "names": {
+    "fr": "Lépidonille",
+    "de": "Purmel",
+    "it": "Scatterbug",
+    "en": "Scatterbug"
+  },
+  "national_id": 664,
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shield Dust"
+    },
+    {
+      "name": "Friend Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "5.5 lbs.",
+  "weight_eu": "2.5 kg",
+  "base_exp_yield": 40,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 40,
+    "sp_atk": 27,
+    "sp_def": 25,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 6,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 15,
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Poison Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Paras",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Stun Spore"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Stun Spore"
+    }
+  ]
+}

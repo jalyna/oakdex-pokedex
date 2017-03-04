@@ -1,0 +1,777 @@
+{
+  "names": {
+    "fr": "Arakdo",
+    "de": "Gehweiher",
+    "it": "Surskit",
+    "en": "Surskit"
+  },
+  "national_id": 283,
+  "types": [
+    "bug",
+    "water"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Water 1",
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "3.7 lbs.",
+  "weight_eu": "1.7 kg",
+  "base_exp_yield": 54,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 32,
+    "sp_atk": 50,
+    "sp_def": 52,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Bubble"
+    },
+    {
+      "level": 6,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 9,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 14,
+      "move": "Water Sport"
+    },
+    {
+      "level": 17,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 22,
+      "move": "Agility"
+    },
+    {
+      "level": 25,
+      "move": "Mist"
+    },
+    {
+      "level": 25,
+      "move": "Haze"
+    },
+    {
+      "level": 30,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 35,
+      "move": "Baton Pass"
+    },
+    {
+      "level": 38,
+      "move": "Sticky Web"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Caterpie",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Weedle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Wurmple",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kricketot",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Burmy",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Combee",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Swadloon",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Durant",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Scatterbug",
+      "move": "Bug Bite"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Endure"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Leavanny",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Fell Stinger"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Marill",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Froakie",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Frogadier",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Power Split"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Inkay",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Malamar",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    }
+  ]
+}

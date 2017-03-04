@@ -1,0 +1,355 @@
+{
+  "names": {
+    "fr": "Sorbouboul",
+    "de": "Gelatwino",
+    "it": "Vanilluxe",
+    "en": "Vanilluxe"
+  },
+  "national_id": 584,
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    {
+      "name": "Ice Body"
+    },
+    {
+      "name": "Weak Armor",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "126.8 lbs.",
+  "weight_eu": "57.5 kg",
+  "base_exp_yield": 241,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "sp_atk": 110,
+    "sp_def": 95,
+    "speed": 79
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sheer Cold"
+    },
+    {
+      "level": 0,
+      "move": "Freeze-Dry"
+    },
+    {
+      "level": 0,
+      "move": "Weather Ball"
+    },
+    {
+      "level": 0,
+      "move": "Icicle Spear"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Uproar"
+    },
+    {
+      "level": 4,
+      "move": "Harden"
+    },
+    {
+      "level": 7,
+      "move": "Astonish"
+    },
+    {
+      "level": 10,
+      "move": "Uproar"
+    },
+    {
+      "level": 13,
+      "move": "Icy Wind"
+    },
+    {
+      "level": 16,
+      "move": "Mist"
+    },
+    {
+      "level": 19,
+      "move": "Avalanche"
+    },
+    {
+      "level": 22,
+      "move": "Taunt"
+    },
+    {
+      "level": 26,
+      "move": "Mirror Shot"
+    },
+    {
+      "level": 31,
+      "move": "Acid Armor"
+    },
+    {
+      "level": 36,
+      "move": "Ice Beam"
+    },
+    {
+      "level": 42,
+      "move": "Hail"
+    },
+    {
+      "level": 50,
+      "move": "Mirror Coat"
+    },
+    {
+      "level": 59,
+      "move": "Blizzard"
+    },
+    {
+      "level": 67,
+      "move": "Sheer Cold"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM79",
+      "move": "Frost Breath"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Autotomize"
+    },
+    {
+      "parent": "Honedge",
+      "move": "Autotomize"
+    },
+    {
+      "parent": "Doublade",
+      "move": "Autotomize"
+    },
+    {
+      "parent": "Aegislash",
+      "move": "Autotomize"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Ice Shard"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Honedge",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Doublade",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Aegislash",
+      "move": "Iron Defense"
+    },
+    {
+      "parent": "Klefki",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Magnet Rise"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Golem",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Onix",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Powder Snow"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Powder Snow"
+    },
+    {
+      "parent": "Snorunt",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Glalie",
+      "move": "Water Pulse"
+    }
+  ]
+}

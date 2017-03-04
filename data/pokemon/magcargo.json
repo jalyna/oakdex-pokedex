@@ -1,0 +1,504 @@
+{
+  "names": {
+    "fr": "Volcaropod",
+    "de": "Magcargo",
+    "it": "Magcargo",
+    "en": "Magcargo"
+  },
+  "national_id": 219,
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "abilities": [
+    {
+      "name": "Magma Armor"
+    },
+    {
+      "name": "Weak Armor",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "121.3 lbs.",
+  "weight_eu": "55.0 kg",
+  "base_exp_yield": 144,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 120,
+    "sp_atk": 80,
+    "sp_def": 80,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Earth Power"
+    },
+    {
+      "level": 0,
+      "move": "Yawn"
+    },
+    {
+      "level": 0,
+      "move": "Smog"
+    },
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 0,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 6,
+      "move": "Ember"
+    },
+    {
+      "level": 8,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 13,
+      "move": "Harden"
+    },
+    {
+      "level": 15,
+      "move": "Incinerate"
+    },
+    {
+      "level": 20,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 22,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 27,
+      "move": "Flame Burst"
+    },
+    {
+      "level": 29,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 34,
+      "move": "Lava Plume"
+    },
+    {
+      "level": 36,
+      "move": "Amnesia"
+    },
+    {
+      "level": 38,
+      "move": "Shell Smash"
+    },
+    {
+      "level": 43,
+      "move": "Body Slam"
+    },
+    {
+      "level": 47,
+      "move": "Recover"
+    },
+    {
+      "level": 54,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 58,
+      "move": "Earth Power"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Muk",
+      "move": "Acid Armor"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Castform",
+      "move": "Guard Swap"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Inferno"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Inferno"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Memento"
+    },
+    {
+      "parent": "Muk",
+      "move": "Memento"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Memento"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Memento"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Memento"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Memento"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smokescreen"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smokescreen"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Swallow"
+    }
+  ]
+}
