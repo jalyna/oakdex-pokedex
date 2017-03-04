@@ -884,7 +884,10 @@
   "evolutions": [
     {
       "to": "Weavile",
-      "condition": "Nighttime\t\t\t\t\t\t\t\t\t(holding Razor Claw)"
+      "hold_item": "Razor Claw",
+      "conditions": [
+        "Nighttime"
+      ]
     }
   ]
 }

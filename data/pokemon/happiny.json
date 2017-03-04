@@ -342,7 +342,10 @@
   "evolutions": [
     {
       "to": "Chansey",
-      "condition": "Daytime\t\t\t\t\t\t\t\t\t(holding Oval Stone)"
+      "hold_item": "Oval Stone",
+      "conditions": [
+        "Daytime"
+      ]
     }
   ]
 }

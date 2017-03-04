@@ -369,7 +369,9 @@
     {
       "to": "Aurorus",
       "level": 39,
-      "condition": "Nighttime"
+      "conditions": [
+        "Nighttime"
+      ]
     }
   ]
 }

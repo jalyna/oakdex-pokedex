@@ -1612,6 +1612,9 @@
           "trade": {
             "type": "boolean"
           },
+          "level_up": {
+            "type": "boolean"
+          },
           "item": {
             "type": "string",
             "enum": [
@@ -1644,11 +1647,44 @@
               "Electrizer",
               "Reaper Cloth",
               "Deepseatooth",
-              "Deepseascale"
+              "Deepseascale",
+              "Razor Fang",
+              "Oval Stone",
+              "Razor Claw"
             ]
           },
-          "condition": {
-            "type": "string"
+          "move_learned": {
+            "$ref": "#/definitions/move"
+          },
+          "conditions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "Female",
+                "Male",
+                "Attack > Defense",
+                "Attack = Defense",
+                "Defense > Attack",
+                "Nighttime",
+                "Daytime",
+                "Random",
+                "In Caves",
+                "In Buildings",
+                "Outside",
+                "Near a Mossy Rock",
+                "Near an Icy Rock",
+                "Fairy Type Move",
+                "Maximum Affection in Pokémon Amie",
+                "Beauty",
+                "Holding 3DS upside down",
+                "In a Magnetic Field area",
+                "With Remoraid in party",
+                "With empty spot in party",
+                "With a Dark type Pokémon in party",
+                "During rain"
+              ]
+            }
           }
         },
         "required": [

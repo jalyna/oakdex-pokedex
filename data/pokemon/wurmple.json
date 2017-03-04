@@ -76,12 +76,16 @@
     {
       "to": "Silcoon",
       "level": 7,
-      "condition": "Random, based on personality"
+      "conditions": [
+        "Random"
+      ]
     },
     {
       "to": "Cascoon",
       "level": 7,
-      "condition": "Random, based on personality"
+      "conditions": [
+        "Random"
+      ]
     }
   ]
 }

@@ -310,7 +310,9 @@
     {
       "to": "Malamar",
       "level": 30,
-      "condition": "holding 3DS upside down"
+      "conditions": [
+        "Holding 3DS upside down"
+      ]
     }
   ]
 }

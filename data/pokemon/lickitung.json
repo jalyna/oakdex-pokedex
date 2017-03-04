@@ -443,7 +443,7 @@
   "evolutions": [
     {
       "to": "Lickilicky",
-      "condition": "after Rollout learned"
+      "move_learned": "Rollout"
     }
   ]
 }

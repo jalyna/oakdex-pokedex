@@ -401,7 +401,9 @@
     {
       "to": "Pangoro",
       "level": 32,
-      "condition": "with a Dark type Pokémon in party"
+      "conditions": [
+        "With a Dark type Pokémon in party"
+      ]
     }
   ]
 }

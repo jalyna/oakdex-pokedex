@@ -573,7 +573,9 @@
     {
       "to": "Shedinja",
       "level": 20,
-      "condition": "with empty spot in party"
+      "conditions": [
+        "With empty spot in party"
+      ]
     }
   ]
 }

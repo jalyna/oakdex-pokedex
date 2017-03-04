@@ -725,7 +725,9 @@
     {
       "to": "Roselia",
       "happiness": true,
-      "condition": "Daytime"
+      "conditions": [
+        "Daytime"
+      ]
     }
   ]
 }

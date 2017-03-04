@@ -594,7 +594,9 @@
     {
       "to": "Gallade",
       "item": "Dawn Stone",
-      "condition": "Male"
+      "conditions": [
+        "Male"
+      ]
     }
   ]
 }

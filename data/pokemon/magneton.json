@@ -274,7 +274,10 @@
   "evolutions": [
     {
       "to": "Magnezone",
-      "condition": "in a Magnetic Field area"
+      "level_up": true,
+      "conditions": [
+        "In a Magnetic Field area"
+      ]
     }
   ]
 }

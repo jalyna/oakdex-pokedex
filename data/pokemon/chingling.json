@@ -444,7 +444,9 @@
     {
       "to": "Chimecho",
       "happiness": true,
-      "condition": "Nighttime"
+      "conditions": [
+        "Nighttime"
+      ]
     }
   ]
 }

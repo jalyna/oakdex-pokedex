@@ -588,7 +588,10 @@
   "evolutions": [
     {
       "to": "Gliscor",
-      "condition": "Nighttime\t\t\t\t\t\t\t\t\t(holding Razor Fang)"
+      "hold_item": "Razor Fang",
+      "conditions": [
+        "Nighttime"
+      ]
     }
   ]
 }

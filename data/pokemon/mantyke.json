@@ -680,7 +680,10 @@
   "evolutions": [
     {
       "to": "Mantine",
-      "condition": "with Remoraid in party"
+      "level_up": true,
+      "conditions": [
+        "With Remoraid in party"
+      ]
     }
   ]
 }

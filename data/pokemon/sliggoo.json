@@ -241,7 +241,9 @@
     {
       "to": "Goodra",
       "level": 55,
-      "condition": "during rain"
+      "conditions": [
+        "During rain"
+      ]
     }
   ]
 }

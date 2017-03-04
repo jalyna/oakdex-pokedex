@@ -255,17 +255,23 @@
     {
       "to": "Hitmonlee",
       "level": 20,
-      "condition": "Attack > Defense"
+      "conditions": [
+        "Attack > Defense"
+      ]
     },
     {
       "to": "Hitmonchan",
       "level": 20,
-      "condition": "Attack"
+      "conditions": [
+        "Defense > Attack"
+      ]
     },
     {
       "to": "Hitmontop",
       "level": 20,
-      "condition": "Attack = Defense"
+      "conditions": [
+        "Attack = Defense"
+      ]
     }
   ]
 }

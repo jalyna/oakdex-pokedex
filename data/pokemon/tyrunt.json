@@ -490,7 +490,9 @@
     {
       "to": "Tyrantrum",
       "level": 39,
-      "condition": "Daytime"
+      "conditions": [
+        "Daytime"
+      ]
     }
   ]
 }

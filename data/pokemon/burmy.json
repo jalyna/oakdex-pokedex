@@ -84,22 +84,33 @@
     {
       "to": "Mothim",
       "level": 20,
-      "condition": "Male"
+      "conditions": [
+        "Male"
+      ]
     },
     {
       "to": "Wormadam",
       "level": 20,
-      "condition": "Female, outside"
+      "conditions": [
+        "Female",
+        "Outside"
+      ]
     },
     {
       "to": "Wormadam",
       "level": 20,
-      "condition": "Female, in caves"
+      "conditions": [
+        "Female",
+        "In Caves"
+      ]
     },
     {
       "to": "Wormadam",
       "level": 20,
-      "condition": "Female, in buildings"
+      "conditions": [
+        "Female",
+        "In Buildings"
+      ]
     }
   ]
 }
