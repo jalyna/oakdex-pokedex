@@ -337,9 +337,12 @@
     },
     "hatch_time": {
       "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
       "items": {
         "type": "integer",
-        "minimum": 0
+        "minimum": 0,
+        "maximum": 50000
       }
     },
     "height_us": {
@@ -356,10 +359,19 @@
     },
     "base_exp_yield": {
       "type": "integer",
-      "minimum": 0
+      "minimum": 0,
+      "maximum": 608
     },
     "leveling_rate": {
-      "type": "string"
+      "type": "string",
+      "enum": [
+        "Fast",
+        "Medium Fast",
+        "Medium Slow",
+        "Slow",
+        "Fluctuating",
+        "Erratic"
+      ]
     },
     "ev_yield": {
       "type": "object",
