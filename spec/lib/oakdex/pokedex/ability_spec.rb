@@ -11,7 +11,7 @@ describe Oakdex::Pokedex::Ability do
         'en' => 'Description',
         'de' => 'Beschreibung'
       },
-      'index_number' => 91,
+      'index_number' => 91
     }
   end
 
