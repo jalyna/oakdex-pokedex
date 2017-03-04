@@ -1,0 +1,28 @@
+{
+  "index_number": 206,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 40,
+  "accuracy": 100,
+  "type": "normal",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Faux-Chage",
+    "de": "Trugschlag",
+    "gr": "Υποκριτικός Κτύπος",
+    "it": "Falsofinale",
+    "en": "False Swipe"
+  },
+  "descriptions": {
+    "en": "A move that adjusts Attack so that the foe has one HP left. Can't cause the foe to faint."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "index_number": 291,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "type": "water",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Plongée",
+    "de": "Taucher",
+    "gr": "Κατάδυση",
+    "it": "Sub",
+    "en": "Dive"
+  },
+  "descriptions": {
+    "en": "Dives underwater the first turn and strikes next turn.*Dives underwater the 1st turn, then attacks next turn.*"
+  }
+}

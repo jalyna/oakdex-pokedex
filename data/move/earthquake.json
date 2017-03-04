@@ -1,0 +1,30 @@
+{
+  "index_number": 89,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 100,
+  "accuracy": 100,
+  "type": "ground",
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Jordskælv",
+    "fr": "Séisme",
+    "de": "Erdbeben",
+    "gr": "Σεισμός",
+    "it": "Terremoto",
+    "pl": "Trzęsienie ziemi",
+    "en": "Earthquake"
+  },
+  "descriptions": {
+    "en": "An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pokémon."
+  }
+}

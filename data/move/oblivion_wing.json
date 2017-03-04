@@ -1,0 +1,27 @@
+{
+  "index_number": 613,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "type": "flying",
+  "category": "special",
+  "priority": 0,
+  "target": "anyone_but_user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Mort-Ailes",
+    "de": "Unheilsschwingen",
+    "it": "Ali del Fato",
+    "en": "Oblivion Wing"
+  },
+  "descriptions": {
+    "en": "The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "index_number": 582,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "type": "electric",
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Électrisation",
+    "de": "Elektrifizierung",
+    "it": "Elettrocontagio",
+    "en": "Electrify"
+  },
+  "descriptions": {
+    "en": "If the target is electrified before it uses a move during that turn, the target's move becomes Electric type."
+  }
+}

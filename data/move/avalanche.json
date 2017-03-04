@@ -1,0 +1,28 @@
+{
+  "index_number": 419,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 60,
+  "accuracy": 100,
+  "type": "ice",
+  "category": "physical",
+  "priority": -4,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Avalanche",
+    "de": "Lawine",
+    "gr": "Χιονοστιβάδα",
+    "it": "Slavina",
+    "en": "Avalanche"
+  },
+  "descriptions": {
+    "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "index_number": 362,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 65,
+  "accuracy": 100,
+  "type": "water",
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Saumure",
+    "de": "Lake",
+    "gr": "Άλμη",
+    "it": "Acquadisale",
+    "pl": "Bryza",
+    "en": "Brine"
+  },
+  "descriptions": {
+    "en": "If the foe’s HP is down to about half, this attack will hit with double the power.*If the foe’s HP is down to under half, this attack will hit with double the power.*"
+  }
+}

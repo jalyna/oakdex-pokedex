@@ -1,0 +1,30 @@
+{
+  "index_number": 42,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 25,
+  "accuracy": 95,
+  "type": "bug",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Nålemissil",
+    "fr": "Dard-Nuée",
+    "de": "Nadelrakete",
+    "gr": "Βλήματα Βελόνες",
+    "it": "Missilspillo",
+    "pl": "Szpilopocisk",
+    "en": "Pin Missile"
+  },
+  "descriptions": {
+    "en": "An attack that fires many needle-like projectiles from the body. Strikes several times."
+  }
+}

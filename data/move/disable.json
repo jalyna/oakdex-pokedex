@@ -1,0 +1,29 @@
+{
+  "index_number": 50,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 100,
+  "type": "normal",
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Neutralisere",
+    "fr": "Entrave",
+    "de": "Aussetzer",
+    "gr": "Αναστολέας",
+    "it": "Inibitore",
+    "en": "Disable"
+  },
+  "descriptions": {
+    "en": "A technique that disables one of the target's moves. The disabled move can't be used until it wears off."
+  }
+}

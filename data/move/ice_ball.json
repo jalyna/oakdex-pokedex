@@ -1,0 +1,28 @@
+{
+  "index_number": 301,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 30,
+  "accuracy": 90,
+  "type": "ice",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Ball'Glace",
+    "de": "Frostbeule",
+    "gr": "Σφαίρα Πάγου",
+    "it": "Palla Gelo",
+    "en": "Ice Ball"
+  },
+  "descriptions": {
+    "en": "A 5-turn attack that gains power on successive hits."
+  }
+}

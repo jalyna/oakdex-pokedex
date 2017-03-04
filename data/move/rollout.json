@@ -1,0 +1,30 @@
+{
+  "index_number": 205,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 30,
+  "accuracy": 90,
+  "type": "rock",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "cz": "Valivý útok",
+    "fr": "Roulade",
+    "de": "Walzer",
+    "gr": "Κύλιση",
+    "it": "Rotolamento",
+    "pl": "Walec",
+    "en": "Rollout"
+  },
+  "descriptions": {
+    "en": "Attacks for five turns, growing more powerful each time. Power returns to normal if it misses."
+  }
+}

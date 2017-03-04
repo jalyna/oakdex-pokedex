@@ -1,0 +1,30 @@
+{
+  "index_number": 311,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 50,
+  "accuracy": 100,
+  "type": "normal",
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Vejr Bold",
+    "fr": "Ball'Météo",
+    "de": "Meteorologe",
+    "gr": "Μετεωρολογόσφαιρα",
+    "it": "Palla Clima",
+    "pl": "Meteokula",
+    "en": "Weather Ball"
+  },
+  "descriptions": {
+    "en": "The move's type and power change with the weather."
+  }
+}

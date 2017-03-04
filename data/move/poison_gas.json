@@ -1,0 +1,30 @@
+{
+  "index_number": 139,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 0,
+  "accuracy": 90,
+  "type": "poison",
+  "category": "status",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Giftgas",
+    "fr": "Gaz Toxik",
+    "de": "Giftwolke",
+    "gr": "Δηλητηριώδες Αέριο",
+    "it": "Velenogas",
+    "pl": "Trujący Gaz",
+    "en": "Poison Gas"
+  },
+  "descriptions": {
+    "en": "A poisonous cloud of gas is forcefully expelled to poison the target."
+  }
+}

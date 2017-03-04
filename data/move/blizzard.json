@@ -1,0 +1,29 @@
+{
+  "index_number": 59,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 110,
+  "accuracy": 70,
+  "type": "ice",
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Snestorm",
+    "de": "Blizzard",
+    "gr": "Χιονοθύελλα",
+    "it": "Bora",
+    "pl": "Zamieć",
+    "en": "Blizzard"
+  },
+  "descriptions": {
+    "en": "The strongest Ice-type attack. Has a one-in-ten chance of freezing the target solid."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "index_number": {
+      "type": "integer"
+    },
+    "pp": {
+      "type": "integer"
+    },
+    "max_pp": {
+      "type": "integer"
+    },
+    "power": {
+      "type": "integer"
+    },
+    "accuracy": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "type": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "integer",
+      "minimum": -7,
+      "maximum": 7
+    },
+    "target": {
+      "type": "string"
+    },
+    "critical_hit": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "makes_contact": {
+      "type": "boolean"
+    },
+    "affected_by_protect": {
+      "type": "boolean"
+    },
+    "affected_by_magic_coat": {
+      "type": "boolean"
+    },
+    "affected_by_snatch": {
+      "type": "boolean"
+    },
+    "affected_by_mirror_move": {
+      "type": "boolean"
+    },
+    "affected_by_kings_rock": {
+      "type": "boolean"
+    },
+    "names": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "descriptions": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "index_number",
+    "pp",
+    "max_pp",
+    "power",
+    "accuracy",
+    "type",
+    "category",
+    "priority",
+    "target",
+    "critical_hit",
+    "makes_contact",
+    "affected_by_protect",
+    "affected_by_magic_coat",
+    "affected_by_snatch",
+    "affected_by_mirror_move",
+    "affected_by_kings_rock",
+    "names",
+    "descriptions"
+  ],
+  "additionalProperties": false
+}

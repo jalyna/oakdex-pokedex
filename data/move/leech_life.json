@@ -1,0 +1,29 @@
+{
+  "index_number": 141,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 20,
+  "accuracy": 100,
+  "type": "bug",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "LivigleSug Liv",
+    "fr": "Vampirisme",
+    "de": "Blutsauger",
+    "gr": "Παρασιτισμός",
+    "it": "Sanguisuga",
+    "en": "Leech Life"
+  },
+  "descriptions": {
+    "en": "An HP-draining attack. It adds half the HP it drained from the target to the attacker's HP."
+  }
+}

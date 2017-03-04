@@ -1,0 +1,30 @@
+{
+  "index_number": 342,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 50,
+  "accuracy": 100,
+  "type": "poison",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Queue-Poison",
+    "de": "Giftschweif",
+    "gr": "Δηλητηριώδης Ουρά",
+    "it": "Velenocoda",
+    "pl": "Trujący Ogon",
+    "tr": "Zehirli Kuyruk",
+    "en": "Poison Tail"
+  },
+  "descriptions": {
+    "en": "Has a high critical-hit ratio. May also poison."
+  }
+}

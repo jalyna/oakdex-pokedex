@@ -1,0 +1,29 @@
+{
+  "index_number": 75,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 55,
+  "accuracy": 95,
+  "type": "grass",
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Barberblad",
+    "de": "Rasierblatt",
+    "gr": "Φύλλα Ξυράφι",
+    "it": "Foglielama",
+    "pl": "Dzikie Pnącza",
+    "en": "Razor Leaf"
+  },
+  "descriptions": {
+    "en": "A Grass-type attack that sends sharp-edged leaves at the target. Likely to get a critical hit."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "index_number": 233,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 70,
+  "accuracy": 0,
+  "type": "fighting",
+  "category": "physical",
+  "priority": -1,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Corps Perdu",
+    "de": "Überwurf",
+    "gr": "Ζωτικό Ρίψιμο",
+    "it": "Vitaltiro",
+    "en": "Vital Throw"
+  },
+  "descriptions": {
+    "en": "A Fighting-type attack. Always comes after the target's attack but never misses."
+  }
+}

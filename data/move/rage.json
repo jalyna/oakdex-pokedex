@@ -1,0 +1,29 @@
+{
+  "index_number": 99,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 20,
+  "accuracy": 100,
+  "type": "normal",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Raseri",
+    "fr": "Frénésie",
+    "de": "Raserei",
+    "gr": "Οργή",
+    "it": "Ira",
+    "en": "Rage"
+  },
+  "descriptions": {
+    "en": "A non-stop attack move. The user's Attack power increases every time it sustains damage."
+  }
+}

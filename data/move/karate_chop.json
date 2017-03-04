@@ -1,0 +1,31 @@
+{
+  "index_number": 2,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 50,
+  "accuracy": 100,
+  "type": "fighting",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Karatehug",
+    "fr": "Poing-Karaté",
+    "de": "Karateschlag",
+    "gr": "Τσεκουριά Καράτε",
+    "it": "Colpokarate",
+    "pl": "Cios karate",
+    "tr": "Karate Darbesi",
+    "en": "Karate Chop"
+  },
+  "descriptions": {
+    "en": "A Normal-type attack. Often turns into a critical hit and inflicts double the damage."
+  }
+}

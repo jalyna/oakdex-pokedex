@@ -1,0 +1,30 @@
+{
+  "index_number": 440,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 70,
+  "accuracy": 100,
+  "type": "poison",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Poison-Croix",
+    "de": "Giftstreich",
+    "gr": "Διασταύρωση Δηλητηρίου",
+    "it": "Velenocroce",
+    "pl": "Kontratrucizna",
+    "tr": "Kesme Zehir",
+    "en": "Cross Poison"
+  },
+  "descriptions": {
+    "en": "A slashing attack that may also leave the target poisoned. It has a high critical-hit ratio."
+  }
+}

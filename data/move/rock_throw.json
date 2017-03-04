@@ -1,0 +1,30 @@
+{
+  "index_number": 88,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 50,
+  "accuracy": 90,
+  "type": "rock",
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Stenkast",
+    "fr": "Jet-Pierres",
+    "de": "Steinwurf",
+    "gr": "Ρίψη Βράχων",
+    "it": "Sassata",
+    "pl": "Rzut skałą",
+    "en": "Rock Throw"
+  },
+  "descriptions": {
+    "en": "A Rock-type attack. As the name implies, a huge boulder is dropped on the target."
+  }
+}

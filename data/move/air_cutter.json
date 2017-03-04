@@ -1,0 +1,30 @@
+{
+  "index_number": 314,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 60,
+  "accuracy": 95,
+  "type": "flying",
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 1,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Luftskærer",
+    "fr": "Tranch'Air",
+    "de": "Windschnitt",
+    "gr": "Αεροκόπτης",
+    "it": "Aerasoio",
+    "pl": "Powietrzny Nóż",
+    "en": "Air Cutter"
+  },
+  "descriptions": {
+    "en": "Hacks with razorlike wind. High critical-hit ratio."
+  }
+}

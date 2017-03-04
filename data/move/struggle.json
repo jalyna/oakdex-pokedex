@@ -1,0 +1,27 @@
+{
+  "index_number": 165,
+  "pp": 1,
+  "max_pp": 1,
+  "power": 50,
+  "accuracy": 0,
+  "type": "normal",
+  "category": "physical",
+  "priority": 0,
+  "target": "target_foe",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "de": "Verzweifler",
+    "gr": "Αγώνας",
+    "it": "Scontro",
+    "en": "Struggle"
+  },
+  "descriptions": {
+    "en": "Used only if the user runs totally out of PP. The user is hit with 1/4 of the damage it inflicts."
+  }
+}

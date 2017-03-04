@@ -1,0 +1,30 @@
+{
+  "index_number": 164,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "type": "normal",
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Reserve",
+    "fr": "Clonage",
+    "de": "Delegator",
+    "gr": "Υποκατάσταση",
+    "it": "Sostituto",
+    "pl": "Zastępca",
+    "en": "Substitute"
+  },
+  "descriptions": {
+    "en": "Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks."
+  }
+}
