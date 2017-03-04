@@ -1627,7 +1627,25 @@
             ]
           },
           "hold_item": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "Whipped Dream",
+              "Sachet",
+              "King's Rock",
+              "Karrablast",
+              "Dragon Scale",
+              "Metal Coat",
+              "Protector",
+              "Dubious Disc",
+              "Up-Grade",
+              "Magmarizer",
+              "Shelmet",
+              "Prism Scale",
+              "Electrizer",
+              "Reaper Cloth",
+              "Deepseatooth",
+              "Deepseascale"
+            ]
           },
           "condition": {
             "type": "string"
