@@ -1,3 +1,17 @@
 engines:
   rubocop:
     enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - ruby
+
+ratings:
+  paths:
+  - "lib/**"
+  - "data/**"
+  - "**.rb"
+
+exclude_paths:
+- "spec/**/*"
