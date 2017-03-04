@@ -8,10 +8,9 @@ describe Oakdex::Pokedex::Pokemon do
         'en' => 'Bulbasaur',
         'de' => 'Bisasam'
       },
-      'types' => [
-        'Grass',
-        'Poison'
-      ],
+      'types' => %w(
+        Grass
+        Poison),
       'abilities' => [
         {
           'name' => 'Overgrow'
@@ -27,10 +26,9 @@ describe Oakdex::Pokedex::Pokemon do
         'female' => 12.5
       },
       'catch_rate' => 45,
-      'egg_groups' => [
-        'Monster',
-        'Grass'
-      ],
+      'egg_groups' => %w(
+        Monster
+        Grass),
       'hatch_time' => [
         5355,
         5609
