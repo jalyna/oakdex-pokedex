@@ -279,5 +279,16 @@
       "parent": "Slurpuff",
       "move": "Wish"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Aromatisse",
+      "trade": true,
+      "hold_item": "Trade holding Sachet"
+    },
+    {
+      "to": "Aromatisse",
+      "condition": "Trade holding Sachet"
+    }
   ]
 }

@@ -39,6 +39,44 @@
       ],
       "additionalProperties": false
     },
+    "evolution_from": {
+      "type": "string"
+    },
+    "evolutions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "to": {
+            "type": "string"
+          },
+          "level": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "happiness": {
+            "type": "boolean"
+          },
+          "trade": {
+            "type": "boolean"
+          },
+          "condition": {
+            "type": "string"
+          },
+          "item": {
+            "type": "string"
+          },
+          "hold_item": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "to"
+        ],
+        "additionalProperties": false
+      }
+    },
     "national_id": {
       "type": "integer",
       "minimum": 0,

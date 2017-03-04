@@ -803,5 +803,11 @@
       "parent": "Delphox",
       "move": "Switcheroo"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Ambipom",
+      "condition": "after Double Hit learned"
+    }
   ]
 }

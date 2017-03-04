@@ -396,5 +396,12 @@
       "parent": "Throh",
       "move": "Storm Throw"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Pangoro",
+      "level": 32,
+      "condition": "with a Dark type Pokémon in party"
+    }
   ]
 }

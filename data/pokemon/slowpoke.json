@@ -489,5 +489,16 @@
       "parent": "Rampardos",
       "move": "Zen Headbutt"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Slowbro",
+      "level": 37
+    },
+    {
+      "to": "Slowking",
+      "trade": true,
+      "hold_item": "King's Rock"
+    }
   ]
 }

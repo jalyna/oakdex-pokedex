@@ -1016,5 +1016,12 @@
       "parent": "Furfrou",
       "move": "Take Down"
     }
+  ],
+  "evolution_from": "Swinub",
+  "evolutions": [
+    {
+      "to": "Mamoswine",
+      "condition": "after AncientPower learned"
+    }
   ]
 }

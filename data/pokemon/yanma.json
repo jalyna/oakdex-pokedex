@@ -632,5 +632,11 @@
       "parent": "Volcarona",
       "move": "Whirlwind"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Yanmega",
+      "condition": "after AncientPower learned"
+    }
   ]
 }

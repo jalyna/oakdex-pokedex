@@ -935,5 +935,12 @@
       "parent": "Hitmonchan",
       "move": "Vacuum Wave"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Lucario",
+      "happiness": true,
+      "condition": "Daytime"
+    }
   ]
 }

@@ -496,5 +496,11 @@
       "parent": "Conkeldurr",
       "move": "Wake-Up Slap"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Mr. Mime",
+      "condition": "after Mimic learned"
+    }
   ]
 }
