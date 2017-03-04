@@ -441,32 +441,45 @@
       "type": "object",
       "properties": {
         "hp": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         },
-        "attack": {
-          "type": "integer"
+        "atk": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         },
-        "defense": {
-          "type": "integer"
+        "def": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         },
         "sp_atk": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         },
         "sp_def": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         },
         "speed": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 255
         }
       },
       "required": [
         "hp",
-        "attack",
-        "defense",
+        "atk",
+        "def",
         "sp_atk",
         "sp_def",
         "speed"
-      ]
+      ],
+      "additionalProperties": false
     },
     "learnset": {
       "type": "array",
