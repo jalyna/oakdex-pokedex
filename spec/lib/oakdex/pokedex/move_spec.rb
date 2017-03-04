@@ -26,7 +26,7 @@ describe Oakdex::Pokedex::Move do
       'affected_by_magic_coat'  => false,
       'affected_by_snatch'      => false,
       'affected_by_mirror_move' => false,
-      'affected_by_kings_rock'  => false,
+      'affected_by_kings_rock'  => false
     }
   end
 
@@ -49,23 +49,22 @@ describe Oakdex::Pokedex::Move do
     it { expect(subject.type.name).to eq('Psychic') }
   end
 
-  [
-    'index_number',
-    'pp',
-    'max_pp',
-    'power',
-    'accuracy',
-    'category',
-    'priority',
-    'target',
-    'critical_hit',
-    'makes_contact',
-    'affected_by_protect',
-    'affected_by_magic_coat',
-    'affected_by_snatch',
-    'affected_by_mirror_move',
-    'affected_by_kings_rock'
-  ].each do |attribute|
+  %w(
+    index_number
+    pp
+    max_pp
+    power
+    accuracy
+    category
+    priority
+    target
+    critical_hit
+    makes_contact
+    affected_by_protect
+    affected_by_magic_coat
+    affected_by_snatch
+    affected_by_mirror_move
+    affected_by_kings_rock).each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end
