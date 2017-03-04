@@ -54,15 +54,6 @@ module Oakdex
       def find_pokemon(name)
         pokemon_by_name[name] || pokemon_by_id[name]
       end
-
-      private
-
-      def map_json_data(type, klass)
-        Hash[Dir["data/#{type}/*.json"].map do |file_name|
-          data = JSON.parse(File.read(file_name))
-          [data['names']['en'], klass.new(data)]
-        end]
-      end
     end
   end
 end

@@ -4,11 +4,24 @@ module Oakdex
   module Pokedex
     # Represents the Pokemon
     class Pokemon < Base
+      json_folder 'pokemon'
       translate :names, :name
+
+      class << self
+        def all_by_id
+          @all_by_id ||= Hash[all.map do |_k, pokemon|
+            [pokemon.national_id, pokemon]
+          end]
+        end
+
+        def find(name)
+          all[name] || all_by_id[name]
+        end
+      end
 
       def types
         @source.types.map do |type_name|
-          Pokedex.find_type(type_name)
+          Type.find(type_name)
         end
       end
     end

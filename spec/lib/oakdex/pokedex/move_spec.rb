@@ -69,4 +69,15 @@ describe Oakdex::Pokedex::Move do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end
   end
+
+  describe '.find' do
+    it 'returns move' do
+      move = described_class.find('Aqua Ring')
+      expect(move).to be_instance_of(Oakdex::Pokedex::Move)
+    end
+
+    it 'returns nil if move does not exist' do
+      expect(described_class.find('Foo')).to be_nil
+    end
+  end
 end

@@ -37,4 +37,15 @@ describe Oakdex::Pokedex::Nature do
   describe '#disliked_flavor' do
     it { expect(subject.disliked_flavor).to eq('Dry') }
   end
+
+  describe '.find' do
+    it 'returns nature' do
+      nature = described_class.find('Modest')
+      expect(nature).to be_instance_of(Oakdex::Pokedex::Nature)
+    end
+
+    it 'returns nil if nature does not exist' do
+      expect(described_class.find('Foo')).to be_nil
+    end
+  end
 end

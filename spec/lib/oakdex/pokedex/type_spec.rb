@@ -25,4 +25,15 @@ describe Oakdex::Pokedex::Type do
     it { expect(subject.effectivness_for('Normal')).to eq(1.0) }
     it { expect(subject.effectivness_for('Foo')).to be_nil }
   end
+
+  describe '.find' do
+    it 'returns type' do
+      type = described_class.find('Fairy')
+      expect(type).to be_instance_of(Oakdex::Pokedex::Type)
+    end
+
+    it 'returns nil if type does not exist' do
+      expect(described_class.find('Foo')).to be_nil
+    end
+  end
 end
