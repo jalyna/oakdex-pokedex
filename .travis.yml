@@ -13,3 +13,6 @@ install:
 addons:
   code_climate:
     repo_token: cad4913c49d614008c332cda660cf909de208e335201aa8bfab373b9740e85be
+
+after_success:
+  - bundle exec codeclimate-test-reporter
