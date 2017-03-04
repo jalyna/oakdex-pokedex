@@ -1612,13 +1612,24 @@
           "trade": {
             "type": "boolean"
           },
-          "condition": {
-            "type": "string"
-          },
           "item": {
-            "type": "string"
+            "type": "string",
+            "enum": [
+              "Leaf Stone",
+              "Fire Stone",
+              "Shiny Stone",
+              "Sun Stone",
+              "Water Stone",
+              "Dawn Stone",
+              "Moon Stone",
+              "Thunderstone",
+              "Dusk Stone"
+            ]
           },
           "hold_item": {
+            "type": "string"
+          },
+          "condition": {
             "type": "string"
           }
         },
