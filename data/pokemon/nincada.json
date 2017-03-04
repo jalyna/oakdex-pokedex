@@ -564,5 +564,18 @@
       "parent": "Vivillon",
       "move": "Silver Wind"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Ninjask",
+      "level": 20
+    },
+    {
+      "to": "Shedinja",
+      "level": 20,
+      "conditions": [
+        "With empty spot in party"
+      ]
+    }
   ]
 }

@@ -439,5 +439,14 @@
       "parent": "Gardevoir",
       "move": "Wish"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Chimecho",
+      "happiness": true,
+      "conditions": [
+        "Nighttime"
+      ]
+    }
   ]
 }

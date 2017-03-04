@@ -880,5 +880,14 @@
       "parent": "Dunsparce",
       "move": "Spite"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Weavile",
+      "hold_item": "Razor Claw",
+      "conditions": [
+        "Nighttime"
+      ]
+    }
   ]
 }

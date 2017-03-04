@@ -584,5 +584,14 @@
       "parent": "Yanma",
       "move": "Wing Attack"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Gliscor",
+      "hold_item": "Razor Fang",
+      "conditions": [
+        "Nighttime"
+      ]
+    }
   ]
 }

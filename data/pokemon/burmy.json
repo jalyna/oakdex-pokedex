@@ -79,5 +79,38 @@
       "tm": "TM17",
       "move": "Protect"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Mothim",
+      "level": 20,
+      "conditions": [
+        "Male"
+      ]
+    },
+    {
+      "to": "Wormadam",
+      "level": 20,
+      "conditions": [
+        "Female",
+        "Outside"
+      ]
+    },
+    {
+      "to": "Wormadam",
+      "level": 20,
+      "conditions": [
+        "Female",
+        "In Caves"
+      ]
+    },
+    {
+      "to": "Wormadam",
+      "level": 20,
+      "conditions": [
+        "Female",
+        "In Buildings"
+      ]
+    }
   ]
 }

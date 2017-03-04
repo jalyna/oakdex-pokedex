@@ -250,5 +250,28 @@
       "parent": "Hitmonchan",
       "move": "Vacuum Wave"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Hitmonlee",
+      "level": 20,
+      "conditions": [
+        "Attack > Defense"
+      ]
+    },
+    {
+      "to": "Hitmonchan",
+      "level": 20,
+      "conditions": [
+        "Defense > Attack"
+      ]
+    },
+    {
+      "to": "Hitmontop",
+      "level": 20,
+      "conditions": [
+        "Attack = Defense"
+      ]
+    }
   ]
 }

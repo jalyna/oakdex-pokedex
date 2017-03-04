@@ -720,5 +720,14 @@
       "parent": "Amoonguss",
       "move": "Synthesis"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Roselia",
+      "happiness": true,
+      "conditions": [
+        "Daytime"
+      ]
+    }
   ]
 }

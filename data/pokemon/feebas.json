@@ -496,5 +496,18 @@
       "parent": "Omastar",
       "move": "Tickle"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Milotic",
+      "trade": true,
+      "hold_item": "Prism Scale"
+    },
+    {
+      "to": "Milotic",
+      "conditions": [
+        "Beauty"
+      ]
+    }
   ]
 }

@@ -767,5 +767,17 @@
       "parent": "Clawitzer",
       "move": "Water Sport"
     }
+  ],
+  "evolution_from": "Poliwag",
+  "evolutions": [
+    {
+      "to": "Poliwrath",
+      "item": "Water Stone"
+    },
+    {
+      "to": "Politoed",
+      "trade": true,
+      "hold_item": "King's Rock"
+    }
   ]
 }

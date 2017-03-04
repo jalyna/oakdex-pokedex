@@ -71,5 +71,21 @@
       "level": 15,
       "move": "Bug Bite"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Silcoon",
+      "level": 7,
+      "conditions": [
+        "Random"
+      ]
+    },
+    {
+      "to": "Cascoon",
+      "level": 7,
+      "conditions": [
+        "Random"
+      ]
+    }
   ]
 }

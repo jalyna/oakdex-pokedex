@@ -269,5 +269,15 @@
       "tm": "TM100",
       "move": "Confide"
     }
+  ],
+  "evolution_from": "Magnemite",
+  "evolutions": [
+    {
+      "to": "Magnezone",
+      "level_up": true,
+      "conditions": [
+        "In a Magnetic Field area"
+      ]
+    }
   ]
 }

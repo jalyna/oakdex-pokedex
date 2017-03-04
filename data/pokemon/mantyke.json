@@ -676,5 +676,14 @@
       "parent": "Alomomola",
       "move": "Wide Guard"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Mantine",
+      "level_up": true,
+      "conditions": [
+        "With Remoraid in party"
+      ]
+    }
   ]
 }

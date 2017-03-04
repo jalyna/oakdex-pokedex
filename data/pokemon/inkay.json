@@ -305,5 +305,14 @@
       "parent": "Psyduck",
       "move": "Simple Beam"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Malamar",
+      "level": 30,
+      "conditions": [
+        "Holding 3DS upside down"
+      ]
+    }
   ]
 }

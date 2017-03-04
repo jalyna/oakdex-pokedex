@@ -591,5 +591,55 @@
       "parent": "Munna",
       "move": "Yawn"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Vaporeon",
+      "item": "Water Stone"
+    },
+    {
+      "to": "Jolteon",
+      "item": "Thunderstone"
+    },
+    {
+      "to": "Flareon",
+      "item": "Fire Stone"
+    },
+    {
+      "to": "Espeon",
+      "happiness": true,
+      "conditions": [
+        "Daytime"
+      ]
+    },
+    {
+      "to": "Umbreon",
+      "happiness": true,
+      "conditions": [
+        "Nighttime"
+      ]
+    },
+    {
+      "to": "Leafeon",
+      "level_up": true,
+      "conditions": [
+        "Near a Mossy Rock"
+      ]
+    },
+    {
+      "to": "Glaceon",
+      "level_up": true,
+      "conditions": [
+        "Near an Icy Rock"
+      ]
+    },
+    {
+      "to": "Sylveon",
+      "level_up": true,
+      "conditions": [
+        "Fairy Type Move",
+        "Maximum Affection in Pokémon Amie"
+      ]
+    }
   ]
 }

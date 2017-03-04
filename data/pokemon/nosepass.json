@@ -375,5 +375,14 @@
       "parent": "Dwebble",
       "move": "Wide Guard"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Probopass",
+      "level_up": true,
+      "conditions": [
+        "In a Magnetic Field area"
+      ]
+    }
   ]
 }

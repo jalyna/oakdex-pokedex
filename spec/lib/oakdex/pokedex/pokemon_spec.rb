@@ -78,6 +78,12 @@ describe Oakdex::Pokedex::Pokemon do
           'parent'  => 'Trevenant',
           'move'    => 'Curse'
         }
+      ],
+      'evolution_from' => 'Pikachu',
+      'evolutions' => [
+        {
+          'to' => 'Pichu'
+        }
       ]
     }.merge(additional_attributes)
   end
@@ -114,7 +120,9 @@ describe Oakdex::Pokedex::Pokemon do
     color
     base_friendship
     base_stats
-    learnset).each do |attribute|
+    learnset
+    evolution_from
+    evolutions).each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end

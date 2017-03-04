@@ -338,5 +338,14 @@
       "parent": "Snubbull",
       "move": "Present"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Chansey",
+      "hold_item": "Oval Stone",
+      "conditions": [
+        "Daytime"
+      ]
+    }
   ]
 }
