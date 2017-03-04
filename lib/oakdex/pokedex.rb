@@ -25,10 +25,10 @@ module Oakdex
       private
 
       def map_json_data(type, klass)
-        Dir["data/#{type}/*.json"].map do |file_name|
+        Hash[Dir["data/#{type}/*.json"].map do |file_name|
           data = JSON.parse(File.read(file_name))
           [data['names']['en'], klass.new(data)]
-        end.to_h
+        end]
       end
     end
   end
