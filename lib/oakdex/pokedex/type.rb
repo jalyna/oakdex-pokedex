@@ -2,6 +2,7 @@ require 'oakdex/pokedex/base'
 
 module Oakdex
   module Pokedex
+    # Represents the type of a Pokemon
     class Type < Base
       translate :names, :name
 
