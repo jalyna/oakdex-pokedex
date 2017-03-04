@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "title": "Pokedex Ability",
+  "properties": {
+    "index_number": {
+      "type": "integer"
+    },
+    "names": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "descriptions": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "index_number",
+    "names",
+    "descriptions"
+  ],
+  "additionalProperties": false
+}
