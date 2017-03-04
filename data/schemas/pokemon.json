@@ -377,22 +377,34 @@
       "type": "object",
       "properties": {
         "hp": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         },
         "atk": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         },
         "def": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         },
         "sp_atk": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         },
         "sp_def": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         },
         "speed": {
-          "type": "integer"
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
         }
       },
       "required": [
@@ -406,10 +418,24 @@
       "additionalProperties": false
     },
     "color": {
-      "type": "string"
+      "type": "string",
+      "enum": [
+        "Pink",
+        "Green",
+        "Blue",
+        "Purple",
+        "Gray",
+        "Brown",
+        "Black",
+        "Yellow",
+        "White",
+        "Red"
+      ]
     },
     "base_friendship": {
-      "type": "integer"
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 255
     },
     "base_stats": {
       "type": "object",
