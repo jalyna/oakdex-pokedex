@@ -1,0 +1,460 @@
+{
+  "names": {
+    "fr": "Qwilfish",
+    "de": "Baldorfish",
+    "it": "Qwilfish",
+    "en": "Qwilfish"
+  },
+  "national_id": 211,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Poison Point"
+    },
+    {
+      "name": "Intimidate",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08″",
+  "height_eu": "0.5 m",
+  "weight_us": "8.6 lbs.",
+  "weight_eu": "3.9 kg",
+  "base_exp_yield": 86,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 75,
+    "sp_atk": 55,
+    "sp_def": 55,
+    "speed": 85
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 0,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 0,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 0,
+      "move": "Spikes"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 9,
+      "move": "Harden"
+    },
+    {
+      "level": 9,
+      "move": "Minimize"
+    },
+    {
+      "level": 13,
+      "move": "Bubble"
+    },
+    {
+      "level": 17,
+      "move": "Rollout"
+    },
+    {
+      "level": 21,
+      "move": "Toxic Spikes"
+    },
+    {
+      "level": 25,
+      "move": "Stockpile"
+    },
+    {
+      "level": 25,
+      "move": "Spit Up"
+    },
+    {
+      "level": 29,
+      "move": "Revenge"
+    },
+    {
+      "level": 33,
+      "move": "Brine"
+    },
+    {
+      "level": 37,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 41,
+      "move": "Take Down"
+    },
+    {
+      "level": 45,
+      "move": "Aqua Tail"
+    },
+    {
+      "level": 49,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 53,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 57,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 60,
+      "move": "Fell Stinger"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Brine"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Bubble Beam"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Haze"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    }
+  ]
+}

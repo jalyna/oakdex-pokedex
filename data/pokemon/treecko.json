@@ -1,0 +1,620 @@
+{
+  "names": {
+    "fr": "Arcko",
+    "de": "Geckarbor",
+    "it": "Treecko",
+    "en": "Treecko"
+  },
+  "national_id": 252,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Unburden",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Dragon"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "11.0 lbs.",
+  "weight_eu": "5.0 kg",
+  "base_exp_yield": 62,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "sp_atk": 65,
+    "sp_def": 55,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 5,
+      "move": "Absorb"
+    },
+    {
+      "level": 9,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 13,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 17,
+      "move": "Pursuit"
+    },
+    {
+      "level": 21,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 25,
+      "move": "Agility"
+    },
+    {
+      "level": 29,
+      "move": "Slam"
+    },
+    {
+      "level": 33,
+      "move": "Detect"
+    },
+    {
+      "level": 37,
+      "move": "Energy Ball"
+    },
+    {
+      "level": 41,
+      "move": "Quick Guard"
+    },
+    {
+      "level": 45,
+      "move": "Endeavor"
+    },
+    {
+      "level": 49,
+      "move": "Screech"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Snover",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Deino",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Crush Claw"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Double Kick"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Endeavor"
+    },
+    {
+      "parent": "Snover",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Magical Leaf"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Helioptile",
+      "move": "Razor Wind"
+    },
+    {
+      "parent": "Heliolisk",
+      "move": "Razor Wind"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Worry Seed"
+    }
+  ]
+}

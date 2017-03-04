@@ -1,0 +1,283 @@
+{
+  "names": {
+    "fr": "Fluvetin",
+    "de": "Parfi",
+    "it": "Spritzee",
+    "en": "Spritzee"
+  },
+  "national_id": 682,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Healer"
+    },
+    {
+      "name": "Aroma Veil",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "1.1 lbs.",
+  "weight_eu": "0.5 kg",
+  "base_exp_yield": 68,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 78,
+    "atk": 52,
+    "def": 60,
+    "sp_atk": 63,
+    "sp_def": 65,
+    "speed": 23
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 0,
+      "move": "Fairy Wind"
+    },
+    {
+      "level": 6,
+      "move": "Sweet Kiss"
+    },
+    {
+      "level": 8,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 13,
+      "move": "Echoed Voice"
+    },
+    {
+      "level": 17,
+      "move": "Calm Mind"
+    },
+    {
+      "level": 21,
+      "move": "Draining Kiss"
+    },
+    {
+      "level": 25,
+      "move": "Aromatherapy"
+    },
+    {
+      "level": 29,
+      "move": "Attract"
+    },
+    {
+      "level": 31,
+      "move": "Moonblast"
+    },
+    {
+      "level": 35,
+      "move": "Charm"
+    },
+    {
+      "level": 38,
+      "move": "Flail"
+    },
+    {
+      "level": 42,
+      "move": "Misty Terrain"
+    },
+    {
+      "level": 44,
+      "move": "Skill Swap"
+    },
+    {
+      "level": 48,
+      "move": "Psychic"
+    },
+    {
+      "level": 50,
+      "move": "Disarming Voice"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Disable"
+    },
+    {
+      "parent": "Audino",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    }
+  ]
+}

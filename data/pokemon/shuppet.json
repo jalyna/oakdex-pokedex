@@ -1,0 +1,607 @@
+{
+  "names": {
+    "fr": "Polichombr",
+    "de": "Shuppet",
+    "it": "Shuppet",
+    "en": "Shuppet"
+  },
+  "national_id": 353,
+  "types": [
+    "Ghost"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia"
+    },
+    {
+      "name": "Cursed Body",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 225,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "5.1 lbs.",
+  "weight_eu": "2.3 kg",
+  "base_exp_yield": 59,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 44,
+    "atk": 75,
+    "def": 35,
+    "sp_atk": 63,
+    "sp_def": 33,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Knock Off"
+    },
+    {
+      "level": 4,
+      "move": "Screech"
+    },
+    {
+      "level": 7,
+      "move": "Night Shade"
+    },
+    {
+      "level": 10,
+      "move": "Spite"
+    },
+    {
+      "level": 13,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 16,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 19,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 22,
+      "move": "Hex"
+    },
+    {
+      "level": 26,
+      "move": "Curse"
+    },
+    {
+      "level": 30,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 34,
+      "move": "Embargo"
+    },
+    {
+      "level": 38,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 42,
+      "move": "Snatch"
+    },
+    {
+      "level": 46,
+      "move": "Grudge"
+    },
+    {
+      "level": 50,
+      "move": "Trick"
+    },
+    {
+      "level": 54,
+      "move": "Phantom Force"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Disable"
+    },
+    {
+      "parent": "Muk",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Disable"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Disable"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Disable"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Disable"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Muk",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Gunk Shot"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Frillish",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Jellicent",
+      "move": "Ominous Wind"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Phantom Force"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Phantom Force"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Phantom Force"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Phantom Force"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Banette",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Shadow Sneak"
+    }
+  ]
+}

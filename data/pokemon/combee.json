@@ -1,0 +1,76 @@
+{
+  "names": {
+    "fr": "Apitrini",
+    "de": "Wadribie",
+    "it": "Combee",
+    "en": "Combee"
+  },
+  "national_id": 415,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Honey Gather"
+    },
+    {
+      "name": "Hustle",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "12.1 lbs.",
+  "weight_eu": "5.5 kg",
+  "base_exp_yield": 49,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 30,
+    "atk": 30,
+    "def": 42,
+    "sp_atk": 30,
+    "sp_def": 42,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 13,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 29,
+      "move": "Bug Buzz"
+    }
+  ]
+}

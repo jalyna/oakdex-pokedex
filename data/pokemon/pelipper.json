@@ -1,0 +1,905 @@
+{
+  "names": {
+    "fr": "Bekipan",
+    "de": "Pelipper",
+    "it": "Pelipper",
+    "en": "Pelipper"
+  },
+  "national_id": 279,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "61.7 lbs.",
+  "weight_eu": "28.0 kg",
+  "base_exp_yield": 151,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "sp_atk": 85,
+    "sp_def": 70,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Hurricane"
+    },
+    {
+      "level": 0,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 0,
+      "move": "Tailwind"
+    },
+    {
+      "level": 0,
+      "move": "Soak"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 0,
+      "move": "Water Sport"
+    },
+    {
+      "level": 0,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 8,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 12,
+      "move": "Mist"
+    },
+    {
+      "level": 15,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 19,
+      "move": "Payback"
+    },
+    {
+      "level": 22,
+      "move": "Roost"
+    },
+    {
+      "level": 25,
+      "move": "Protect"
+    },
+    {
+      "level": 28,
+      "move": "Brine"
+    },
+    {
+      "level": 33,
+      "move": "Stockpile"
+    },
+    {
+      "level": 33,
+      "move": "Swallow"
+    },
+    {
+      "level": 33,
+      "move": "Spit Up"
+    },
+    {
+      "level": 39,
+      "move": "Fling"
+    },
+    {
+      "level": 44,
+      "move": "Tailwind"
+    },
+    {
+      "level": 50,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 55,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM58",
+      "move": "Sky Drop"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Agility"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Agility"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Agility"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Agility"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Agility"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Agility"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Agility"
+    },
+    {
+      "parent": "Aerodactyl",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Agility"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Agility"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Agility"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Agility"
+    },
+    {
+      "parent": "Taillow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Swellow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Agility"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Agility"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Agility"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Agility"
+    },
+    {
+      "parent": "Starly",
+      "move": "Agility"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Agility"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Agility"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Agility"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Agility"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Agility"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Marill",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Ring"
+    },
+    {
+      "parent": "Seel",
+      "move": "Brine"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Brine"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Brine"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Brine"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Brine"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Brine"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Brine"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Gust"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Gust"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Gust"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Gust"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Knock Off"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mist"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mist"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mist"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mist"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Soak"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Soak"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Soak"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Soak"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Soak"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Soak"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Twister"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Twister"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Twister"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Twister"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Twister"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Twister"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Seel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Marill",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Wide Guard"
+    }
+  ]
+}

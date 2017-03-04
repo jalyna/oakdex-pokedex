@@ -1,0 +1,724 @@
+{
+  "names": {
+    "fr": "Draco",
+    "de": "Dragonir",
+    "it": "Dragonair",
+    "en": "Dragonair"
+  },
+  "national_id": 148,
+  "types": [
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin"
+    },
+    {
+      "name": "Marvel Scale",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "13'01\"",
+  "height_eu": "4.0 m",
+  "weight_us": "36.4 lbs.",
+  "weight_eu": "16.5 kg",
+  "base_exp_yield": 147,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 61,
+    "atk": 84,
+    "def": 65,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Wrap"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Twister"
+    },
+    {
+      "level": 5,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 11,
+      "move": "Twister"
+    },
+    {
+      "level": 15,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 21,
+      "move": "Slam"
+    },
+    {
+      "level": 25,
+      "move": "Agility"
+    },
+    {
+      "level": 33,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 39,
+      "move": "Aqua Tail"
+    },
+    {
+      "level": 47,
+      "move": "Dragon Rush"
+    },
+    {
+      "level": 53,
+      "move": "Safeguard"
+    },
+    {
+      "level": 61,
+      "move": "Dragon Dance"
+    },
+    {
+      "level": 67,
+      "move": "Outrage"
+    },
+    {
+      "level": 75,
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Extreme Speed"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Extreme Speed"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Haze"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Haze"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Haze"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Haze"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Haze"
+    },
+    {
+      "parent": "Gible",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Axew",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mist"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Mist"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Mist"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Mist"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Mist"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mist"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mist"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Mist"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Mist"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Froakie",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Frogadier",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Pulse"
+    }
+  ]
+}

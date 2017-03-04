@@ -1,0 +1,483 @@
+{
+  "names": {
+    "fr": "Ronflex",
+    "de": "Relaxo",
+    "it": "Snorlax",
+    "en": "Snorlax"
+  },
+  "national_id": 143,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Immunity"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 25,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "6'11\"",
+  "height_eu": "2.1 m",
+  "weight_us": "1014.1 lbs.",
+  "weight_eu": "460.0 kg",
+  "base_exp_yield": 189,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 160,
+    "atk": 110,
+    "def": 65,
+    "sp_atk": 65,
+    "sp_def": 110,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 4,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 9,
+      "move": "Amnesia"
+    },
+    {
+      "level": 12,
+      "move": "Lick"
+    },
+    {
+      "level": 17,
+      "move": "Chip Away"
+    },
+    {
+      "level": 20,
+      "move": "Yawn"
+    },
+    {
+      "level": 25,
+      "move": "Body Slam"
+    },
+    {
+      "level": 28,
+      "move": "Rest"
+    },
+    {
+      "level": 28,
+      "move": "Snore"
+    },
+    {
+      "level": 33,
+      "move": "Sleep Talk"
+    },
+    {
+      "level": 36,
+      "move": "Rollout"
+    },
+    {
+      "level": 41,
+      "move": "Block"
+    },
+    {
+      "level": 44,
+      "move": "Belly Drum"
+    },
+    {
+      "level": 49,
+      "move": "Crunch"
+    },
+    {
+      "level": 50,
+      "move": "Heavy Slam"
+    },
+    {
+      "level": 57,
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Mareep",
+      "move": "After You"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Belch"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Charm"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Charm"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Counter"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Counter"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Fissure"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Lick"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Lick"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Lick"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Self-Destruct"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

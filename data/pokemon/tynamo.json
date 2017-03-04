@@ -1,0 +1,79 @@
+{
+  "names": {
+    "fr": "Anchwatt",
+    "de": "Zapplardin",
+    "it": "Tynamo",
+    "en": "Tynamo"
+  },
+  "national_id": 602,
+  "types": [
+    "Electric"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "0.7 lbs.",
+  "weight_eu": "0.3 kg",
+  "base_exp_yield": 55,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "sp_atk": 45,
+    "sp_def": 40,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 0,
+      "move": "Spark"
+    },
+    {
+      "level": 0,
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    }
+  ]
+}

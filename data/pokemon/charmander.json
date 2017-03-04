@@ -1,0 +1,780 @@
+{
+  "names": {
+    "fr": "Salamèche",
+    "de": "Glumanda",
+    "it": "Charmander",
+    "en": "Charmander"
+  },
+  "national_id": 4,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Blaze"
+    },
+    {
+      "name": "Solar Power",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Dragon"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "18.7 lbs.",
+  "weight_eu": "8.5 kg",
+  "base_exp_yield": 62,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "sp_atk": 60,
+    "sp_def": 50,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 7,
+      "move": "Ember"
+    },
+    {
+      "level": 10,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 16,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 19,
+      "move": "Scary Face"
+    },
+    {
+      "level": 25,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 28,
+      "move": "Flame Burst"
+    },
+    {
+      "level": 34,
+      "move": "Slash"
+    },
+    {
+      "level": 37,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 43,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 46,
+      "move": "Inferno"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Bite"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Bite"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Bite"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Bite"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Bite"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Bite"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Bite"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Bite"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Bite"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Bite"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Bite"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Bite"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Bite"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Bite"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Bite"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Bite"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Bite"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Bite"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Bite"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Bite"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Bite"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Bite"
+    },
+    {
+      "parent": "Deino",
+      "move": "Bite"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Bite"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Bite"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Bite"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Bite"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Bite"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Bite"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Counter"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Counter"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Counter"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Deino",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Crunch"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Ampharos",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Pulse"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Aron",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Axew",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Deino",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Outrage"
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "names": {
+    "fr": "Germignon",
+    "de": "Endivie",
+    "it": "Chikorita",
+    "en": "Chikorita"
+  },
+  "national_id": 152,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Leaf Guard",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "14.1 lbs.",
+  "weight_eu": "6.4 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 65,
+    "sp_atk": 49,
+    "sp_def": 65,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 9,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 12,
+      "move": "Synthesis"
+    },
+    {
+      "level": 17,
+      "move": "Reflect"
+    },
+    {
+      "level": 20,
+      "move": "Magical Leaf"
+    },
+    {
+      "level": 23,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 28,
+      "move": "Sweet Scent"
+    },
+    {
+      "level": 31,
+      "move": "Light Screen"
+    },
+    {
+      "level": 34,
+      "move": "Body Slam"
+    },
+    {
+      "level": 39,
+      "move": "Safeguard"
+    },
+    {
+      "level": 42,
+      "move": "Aromatherapy"
+    },
+    {
+      "level": 45,
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Paras",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Counter"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Flail"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Flail"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Snover",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Grassy Terrain"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leaf Storm"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Refresh"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Servine",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Vine Whip"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Servine",
+      "move": "Wring Out"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Wring Out"
+    }
+  ]
+}

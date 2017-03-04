@@ -1,0 +1,745 @@
+{
+  "names": {
+    "fr": "Altaria",
+    "de": "Altaria",
+    "it": "Altaria",
+    "en": "Altaria"
+  },
+  "national_id": 334,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Natural Cure"
+    },
+    {
+      "name": "Cloud Nine",
+      "hidden": true
+    },
+    {
+      "name": "Pixilate",
+      "mega": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Flying",
+    "Dragon"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
+  "weight_us": "45.4 lbs.",
+  "weight_eu": "20.6 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 70,
+    "def": 90,
+    "sp_atk": 70,
+    "sp_def": 105,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Sky Attack"
+    },
+    {
+      "level": 0,
+      "move": "Pluck"
+    },
+    {
+      "level": 0,
+      "move": "Peck"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Sing"
+    },
+    {
+      "level": 3,
+      "move": "Astonish"
+    },
+    {
+      "level": 5,
+      "move": "Sing"
+    },
+    {
+      "level": 7,
+      "move": "Fury Attack"
+    },
+    {
+      "level": 9,
+      "move": "Safeguard"
+    },
+    {
+      "level": 11,
+      "move": "Disarming Voice"
+    },
+    {
+      "level": 14,
+      "move": "Mist"
+    },
+    {
+      "level": 17,
+      "move": "Round"
+    },
+    {
+      "level": 20,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 23,
+      "move": "Take Down"
+    },
+    {
+      "level": 26,
+      "move": "Refresh"
+    },
+    {
+      "level": 30,
+      "move": "Dragon Dance"
+    },
+    {
+      "level": 34,
+      "move": "Cotton Guard"
+    },
+    {
+      "level": 35,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 40,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 46,
+      "move": "Perish Song"
+    },
+    {
+      "level": 52,
+      "move": "Moonblast"
+    },
+    {
+      "level": 59,
+      "move": "Sky Attack"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Agility"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Agility"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Agility"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Agility"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Agility"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Agility"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Agility"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Agility"
+    },
+    {
+      "parent": "Aerodactyl",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Agility"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Agility"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Agility"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Agility"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Agility"
+    },
+    {
+      "parent": "Taillow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Swellow",
+      "move": "Agility"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Agility"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Agility"
+    },
+    {
+      "parent": "Starly",
+      "move": "Agility"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Agility"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archen",
+      "move": "Agility"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Agility"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Agility"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Agility"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Agility"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Agility"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gible",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Rush"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Haze"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Haze"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Haze"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Haze"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Haze"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Haze"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Haze"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Hyper Voice"
+    },
+    {
+      "parent": "Deino",
+      "move": "Hyper Voice"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Hyper Voice"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Hyper Voice"
+    },
+    {
+      "parent": "Natu",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Rage"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Rage"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Rage"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Rage"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Rage"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    }
+  ]
+}

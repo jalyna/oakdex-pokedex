@@ -1,0 +1,601 @@
+{
+  "names": {
+    "fr": "Chapignon",
+    "de": "Kapilz",
+    "it": "Breloom",
+    "en": "Breloom"
+  },
+  "national_id": 286,
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Effect Spore"
+    },
+    {
+      "name": "Technician",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Fairy",
+    "Grass"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "86.4 lbs.",
+  "weight_eu": "39.2 kg",
+  "base_exp_yield": 161,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 130,
+    "def": 80,
+    "sp_atk": 60,
+    "sp_def": 60,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Absorb"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 0,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 8,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 12,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 15,
+      "move": "Headbutt"
+    },
+    {
+      "level": 19,
+      "move": "Feint"
+    },
+    {
+      "level": 22,
+      "move": "Counter"
+    },
+    {
+      "level": 23,
+      "move": "Mach Punch"
+    },
+    {
+      "level": 28,
+      "move": "Force Palm"
+    },
+    {
+      "level": 33,
+      "move": "Mind Reader"
+    },
+    {
+      "level": 39,
+      "move": "Sky Uppercut"
+    },
+    {
+      "level": 44,
+      "move": "Seed Bomb"
+    },
+    {
+      "level": 50,
+      "move": "Dynamic Punch"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Bullet Seed"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minun",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Clefable",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Audino",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Drain Punch"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Worry Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Worry Seed"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "names": {
+    "fr": "Nosferalto",
+    "de": "Golbat",
+    "it": "Golbat",
+    "en": "Golbat"
+  },
+  "national_id": 42,
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Inner Focus"
+    },
+    {
+      "name": "Infiltrator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "5'03\"",
+  "height_eu": "1.6 m",
+  "weight_us": "121.3 lbs.",
+  "weight_eu": "55.0 kg",
+  "base_exp_yield": 159,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 70,
+    "sp_atk": 65,
+    "sp_def": 75,
+    "speed": 90
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Screech"
+    },
+    {
+      "level": 0,
+      "move": "Leech Life"
+    },
+    {
+      "level": 0,
+      "move": "Supersonic"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 0,
+      "move": "Bite"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 7,
+      "move": "Astonish"
+    },
+    {
+      "level": 11,
+      "move": "Bite"
+    },
+    {
+      "level": 13,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 17,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 19,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 24,
+      "move": "Swift"
+    },
+    {
+      "level": 27,
+      "move": "Poison Fang"
+    },
+    {
+      "level": 32,
+      "move": "Mean Look"
+    },
+    {
+      "level": 35,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 40,
+      "move": "Haze"
+    },
+    {
+      "level": 43,
+      "move": "Venoshock"
+    },
+    {
+      "level": 48,
+      "move": "Air Slash"
+    },
+    {
+      "level": 51,
+      "move": "Quick Guard"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Starly",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Curse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Defog"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Defog"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Defog"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Defog"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Natu",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Gust"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Gust"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Gust"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Gust"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Taillow",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Swellow",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Starly",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Archen",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Quick Attack"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Venom Drench"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Starly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

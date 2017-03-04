@@ -1,0 +1,476 @@
+{
+  "names": {
+    "fr": "Spiritomb",
+    "de": "Kryppuk",
+    "it": "Spiritomb",
+    "en": "Spiritomb"
+  },
+  "national_id": 442,
+  "types": [
+    "Ghost",
+    "Dark"
+  ],
+  "abilities": [
+    {
+      "name": "Pressure"
+    },
+    {
+      "name": "Infiltrator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 100,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "238.1 lbs.",
+  "weight_eu": "108.0 kg",
+  "base_exp_yield": 170,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "sp_atk": 92,
+    "sp_def": 108,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Curse"
+    },
+    {
+      "level": 0,
+      "move": "Pursuit"
+    },
+    {
+      "level": 0,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 0,
+      "move": "Spite"
+    },
+    {
+      "level": 0,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 7,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 13,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 19,
+      "move": "Dream Eater"
+    },
+    {
+      "level": 25,
+      "move": "Ominous Wind"
+    },
+    {
+      "level": 31,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 37,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 43,
+      "move": "Memento"
+    },
+    {
+      "level": 49,
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM60",
+      "move": "Quash"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Banette",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Nightmare"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Banette",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Ralts",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Kirlia",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gardevoir",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Gallade",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Imprison"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Banette",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Shadow Sneak"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Smokescreen"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Smokescreen"
+    }
+  ]
+}

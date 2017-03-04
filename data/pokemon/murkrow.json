@@ -1,0 +1,728 @@
+{
+  "names": {
+    "fr": "Cornèbre",
+    "de": "Kramurx",
+    "it": "Murkrow",
+    "en": "Murkrow"
+  },
+  "national_id": 198,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Insomnia"
+    },
+    {
+      "name": "Prankster",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 30,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "4.6 lbs.",
+  "weight_eu": "2.1 kg",
+  "base_exp_yield": 81,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Black",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 42,
+    "sp_atk": 85,
+    "sp_def": 42,
+    "speed": 91
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Peck"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 5,
+      "move": "Pursuit"
+    },
+    {
+      "level": 11,
+      "move": "Haze"
+    },
+    {
+      "level": 15,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 21,
+      "move": "Night Shade"
+    },
+    {
+      "level": 25,
+      "move": "Assurance"
+    },
+    {
+      "level": 31,
+      "move": "Taunt"
+    },
+    {
+      "level": 35,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 41,
+      "move": "Mean Look"
+    },
+    {
+      "level": 45,
+      "move": "Foul Play"
+    },
+    {
+      "level": 50,
+      "move": "Tailwind"
+    },
+    {
+      "level": 55,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 61,
+      "move": "Torment"
+    },
+    {
+      "level": 65,
+      "move": "Quash"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM60",
+      "move": "Quash"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Assurance"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Starly",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Brave Bird"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Natu",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Confuse Ray"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Drill Peck"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Drill Peck"
+    },
+    {
+      "parent": "Doduo",
+      "move": "Drill Peck"
+    },
+    {
+      "parent": "Dodrio",
+      "move": "Drill Peck"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Feather Dance"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Flatter"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Perish Song"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Natu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Screech"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Screech"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Screech"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Screech"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Togekiss",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Sky Attack"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Starly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Aerodactyl",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Taillow",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Swellow",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Starly",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Staravia",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Staraptor",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Archen",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Wing Attack"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Wing Attack"
+    }
+  ]
+}

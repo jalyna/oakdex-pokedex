@@ -1,0 +1,403 @@
+{
+  "names": {
+    "fr": "Pomdepic",
+    "de": "Tannza",
+    "it": "Pineco",
+    "en": "Pineco"
+  },
+  "national_id": 204,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Overcoat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "15.9 lbs.",
+  "weight_eu": "7.2 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 90,
+    "sp_atk": 35,
+    "sp_def": 35,
+    "speed": 15
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Protect"
+    },
+    {
+      "level": 6,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 9,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 12,
+      "move": "Take Down"
+    },
+    {
+      "level": 17,
+      "move": "Rapid Spin"
+    },
+    {
+      "level": 20,
+      "move": "Bide"
+    },
+    {
+      "level": 23,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 28,
+      "move": "Spikes"
+    },
+    {
+      "level": 31,
+      "move": "Payback"
+    },
+    {
+      "level": 34,
+      "move": "Explosion"
+    },
+    {
+      "level": 39,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 42,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 45,
+      "move": "Double-Edge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Counter"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Endure"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Endure"
+    },
+    {
+      "parent": "Sewaddle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Pin Missile"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Power Trick"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Swift"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Swift"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Swift"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Toxic Spikes"
+    }
+  ]
+}

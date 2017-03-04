@@ -1,0 +1,607 @@
+{
+  "names": {
+    "fr": "Makuhita",
+    "de": "Makuhita",
+    "it": "Makuhita",
+    "en": "Makuhita"
+  },
+  "national_id": 296,
+  "types": [
+    "Fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat"
+    },
+    {
+      "name": "Sheer Force",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 75.0,
+    "female": 25.0
+  },
+  "catch_rate": 180,
+  "egg_groups": [
+    "Human-Like"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'03\"",
+  "height_eu": "1.0 m",
+  "weight_us": "190.5 lbs.",
+  "weight_eu": "86.4 kg",
+  "base_exp_yield": 47,
+  "leveling_rate": "Fluctuating",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 72,
+    "atk": 60,
+    "def": 30,
+    "sp_atk": 20,
+    "sp_def": 30,
+    "speed": 25
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 4,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 7,
+      "move": "Arm Thrust"
+    },
+    {
+      "level": 10,
+      "move": "Fake Out"
+    },
+    {
+      "level": 13,
+      "move": "Force Palm"
+    },
+    {
+      "level": 16,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 19,
+      "move": "Knock Off"
+    },
+    {
+      "level": 22,
+      "move": "Vital Throw"
+    },
+    {
+      "level": 25,
+      "move": "Belly Drum"
+    },
+    {
+      "level": 28,
+      "move": "Smelling Salts"
+    },
+    {
+      "level": 31,
+      "move": "Seismic Toss"
+    },
+    {
+      "level": 34,
+      "move": "Wake-Up Slap"
+    },
+    {
+      "level": 37,
+      "move": "Endure"
+    },
+    {
+      "level": 40,
+      "move": "Close Combat"
+    },
+    {
+      "level": 43,
+      "move": "Reversal"
+    },
+    {
+      "level": 46,
+      "move": "Heavy Slam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM47",
+      "move": "Low Sweep"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Bullet Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Chip Away"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Counter"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Counter"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Counter"
+    },
+    {
+      "parent": "Sawk",
+      "move": "Counter"
+    },
+    {
+      "parent": "Machop",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Cross Chop"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Detect"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Detect"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Detect"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Detect"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Detect"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Detect"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Detect"
+    },
+    {
+      "parent": "Hawlucha",
+      "move": "Detect"
+    },
+    {
+      "parent": "Machop",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Dynamic Punch"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Feint"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Feint"
+    },
+    {
+      "parent": "Meditite",
+      "move": "Feint"
+    },
+    {
+      "parent": "Medicham",
+      "move": "Feint"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Feint"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Feint"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Feint"
+    },
+    {
+      "parent": "Magmar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Magmortar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gothita",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gothorita",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gothitelle",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Pawniard",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Bisharp",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Focus Punch"
+    },
+    {
+      "parent": "Machop",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Sableye",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Foresight"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Machop",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Hitmonchan",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Croagunk",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Toxicroak",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Throh",
+      "move": "Revenge"
+    },
+    {
+      "parent": "Machop",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Machoke",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Makuhita",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Hariyama",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Timburr",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Gurdurr",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Conkeldurr",
+      "move": "Wake-Up Slap"
+    },
+    {
+      "parent": "Machamp",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Hitmonlee",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Mr. Mime",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Hitmontop",
+      "move": "Wide Guard"
+    },
+    {
+      "parent": "Throh",
+      "move": "Wide Guard"
+    }
+  ]
+}

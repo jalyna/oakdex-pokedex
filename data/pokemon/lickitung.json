@@ -1,0 +1,443 @@
+{
+  "names": {
+    "fr": "Excelangue",
+    "de": "Schlurp",
+    "it": "Lickitung",
+    "en": "Lickitung"
+  },
+  "national_id": 108,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Own Tempo"
+    },
+    {
+      "name": "Cloud Nine",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "144.4 lbs.",
+  "weight_eu": "65.5 kg",
+  "base_exp_yield": 77,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 2,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 90,
+    "atk": 55,
+    "def": 75,
+    "sp_atk": 60,
+    "sp_def": 75,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Lick"
+    },
+    {
+      "level": 5,
+      "move": "Supersonic"
+    },
+    {
+      "level": 9,
+      "move": "Defense Curl"
+    },
+    {
+      "level": 13,
+      "move": "Knock Off"
+    },
+    {
+      "level": 17,
+      "move": "Wrap"
+    },
+    {
+      "level": 21,
+      "move": "Stomp"
+    },
+    {
+      "level": 25,
+      "move": "Disable"
+    },
+    {
+      "level": 29,
+      "move": "Slam"
+    },
+    {
+      "level": 33,
+      "move": "Rollout"
+    },
+    {
+      "level": 37,
+      "move": "Chip Away"
+    },
+    {
+      "level": 41,
+      "move": "Me First"
+    },
+    {
+      "level": 45,
+      "move": "Refresh"
+    },
+    {
+      "level": 49,
+      "move": "Screech"
+    },
+    {
+      "level": 53,
+      "move": "Power Whip"
+    },
+    {
+      "level": 57,
+      "move": "Wring Out"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Belch"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Hammer Arm"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Magnitude"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Smelling Salts"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Snore"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

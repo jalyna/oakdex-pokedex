@@ -1,0 +1,1159 @@
+{
+  "names": {
+    "fr": "Goupix",
+    "de": "Vulpix",
+    "it": "Vulpix",
+    "en": "Vulpix"
+  },
+  "national_id": 37,
+  "types": [
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire"
+    },
+    {
+      "name": "Drought",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "21.8 lbs.",
+  "weight_eu": "9.9 kg",
+  "base_exp_yield": 60,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "sp_atk": 50,
+    "sp_def": 65,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 4,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 7,
+      "move": "Roar"
+    },
+    {
+      "level": 9,
+      "move": "Baby-Doll Eyes"
+    },
+    {
+      "level": 10,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 12,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 15,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 18,
+      "move": "Payback"
+    },
+    {
+      "level": 20,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 23,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 26,
+      "move": "Hex"
+    },
+    {
+      "level": 28,
+      "move": "Flame Burst"
+    },
+    {
+      "level": 31,
+      "move": "Extrasensory"
+    },
+    {
+      "level": 34,
+      "move": "Safeguard"
+    },
+    {
+      "level": 36,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 39,
+      "move": "Imprison"
+    },
+    {
+      "level": 42,
+      "move": "Fire Blast"
+    },
+    {
+      "level": 44,
+      "move": "Grudge"
+    },
+    {
+      "level": 47,
+      "move": "Captivate"
+    },
+    {
+      "level": 50,
+      "move": "Inferno"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Persian",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Disable"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Disable"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Persian",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Flail"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Flail"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Flail"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Flail"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Flail"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Flail"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Flail"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Flail"
+    },
+    {
+      "parent": "Bunnelby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Diggersby",
+      "move": "Flail"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Ponyta",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Rapidash",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Combusken",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Blaziken",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Flare Blitz"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Hex"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Howl"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Howl"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Howl"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Howl"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Howl"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Howl"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Howl"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Howl"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Howl"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Howl"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Howl"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Howl"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Munna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Hypnosis"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Power Swap"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Persian",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ponyta",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Rapidash",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Seel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Furret",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mareep",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Flaaffy",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ampharos",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Torchic",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Combusken",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Blaziken",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Numel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Absol",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Stunky",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skuntank",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Spite"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tail Slap"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tail Slap"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "names": {
+    "fr": "Yanma",
+    "de": "Yanma",
+    "it": "Yanma",
+    "en": "Yanma"
+  },
+  "national_id": 193,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Speed Boost"
+    },
+    {
+      "name": "Frisk",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "83.8 lbs.",
+  "weight_eu": "38.0 kg",
+  "base_exp_yield": 78,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 45,
+    "sp_atk": 75,
+    "sp_def": 45,
+    "speed": 95
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Foresight"
+    },
+    {
+      "level": 6,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 11,
+      "move": "Double Team"
+    },
+    {
+      "level": 14,
+      "move": "Sonic Boom"
+    },
+    {
+      "level": 17,
+      "move": "Detect"
+    },
+    {
+      "level": 22,
+      "move": "Supersonic"
+    },
+    {
+      "level": 27,
+      "move": "Uproar"
+    },
+    {
+      "level": 30,
+      "move": "Pursuit"
+    },
+    {
+      "level": 33,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 38,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 43,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 46,
+      "move": "Screech"
+    },
+    {
+      "level": 49,
+      "move": "U-turn"
+    },
+    {
+      "level": 54,
+      "move": "Air Slash"
+    },
+    {
+      "level": 57,
+      "move": "Bug Buzz"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Karrablast",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Feint"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Feint"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Feint"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Feint"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Paras",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Shelmet",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Larvesta",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Leech Life"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Paras",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pinsir",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Pineco",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shuckle",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Trapinch",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Whirlwind"
+    }
+  ]
+}

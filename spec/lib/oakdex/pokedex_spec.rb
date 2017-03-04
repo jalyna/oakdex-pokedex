@@ -44,4 +44,21 @@ describe Oakdex::Pokedex do
       expect(described_class.find_move('Foo')).to be_nil
     end
   end
+
+  describe '.find_pokemon' do
+    it 'returns pokemon' do
+      pokemon = described_class.find_pokemon('Bulbasaur')
+      expect(pokemon).to be_instance_of(Oakdex::Pokedex::Pokemon)
+    end
+
+    it 'returns pokemon by national id' do
+      pokemon = described_class.find_pokemon(4)
+      expect(pokemon).to be_instance_of(Oakdex::Pokedex::Pokemon)
+      expect(pokemon.name).to eq('Charmander')
+    end
+
+    it 'returns nil if pokemon does not exist' do
+      expect(described_class.find_pokemon('Foo')).to be_nil
+    end
+  end
 end

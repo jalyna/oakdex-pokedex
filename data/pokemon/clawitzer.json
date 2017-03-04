@@ -1,0 +1,384 @@
+{
+  "names": {
+    "fr": "Gamblast",
+    "de": "Wummer",
+    "it": "Clawitzer",
+    "en": "Clawitzer"
+  },
+  "national_id": 693,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Mega Launcher"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 55,
+  "egg_groups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "77.8 lbs.",
+  "weight_eu": "35.3 kg",
+  "base_exp_yield": 100,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 71,
+    "atk": 73,
+    "def": 88,
+    "sp_atk": 120,
+    "sp_def": 89,
+    "speed": 59
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Heal Pulse"
+    },
+    {
+      "level": 0,
+      "move": "Dark Pulse"
+    },
+    {
+      "level": 0,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 0,
+      "move": "Aura Sphere"
+    },
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 7,
+      "move": "Water Sport"
+    },
+    {
+      "level": 9,
+      "move": "Vice Grip"
+    },
+    {
+      "level": 12,
+      "move": "Bubble"
+    },
+    {
+      "level": 16,
+      "move": "Flail"
+    },
+    {
+      "level": 20,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 25,
+      "move": "Swords Dance"
+    },
+    {
+      "level": 30,
+      "move": "Crabhammer"
+    },
+    {
+      "level": 34,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 42,
+      "move": "Smack Down"
+    },
+    {
+      "level": 47,
+      "move": "Aqua Jet"
+    },
+    {
+      "level": 53,
+      "move": "Muddy Water"
+    },
+    {
+      "level": 57,
+      "move": "Dark Pulse"
+    },
+    {
+      "level": 63,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 67,
+      "move": "Aura Sphere"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Aqua Jet"
+    },
+    {
+      "parent": "Krabby",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Kingler",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Corphish",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Crabhammer"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Endure"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Endure"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Endure"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Seel",
+      "move": "Entrainment"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Helping Hand"
+    }
+  ]
+}

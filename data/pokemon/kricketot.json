@@ -1,0 +1,79 @@
+{
+  "names": {
+    "fr": "Crikzik",
+    "de": "Zirpurze",
+    "it": "Kricketot",
+    "en": "Kricketot"
+  },
+  "national_id": 401,
+  "types": [
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Shed Skin"
+    },
+    {
+      "name": "Run Away",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "4.9 lbs.",
+  "weight_eu": "2.2 kg",
+  "base_exp_yield": 39,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 37,
+    "atk": 25,
+    "def": 41,
+    "sp_atk": 25,
+    "sp_def": 41,
+    "speed": 25
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 0,
+      "move": "Bide"
+    },
+    {
+      "level": 6,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 16,
+      "move": "Bug Bite"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    }
+  ]
+}

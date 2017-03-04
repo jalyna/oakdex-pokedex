@@ -1,0 +1,447 @@
+{
+  "names": {
+    "fr": "Sapereau",
+    "de": "Scoppel",
+    "it": "Bunnelby",
+    "en": "Bunnelby"
+  },
+  "national_id": 659,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Pickup"
+    },
+    {
+      "name": "Huge Power",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "11.0 lbs.",
+  "weight_eu": "5.0 kg",
+  "base_exp_yield": 47,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Brown",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 38,
+    "atk": 36,
+    "def": 38,
+    "sp_atk": 32,
+    "sp_def": 36,
+    "speed": 57
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Agility"
+    },
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 7,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 10,
+      "move": "Double Slap"
+    },
+    {
+      "level": 13,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 15,
+      "move": "Take Down"
+    },
+    {
+      "level": 18,
+      "move": "Mud Shot"
+    },
+    {
+      "level": 20,
+      "move": "Double Kick"
+    },
+    {
+      "level": 25,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 29,
+      "move": "Flail"
+    },
+    {
+      "level": 33,
+      "move": "Dig"
+    },
+    {
+      "level": 38,
+      "move": "Bounce"
+    },
+    {
+      "level": 42,
+      "move": "Super Fang"
+    },
+    {
+      "level": 47,
+      "move": "Facade"
+    },
+    {
+      "level": 49,
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM08",
+      "move": "Bulk Up"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Furret",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Munna",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sandshrew",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Sandslash",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Cyndaquil",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Quilava",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Typhlosion",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Tepig",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Pignite",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Emboar",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Chespin",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Quilladin",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Chesnaught",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Spikes"
+    }
+  ]
+}

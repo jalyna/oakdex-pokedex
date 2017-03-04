@@ -1,0 +1,489 @@
+{
+  "names": {
+    "fr": "Couaneton",
+    "de": "Piccolente",
+    "it": "Ducklett",
+    "en": "Ducklett"
+  },
+  "national_id": 580,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Hydration",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 1",
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "12.1 lbs.",
+  "weight_eu": "5.5 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 62,
+    "atk": 44,
+    "def": 50,
+    "sp_atk": 44,
+    "sp_def": 50,
+    "speed": 55
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 3,
+      "move": "Water Sport"
+    },
+    {
+      "level": 6,
+      "move": "Defog"
+    },
+    {
+      "level": 9,
+      "move": "Wing Attack"
+    },
+    {
+      "level": 13,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 15,
+      "move": "Aerial Ace"
+    },
+    {
+      "level": 19,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 21,
+      "move": "Feather Dance"
+    },
+    {
+      "level": 24,
+      "move": "Aqua Ring"
+    },
+    {
+      "level": 27,
+      "move": "Air Slash"
+    },
+    {
+      "level": 30,
+      "move": "Roost"
+    },
+    {
+      "level": 34,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 37,
+      "move": "Tailwind"
+    },
+    {
+      "level": 41,
+      "move": "Brave Bird"
+    },
+    {
+      "level": 46,
+      "move": "Hurricane"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Air Cutter"
+    },
+    {
+      "parent": "Seel",
+      "move": "Brine"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Brine"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Brine"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Brine"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Brine"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Brine"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Brine"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Brine"
+    },
+    {
+      "parent": "Empoleon",
+      "move": "Brine"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Brine"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Brine"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Brine"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Gust"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Gust"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Gust"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Gust"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Gust"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Gust"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Gust"
+    },
+    {
+      "parent": "Natu",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Natu",
+      "move": "Me First"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Me First"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Me First"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Me First"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Me First"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Swablu",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Mirror Move"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    }
+  ]
+}

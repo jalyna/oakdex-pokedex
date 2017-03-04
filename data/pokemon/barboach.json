@@ -1,0 +1,408 @@
+{
+  "names": {
+    "fr": "Barloche",
+    "de": "Schmerbe",
+    "it": "Barboach",
+    "en": "Barboach"
+  },
+  "national_id": 339,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious"
+    },
+    {
+      "name": "Hydration",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "4.2 lbs.",
+  "weight_eu": "1.9 kg",
+  "base_exp_yield": 58,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 48,
+    "def": 43,
+    "sp_atk": 46,
+    "sp_def": 41,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Mud-Slap"
+    },
+    {
+      "level": 6,
+      "move": "Mud Sport"
+    },
+    {
+      "level": 6,
+      "move": "Water Sport"
+    },
+    {
+      "level": 9,
+      "move": "Water Gun"
+    },
+    {
+      "level": 13,
+      "move": "Mud Bomb"
+    },
+    {
+      "level": 15,
+      "move": "Amnesia"
+    },
+    {
+      "level": 17,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 20,
+      "move": "Magnitude"
+    },
+    {
+      "level": 25,
+      "move": "Rest"
+    },
+    {
+      "level": 25,
+      "move": "Snore"
+    },
+    {
+      "level": 28,
+      "move": "Aqua Tail"
+    },
+    {
+      "level": 32,
+      "move": "Earthquake"
+    },
+    {
+      "level": 35,
+      "move": "Muddy Water"
+    },
+    {
+      "level": 39,
+      "move": "Future Sight"
+    },
+    {
+      "level": 44,
+      "move": "Fissure"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Earth Power"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Hydro Pump"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Muddy Water"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Spark"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Spark"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Qwilfish",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Carvanha",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Sharpedo",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Take Down"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Whirlpool"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Whirlpool"
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "names": {
+    "fr": "Carmache",
+    "de": "Knarksel",
+    "it": "Gabite",
+    "en": "Gabite"
+  },
+  "national_id": 444,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Sand Veil"
+    },
+    {
+      "name": "Rough Skin",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Dragon"
+  ],
+  "hatch_time": [
+    10455,
+    10709
+  ],
+  "height_us": "4'07\"",
+  "height_eu": "1.4 m",
+  "weight_us": "123.5 lbs.",
+  "weight_eu": "56.0 kg",
+  "base_exp_yield": 144,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 68,
+    "atk": 90,
+    "def": 65,
+    "sp_atk": 50,
+    "sp_def": 55,
+    "speed": 82
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 3,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 7,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 13,
+      "move": "Sandstorm"
+    },
+    {
+      "level": 15,
+      "move": "Take Down"
+    },
+    {
+      "level": 19,
+      "move": "Sand Tomb"
+    },
+    {
+      "level": 24,
+      "move": "Dual Chop"
+    },
+    {
+      "level": 28,
+      "move": "Slash"
+    },
+    {
+      "level": 33,
+      "move": "Dragon Claw"
+    },
+    {
+      "level": 40,
+      "move": "Dig"
+    },
+    {
+      "level": 49,
+      "move": "Dragon Rush"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Deino",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Deino",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goomy",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Sliggoo",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Dragon Breath"
+    },
+    {
+      "parent": "Aron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Iron Head"
+    },
+    {
+      "parent": "Aron",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Aron",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Metal Claw"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Axew",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Deino",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Goodra",
+      "move": "Outrage"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Gible",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Gabite",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Sand Tomb"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Bagon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Shelgon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Axew",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Deino",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Zweilous",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Hydreigon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Thrash"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Twister"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Twister"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Twister"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Twister"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Twister"
+    }
+  ]
+}

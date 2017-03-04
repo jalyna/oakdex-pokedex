@@ -1,0 +1,643 @@
+{
+  "names": {
+    "fr": "Chacripan",
+    "de": "Felilou",
+    "it": "Purrloin",
+    "en": "Purrloin"
+  },
+  "national_id": 509,
+  "types": [
+    "Dark"
+  ],
+  "abilities": [
+    {
+      "name": "Limber"
+    },
+    {
+      "name": "Prankster",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "22.3 lbs.",
+  "weight_eu": "10.1 kg",
+  "base_exp_yield": 56,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 41,
+    "atk": 50,
+    "def": 37,
+    "sp_atk": 50,
+    "sp_def": 37,
+    "speed": 66
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Scratch"
+    },
+    {
+      "level": 3,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Assist"
+    },
+    {
+      "level": 10,
+      "move": "Sand Attack"
+    },
+    {
+      "level": 12,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 15,
+      "move": "Pursuit"
+    },
+    {
+      "level": 19,
+      "move": "Torment"
+    },
+    {
+      "level": 21,
+      "move": "Fake Out"
+    },
+    {
+      "level": 24,
+      "move": "Hone Claws"
+    },
+    {
+      "level": 28,
+      "move": "Assurance"
+    },
+    {
+      "level": 30,
+      "move": "Slash"
+    },
+    {
+      "level": 33,
+      "move": "Captivate"
+    },
+    {
+      "level": 37,
+      "move": "Night Slash"
+    },
+    {
+      "level": 39,
+      "move": "Snatch"
+    },
+    {
+      "level": 42,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 46,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 49,
+      "move": "Play Rough"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Charm"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Copycat"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Copycat"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Covet"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Covet"
+    },
+    {
+      "parent": "Seel",
+      "move": "Encore"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Encore"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Encore"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Encore"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Encore"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Encore"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Encore"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Encore"
+    },
+    {
+      "parent": "Oshawott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Dewott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Samurott",
+      "move": "Encore"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Encore"
+    },
+    {
+      "parent": "Emolga",
+      "move": "Encore"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Persian",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Scraggy",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Scrafty",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Feint Attack"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Foul Play"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Pay Day"
+    },
+    {
+      "parent": "Persian",
+      "move": "Pay Day"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippopotas",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Yawn"
+    },
+    {
+      "parent": "Munna",
+      "move": "Yawn"
+    }
+  ]
+}

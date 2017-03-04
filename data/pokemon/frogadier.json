@@ -1,0 +1,411 @@
+{
+  "names": {
+    "fr": "Croâporal",
+    "de": "Amphizel",
+    "it": "Frogadier",
+    "en": "Frogadier"
+  },
+  "national_id": 657,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent"
+    },
+    {
+      "name": "Protean",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "24.0 lbs.",
+  "weight_eu": "10.9 kg",
+  "base_exp_yield": 142,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 54,
+    "atk": 63,
+    "def": 52,
+    "sp_atk": 83,
+    "sp_def": 56,
+    "speed": 97
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Pound"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 5,
+      "move": "Bubble"
+    },
+    {
+      "level": 8,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 10,
+      "move": "Lick"
+    },
+    {
+      "level": 14,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 20,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 23,
+      "move": "Round"
+    },
+    {
+      "level": 28,
+      "move": "Fling"
+    },
+    {
+      "level": 33,
+      "move": "Smack Down"
+    },
+    {
+      "level": 38,
+      "move": "Substitute"
+    },
+    {
+      "level": 44,
+      "move": "Bounce"
+    },
+    {
+      "level": 48,
+      "move": "Double Team"
+    },
+    {
+      "level": 55,
+      "move": "Hydro Pump"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Bestow"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Seel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Marill",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Piplup",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Prinplup",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Sport"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Sport"
+    }
+  ]
+}

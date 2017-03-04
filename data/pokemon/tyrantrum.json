@@ -1,0 +1,513 @@
+{
+  "names": {
+    "fr": "Rexillius",
+    "de": "Monargoras",
+    "it": "Tyrantrum",
+    "en": "Tyrantrum"
+  },
+  "national_id": 697,
+  "types": [
+    "Rock",
+    "Dragon"
+  ],
+  "abilities": [
+    {
+      "name": "Strong Jaw"
+    },
+    {
+      "name": "Rock Head",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Dragon"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "8'02\"",
+  "height_eu": "2.5 m",
+  "weight_us": "595.2 lbs.",
+  "weight_eu": "270.0 kg",
+  "base_exp_yield": 182,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "sp_atk": 69,
+    "sp_def": 59,
+    "speed": 71
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Head Smash"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 6,
+      "move": "Roar"
+    },
+    {
+      "level": 10,
+      "move": "Stomp"
+    },
+    {
+      "level": 12,
+      "move": "Bide"
+    },
+    {
+      "level": 15,
+      "move": "Stealth Rock"
+    },
+    {
+      "level": 17,
+      "move": "Bite"
+    },
+    {
+      "level": 20,
+      "move": "Charm"
+    },
+    {
+      "level": 26,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 30,
+      "move": "Dragon Tail"
+    },
+    {
+      "level": 34,
+      "move": "Crunch"
+    },
+    {
+      "level": 37,
+      "move": "Dragon Claw"
+    },
+    {
+      "level": 42,
+      "move": "Thrash"
+    },
+    {
+      "level": 47,
+      "move": "Earthquake"
+    },
+    {
+      "level": 53,
+      "move": "Horn Drill"
+    },
+    {
+      "level": 58,
+      "move": "Head Smash"
+    },
+    {
+      "level": 68,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 75,
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM02",
+      "move": "Dragon Claw"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dratini",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonair",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Dragonite",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Altaria",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Axew",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Dragon Dance"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Garchomp",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Gyarados",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Ice Fang"
+    },
+    {
+      "parent": "Seviper",
+      "move": "Poison Fang"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Aron",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Shieldon",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Amaura",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Aurorus",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Rock Polish"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Salamence",
+      "move": "Thunder Fang"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "names": {
+    "fr": "Groret",
+    "de": "Groink",
+    "it": "Grumpig",
+    "en": "Grumpig"
+  },
+  "national_id": 326,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Thick Fat"
+    },
+    {
+      "name": "Gluttony",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "157.6 lbs.",
+  "weight_eu": "71.5 kg",
+  "base_exp_yield": 165,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 80,
+    "atk": 45,
+    "def": 65,
+    "sp_atk": 90,
+    "sp_def": 110,
+    "speed": 80
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 0,
+      "move": "Psywave"
+    },
+    {
+      "level": 0,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 0,
+      "move": "Psybeam"
+    },
+    {
+      "level": 7,
+      "move": "Psywave"
+    },
+    {
+      "level": 10,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 14,
+      "move": "Psybeam"
+    },
+    {
+      "level": 15,
+      "move": "Psych Up"
+    },
+    {
+      "level": 18,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 21,
+      "move": "Magic Coat"
+    },
+    {
+      "level": 26,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 29,
+      "move": "Power Gem"
+    },
+    {
+      "level": 32,
+      "move": "Teeter Dance"
+    },
+    {
+      "level": 35,
+      "move": "Rest"
+    },
+    {
+      "level": 35,
+      "move": "Snore"
+    },
+    {
+      "level": 42,
+      "move": "Psyshock"
+    },
+    {
+      "level": 46,
+      "move": "Payback"
+    },
+    {
+      "level": 52,
+      "move": "Psychic"
+    },
+    {
+      "level": 60,
+      "move": "Bounce"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM31",
+      "move": "Brick Break"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM52",
+      "move": "Focus Blast"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM98",
+      "move": "Power-Up Punch"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Furret",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Numel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Camerupt",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bidoof",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Amnesia"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Endure"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Endure"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Endure"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Endure"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Endure"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Endure"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Endure"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Endure"
+    },
+    {
+      "parent": "Beartic",
+      "move": "Endure"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Extrasensory"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Absol",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Munna",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Munna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Musharna",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Lucky Chant"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Mirror Coat"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Simple Beam"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Trick"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Whirlwind"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Munna",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

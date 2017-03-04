@@ -1,0 +1,584 @@
+{
+  "names": {
+    "fr": "Ceribou",
+    "de": "Kikugi",
+    "it": "Cherubi",
+    "en": "Cherubi"
+  },
+  "national_id": 420,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Fairy",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "7.3 lbs.",
+  "weight_eu": "3.3 kg",
+  "base_exp_yield": 55,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 45,
+    "sp_atk": 62,
+    "sp_def": 53,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Morning Sun"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 7,
+      "move": "Growth"
+    },
+    {
+      "level": 10,
+      "move": "Leech Seed"
+    },
+    {
+      "level": 13,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 19,
+      "move": "Magical Leaf"
+    },
+    {
+      "level": 22,
+      "move": "Sunny Day"
+    },
+    {
+      "level": 28,
+      "move": "Worry Seed"
+    },
+    {
+      "level": 31,
+      "move": "Take Down"
+    },
+    {
+      "level": 37,
+      "move": "Solar Beam"
+    },
+    {
+      "level": 40,
+      "move": "Lucky Chant"
+    },
+    {
+      "level": 47,
+      "move": "Petal Blizzard"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Paras",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Aromatherapy"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Wigglytuff",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Marill",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Flower Shield"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Snover",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Grass Whistle"
+    },
+    {
+      "parent": "Audino",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Heal Pulse"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Healing Wish"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Snover",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Jigglypuff",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Marill",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Seed Bomb"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Spritzee",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Aromatisse",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Weather Ball"
+    }
+  ]
+}

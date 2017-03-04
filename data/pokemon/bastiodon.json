@@ -1,0 +1,636 @@
+{
+  "names": {
+    "fr": "Bastiodon",
+    "de": "Bollterus",
+    "it": "Bastiodon",
+    "en": "Bastiodon"
+  },
+  "national_id": 411,
+  "types": [
+    "Rock",
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    },
+    {
+      "name": "Soundproof",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster"
+  ],
+  "hatch_time": [
+    7905,
+    8159
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "329.6 lbs.",
+  "weight_eu": "149.5 kg",
+  "base_exp_yield": 173,
+  "leveling_rate": "Erratic",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 60,
+    "atk": 52,
+    "def": 168,
+    "sp_atk": 47,
+    "sp_def": 138,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Protect"
+    },
+    {
+      "level": 0,
+      "move": "Taunt"
+    },
+    {
+      "level": 0,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 6,
+      "move": "Taunt"
+    },
+    {
+      "level": 10,
+      "move": "Metal Sound"
+    },
+    {
+      "level": 15,
+      "move": "Take Down"
+    },
+    {
+      "level": 19,
+      "move": "Iron Defense"
+    },
+    {
+      "level": 24,
+      "move": "Swagger"
+    },
+    {
+      "level": 28,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 30,
+      "move": "Block"
+    },
+    {
+      "level": 36,
+      "move": "Endure"
+    },
+    {
+      "level": 43,
+      "move": "Metal Burst"
+    },
+    {
+      "level": 51,
+      "move": "Iron Head"
+    },
+    {
+      "level": 58,
+      "move": "Heavy Slam"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Body Slam"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Counter"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Counter"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Counter"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Curse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Curse"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Curse"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Curse"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Curse"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Curse"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Bergmite",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Avalugg",
+      "move": "Double-Edge"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Fissure"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Nidoking",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Focus Energy"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Guard Split"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Cubone",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Marowak",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Aron",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Lairon",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Aggron",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Headbutt"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Charmander",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Charmeleon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Charizard",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Axew",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Fraxure",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Haxorus",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Druddigon",
+      "move": "Scary Face"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Screech"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Screech"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Screech"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Screech"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Screech"
+    },
+    {
+      "parent": "Larvitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Pupitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tyranitar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Treecko",
+      "move": "Screech"
+    },
+    {
+      "parent": "Grovyle",
+      "move": "Screech"
+    },
+    {
+      "parent": "Sceptile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Screech"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Screech"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Screech"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Screech"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Wide Guard"
+    }
+  ]
+}

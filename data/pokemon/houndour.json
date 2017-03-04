@@ -1,0 +1,804 @@
+{
+  "names": {
+    "fr": "Malosse",
+    "de": "Hunduster",
+    "it": "Houndour",
+    "en": "Houndour"
+  },
+  "national_id": 228,
+  "types": [
+    "Dark",
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Early Bird"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 120,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00″",
+  "height_eu": "0.6 m",
+  "weight_us": "23.8 lbs.",
+  "weight_eu": "10.8 kg",
+  "base_exp_yield": 66,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 35,
+  "base_stats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 30,
+    "sp_atk": 80,
+    "sp_def": 50,
+    "speed": 65
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Leer"
+    },
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 4,
+      "move": "Howl"
+    },
+    {
+      "level": 8,
+      "move": "Smog"
+    },
+    {
+      "level": 13,
+      "move": "Roar"
+    },
+    {
+      "level": 16,
+      "move": "Bite"
+    },
+    {
+      "level": 20,
+      "move": "Odor Sleuth"
+    },
+    {
+      "level": 25,
+      "move": "Beat Up"
+    },
+    {
+      "level": 28,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 32,
+      "move": "Feint Attack"
+    },
+    {
+      "level": 37,
+      "move": "Embargo"
+    },
+    {
+      "level": 40,
+      "move": "Foul Play"
+    },
+    {
+      "level": 44,
+      "move": "Flamethrower"
+    },
+    {
+      "level": 49,
+      "move": "Crunch"
+    },
+    {
+      "level": 52,
+      "move": "Nasty Plot"
+    },
+    {
+      "level": 56,
+      "move": "Inferno"
+    },
+    {
+      "tm": "TM05",
+      "move": "Roar"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM95",
+      "move": "Snarl"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Sneasel",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Weavile",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Beat Up"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Counter"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Counter"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Counter"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Counter"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Feint"
+    },
+    {
+      "parent": "Persian",
+      "move": "Feint"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Feint"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Feint"
+    },
+    {
+      "parent": "Absol",
+      "move": "Feint"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Feint"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Feint"
+    },
+    {
+      "parent": "Stunky",
+      "move": "Feint"
+    },
+    {
+      "parent": "Skuntank",
+      "move": "Feint"
+    },
+    {
+      "parent": "Lucario",
+      "move": "Feint"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Litleo",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Pyroar",
+      "move": "Fire Fang"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Ponyta",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Rapidash",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Torchic",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Combusken",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Blaziken",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Torkoal",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Heatmor",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Fennekin",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Braixen",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Delphox",
+      "move": "Fire Spin"
+    },
+    {
+      "parent": "Ninetales",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Persian",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndour",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Chimchar",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Monferno",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Nasty Plot"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Infernape",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Zoroark",
+      "move": "Punishment"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Zangoose",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Absol",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Primeape",
+      "move": "Rage"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Rage"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Rage"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Rage"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Rage"
+    },
+    {
+      "parent": "Sandile",
+      "move": "Rage"
+    },
+    {
+      "parent": "Krokorok",
+      "move": "Rage"
+    },
+    {
+      "parent": "Krookodile",
+      "move": "Rage"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Rage"
+    },
+    {
+      "parent": "Darmanitan",
+      "move": "Rage"
+    },
+    {
+      "parent": "Bouffalant",
+      "move": "Rage"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Bouffalant",
+      "move": "Reversal"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Spite"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Furret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Absol",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Arcanine",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Houndoom",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Donphan",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Electrike",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Manectric",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Shinx",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxio",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Luxray",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Hippowdon",
+      "move": "Thunder Fang"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Thunder Fang"
+    }
+  ]
+}

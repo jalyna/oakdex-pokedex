@@ -1,0 +1,493 @@
+{
+  "names": {
+    "fr": "Ramoloss",
+    "de": "Flegmon",
+    "it": "Slowpoke",
+    "en": "Slowpoke"
+  },
+  "national_id": 79,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Oblivious"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Monster",
+    "Water 1"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "79.4 lbs.",
+  "weight_eu": "36.0 kg",
+  "base_exp_yield": 63,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Pink",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 90,
+    "atk": 65,
+    "def": 65,
+    "sp_atk": 40,
+    "sp_def": 40,
+    "speed": 15
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Curse"
+    },
+    {
+      "level": 0,
+      "move": "Yawn"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 5,
+      "move": "Growl"
+    },
+    {
+      "level": 9,
+      "move": "Water Gun"
+    },
+    {
+      "level": 14,
+      "move": "Confusion"
+    },
+    {
+      "level": 19,
+      "move": "Disable"
+    },
+    {
+      "level": 23,
+      "move": "Headbutt"
+    },
+    {
+      "level": 28,
+      "move": "Water Pulse"
+    },
+    {
+      "level": 32,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 36,
+      "move": "Slack Off"
+    },
+    {
+      "level": 41,
+      "move": "Amnesia"
+    },
+    {
+      "level": 45,
+      "move": "Psychic"
+    },
+    {
+      "level": 49,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 54,
+      "move": "Psych Up"
+    },
+    {
+      "level": 58,
+      "move": "Heal Pulse"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Seel",
+      "move": "Belch"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Poliwrath",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Politoed",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Belly Drum"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Block"
+    },
+    {
+      "parent": "Bastiodon",
+      "move": "Block"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Delibird",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Me First"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Me First"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Sport"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Sleep Talk"
+    },
+    {
+      "parent": "Snorlax",
+      "move": "Snore"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Snore"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Snore"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Snore"
+    },
+    {
+      "parent": "Lickitung",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Lickilicky",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhydon",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Rhyperior",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrunt",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Tyrantrum",
+      "move": "Stomp"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Wonder Room"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Wonder Room"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Cranidos",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Rampardos",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

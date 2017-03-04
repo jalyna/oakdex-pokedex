@@ -1,0 +1,748 @@
+{
+  "names": {
+    "fr": "Octillery",
+    "de": "Octillery",
+    "it": "Octillery",
+    "en": "Octillery"
+  },
+  "national_id": 224,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Suction Cups"
+    },
+    {
+      "name": "Moody",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "62.8 lbs.",
+  "weight_eu": "28.5 kg",
+  "base_exp_yield": 168,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 105,
+    "def": 75,
+    "sp_atk": 105,
+    "sp_def": 75,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Gunk Shot"
+    },
+    {
+      "level": 0,
+      "move": "Rock Blast"
+    },
+    {
+      "level": 0,
+      "move": "Water Gun"
+    },
+    {
+      "level": 0,
+      "move": "Constrict"
+    },
+    {
+      "level": 0,
+      "move": "Psybeam"
+    },
+    {
+      "level": 0,
+      "move": "Aurora Beam"
+    },
+    {
+      "level": 6,
+      "move": "Constrict"
+    },
+    {
+      "level": 10,
+      "move": "Psybeam"
+    },
+    {
+      "level": 14,
+      "move": "Aurora Beam"
+    },
+    {
+      "level": 18,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 22,
+      "move": "Focus Energy"
+    },
+    {
+      "level": 25,
+      "move": "Octazooka"
+    },
+    {
+      "level": 28,
+      "move": "Wring Out"
+    },
+    {
+      "level": 34,
+      "move": "Signal Beam"
+    },
+    {
+      "level": 40,
+      "move": "Ice Beam"
+    },
+    {
+      "level": 46,
+      "move": "Bullet Seed"
+    },
+    {
+      "level": 52,
+      "move": "Hydro Pump"
+    },
+    {
+      "level": 58,
+      "move": "Hyper Beam"
+    },
+    {
+      "level": 64,
+      "move": "Soak"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM34",
+      "move": "Sludge Wave"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "tm": "HM05",
+      "move": "Waterfall"
+    },
+    {
+      "tm": "HM07",
+      "move": "Dive"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Acid Spray"
+    },
+    {
+      "parent": "Seel",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Dewgong",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Aurora Beam"
+    },
+    {
+      "parent": "Seel",
+      "move": "Entrainment"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Flail"
+    },
+    {
+      "parent": "Magikarp",
+      "move": "Flail"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Flail"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Flail"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Flail"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feebas",
+      "move": "Flail"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Flail"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Flail"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Basculin",
+      "move": "Flail"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Flail"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Flail"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Flail"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Haze"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Haze"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Haze"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Haze"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabuto",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Kabutops",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Mud Shot"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Octazooka"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Screech"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Screech"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Screech"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Screech"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Screech"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Screech"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Snore"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Snore"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Snore"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Snore"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Snore"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Chinchou",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Lanturn",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Supersonic"
+    },
+    {
+      "parent": "Crawdaunt",
+      "move": "Swift"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Swift"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Swift"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Goldeen",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Seaking",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Mantine",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Barboach",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Whiscash",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Huntail",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gorebyss",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Luvdisc",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Shellos",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Gastrodon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Finneon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Lumineon",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Alomomola",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Froakie",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Frogadier",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Greninja",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Pulse"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Water Spout"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Water Spout"
+    }
+  ]
+}

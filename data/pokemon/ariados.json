@@ -1,0 +1,484 @@
+{
+  "names": {
+    "fr": "Migalos",
+    "de": "Ariados",
+    "it": "Ariados",
+    "en": "Ariados"
+  },
+  "national_id": 168,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Sniper",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 90,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'07″",
+  "height_eu": "1.1 m",
+  "weight_us": "73.9 lbs.",
+  "weight_eu": "33.5 kg",
+  "base_exp_yield": 137,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 70,
+    "sp_atk": 60,
+    "sp_def": 60,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Venom Drench"
+    },
+    {
+      "level": 0,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 0,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 0,
+      "move": "Poison Sting"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 0,
+      "move": "Scary Face"
+    },
+    {
+      "level": 0,
+      "move": "Constrict"
+    },
+    {
+      "level": 5,
+      "move": "Scary Face"
+    },
+    {
+      "level": 8,
+      "move": "Constrict"
+    },
+    {
+      "level": 12,
+      "move": "Leech Life"
+    },
+    {
+      "level": 15,
+      "move": "Night Shade"
+    },
+    {
+      "level": 19,
+      "move": "Shadow Sneak"
+    },
+    {
+      "level": 23,
+      "move": "Fury Swipes"
+    },
+    {
+      "level": 28,
+      "move": "Sucker Punch"
+    },
+    {
+      "level": 32,
+      "move": "Spider Web"
+    },
+    {
+      "level": 37,
+      "move": "Agility"
+    },
+    {
+      "level": 41,
+      "move": "Pin Missile"
+    },
+    {
+      "level": 46,
+      "move": "Psychic"
+    },
+    {
+      "level": 50,
+      "move": "Poison Jab"
+    },
+    {
+      "level": 55,
+      "move": "Cross Poison"
+    },
+    {
+      "level": 58,
+      "move": "Sticky Web"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Disable"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Disable"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Electroweb"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Electroweb"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Megahorn"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Heracross",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Night Slash"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Vivillon",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Pursuit"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Paras",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Rage Powder"
+    },
+    {
+      "parent": "Venonat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Volbeat",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Signal Beam"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Sonic Boom"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Forretress",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Skorupi",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Drapion",
+      "move": "Toxic Spikes"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Twineedle"
+    },
+    {
+      "parent": "Escavalier",
+      "move": "Twineedle"
+    }
+  ]
+}

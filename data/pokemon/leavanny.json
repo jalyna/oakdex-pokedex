@@ -1,0 +1,496 @@
+{
+  "names": {
+    "fr": "Manternel",
+    "de": "Matrifol",
+    "it": "Leavanny",
+    "en": "Leavanny"
+  },
+  "national_id": 542,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Swarm"
+    },
+    {
+      "name": "Overcoat",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "45.2 lbs.",
+  "weight_eu": "20.5 kg",
+  "base_exp_yield": 221,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 103,
+    "def": 80,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 92
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "False Swipe"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "String Shot"
+    },
+    {
+      "level": 0,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 0,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 8,
+      "move": "Bug Bite"
+    },
+    {
+      "level": 15,
+      "move": "Razor Leaf"
+    },
+    {
+      "level": 22,
+      "move": "Struggle Bug"
+    },
+    {
+      "level": 29,
+      "move": "Slash"
+    },
+    {
+      "level": 32,
+      "move": "Helping Hand"
+    },
+    {
+      "level": 34,
+      "move": "Fell Stinger"
+    },
+    {
+      "level": 36,
+      "move": "Leaf Blade"
+    },
+    {
+      "level": 39,
+      "move": "X-Scissor"
+    },
+    {
+      "level": 43,
+      "move": "Entrainment"
+    },
+    {
+      "level": 46,
+      "move": "Swords Dance"
+    },
+    {
+      "level": 50,
+      "move": "Leaf Storm"
+    },
+    {
+      "tm": "TM01",
+      "move": "Hone Claws"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM54",
+      "move": "False Swipe"
+    },
+    {
+      "tm": "TM65",
+      "move": "Shadow Claw"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM76",
+      "move": "Struggle Bug"
+    },
+    {
+      "tm": "TM81",
+      "move": "X-Scissor"
+    },
+    {
+      "tm": "TM84",
+      "move": "Poison Jab"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Beedrill",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Agility"
+    },
+    {
+      "parent": "Spinarak",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ariados",
+      "move": "Agility"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Agility"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Agility"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Agility"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Agility"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Agility"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Agility"
+    },
+    {
+      "parent": "Durant",
+      "move": "Agility"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Surskit",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Camouflage"
+    },
+    {
+      "parent": "Accelgor",
+      "move": "Me First"
+    },
+    {
+      "parent": "Nincada",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Mind Reader"
+    },
+    {
+      "parent": "Scyther",
+      "move": "Razor Wind"
+    },
+    {
+      "parent": "Scizor",
+      "move": "Razor Wind"
+    },
+    {
+      "parent": "Yanma",
+      "move": "Screech"
+    },
+    {
+      "parent": "Yanmega",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gligar",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gliscor",
+      "move": "Screech"
+    },
+    {
+      "parent": "Ninjask",
+      "move": "Screech"
+    },
+    {
+      "parent": "Vibrava",
+      "move": "Screech"
+    },
+    {
+      "parent": "Flygon",
+      "move": "Screech"
+    },
+    {
+      "parent": "Kricketune",
+      "move": "Screech"
+    },
+    {
+      "parent": "Venipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Whirlipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Scolipede",
+      "move": "Screech"
+    },
+    {
+      "parent": "Joltik",
+      "move": "Screech"
+    },
+    {
+      "parent": "Galvantula",
+      "move": "Screech"
+    },
+    {
+      "parent": "Butterfree",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Venomoth",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledyba",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Ledian",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Beautifly",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Dustox",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Masquerain",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Mothim",
+      "move": "Silver Wind"
+    },
+    {
+      "parent": "Volcarona",
+      "move": "Silver Wind"
+    }
+  ]
+}

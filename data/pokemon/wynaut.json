@@ -1,0 +1,91 @@
+{
+  "names": {
+    "fr": "Okéoké",
+    "de": "Isso",
+    "it": "Wynaut",
+    "en": "Wynaut"
+  },
+  "national_id": 360,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Shadow Tag"
+    },
+    {
+      "name": "Telepathy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 125,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "30.9 lbs.",
+  "weight_eu": "14.0 kg",
+  "base_exp_yield": 52,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Blue",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 95,
+    "atk": 23,
+    "def": 48,
+    "sp_atk": 23,
+    "sp_def": 48,
+    "speed": 23
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Splash"
+    },
+    {
+      "level": 0,
+      "move": "Charm"
+    },
+    {
+      "level": 0,
+      "move": "Encore"
+    },
+    {
+      "level": 15,
+      "move": "Counter"
+    },
+    {
+      "level": 15,
+      "move": "Mirror Coat"
+    },
+    {
+      "level": 15,
+      "move": "Safeguard"
+    },
+    {
+      "level": 15,
+      "move": "Destiny Bond"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    }
+  ]
+}

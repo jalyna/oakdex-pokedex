@@ -1,0 +1,539 @@
+{
+  "names": {
+    "fr": "Smogo",
+    "de": "Smogon",
+    "it": "Koffing",
+    "en": "Koffing"
+  },
+  "national_id": 109,
+  "types": [
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Levitate"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'00\"",
+  "height_eu": "0.6 m",
+  "weight_us": "2.2 lbs.",
+  "weight_eu": "1.0 kg",
+  "base_exp_yield": 68,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 95,
+    "sp_atk": 60,
+    "sp_def": 45,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Poison Gas"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 4,
+      "move": "Smog"
+    },
+    {
+      "level": 7,
+      "move": "Smokescreen"
+    },
+    {
+      "level": 12,
+      "move": "Assurance"
+    },
+    {
+      "level": 15,
+      "move": "Clear Smog"
+    },
+    {
+      "level": 18,
+      "move": "Sludge"
+    },
+    {
+      "level": 23,
+      "move": "Self-Destruct"
+    },
+    {
+      "level": 26,
+      "move": "Haze"
+    },
+    {
+      "level": 29,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 34,
+      "move": "Sludge Bomb"
+    },
+    {
+      "level": 37,
+      "move": "Explosion"
+    },
+    {
+      "level": 40,
+      "move": "Destiny Bond"
+    },
+    {
+      "level": 42,
+      "move": "Belch"
+    },
+    {
+      "level": 45,
+      "move": "Memento"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Curse"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Curse"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Curse"
+    },
+    {
+      "parent": "Banette",
+      "move": "Curse"
+    },
+    {
+      "parent": "Duskull",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusclops",
+      "move": "Curse"
+    },
+    {
+      "parent": "Dusknoir",
+      "move": "Curse"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Curse"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Curse"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Curse"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Curse"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Curse"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Curse"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Curse"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Wobbuffet",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Destiny Bond"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Banette",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Grudge"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Pumpkaboo",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Gourgeist",
+      "move": "Pain Split"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psybeam"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Chimecho",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Solosis",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Duosion",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Reuniclus",
+      "move": "Psywave"
+    },
+    {
+      "parent": "Grimer",
+      "move": "Screech"
+    },
+    {
+      "parent": "Muk",
+      "move": "Screech"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Screech"
+    },
+    {
+      "parent": "Banette",
+      "move": "Screech"
+    },
+    {
+      "parent": "Gastly",
+      "move": "Spite"
+    },
+    {
+      "parent": "Haunter",
+      "move": "Spite"
+    },
+    {
+      "parent": "Gengar",
+      "move": "Spite"
+    },
+    {
+      "parent": "Misdreavus",
+      "move": "Spite"
+    },
+    {
+      "parent": "Mismagius",
+      "move": "Spite"
+    },
+    {
+      "parent": "Shuppet",
+      "move": "Spite"
+    },
+    {
+      "parent": "Banette",
+      "move": "Spite"
+    },
+    {
+      "parent": "Spiritomb",
+      "move": "Spite"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Spit Up"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Stockpile"
+    },
+    {
+      "parent": "Gulpin",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Swalot",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifloon",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Drifblim",
+      "move": "Swallow"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Toxic Spikes"
+    }
+  ]
+}

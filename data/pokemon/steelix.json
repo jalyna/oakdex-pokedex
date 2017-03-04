@@ -1,0 +1,468 @@
+{
+  "names": {
+    "fr": "Steelix",
+    "de": "Stahlos",
+    "it": "Steelix",
+    "en": "Steelix"
+  },
+  "national_id": 208,
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Rock Head"
+    },
+    {
+      "name": "Sheer Force",
+      "hidden": true
+    },
+    {
+      "name": "Sand Force",
+      "mega": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 25,
+  "egg_groups": [
+    "Mineral"
+  ],
+  "hatch_time": [
+    6630,
+    6884
+  ],
+  "height_us": "30'02\"",
+  "height_eu": "9.2 m",
+  "weight_us": "881.8 lbs.",
+  "weight_eu": "400.0 kg",
+  "base_exp_yield": 179,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 85,
+    "def": 200,
+    "sp_atk": 55,
+    "sp_def": 65,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thunder Fang"
+    },
+    {
+      "level": 0,
+      "move": "Ice Fang"
+    },
+    {
+      "level": 0,
+      "move": "Fire Fang"
+    },
+    {
+      "level": 0,
+      "move": "Mud Sport"
+    },
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Harden"
+    },
+    {
+      "level": 0,
+      "move": "Bind"
+    },
+    {
+      "level": 4,
+      "move": "Curse"
+    },
+    {
+      "level": 7,
+      "move": "Rock Throw"
+    },
+    {
+      "level": 10,
+      "move": "Rock Tomb"
+    },
+    {
+      "level": 13,
+      "move": "Rage"
+    },
+    {
+      "level": 16,
+      "move": "Stealth Rock"
+    },
+    {
+      "level": 19,
+      "move": "Autotomize"
+    },
+    {
+      "level": 20,
+      "move": "Gyro Ball"
+    },
+    {
+      "level": 22,
+      "move": "Smack Down"
+    },
+    {
+      "level": 25,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 28,
+      "move": "Slam"
+    },
+    {
+      "level": 31,
+      "move": "Screech"
+    },
+    {
+      "level": 34,
+      "move": "Rock Slide"
+    },
+    {
+      "level": 37,
+      "move": "Crunch"
+    },
+    {
+      "level": 40,
+      "move": "Iron Tail"
+    },
+    {
+      "level": 43,
+      "move": "Dig"
+    },
+    {
+      "level": 46,
+      "move": "Stone Edge"
+    },
+    {
+      "level": 49,
+      "move": "Double-Edge"
+    },
+    {
+      "level": 52,
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM26",
+      "move": "Earthquake"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM37",
+      "move": "Sandstorm"
+    },
+    {
+      "tm": "TM39",
+      "move": "Rock Tomb"
+    },
+    {
+      "tm": "TM41",
+      "move": "Torment"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM64",
+      "move": "Explosion"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM69",
+      "move": "Rock Polish"
+    },
+    {
+      "tm": "TM71",
+      "move": "Stone Edge"
+    },
+    {
+      "tm": "TM74",
+      "move": "Gyro Ball"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM78",
+      "move": "Bulldoze"
+    },
+    {
+      "tm": "TM80",
+      "move": "Rock Slide"
+    },
+    {
+      "tm": "TM82",
+      "move": "Dragon Tail"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Block"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Block"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Block"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Golem",
+      "move": "Defense Curl"
+    },
+    {
+      "parent": "Sudowoodo",
+      "move": "Flail"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Flail"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Flail"
+    },
+    {
+      "parent": "Golem",
+      "move": "Heavy Slam"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Nosepass",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Probopass",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Rock Blast"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rock Climb"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Golem",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Rollout"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Rototiller"
+    },
+    {
+      "parent": "Geodude",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Graveler",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Golem",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Onix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Steelix",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Roggenrola",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Boldore",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Gigalith",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Dwebble",
+      "move": "Stealth Rock"
+    },
+    {
+      "parent": "Crustle",
+      "move": "Stealth Rock"
+    }
+  ]
+}

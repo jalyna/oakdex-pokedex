@@ -1,0 +1,520 @@
+{
+  "names": {
+    "fr": "Emolga",
+    "de": "Emolga",
+    "it": "Emolga",
+    "en": "Emolga"
+  },
+  "national_id": 587,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Static"
+    },
+    {
+      "name": "Motor Drive",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 200,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "11.0 lbs.",
+  "weight_eu": "5.0 kg",
+  "base_exp_yield": 150,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 60,
+    "sp_atk": 75,
+    "sp_def": 60,
+    "speed": 103
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 4,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 7,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 10,
+      "move": "Charge"
+    },
+    {
+      "level": 13,
+      "move": "Spark"
+    },
+    {
+      "level": 15,
+      "move": "Nuzzle"
+    },
+    {
+      "level": 16,
+      "move": "Pursuit"
+    },
+    {
+      "level": 19,
+      "move": "Double Team"
+    },
+    {
+      "level": 22,
+      "move": "Shock Wave"
+    },
+    {
+      "level": 26,
+      "move": "Electro Ball"
+    },
+    {
+      "level": 30,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 34,
+      "move": "Light Screen"
+    },
+    {
+      "level": 38,
+      "move": "Encore"
+    },
+    {
+      "level": 42,
+      "move": "Volt Switch"
+    },
+    {
+      "level": 46,
+      "move": "Agility"
+    },
+    {
+      "level": 50,
+      "move": "Discharge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Farfetch'd",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Air Slash"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Wailmer",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Wailord",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Astonish"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Furret",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Pikachu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Raichu",
+      "move": "Charm"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Snubbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Granbull",
+      "move": "Charm"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Charm"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Charm"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Charm"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Charm"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Charm"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Charm"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Charm"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Charm"
+    },
+    {
+      "parent": "Deerling",
+      "move": "Charm"
+    },
+    {
+      "parent": "Sawsbuck",
+      "move": "Charm"
+    },
+    {
+      "parent": "Cubchoo",
+      "move": "Charm"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Charm"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Charm"
+    },
+    {
+      "parent": "Dedenne",
+      "move": "Charm"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Covet"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ampharos",
+      "move": "Ion Deluge"
+    },
+    {
+      "parent": "Zebstrika",
+      "move": "Ion Deluge"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Rhyhorn",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Mareep",
+      "move": "Iron Tail"
+    },
+    {
+      "parent": "Dunsparce",
+      "move": "Roost"
+    },
+    {
+      "parent": "Blitzle",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Zebstrika",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Emolga",
+      "move": "Shock Wave"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    }
+  ]
+}

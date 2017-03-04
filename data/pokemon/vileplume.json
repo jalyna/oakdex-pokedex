@@ -1,0 +1,652 @@
+{
+  "names": {
+    "fr": "Rafflésia",
+    "de": "Giflor",
+    "it": "Vileplume",
+    "en": "Vileplume"
+  },
+  "national_id": 45,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Chlorophyll"
+    },
+    {
+      "name": "Effect Spore",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "3'11\"",
+  "height_eu": "1.2 m",
+  "weight_us": "41.0 lbs.",
+  "weight_eu": "18.6 kg",
+  "base_exp_yield": 216,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "sp_atk": 100,
+    "sp_def": 90,
+    "speed": 50
+  },
+  "learnset": [
+    {
+      "level": 1,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 1,
+      "move": "Aromatherapy"
+    },
+    {
+      "level": 1,
+      "move": "Poison Powder"
+    },
+    {
+      "level": 1,
+      "move": "Stun Spore"
+    },
+    {
+      "level": 49,
+      "move": "Petal Blizzard"
+    },
+    {
+      "level": 59,
+      "move": "Petal Dance"
+    },
+    {
+      "level": 64,
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM09",
+      "move": "Venoshock"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM36",
+      "move": "Sludge Bomb"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM83",
+      "move": "Infestation"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Maractus",
+      "move": "After You"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Charm"
+    },
+    {
+      "parent": "Paras",
+      "move": "Flail"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Flail"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Snover",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferroseed",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Ferrothorn",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Ingrain"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Nature Power"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Snover",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Paras",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Exeggutor",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lotad",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Lombre",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Ludicolo",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Snover",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Secret Power"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Teeter Dance"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Tickle"
+    }
+  ]
+}

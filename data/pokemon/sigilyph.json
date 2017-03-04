@@ -1,0 +1,468 @@
+{
+  "names": {
+    "fr": "Cryptéro",
+    "de": "Symvolara",
+    "it": "Sigilyph",
+    "en": "Sigilyph"
+  },
+  "national_id": 561,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Wonder Skin"
+    },
+    {
+      "name": "Tinted Lens",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "4'07\"",
+  "height_eu": "1.4 m",
+  "weight_us": "30.9 lbs.",
+  "weight_eu": "14.0 kg",
+  "base_exp_yield": 172,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 2,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Black",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 72,
+    "atk": 58,
+    "def": 80,
+    "sp_atk": 103,
+    "sp_def": 80,
+    "speed": 97
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Gust"
+    },
+    {
+      "level": 0,
+      "move": "Miracle Eye"
+    },
+    {
+      "level": 4,
+      "move": "Hypnosis"
+    },
+    {
+      "level": 8,
+      "move": "Psywave"
+    },
+    {
+      "level": 11,
+      "move": "Tailwind"
+    },
+    {
+      "level": 14,
+      "move": "Whirlwind"
+    },
+    {
+      "level": 18,
+      "move": "Psybeam"
+    },
+    {
+      "level": 21,
+      "move": "Air Cutter"
+    },
+    {
+      "level": 24,
+      "move": "Light Screen"
+    },
+    {
+      "level": 28,
+      "move": "Reflect"
+    },
+    {
+      "level": 31,
+      "move": "Synchronoise"
+    },
+    {
+      "level": 34,
+      "move": "Mirror Move"
+    },
+    {
+      "level": 38,
+      "move": "Gravity"
+    },
+    {
+      "level": 41,
+      "move": "Air Slash"
+    },
+    {
+      "level": 44,
+      "move": "Psychic"
+    },
+    {
+      "level": 48,
+      "move": "Cosmic Power"
+    },
+    {
+      "level": 50,
+      "move": "Sky Attack"
+    },
+    {
+      "tm": "TM03",
+      "move": "Psyshock"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM16",
+      "move": "Light Screen"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM23",
+      "move": "Smack Down"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM33",
+      "move": "Reflect"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM91",
+      "move": "Flash Cannon"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM99",
+      "move": "Dazzling Gleam"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Aerodactyl",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Archen",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Ancient Power"
+    },
+    {
+      "parent": "Natu",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Future Sight"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Natu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Psycho Shift"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Spearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fearow",
+      "move": "Roost"
+    },
+    {
+      "parent": "Hoothoot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noctowl",
+      "move": "Roost"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Roost"
+    },
+    {
+      "parent": "Chatot",
+      "move": "Roost"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Roost"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Roost"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Roost"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Roost"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Roost"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Roost"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Roost"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Roost"
+    },
+    {
+      "parent": "Natu",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Woobat",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Swoobat",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Skill Swap"
+    },
+    {
+      "parent": "Skarmory",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Steel Wing"
+    },
+    {
+      "parent": "Natu",
+      "move": "Stored Power"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Stored Power"
+    }
+  ]
+}

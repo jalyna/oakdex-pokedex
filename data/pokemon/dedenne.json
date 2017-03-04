@@ -1,0 +1,429 @@
+{
+  "names": {
+    "fr": "Dedenne",
+    "de": "Dedenne",
+    "it": "Dedenne",
+    "en": "Dedenne"
+  },
+  "national_id": 702,
+  "types": [
+    "Electric",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Cheek Pouch"
+    },
+    {
+      "name": "Plus",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 180,
+  "egg_groups": [
+    "Field",
+    "Fairy"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "4.9 lbs.",
+  "weight_eu": "2.2 kg",
+  "base_exp_yield": 151,
+  "leveling_rate": "Medium Fast",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 2
+  },
+  "color": "Yellow",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 67,
+    "atk": 58,
+    "def": 57,
+    "sp_atk": 81,
+    "sp_def": 67,
+    "speed": 101
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Tail Whip"
+    },
+    {
+      "level": 7,
+      "move": "Thunder Shock"
+    },
+    {
+      "level": 11,
+      "move": "Charge"
+    },
+    {
+      "level": 14,
+      "move": "Charm"
+    },
+    {
+      "level": 17,
+      "move": "Parabolic Charge"
+    },
+    {
+      "level": 20,
+      "move": "Nuzzle"
+    },
+    {
+      "level": 23,
+      "move": "Thunder Wave"
+    },
+    {
+      "level": 26,
+      "move": "Volt Switch"
+    },
+    {
+      "level": 30,
+      "move": "Rest"
+    },
+    {
+      "level": 31,
+      "move": "Snore"
+    },
+    {
+      "level": 34,
+      "move": "Charge Beam"
+    },
+    {
+      "level": 39,
+      "move": "Entrainment"
+    },
+    {
+      "level": 42,
+      "move": "Play Rough"
+    },
+    {
+      "level": 45,
+      "move": "Thunder"
+    },
+    {
+      "level": 50,
+      "move": "Discharge"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM56",
+      "move": "Fling"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM72",
+      "move": "Volt Switch"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM01",
+      "move": "Cut"
+    },
+    {
+      "parent": "Mankey",
+      "move": "Covet"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Covet"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Covet"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Covet"
+    },
+    {
+      "parent": "Zigzagoon",
+      "move": "Covet"
+    },
+    {
+      "parent": "Linoone",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slakoth",
+      "move": "Covet"
+    },
+    {
+      "parent": "Slaking",
+      "move": "Covet"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Covet"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Covet"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Covet"
+    },
+    {
+      "parent": "Mareep",
+      "move": "Eerie Impulse"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Furret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Audino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansage",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Pansear",
+      "move": "Natural Gift"
+    },
+    {
+      "parent": "Panpour",
+      "move": "Natural Gift"
+    }
+  ]
+}

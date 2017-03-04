@@ -1,0 +1,808 @@
+{
+  "names": {
+    "fr": "Delcatty",
+    "de": "Enekoro",
+    "it": "Delcatty",
+    "en": "Delcatty"
+  },
+  "national_id": 301,
+  "types": [
+    "Normal"
+  ],
+  "abilities": [
+    {
+      "name": "Cute Charm"
+    },
+    {
+      "name": "Wonder Skin",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Field",
+    "Fairy"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "3'07\"",
+  "height_eu": "1.1 m",
+  "weight_us": "71.9 lbs.",
+  "weight_eu": "32.6 kg",
+  "base_exp_yield": 133,
+  "leveling_rate": "Fast",
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Purple",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 65,
+    "sp_atk": 55,
+    "sp_def": 55,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Fake Out"
+    },
+    {
+      "level": 0,
+      "move": "Attract"
+    },
+    {
+      "level": 0,
+      "move": "Sing"
+    },
+    {
+      "level": 0,
+      "move": "Double Slap"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM15",
+      "move": "Hyper Beam"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM20",
+      "move": "Safeguard"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM24",
+      "move": "Thunderbolt"
+    },
+    {
+      "tm": "TM25",
+      "move": "Thunder"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM28",
+      "move": "Dig"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM57",
+      "move": "Charge Beam"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM67",
+      "move": "Retaliate"
+    },
+    {
+      "tm": "TM68",
+      "move": "Giga Impact"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM73",
+      "move": "Thunder Wave"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM93",
+      "move": "Wild Charge"
+    },
+    {
+      "tm": "TM94",
+      "move": "Rock Smash"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM04",
+      "move": "Strength"
+    },
+    {
+      "tm": "HM06",
+      "move": "Rock Smash"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Furret",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Minun",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Buneary",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Lopunny",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Patrat",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Watchog",
+      "move": "Baton Pass"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Vulpix",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Persian",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Captivate"
+    },
+    {
+      "parent": "Clefairy",
+      "move": "Cosmic Power"
+    },
+    {
+      "parent": "Meowth",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Persian",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Skitty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Delcatty",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purugly",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienfoo",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Mienshao",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Espurr",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Fake Out"
+    },
+    {
+      "parent": "Teddiursa",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Ursaring",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Minun",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Zorua",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Fake Tears"
+    },
+    {
+      "parent": "Nidoran♂",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Nidorino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Growlithe",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Furret",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Marill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minun",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Helping Hand"
+    },
+    {
+      "parent": "Eevee",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Vaporeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Jolteon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Flareon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Espeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Umbreon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Leafeon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Glaceon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Sylveon",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Phanpy",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Plusle",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Pachirisu",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Lillipup",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Herdier",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Stoutland",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Audino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Last Resort"
+    },
+    {
+      "parent": "Ekans",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Arbok",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Swinub",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Piloswine",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Mamoswine",
+      "move": "Mud Bomb"
+    },
+    {
+      "parent": "Audino",
+      "move": "Simple Beam"
+    },
+    {
+      "parent": "Rattata",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Raticate",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Diglett",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Dugtrio",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Sentret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Furret",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Poochyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mightyena",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Mawile",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Kecleon",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Absol",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Glameow",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Purrloin",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Liepard",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Furfrou",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Meowstic",
+      "move": "Sucker Punch"
+    },
+    {
+      "parent": "Aipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Ambipom",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Minccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Cinccino",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Vigoroth",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Whismur",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Loudred",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Exploud",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Spinda",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Darumaka",
+      "move": "Uproar"
+    },
+    {
+      "parent": "Togetic",
+      "move": "Wish"
+    },
+    {
+      "parent": "Swirlix",
+      "move": "Wish"
+    },
+    {
+      "parent": "Slurpuff",
+      "move": "Wish"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Tauros",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Girafarig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Stantler",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Spoink",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Grumpig",
+      "move": "Zen Headbutt"
+    },
+    {
+      "parent": "Munna",
+      "move": "Zen Headbutt"
+    }
+  ]
+}

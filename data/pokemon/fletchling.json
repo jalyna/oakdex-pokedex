@@ -1,0 +1,328 @@
+{
+  "names": {
+    "fr": "Passerouge",
+    "de": "Dartiri",
+    "it": "Fletchling",
+    "en": "Fletchling"
+  },
+  "national_id": 661,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Big Pecks"
+    },
+    {
+      "name": "Gale Wings",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "3.7 lbs.",
+  "weight_eu": "1.7 kg",
+  "base_exp_yield": 56,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 1
+  },
+  "color": "Red",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 43,
+    "sp_atk": 40,
+    "sp_def": 38,
+    "speed": 62
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Tackle"
+    },
+    {
+      "level": 0,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Quick Attack"
+    },
+    {
+      "level": 10,
+      "move": "Peck"
+    },
+    {
+      "level": 13,
+      "move": "Agility"
+    },
+    {
+      "level": 16,
+      "move": "Flail"
+    },
+    {
+      "level": 21,
+      "move": "Roost"
+    },
+    {
+      "level": 25,
+      "move": "Razor Wind"
+    },
+    {
+      "level": 29,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 34,
+      "move": "Flame Charge"
+    },
+    {
+      "level": 39,
+      "move": "Acrobatics"
+    },
+    {
+      "level": 41,
+      "move": "Me First"
+    },
+    {
+      "level": 45,
+      "move": "Tailwind"
+    },
+    {
+      "level": 48,
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM19",
+      "move": "Roost"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM40",
+      "move": "Aerial Ace"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM51",
+      "move": "Steel Wing"
+    },
+    {
+      "tm": "TM62",
+      "move": "Acrobatics"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM89",
+      "move": "U-turn"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM02",
+      "move": "Fly"
+    },
+    {
+      "parent": "Archen",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Archeops",
+      "move": "Quick Guard"
+    },
+    {
+      "parent": "Zubat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Golbat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Crobat",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Honchkrow",
+      "move": "Snatch"
+    },
+    {
+      "parent": "Pidgey",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeotto",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidgeot",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Xatu",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Murkrow",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Pidove",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Tranquill",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Unfezant",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Sigilyph",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Rufflet",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Braviary",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchling",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Fletchinder",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Talonflame",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Noibat",
+      "move": "Tailwind"
+    },
+    {
+      "parent": "Noivern",
+      "move": "Tailwind"
+    }
+  ]
+}

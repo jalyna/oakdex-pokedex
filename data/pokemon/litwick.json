@@ -1,0 +1,324 @@
+{
+  "names": {
+    "fr": "Funécire",
+    "de": "Lichtel",
+    "it": "Litwick",
+    "en": "Litwick"
+  },
+  "national_id": 607,
+  "types": [
+    "Ghost",
+    "Fire"
+  ],
+  "abilities": [
+    {
+      "name": "Flash Fire"
+    },
+    {
+      "name": "Infiltrator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "6.8 lbs.",
+  "weight_eu": "3.1 kg",
+  "base_exp_yield": 55,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "White",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 50,
+    "atk": 30,
+    "def": 55,
+    "sp_atk": 65,
+    "sp_def": 55,
+    "speed": 20
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Ember"
+    },
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 3,
+      "move": "Minimize"
+    },
+    {
+      "level": 5,
+      "move": "Smog"
+    },
+    {
+      "level": 7,
+      "move": "Fire Spin"
+    },
+    {
+      "level": 10,
+      "move": "Confuse Ray"
+    },
+    {
+      "level": 13,
+      "move": "Night Shade"
+    },
+    {
+      "level": 16,
+      "move": "Will-O-Wisp"
+    },
+    {
+      "level": 20,
+      "move": "Flame Burst"
+    },
+    {
+      "level": 24,
+      "move": "Imprison"
+    },
+    {
+      "level": 28,
+      "move": "Hex"
+    },
+    {
+      "level": 33,
+      "move": "Memento"
+    },
+    {
+      "level": 38,
+      "move": "Inferno"
+    },
+    {
+      "level": 43,
+      "move": "Curse"
+    },
+    {
+      "level": 49,
+      "move": "Shadow Ball"
+    },
+    {
+      "level": 55,
+      "move": "Pain Split"
+    },
+    {
+      "level": 61,
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM04",
+      "move": "Calm Mind"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM12",
+      "move": "Taunt"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM29",
+      "move": "Psychic"
+    },
+    {
+      "tm": "TM30",
+      "move": "Shadow Ball"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM35",
+      "move": "Flamethrower"
+    },
+    {
+      "tm": "TM38",
+      "move": "Fire Blast"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM43",
+      "move": "Flame Charge"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM50",
+      "move": "Overheat"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM59",
+      "move": "Incinerate"
+    },
+    {
+      "tm": "TM61",
+      "move": "Will-O-Wisp"
+    },
+    {
+      "tm": "TM63",
+      "move": "Embargo"
+    },
+    {
+      "tm": "TM66",
+      "move": "Payback"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM77",
+      "move": "Psych Up"
+    },
+    {
+      "tm": "TM85",
+      "move": "Dream Eater"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM92",
+      "move": "Trick Room"
+    },
+    {
+      "tm": "TM97",
+      "move": "Dark Pulse"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Clear Smog"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Endure"
+    },
+    {
+      "parent": "Koffing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Weezing",
+      "move": "Haze"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Haze"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Haze"
+    },
+    {
+      "parent": "Slugma",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Magcargo",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Litwick",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Lampent",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Chandelure",
+      "move": "Heat Wave"
+    },
+    {
+      "parent": "Yamask",
+      "move": "Power Split"
+    },
+    {
+      "parent": "Cofagrigus",
+      "move": "Power Split"
+    }
+  ]
+}

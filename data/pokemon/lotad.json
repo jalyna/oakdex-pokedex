@@ -1,0 +1,921 @@
+{
+  "names": {
+    "fr": "Nénupiot",
+    "de": "Loturzel",
+    "it": "Lotad",
+    "en": "Lotad"
+  },
+  "national_id": 270,
+  "types": [
+    "Water",
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Swift Swim"
+    },
+    {
+      "name": "Own Tempo",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 255,
+  "egg_groups": [
+    "Water 1",
+    "Grass"
+  ],
+  "hatch_time": [
+    4080,
+    4334
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "5.7 lbs.",
+  "weight_eu": "2.6 kg",
+  "base_exp_yield": 44,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 30,
+    "sp_atk": 40,
+    "sp_def": 50,
+    "speed": 30
+  },
+  "learnset": [
+    {
+      "level": 0,
+      "move": "Astonish"
+    },
+    {
+      "level": 3,
+      "move": "Growl"
+    },
+    {
+      "level": 6,
+      "move": "Absorb"
+    },
+    {
+      "level": 9,
+      "move": "Bubble"
+    },
+    {
+      "level": 12,
+      "move": "Natural Gift"
+    },
+    {
+      "level": 15,
+      "move": "Mist"
+    },
+    {
+      "level": 18,
+      "move": "Mega Drain"
+    },
+    {
+      "level": 21,
+      "move": "Bubble Beam"
+    },
+    {
+      "level": 24,
+      "move": "Nature Power"
+    },
+    {
+      "level": 27,
+      "move": "Rain Dance"
+    },
+    {
+      "level": 30,
+      "move": "Giga Drain"
+    },
+    {
+      "level": 33,
+      "move": "Zen Headbutt"
+    },
+    {
+      "level": 36,
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM06",
+      "move": "Toxic"
+    },
+    {
+      "tm": "TM07",
+      "move": "Hail"
+    },
+    {
+      "tm": "TM10",
+      "move": "Hidden Power"
+    },
+    {
+      "tm": "TM11",
+      "move": "Sunny Day"
+    },
+    {
+      "tm": "TM13",
+      "move": "Ice Beam"
+    },
+    {
+      "tm": "TM14",
+      "move": "Blizzard"
+    },
+    {
+      "tm": "TM17",
+      "move": "Protect"
+    },
+    {
+      "tm": "TM18",
+      "move": "Rain Dance"
+    },
+    {
+      "tm": "TM21",
+      "move": "Frustration"
+    },
+    {
+      "tm": "TM22",
+      "move": "Solar Beam"
+    },
+    {
+      "tm": "TM27",
+      "move": "Return"
+    },
+    {
+      "tm": "TM32",
+      "move": "Double Team"
+    },
+    {
+      "tm": "TM42",
+      "move": "Facade"
+    },
+    {
+      "tm": "TM44",
+      "move": "Rest"
+    },
+    {
+      "tm": "TM45",
+      "move": "Attract"
+    },
+    {
+      "tm": "TM46",
+      "move": "Thief"
+    },
+    {
+      "tm": "TM48",
+      "move": "Round"
+    },
+    {
+      "tm": "TM49",
+      "move": "Echoed Voice"
+    },
+    {
+      "tm": "TM53",
+      "move": "Energy Ball"
+    },
+    {
+      "tm": "TM55",
+      "move": "Scald"
+    },
+    {
+      "tm": "TM70",
+      "move": "Flash"
+    },
+    {
+      "tm": "TM75",
+      "move": "Swords Dance"
+    },
+    {
+      "tm": "TM86",
+      "move": "Grass Knot"
+    },
+    {
+      "tm": "TM87",
+      "move": "Swagger"
+    },
+    {
+      "tm": "TM88",
+      "move": "Sleep Talk"
+    },
+    {
+      "tm": "TM90",
+      "move": "Substitute"
+    },
+    {
+      "tm": "TM94",
+      "move": "Secret Power"
+    },
+    {
+      "tm": "TM96",
+      "move": "Nature Power"
+    },
+    {
+      "tm": "TM100",
+      "move": "Confide"
+    },
+    {
+      "tm": "HM03",
+      "move": "Surf"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Counter"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Flail"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Flail"
+    },
+    {
+      "parent": "Corsola",
+      "move": "Flail"
+    },
+    {
+      "parent": "Feebas",
+      "move": "Flail"
+    },
+    {
+      "parent": "Tympole",
+      "move": "Flail"
+    },
+    {
+      "parent": "Palpitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Seismitoad",
+      "move": "Flail"
+    },
+    {
+      "parent": "Stunfisk",
+      "move": "Flail"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Flail"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Flail"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Paras",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Parasect",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Servine",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Giga Drain"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Exeggcute",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Shroomish",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Breloom",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cacturne",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cherubi",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cherrim",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Snivy",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Servine",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Serperior",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Whimsicott",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Phantump",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Trevenant",
+      "move": "Leech Seed"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Sunflora",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Nuzleaf",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Shiftry",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Snover",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Abomasnow",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Cottonee",
+      "move": "Razor Leaf"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Oddish",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Gloom",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Vileplume",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bellossom",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bellsprout",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Weepinbell",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Victreebel",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Roserade",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Carnivine",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Sweet Scent"
+    },
+    {
+      "parent": "Bulbasaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Ivysaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Venusaur",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Chikorita",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Bayleef",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Meganium",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Hoppip",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Skiploom",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Jumpluff",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Sunkern",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Seedot",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Roselia",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Tropius",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Turtwig",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Grotle",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Torterra",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Maractus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Foongus",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Amoonguss",
+      "move": "Synthesis"
+    },
+    {
+      "parent": "Cacnea",
+      "move": "Teeter Dance"
+    },
+    {
+      "parent": "Tangela",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Tangrowth",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Tickle"
+    },
+    {
+      "parent": "Squirtle",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Wartortle",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Blastoise",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Psyduck",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Golduck",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Poliwag",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Poliwhirl",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Slowpoke",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Slowbro",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Slowking",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Horsea",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Seadra",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Kingdra",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Lapras",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Omanyte",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Omastar",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Totodile",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Croconaw",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Feraligatr",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Marill",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Azumarill",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Wooper",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Quagsire",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Remoraid",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Octillery",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Mudkip",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Marshtomp",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Swampert",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Wingull",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Pelipper",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Milotic",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Spheal",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Sealeo",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Walrein",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Clamperl",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Relicanth",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Bibarel",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Buizel",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Floatzel",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Tirtouga",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Carracosta",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Ducklett",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Swanna",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Skrelp",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Dragalge",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Clauncher",
+      "move": "Water Gun"
+    },
+    {
+      "parent": "Clawitzer",
+      "move": "Water Gun"
+    }
+  ]
+}
