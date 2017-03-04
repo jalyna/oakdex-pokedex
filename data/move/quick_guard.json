@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 0,
-  "type": "fighting",
   "category": "status",
   "priority": 3,
   "target": "user_and_allies",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises."
-  }
+  },
+  "type": "Fighting"
 }

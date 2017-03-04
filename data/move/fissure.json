@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 0,
   "accuracy": 0,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Causes a single-hit knockout if it hits. Useless against Flying-type Pokémon."
-  }
+  },
+  "type": "Ground"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 90,
   "accuracy": 100,
-  "type": "ghost",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
-  }
+  },
+  "type": "Ghost"
 }

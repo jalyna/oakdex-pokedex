@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 85,
   "accuracy": 90,
-  "type": "ice",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user attacks by harshly dropping an icicle onto the target. It may also make the target flinch."
-  }
+  },
+  "type": "Ice"
 }

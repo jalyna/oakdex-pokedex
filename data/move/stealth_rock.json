@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "rock",
   "category": "status",
   "priority": 0,
   "target": "all_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle."
-  }
+  },
+  "type": "Rock"
 }

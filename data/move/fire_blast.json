@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 110,
   "accuracy": 85,
-  "type": "fire",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The strongest Fire-type attack. Has a one-in-three chance of inflicting a burn on the target."
-  }
+  },
+  "type": "Fire"
 }

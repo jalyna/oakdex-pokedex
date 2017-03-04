@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "fighting",
   "category": "status",
   "priority": 0,
   "target": "user_and_allies",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves."
-  }
+  },
+  "type": "Fighting"
 }

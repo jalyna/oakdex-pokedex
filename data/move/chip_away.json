@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 70,
   "accuracy": 100,
-  "type": "normal",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks."
-  }
+  },
+  "type": "Normal"
 }

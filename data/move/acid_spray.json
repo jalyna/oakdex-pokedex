@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 40,
   "accuracy": 100,
-  "type": "poison",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat."
-  }
+  },
+  "type": "Poison"
 }

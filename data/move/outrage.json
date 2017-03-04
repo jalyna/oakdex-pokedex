@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 120,
   "accuracy": 100,
-  "type": "dragon",
   "category": "physical",
   "priority": 0,
   "target": "target_foe",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "An attack that lasts two to three turns. Afterwards, the attacker will become confused."
-  }
+  },
+  "type": "Dragon"
 }

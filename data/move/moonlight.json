@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 0,
   "accuracy": 0,
-  "type": "fairy",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "Allows HP to be restored by the moonlight. In battle, half the user's max HP is restored."
-  }
+  },
+  "type": "Fairy"
 }

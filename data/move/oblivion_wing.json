@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 80,
   "accuracy": 100,
-  "type": "flying",
   "category": "special",
   "priority": 0,
   "target": "anyone_but_user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target."
-  }
+  },
+  "type": "Flying"
 }

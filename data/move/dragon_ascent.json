@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 120,
   "accuracy": 100,
-  "type": "flying",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "After soaring upward, the user attacks its target by dropping out of the sky at high speeds, although it lowers its own Defense and Sp. Def in the process."
-  }
+  },
+  "type": "Flying"
 }

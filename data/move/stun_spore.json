@@ -4,7 +4,6 @@
   "max_pp": 48,
   "power": 0,
   "accuracy": 75,
-  "type": "grass",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -27,5 +26,6 @@
   },
   "descriptions": {
     "en": "A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility."
-  }
+  },
+  "type": "Grass"
 }

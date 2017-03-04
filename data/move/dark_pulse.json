@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 80,
   "accuracy": 100,
-  "type": "dark",
   "category": "special",
   "priority": 0,
   "target": "anyone_but_user",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch."
-  }
+  },
+  "type": "Dark"
 }

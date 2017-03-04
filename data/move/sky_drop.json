@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 60,
   "accuracy": 100,
-  "type": "flying",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky."
-  }
+  },
+  "type": "Flying"
 }

@@ -4,7 +4,6 @@
   "max_pp": 56,
   "power": 0,
   "accuracy": 75,
-  "type": "poison",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A technique that poisons the target. If poisoned, the victim loses HP steadily."
-  }
+  },
+  "type": "Poison"
 }

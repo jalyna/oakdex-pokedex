@@ -4,7 +4,6 @@
   "max_pp": 64,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "A move that transfers the user's status changes to the next Pokémon when switching."
-  }
+  },
+  "type": "Normal"
 }

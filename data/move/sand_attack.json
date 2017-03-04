@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 100,
-  "type": "ground",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "An attack in which sand is used to blind the target and reduce its attack accuracy."
-  }
+  },
+  "type": "Ground"
 }

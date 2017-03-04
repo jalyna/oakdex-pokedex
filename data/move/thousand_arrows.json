@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 90,
   "accuracy": 100,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground."
-  }
+  },
+  "type": "Ground"
 }

@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 100,
-  "type": "ghost",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "A move that makes a sleeping target have bad dreams. The victim will steadily lose HP."
-  }
+  },
+  "type": "Ghost"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "steel",
   "category": "status",
   "priority": 4,
   "target": "user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact."
-  }
+  },
+  "type": "Steel"
 }

@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A technique that disables one of the target's moves. The disabled move can't be used until it wears off."
-  }
+  },
+  "type": "Normal"
 }

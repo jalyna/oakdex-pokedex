@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 70,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "This attack inflicts high damage on a sleeping foe. It also wakes the foe up, however."
-  }
+  },
+  "type": "Fighting"
 }

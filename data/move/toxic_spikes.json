@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "poison",
   "category": "status",
   "priority": 0,
   "target": "all_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle."
-  }
+  },
+  "type": "Poison"
 }

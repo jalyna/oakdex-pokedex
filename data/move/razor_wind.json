@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 80,
   "accuracy": 100,
-  "type": "normal",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A two-turn attack with the wind attack in the second turn. Learned by many Flying-type Pokémon."
-  }
+  },
+  "type": "Normal"
 }

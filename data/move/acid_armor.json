@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "poison",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Melts the user's body for protection. A move that sharply raises Defense."
-  }
+  },
+  "type": "Poison"
 }

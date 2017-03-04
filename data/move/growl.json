@@ -4,7 +4,6 @@
   "max_pp": 64,
   "power": 0,
   "accuracy": 100,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A technique that lowers the target's Attack power. Can normally be used up to 6 times."
-  }
+  },
+  "type": "Normal"
 }

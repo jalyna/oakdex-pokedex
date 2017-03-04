@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 60,
   "accuracy": 0,
-  "type": "flying",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "An extremely speedy and unavoidable attack.*An extremely fast attack that can't be avoided.*"
-  }
+  },
+  "type": "Flying"
 }

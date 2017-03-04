@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 90,
-  "type": "normal",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A Normal-type attack. It inflicts a set amount of damage regardless of the target's type."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 64,
   "power": 0,
   "accuracy": 100,
-  "type": "grass",
   "category": "status",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "Spores that cling to the target, sharply reducing the opponent's Speed."
-  }
+  },
+  "type": "Grass"
 }

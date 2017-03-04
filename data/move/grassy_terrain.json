@@ -4,7 +4,6 @@
   "max_pp": 0,
   "power": 0,
   "accuracy": 0,
-  "type": "grass",
   "category": "status",
   "priority": 0,
   "target": "everyone",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn."
-  }
+  },
+  "type": "Grass"
 }

@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 60,
   "accuracy": 100,
-  "type": "bug",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect."
-  }
+  },
+  "type": "Bug"
 }

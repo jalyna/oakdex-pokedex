@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 80,
   "accuracy": 100,
-  "type": "poison",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.*The foe is stabbed with a tentacle or arm seeped with poison. It may also poison the foe.*"
-  }
+  },
+  "type": "Poison"
 }

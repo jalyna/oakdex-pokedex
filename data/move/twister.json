@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 40,
   "accuracy": 100,
-  "type": "dragon",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A Dragon-type attack. Has a one-in-five chance of causing the target to flinch."
-  }
+  },
+  "type": "Dragon"
 }

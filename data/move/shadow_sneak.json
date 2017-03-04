@@ -4,7 +4,6 @@
   "max_pp": 48,
   "power": 40,
   "accuracy": 100,
-  "type": "ghost",
   "category": "physical",
   "priority": 1,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user extends its shadow and attacks the foe from behind. This move always goes first."
-  }
+  },
+  "type": "Ghost"
 }

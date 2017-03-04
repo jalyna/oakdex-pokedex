@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 80,
   "accuracy": 100,
-  "type": "water",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "A column of water strikes the target. When combined with its fire equivalent, the damage increases and a rainbow appears."
-  }
+  },
+  "type": "Water"
 }

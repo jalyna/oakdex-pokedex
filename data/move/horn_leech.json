@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 75,
   "accuracy": 100,
-  "type": "grass",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target."
-  }
+  },
+  "type": "Grass"
 }

@@ -4,7 +4,6 @@
   "max_pp": 1,
   "power": 50,
   "accuracy": 0,
-  "type": "normal",
   "category": "physical",
   "priority": 0,
   "target": "target_foe",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "Used only if the user runs totally out of PP. The user is hit with 1/4 of the damage it inflicts."
-  }
+  },
+  "type": "Normal"
 }

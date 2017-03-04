@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "electric",
   "category": "status",
   "priority": 0,
   "target": "user_and_allies",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user manipulates magnetic fields which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability."
-  }
+  },
+  "type": "Electric"
 }

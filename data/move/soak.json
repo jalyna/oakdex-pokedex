@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "water",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user shoots a torrent of water at the target and changes the target's type to Water."
-  }
+  },
+  "type": "Water"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 30,
   "accuracy": 100,
-  "type": "normal",
   "category": "physical",
   "priority": 2,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves."
-  }
+  },
+  "type": "Normal"
 }

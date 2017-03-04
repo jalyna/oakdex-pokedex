@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 90,
   "accuracy": 100,
-  "type": "grass",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user stirs up a violent petal blizzard and attacks everything around it."
-  }
+  },
+  "type": "Grass"
 }

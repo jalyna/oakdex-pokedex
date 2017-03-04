@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 50,
   "accuracy": 100,
-  "type": "electric",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
-  }
+  },
+  "type": "Electric"
 }

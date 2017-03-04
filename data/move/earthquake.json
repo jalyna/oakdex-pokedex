@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 100,
   "accuracy": 100,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pokémon."
-  }
+  },
+  "type": "Ground"
 }

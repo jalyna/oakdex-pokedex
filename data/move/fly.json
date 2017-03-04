@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 90,
   "accuracy": 95,
-  "type": "flying",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The Pokémon flies high, then strikes in the next turn. Used for flying to places already visited."
-  }
+  },
+  "type": "Flying"
 }

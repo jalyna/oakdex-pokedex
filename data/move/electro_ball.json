@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 100,
-  "type": "electric",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage."
-  }
+  },
+  "type": "Electric"
 }

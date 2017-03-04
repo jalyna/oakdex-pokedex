@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 90,
-  "type": "grass",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -27,5 +26,6 @@
   },
   "descriptions": {
     "en": "Plants a seed on the target Pokémon. The seed slowly drains the target's HP for the attacker."
-  }
+  },
+  "type": "Grass"
 }

@@ -4,7 +4,6 @@
   "max_pp": 40,
   "power": 20,
   "accuracy": 100,
-  "type": "grass",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP."
-  }
+  },
+  "type": "Grass"
 }

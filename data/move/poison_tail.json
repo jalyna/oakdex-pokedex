@@ -4,7 +4,6 @@
   "max_pp": 40,
   "power": 50,
   "accuracy": 100,
-  "type": "poison",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Has a high critical-hit ratio. May also poison."
-  }
+  },
+  "type": "Poison"
 }

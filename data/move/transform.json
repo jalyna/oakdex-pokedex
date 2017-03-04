@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Transforms the user into a copy of the target, including the type. All moves have only five PP each."
-  }
+  },
+  "type": "Normal"
 }

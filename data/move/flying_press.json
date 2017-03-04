@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 80,
   "accuracy": 95,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
-  }
+  },
+  "type": "Fighting"
 }

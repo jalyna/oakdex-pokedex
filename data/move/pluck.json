@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 60,
   "accuracy": 100,
-  "type": "flying",
   "category": "physical",
   "priority": 0,
   "target": "anyone_but_user",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains the effect."
-  }
+  },
+  "type": "Flying"
 }

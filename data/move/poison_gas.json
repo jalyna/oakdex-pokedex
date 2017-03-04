@@ -4,7 +4,6 @@
   "max_pp": 64,
   "power": 0,
   "accuracy": 90,
-  "type": "poison",
   "category": "status",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A poisonous cloud of gas is forcefully expelled to poison the target."
-  }
+  },
+  "type": "Poison"
 }

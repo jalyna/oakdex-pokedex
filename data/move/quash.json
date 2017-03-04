@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 100,
-  "type": "dark",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user suppresses the target and makes its move go last."
-  }
+  },
+  "type": "Dark"
 }

@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "grass",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user puts a forest curse on the target. Afflicted targets are now Grass type as well."
-  }
+  },
+  "type": "Grass"
 }

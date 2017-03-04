@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 100,
   "accuracy": 95,
-  "type": "rock",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user whips up a storm of diamonds to damage opposing Pokémon. This may also raise the user’s Defense stat."
-  }
+  },
+  "type": "Rock"
 }

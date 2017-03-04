@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 30,
   "accuracy": 90,
-  "type": "rock",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Attacks for five turns, growing more powerful each time. Power returns to normal if it misses."
-  }
+  },
+  "type": "Rock"
 }

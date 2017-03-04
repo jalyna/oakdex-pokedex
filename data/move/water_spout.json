@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 0,
   "accuracy": 100,
-  "type": "water",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "Inflicts more damage if the user’s HP is high."
-  }
+  },
+  "type": "Water"
 }

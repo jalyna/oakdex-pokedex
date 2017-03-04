@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "ice",
   "category": "status",
   "priority": 0,
   "target": "everyone",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "Summons a hailstorm that strikes every turn.*Summons a hailstorm that hurts all types except Ice.RS*Creates a hailstorm that damages all types except Ice.E*"
-  }
+  },
+  "type": "Ice"
 }

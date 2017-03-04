@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "poison",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy."
-  }
+  },
+  "type": "Poison"
 }

@@ -4,7 +4,6 @@
   "max_pp": 40,
   "power": 60,
   "accuracy": 100,
-  "type": "fire",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A Fire-type attack. Has a one-in-ten chance of inflicting a burn on the target."
-  }
+  },
+  "type": "Fire"
 }

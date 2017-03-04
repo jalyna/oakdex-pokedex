@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 70,
   "accuracy": 0,
-  "type": "fighting",
   "category": "physical",
   "priority": -1,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "A Fighting-type attack. Always comes after the target's attack but never misses."
-  }
+  },
+  "type": "Fighting"
 }

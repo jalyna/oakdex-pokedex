@@ -4,7 +4,6 @@
   "max_pp": 40,
   "power": 55,
   "accuracy": 95,
-  "type": "grass",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A Grass-type attack that sends sharp-edged leaves at the target. Likely to get a critical hit."
-  }
+  },
+  "type": "Grass"
 }

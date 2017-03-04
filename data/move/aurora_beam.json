@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 65,
   "accuracy": 100,
-  "type": "ice",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "An Ice-type attack. Has a one-in-three chance of reducing the target's Attack power."
-  }
+  },
+  "type": "Ice"
 }

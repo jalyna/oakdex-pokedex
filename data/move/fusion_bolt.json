@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 100,
   "accuracy": 100,
-  "type": "electric",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user throws down a giant thunderbolt. This attack does greater damage when influenced by an enormous flame."
-  }
+  },
+  "type": "Electric"
 }

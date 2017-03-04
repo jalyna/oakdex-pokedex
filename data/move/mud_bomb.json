@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 65,
   "accuracy": 85,
-  "type": "ground",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy."
-  }
+  },
+  "type": "Ground"
 }

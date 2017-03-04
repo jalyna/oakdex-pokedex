@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 75,
   "accuracy": 90,
-  "type": "rock",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A Rock-type attack that hits the target with an avalanche of rocks and boulders."
-  }
+  },
+  "type": "Rock"
 }

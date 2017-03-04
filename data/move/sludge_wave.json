@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 95,
   "accuracy": 100,
-  "type": "poison",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "It swamps the area around the user with a giant sludge wave. It may also poison those hit."
-  }
+  },
+  "type": "Poison"
 }

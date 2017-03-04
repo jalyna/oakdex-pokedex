@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "psychic",
   "category": "status",
   "priority": 0,
   "target": "anyone_but_user",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user emits a healing pulse which restores the target's HP by up to half of its max HP."
-  }
+  },
+  "type": "Psychic"
 }

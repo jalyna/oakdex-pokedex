@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 100,
   "accuracy": 75,
-  "type": "normal",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A Normal-type attack. An egg is launched at the target. It may miss, however."
-  }
+  },
+  "type": "Normal"
 }

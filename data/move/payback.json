@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 50,
   "accuracy": 100,
-  "type": "dark",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "If the user can use this attack after the foe attacks, its power is doubled.*The user stores power, then attacks. If the user can use this attack after the foe, its power is doubled.*"
-  }
+  },
+  "type": "Dark"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "flying",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.*The user lands and rests its body. It restores the user’s HP by up to half of its top HP.*"
-  }
+  },
+  "type": "Flying"
 }

@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 50,
   "accuracy": 100,
-  "type": "bug",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced."
-  }
+  },
+  "type": "Bug"
 }

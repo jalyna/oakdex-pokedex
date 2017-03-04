@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 90,
   "accuracy": 100,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user attacks with a wave that crawls along the ground. Those hit can't flee from battle."
-  }
+  },
+  "type": "Ground"
 }

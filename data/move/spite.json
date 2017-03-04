@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 100,
-  "type": "ghost",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "A vengeful move that slightly reduces the PP of the opponent's last move."
-  }
+  },
+  "type": "Ghost"
 }

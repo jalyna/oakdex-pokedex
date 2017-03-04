@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 90,
   "accuracy": 85,
-  "type": "normal",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -27,5 +26,6 @@
   },
   "descriptions": {
     "en": "A charging attack. One quarter of the damage it inflicts comes back to hurt the attacker."
-  }
+  },
+  "type": "Normal"
 }

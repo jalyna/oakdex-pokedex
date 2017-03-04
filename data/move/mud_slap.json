@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 20,
   "accuracy": 100,
-  "type": "ground",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "An attack that fires dirt, inflicting damage and reducing the target's accuracy."
-  }
+  },
+  "type": "Ground"
 }

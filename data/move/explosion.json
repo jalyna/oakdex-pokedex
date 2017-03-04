@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 250,
   "accuracy": 100,
-  "type": "normal",
   "category": "physical",
   "priority": 0,
   "target": "all_adjacent",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "The most powerful attack of all. However, the attacker faints after using this move."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 60,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The foe is attacked with a shock wave. It may also leave the target paralyzed."
-  }
+  },
+  "type": "Fighting"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 50,
   "accuracy": 90,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A boomerang made of bone is thrown to inflict damage twice -- on the way out and on its return."
-  }
+  },
+  "type": "Ground"
 }

@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 60,
   "accuracy": 100,
-  "type": "dark",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "If the foe has already taken some damage in the same turn, this attack’s power is doubled."
-  }
+  },
+  "type": "Dark"
 }

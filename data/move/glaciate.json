@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 65,
   "accuracy": 95,
-  "type": "ice",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user attacks by blowing freezing cold air at opposing Pokémon. This attack reduces the targets' Speed stat."
-  }
+  },
+  "type": "Ice"
 }

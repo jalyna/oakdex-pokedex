@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "An attack that increases in power if the user's HP is low. It could turn the tide in battle."
-  }
+  },
+  "type": "Fighting"
 }

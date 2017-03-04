@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 90,
   "accuracy": 100,
-  "type": "ground",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def."
-  }
+  },
+  "type": "Ground"
 }

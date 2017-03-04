@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "rock",
   "category": "status",
   "priority": 3,
   "target": "user_and_allies",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chances of failing rises."
-  }
+  },
+  "type": "Rock"
 }

@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 90,
   "accuracy": 100,
-  "type": "fire",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -28,5 +27,6 @@
   },
   "descriptions": {
     "en": "A powerful Fire-type attack. Has a one-in-ten chance of leaving the target with a damaging burn."
-  }
+  },
+  "type": "Fire"
 }

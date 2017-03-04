@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "electric",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "If the target is electrified before it uses a move during that turn, the target's move becomes Electric type."
-  }
+  },
+  "type": "Electric"
 }

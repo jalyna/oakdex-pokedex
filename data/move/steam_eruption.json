@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 110,
   "accuracy": 95,
-  "type": "water",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user immerses the target in superheated steam. This may also leave the target with a burn."
-  }
+  },
+  "type": "Water"
 }

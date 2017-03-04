@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 60,
   "accuracy": 0,
-  "type": "normal",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A Normal-type attack. It is highly accurate, so it can be counted on to inflict damage."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "ghost",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user takes the target trick-or-treating. This adds Ghost type to the target's type."
-  }
+  },
+  "type": "Ghost"
 }

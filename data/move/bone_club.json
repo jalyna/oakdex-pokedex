@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 65,
   "accuracy": 85,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A physical attack using a bone as a club. If it connects, it may cause the target to flinch."
-  }
+  },
+  "type": "Ground"
 }

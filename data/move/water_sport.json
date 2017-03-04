@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 0,
-  "type": "water",
   "category": "status",
   "priority": 0,
   "target": "everyone",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user becomes soaked to raise resistance to fire."
-  }
+  },
+  "type": "Water"
 }

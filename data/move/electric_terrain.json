@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "electric",
   "category": "status",
   "priority": 0,
   "target": "everyone",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user electrifies the ground under everyone's feet for five turns. Pokémon on the ground no longer fall asleep."
-  }
+  },
+  "type": "Electric"
 }

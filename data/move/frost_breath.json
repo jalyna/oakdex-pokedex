@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 60,
   "accuracy": 90,
-  "type": "ice",
   "category": "special",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The user blows a cold breath on the target. This attack always results in a critical hit."
-  }
+  },
+  "type": "Ice"
 }

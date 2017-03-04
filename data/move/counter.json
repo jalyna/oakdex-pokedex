@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": -5,
   "target": "user",
@@ -27,5 +26,6 @@
   },
   "descriptions": {
     "en": "A retaliation move that back double the damage of a physical attack. Highly accurate."
-  }
+  },
+  "type": "Fighting"
 }

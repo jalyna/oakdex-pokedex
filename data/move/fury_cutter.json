@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 40,
   "accuracy": 95,
-  "type": "bug",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "A Bug-type attack that grows more powerful with every hit. Returns to normal if it misses."
-  }
+  },
+  "type": "Bug"
 }

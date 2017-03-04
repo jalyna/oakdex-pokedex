@@ -4,7 +4,6 @@
   "max_pp": 8,
   "power": 120,
   "accuracy": 100,
-  "type": "ghost",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "The user disappears, then strikes the foe on the second turn.  It hits even if the foe used Protect."
-  }
+  },
+  "type": "Ghost"
 }

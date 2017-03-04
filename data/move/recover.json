@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "user",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Restores HP by 1/2 of the user's maximum HP. Few Pokémon learn this technique on their own."
-  }
+  },
+  "type": "Normal"
 }

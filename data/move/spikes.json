@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 0,
-  "type": "ground",
   "category": "status",
   "priority": 0,
   "target": "all_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "An attack that scatters Spikes and injures opponent Pokémon when they switch."
-  }
+  },
+  "type": "Ground"
 }

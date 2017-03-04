@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 80,
   "accuracy": 100,
-  "type": "ground",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "The attacker digs underground in the first turn, then pops up in the next turn to attack."
-  }
+  },
+  "type": "Ground"
 }

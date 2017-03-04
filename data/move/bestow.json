@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user passes its held item to the target when the target isn't holding an item."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 40,
   "power": 0,
   "accuracy": 0,
-  "type": "electric",
   "category": "status",
   "priority": 1,
   "target": "everyone",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves."
-  }
+  },
+  "type": "Electric"
 }

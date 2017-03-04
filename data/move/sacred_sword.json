@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 90,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user attacks by slicing with its long horns. The target's stat changes don't affect this attack's damage."
-  }
+  },
+  "type": "Fighting"
 }

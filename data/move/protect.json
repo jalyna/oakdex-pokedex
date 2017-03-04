@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 4,
   "target": "user",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "Completely foils an opponent's attack. If used consecutively, its success rate decreases."
-  }
+  },
+  "type": "Normal"
 }

@@ -4,7 +4,6 @@
   "max_pp": 24,
   "power": 55,
   "accuracy": 95,
-  "type": "electric",
   "category": "special",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -23,5 +22,6 @@
   },
   "descriptions": {
     "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets' Speed stat."
-  }
+  },
+  "type": "Electric"
 }

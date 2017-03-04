@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 0,
-  "type": "normal",
   "category": "status",
   "priority": 3,
   "target": "user",
@@ -24,5 +23,6 @@
   },
   "descriptions": {
     "en": "Always leaves the user with at least one HP. Success rate decreases if used repeatedly."
-  }
+  },
+  "type": "Normal"
 }

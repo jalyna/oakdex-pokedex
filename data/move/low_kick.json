@@ -4,7 +4,6 @@
   "max_pp": 32,
   "power": 0,
   "accuracy": 100,
-  "type": "fighting",
   "category": "physical",
   "priority": 0,
   "target": "target",
@@ -26,5 +25,6 @@
   },
   "descriptions": {
     "en": "A Fighting-type attack. Has a one-in-three chance of making the target flinch if it connects."
-  }
+  },
+  "type": "Fighting"
 }

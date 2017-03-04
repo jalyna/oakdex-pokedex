@@ -4,7 +4,6 @@
   "max_pp": 16,
   "power": 0,
   "accuracy": 80,
-  "type": "dark",
   "category": "status",
   "priority": 0,
   "target": "all_adjacent_foes",
@@ -25,5 +24,6 @@
   },
   "descriptions": {
     "en": "The foe is dragged into a world of total darkness that puts it to sleep."
-  }
+  },
+  "type": "Dark"
 }
