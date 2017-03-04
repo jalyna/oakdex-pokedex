@@ -1,16 +1,12 @@
+require 'oakdex/pokedex/base'
+
 module Oakdex
   module Pokedex
-    class Type
-      def initialize(attributes)
-        @attributes = attributes
-      end
-
-      def name(locale = 'en')
-        @attributes['names'][locale] || @attributes['names']['en']
-      end
+    class Type < Base
+      translate :names, :name
 
       def effectivness_for(other_type)
-        @attributes['effectivness'][other_type]
+        @source.effectivness[other_type]
       end
     end
   end

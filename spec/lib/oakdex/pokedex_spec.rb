@@ -11,4 +11,15 @@ describe Oakdex::Pokedex do
       expect(described_class.find_type('Foo')).to be_nil
     end
   end
+
+  describe '.find_nature' do
+    it 'returns nature' do
+      nature = described_class.find_nature('Modest')
+      expect(nature).to be_instance_of(Oakdex::Pokedex::Nature)
+    end
+
+    it 'returns nil if nature does not exist' do
+      expect(described_class.find_nature('Foo')).to be_nil
+    end
+  end
 end
