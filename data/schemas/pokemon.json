@@ -1693,10 +1693,15 @@
         "additionalProperties": false
       }
     },
+    "alola_id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 302
+    },
     "national_id": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 721
+      "minimum": 1,
+      "maximum": 802
     },
     "types": {
       "type": "array",
