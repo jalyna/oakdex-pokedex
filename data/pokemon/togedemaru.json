@@ -1,0 +1,520 @@
+{
+  "names": {
+    "en": "Togedemaru",
+    "jp": "トゲデマル Togedemaru",
+    "fr": "Togedemaru",
+    "es": "Togedemaru",
+    "de": "Togedemaru",
+    "it": "Togedemaru"
+  },
+  "national_id": 777,
+  "alola_id": 225,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Iron Barbs"
+    },
+    {
+      "name": "Sturdy",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 180,
+  "egg_groups": [
+    "Field",
+    "Fairy"
+  ],
+  "hatch_time": [
+    2570,
+    2826
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "7.3 lbs.",
+  "weight_eu": "3.3 kg",
+  "base_exp_yield": 152,
+  "leveling_rate": "Medium Fast",
+  "color": "Gray",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 65,
+    "atk": 98,
+    "def": 63,
+    "sp_atk": 40,
+    "sp_def": 73,
+    "speed": 96
+  },
+  "learnset": [
+    {
+      "move": "Thunder Shock",
+      "level": 1
+    },
+    {
+      "move": "Defense Curl",
+      "level": 5
+    },
+    {
+      "move": "Rollout",
+      "level": 9
+    },
+    {
+      "move": "Charge",
+      "level": 13
+    },
+    {
+      "move": "Spark",
+      "level": 17
+    },
+    {
+      "move": "Nuzzle",
+      "level": 21
+    },
+    {
+      "move": "Magnet Rise",
+      "level": 25
+    },
+    {
+      "move": "Discharge",
+      "level": 29
+    },
+    {
+      "move": "Zing Zap",
+      "level": 33
+    },
+    {
+      "move": "Electric Terrain",
+      "level": 37
+    },
+    {
+      "move": "Wild Charge",
+      "level": 41
+    },
+    {
+      "move": "Pin Missile",
+      "level": 45
+    },
+    {
+      "move": "Spiky Shield",
+      "level": 49
+    },
+    {
+      "move": "Fell Stinger",
+      "level": 53
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Thunderbolt",
+      "tm": "TM24"
+    },
+    {
+      "move": "Thunder",
+      "tm": "TM25"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Reflect",
+      "tm": "TM33"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Thief",
+      "tm": "TM46"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Charge Beam",
+      "tm": "TM57"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Volt Switch",
+      "tm": "TM72"
+    },
+    {
+      "move": "Thunder Wave",
+      "tm": "TM73"
+    },
+    {
+      "move": "Gyro Ball",
+      "tm": "TM74"
+    },
+    {
+      "move": "Poison Jab",
+      "tm": "TM84"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "U-turn",
+      "tm": "TM89"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Wild Charge",
+      "tm": "TM93"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Encore",
+      "parent": "Clefairy"
+    },
+    {
+      "move": "Encore",
+      "parent": "Seel"
+    },
+    {
+      "move": "Encore",
+      "parent": "Dewgong"
+    },
+    {
+      "move": "Encore",
+      "parent": "Togetic"
+    },
+    {
+      "move": "Encore",
+      "parent": "Slakoth"
+    },
+    {
+      "move": "Encore",
+      "parent": "Vigoroth"
+    },
+    {
+      "move": "Encore",
+      "parent": "Slaking"
+    },
+    {
+      "move": "Encore",
+      "parent": "Plusle"
+    },
+    {
+      "move": "Encore",
+      "parent": "Minun"
+    },
+    {
+      "move": "Encore",
+      "parent": "Spheal"
+    },
+    {
+      "move": "Encore",
+      "parent": "Sealeo"
+    },
+    {
+      "move": "Encore",
+      "parent": "Walrein"
+    },
+    {
+      "move": "Encore",
+      "parent": "Oshawott"
+    },
+    {
+      "move": "Encore",
+      "parent": "Dewott"
+    },
+    {
+      "move": "Encore",
+      "parent": "Samurott"
+    },
+    {
+      "move": "Encore",
+      "parent": "Minccino"
+    },
+    {
+      "move": "Encore",
+      "parent": "Emolga"
+    },
+    {
+      "move": "Encore",
+      "parent": "Popplio"
+    },
+    {
+      "move": "Encore",
+      "parent": "Brionne"
+    },
+    {
+      "move": "Encore",
+      "parent": "Primarina"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Meowth"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Meowth"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Persian"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Persian"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Nuzleaf"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Skitty"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Delcatty"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Glameow"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Purugly"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Purrloin"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Liepard"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Mienfoo"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Mienshao"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Espurr"
+    },
+    {
+      "move": "Fake Out",
+      "parent": "Meowstic"
+    },
+    {
+      "move": "Flail",
+      "parent": "Dunsparce"
+    },
+    {
+      "move": "Flail",
+      "parent": "Swinub"
+    },
+    {
+      "move": "Flail",
+      "parent": "Phanpy"
+    },
+    {
+      "move": "Flail",
+      "parent": "Zigzagoon"
+    },
+    {
+      "move": "Flail",
+      "parent": "Slakoth"
+    },
+    {
+      "move": "Flail",
+      "parent": "Slaking"
+    },
+    {
+      "move": "Flail",
+      "parent": "Torkoal"
+    },
+    {
+      "move": "Flail",
+      "parent": "Spinda"
+    },
+    {
+      "move": "Flail",
+      "parent": "Cubchoo"
+    },
+    {
+      "move": "Flail",
+      "parent": "Beartic"
+    },
+    {
+      "move": "Flail",
+      "parent": "Bunnelby"
+    },
+    {
+      "move": "Flail",
+      "parent": "Diggersby"
+    },
+    {
+      "move": "Flail",
+      "parent": "Spritzee"
+    },
+    {
+      "move": "Flail",
+      "parent": "Aromatisse"
+    },
+    {
+      "move": "Flail",
+      "parent": "Stufful"
+    },
+    {
+      "move": "Flail",
+      "parent": "Bewear"
+    },
+    {
+      "move": "Flail",
+      "parent": "Komala"
+    },
+    {
+      "move": "Present",
+      "parent": "Delibird"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Growlithe"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Vigoroth"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Lillipup"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Herdier"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Stoutland"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Mienfoo"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Mienshao"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Bouffalant"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Lycanroc"
+    },
+    {
+      "move": "Reversal",
+      "parent": "Passimian"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Aipom"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Ambipom"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Minccino"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Cinccino"
+    },
+    {
+      "move": "Twineedle",
+      "parent": "Smeargle"
+    },
+    {
+      "move": "Wish",
+      "parent": "Togetic"
+    },
+    {
+      "move": "Wish",
+      "parent": "Swirlix"
+    },
+    {
+      "move": "Wish",
+      "parent": "Slurpuff"
+    }
+  ]
+}

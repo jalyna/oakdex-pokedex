@@ -1,0 +1,231 @@
+{
+  "names": {
+    "en": "Mareanie",
+    "jp": "ヒドイデ Hidoide",
+    "fr": "Vorastérie",
+    "es": "Mareanie",
+    "de": "Garstella",
+    "it": "Mareanie"
+  },
+  "national_id": 747,
+  "alola_id": 113,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Merciless"
+    },
+    {
+      "name": "Regenerator",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Water 1"
+  ],
+  "hatch_time": [
+    5140,
+    5396
+  ],
+  "height_us": "1'04\"",
+  "height_eu": "0.4 m",
+  "weight_us": "17.6 lbs.",
+  "weight_eu": "8.0 kg",
+  "base_exp_yield": 61,
+  "leveling_rate": "Medium Fast",
+  "color": "Blue",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 62,
+    "sp_atk": 43,
+    "sp_def": 52,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "move": "Peck",
+      "level": 5
+    },
+    {
+      "move": "Bite",
+      "level": 9
+    },
+    {
+      "move": "Toxic Spikes",
+      "level": 13
+    },
+    {
+      "move": "Wide Guard",
+      "level": 17
+    },
+    {
+      "move": "Toxic",
+      "level": 21
+    },
+    {
+      "move": "Venoshock",
+      "level": 25
+    },
+    {
+      "move": "Spike Cannon",
+      "level": 29
+    },
+    {
+      "move": "Recover",
+      "level": 33
+    },
+    {
+      "move": "Poison Jab",
+      "level": 37
+    },
+    {
+      "move": "Venom Drench",
+      "level": 41
+    },
+    {
+      "move": "Pin Missile",
+      "level": 45
+    },
+    {
+      "move": "Liquidation",
+      "level": 49
+    },
+    {
+      "move": "Hail",
+      "tm": "TM07"
+    },
+    {
+      "move": "Venoshock",
+      "tm": "TM09"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Ice Beam",
+      "tm": "TM13"
+    },
+    {
+      "move": "Blizzard",
+      "tm": "TM14"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Sludge Wave",
+      "tm": "TM34"
+    },
+    {
+      "move": "Sludge Bomb",
+      "tm": "TM36"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Scald",
+      "tm": "TM55"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Frost Breath",
+      "tm": "TM79"
+    },
+    {
+      "move": "Infestation",
+      "tm": "TM83"
+    },
+    {
+      "move": "Poison Jab",
+      "tm": "TM84"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Surf",
+      "tm": "TM94"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Pelipper"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Pelipper"
+    },
+    {
+      "move": "Swallow",
+      "parent": "Pelipper"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "names": {
+    "en": "Rowlet",
+    "jp": "モクロー Mokuroh",
+    "fr": "Brindibou",
+    "es": "Rowlet",
+    "de": "Bauz",
+    "it": "Rowlet"
+  },
+  "national_id": 722,
+  "alola_id": 1,
+  "types": [
+    "Grass",
+    "Flying"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Long Reach",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "3.3 lbs.",
+  "weight_eu": "1.5 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Slow",
+  "color": "Brown",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 1,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 68,
+    "atk": 55,
+    "def": 55,
+    "sp_atk": 50,
+    "sp_def": 50,
+    "speed": 42
+  },
+  "learnset": [
+    {
+      "move": "Leafage",
+      "level": 1
+    },
+    {
+      "move": "Growl",
+      "level": 4
+    },
+    {
+      "move": "Peck",
+      "level": 8
+    },
+    {
+      "move": "Astonish",
+      "level": 11
+    },
+    {
+      "move": "Razor Leaf",
+      "level": 15
+    },
+    {
+      "move": "Foresight",
+      "level": 18
+    },
+    {
+      "move": "Pluck",
+      "level": 22
+    },
+    {
+      "move": "Synthesis",
+      "level": 25
+    },
+    {
+      "move": "Fury Attack",
+      "level": 29
+    },
+    {
+      "move": "Sucker Punch",
+      "level": 32
+    },
+    {
+      "move": "Leaf Blade",
+      "level": 36
+    },
+    {
+      "move": "Feather Dance",
+      "level": 39
+    },
+    {
+      "move": "Brave Bird",
+      "level": 43
+    },
+    {
+      "move": "Nasty Plot",
+      "level": 46
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Sunny Day",
+      "tm": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Roost",
+      "tm": "TM19"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Solar Beam",
+      "tm": "TM22"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Echoed Voice",
+      "tm": "TM49"
+    },
+    {
+      "move": "Steel Wing",
+      "tm": "TM51"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "False Swipe",
+      "tm": "TM54"
+    },
+    {
+      "move": "Shadow Claw",
+      "tm": "TM65"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Nature Power",
+      "tm": "TM96"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Zubat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Golbat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Crobat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Natu"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Xatu"
+    },
+    {
+      "move": "Curse",
+      "parent": "Farfetch'd"
+    },
+    {
+      "move": "Defog",
+      "parent": "Ducklett"
+    },
+    {
+      "move": "Defog",
+      "parent": "Swanna"
+    },
+    {
+      "move": "Defog",
+      "parent": "Rufflet"
+    },
+    {
+      "move": "Defog",
+      "parent": "Braviary"
+    },
+    {
+      "move": "Haze",
+      "parent": "Zubat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Golbat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Crobat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Murkrow"
+    },
+    {
+      "move": "Haze",
+      "parent": "Honchkrow"
+    },
+    {
+      "move": "Ominous Wind",
+      "parent": "Natu"
+    },
+    {
+      "move": "Ominous Wind",
+      "parent": "Xatu"
+    }
+  ]
+}

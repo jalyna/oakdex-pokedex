@@ -1,0 +1,424 @@
+{
+  "names": {
+    "en": "Primarina",
+    "jp": "アシレーヌ Ashirene",
+    "fr": "Oratoria",
+    "es": "Primarina",
+    "de": "Primarene",
+    "it": "Primarina"
+  },
+  "national_id": 730,
+  "alola_id": 9,
+  "types": [
+    "Water",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Torrent"
+    },
+    {
+      "name": "Liquid Voice",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Water 1",
+    "Field"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "97.0 lbs.",
+  "weight_eu": "44.0 kg",
+  "base_exp_yield": 239,
+  "leveling_rate": "Medium Slow",
+  "color": "Blue",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 3,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 80,
+    "atk": 74,
+    "def": 74,
+    "sp_atk": 126,
+    "sp_def": 116,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "move": "Pound",
+      "level": 1
+    },
+    {
+      "move": "Water Gun",
+      "level": 1
+    },
+    {
+      "move": "Growl",
+      "level": 1
+    },
+    {
+      "move": "Disarming Voice",
+      "level": 1
+    },
+    {
+      "move": "Sparkling Aria",
+      "level": 0
+    },
+    {
+      "move": "Growl",
+      "level": 4
+    },
+    {
+      "move": "Disarming Voice",
+      "level": 9
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "level": 11
+    },
+    {
+      "move": "Aqua Jet",
+      "level": 15
+    },
+    {
+      "move": "Encore",
+      "level": 19
+    },
+    {
+      "move": "Bubble Beam",
+      "level": 24
+    },
+    {
+      "move": "Sing",
+      "level": 28
+    },
+    {
+      "move": "Double Slap",
+      "level": 33
+    },
+    {
+      "move": "Hyper Voice",
+      "level": 38
+    },
+    {
+      "move": "Moonblast",
+      "level": 44
+    },
+    {
+      "move": "Captivate",
+      "level": 49
+    },
+    {
+      "move": "Hydro Pump",
+      "level": 55
+    },
+    {
+      "move": "Misty Terrain",
+      "level": 60
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hail",
+      "tm": "TM07"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Ice Beam",
+      "tm": "TM13"
+    },
+    {
+      "move": "Blizzard",
+      "tm": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Psychic",
+      "tm": "TM29"
+    },
+    {
+      "move": "Shadow Ball",
+      "tm": "TM30"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Reflect",
+      "tm": "TM33"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Echoed Voice",
+      "tm": "TM49"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "Scald",
+      "tm": "TM55"
+    },
+    {
+      "move": "Acrobatics",
+      "tm": "TM62"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Psych Up",
+      "tm": "TM77"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Surf",
+      "tm": "TM94"
+    },
+    {
+      "move": "Waterfall",
+      "tm": "TM98"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "tm": "TM99"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Seel"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Dewgong"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Vaporeon"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Marill"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Azumarill"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Corsola"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Mantine"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Milotic"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Gorebyss"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Tympole"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Palpitoad"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Seismitoad"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Ducklett"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Swanna"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Alomomola"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Dewpider"
+    },
+    {
+      "move": "Aqua Ring",
+      "parent": "Araquanid"
+    },
+    {
+      "move": "Aromatic Mist",
+      "parent": "Smeargle"
+    },
+    {
+      "move": "Charm",
+      "parent": "Eevee"
+    },
+    {
+      "move": "Charm",
+      "parent": "Snubbull"
+    },
+    {
+      "move": "Charm",
+      "parent": "Granbull"
+    },
+    {
+      "move": "Charm",
+      "parent": "Teddiursa"
+    },
+    {
+      "move": "Charm",
+      "parent": "Phanpy"
+    },
+    {
+      "move": "Charm",
+      "parent": "Skitty"
+    },
+    {
+      "move": "Charm",
+      "parent": "Pachirisu"
+    },
+    {
+      "move": "Charm",
+      "parent": "Buneary"
+    },
+    {
+      "move": "Charm",
+      "parent": "Lopunny"
+    },
+    {
+      "move": "Charm",
+      "parent": "Glameow"
+    },
+    {
+      "move": "Charm",
+      "parent": "Purugly"
+    },
+    {
+      "move": "Charm",
+      "parent": "Minccino"
+    },
+    {
+      "move": "Charm",
+      "parent": "Deerling"
+    },
+    {
+      "move": "Charm",
+      "parent": "Sawsbuck"
+    },
+    {
+      "move": "Charm",
+      "parent": "Cubchoo"
+    },
+    {
+      "move": "Charm",
+      "parent": "Furfrou"
+    },
+    {
+      "move": "Charm",
+      "parent": "Meowstic"
+    },
+    {
+      "move": "Charm",
+      "parent": "Dedenne"
+    },
+    {
+      "move": "Perish Song",
+      "parent": "Lapras"
+    },
+    {
+      "move": "Perish Song",
+      "parent": "Politoed"
+    },
+    {
+      "move": "Perish Song",
+      "parent": "Absol"
+    },
+    {
+      "move": "Wonder Room",
+      "parent": "Psyduck"
+    },
+    {
+      "move": "Wonder Room",
+      "parent": "Golduck"
+    }
+  ]
+}

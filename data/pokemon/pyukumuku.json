@@ -1,0 +1,222 @@
+{
+  "names": {
+    "en": "Pyukumuku",
+    "jp": "ナマコブシ Namakobushi",
+    "fr": "Concombaffe",
+    "es": "Pyukumuku",
+    "de": "Gufa",
+    "it": "Pyukumuku"
+  },
+  "national_id": 771,
+  "alola_id": 200,
+  "types": [
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Innards Out"
+    },
+    {
+      "name": "Unaware",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Water 1"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "1'00\"",
+  "height_eu": "0.3 m",
+  "weight_us": "2.6 lbs.",
+  "weight_eu": "1.2 kg",
+  "base_exp_yield": 144,
+  "leveling_rate": "Fast",
+  "color": "Black",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 55,
+    "atk": 60,
+    "def": 130,
+    "sp_atk": 30,
+    "sp_def": 130,
+    "speed": 5
+  },
+  "learnset": [
+    {
+      "move": "Water Sport",
+      "level": 1
+    },
+    {
+      "move": "Mud Sport",
+      "level": 1
+    },
+    {
+      "move": "Harden",
+      "level": 1
+    },
+    {
+      "move": "Bide",
+      "level": 1
+    },
+    {
+      "move": "Helping Hand",
+      "level": 5
+    },
+    {
+      "move": "Taunt",
+      "level": 9
+    },
+    {
+      "move": "Safeguard",
+      "level": 13
+    },
+    {
+      "move": "Counter",
+      "level": 17
+    },
+    {
+      "move": "Purify",
+      "level": 21
+    },
+    {
+      "move": "Curse",
+      "level": 25
+    },
+    {
+      "move": "Gastro Acid",
+      "level": 29
+    },
+    {
+      "move": "Pain Split",
+      "level": 33
+    },
+    {
+      "move": "Recover",
+      "level": 37
+    },
+    {
+      "move": "Soak",
+      "level": 41
+    },
+    {
+      "move": "Toxic",
+      "level": 45
+    },
+    {
+      "move": "Memento",
+      "level": 49
+    },
+    {
+      "move": "Hail",
+      "tm": "TM07"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Reflect",
+      "tm": "TM33"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Quash",
+      "tm": "TM60"
+    },
+    {
+      "move": "Psych Up",
+      "tm": "TM77"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Endure",
+      "parent": "Kabuto"
+    },
+    {
+      "move": "Endure",
+      "parent": "Kabutops"
+    },
+    {
+      "move": "Endure",
+      "parent": "Corsola"
+    },
+    {
+      "move": "Endure",
+      "parent": "Stunfisk"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Omanyte"
+    },
+    {
+      "move": "Tickle",
+      "parent": "Omastar"
+    },
+    {
+      "move": "Venom Drench",
+      "parent": "Mareanie"
+    },
+    {
+      "move": "Venom Drench",
+      "parent": "Toxapex"
+    }
+  ]
+}

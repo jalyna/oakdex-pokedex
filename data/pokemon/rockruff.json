@@ -1,0 +1,554 @@
+{
+  "names": {
+    "en": "Rockruff",
+    "jp": "イワンコ Iwanko",
+    "fr": "Rocabot",
+    "es": "Rockruff",
+    "de": "Wuffels",
+    "it": "Rockruff"
+  },
+  "national_id": 744,
+  "alola_id": 103,
+  "types": [
+    "Rock"
+  ],
+  "abilities": [
+    {
+      "name": "Keen Eye"
+    },
+    {
+      "name": "Steadfast",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "1'08\"",
+  "height_eu": "0.5 m",
+  "weight_us": "20.3 lbs.",
+  "weight_eu": "9.2 kg",
+  "base_exp_yield": 56,
+  "leveling_rate": "Medium Fast",
+  "color": "Brown",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 45,
+    "atk": 65,
+    "def": 40,
+    "sp_atk": 30,
+    "sp_def": 40,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "move": "Leer",
+      "level": 1
+    },
+    {
+      "move": "Sand Attack",
+      "level": 4
+    },
+    {
+      "move": "Bite",
+      "level": 7
+    },
+    {
+      "move": "Howl",
+      "level": 12
+    },
+    {
+      "move": "Rock Throw",
+      "level": 15
+    },
+    {
+      "move": "Odor Sleuth",
+      "level": 18
+    },
+    {
+      "move": "Rock Tomb",
+      "level": 23
+    },
+    {
+      "move": "Roar",
+      "level": 26
+    },
+    {
+      "move": "Stealth Rock",
+      "level": 29
+    },
+    {
+      "move": "Rock Slide",
+      "level": 34
+    },
+    {
+      "move": "Scary Face",
+      "level": 37
+    },
+    {
+      "move": "Crunch",
+      "level": 40
+    },
+    {
+      "move": "Rock Climb",
+      "level": 45
+    },
+    {
+      "move": "Stone Edge",
+      "level": 48
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Rock Tomb",
+      "tm": "TM39"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Echoed Voice",
+      "tm": "TM49"
+    },
+    {
+      "move": "Rock Polish",
+      "tm": "TM69"
+    },
+    {
+      "move": "Stone Edge",
+      "tm": "TM71"
+    },
+    {
+      "move": "Rock Slide",
+      "tm": "TM80"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Snarl",
+      "tm": "TM95"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Arbok"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Growlithe"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Arcanine"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Flareon"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Snubbull"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Granbull"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Houndour"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Houndoom"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Donphan"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Mightyena"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Exploud"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Manectric"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Hippowdon"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Stoutland"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Darumaka"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Darmanitan"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Litleo"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Pyroar"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Litten"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Torracat"
+    },
+    {
+      "move": "Fire Fang",
+      "parent": "Incineroar"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Rattata"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Rattata"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Raticate"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Raticate"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Diglett"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Diglett"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Dugtrio"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Dugtrio"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Sentret"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Furret"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Poochyena"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Mightyena"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Mawile"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Spinda"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Kecleon"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Absol"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Glameow"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Stunky"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Skuntank"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Purrloin"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Liepard"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Furfrou"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Meowstic"
+    },
+    {
+      "move": "Sucker Punch",
+      "parent": "Komala"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Nidoking"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Mankey"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Primeape"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Tauros"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Teddiursa"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Ursaring"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Piloswine"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Mamoswine"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Spinda"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Blitzle"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Zebstrika"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Sandile"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Krokorok"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Darumaka"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Darmanitan"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Cubchoo"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Beartic"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Bouffalant"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Litten"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Torracat"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Incineroar"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Yungoos"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Gumshoos"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Stufful"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Bewear"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Passimian"
+    },
+    {
+      "move": "Thrash",
+      "parent": "Komala"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Arbok"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Arcanine"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Jolteon"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Snubbull"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Granbull"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Houndoom"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Donphan"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Mightyena"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Exploud"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Electrike"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Manectric"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Shinx"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Luxio"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Luxray"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Hippowdon"
+    },
+    {
+      "move": "Thunder Fang",
+      "parent": "Stoutland"
+    }
+  ]
+}

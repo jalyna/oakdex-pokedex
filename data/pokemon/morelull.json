@@ -1,0 +1,611 @@
+{
+  "names": {
+    "en": "Morelull",
+    "jp": "ネマシュ Nemashu",
+    "fr": "Spododo",
+    "es": "Morelull",
+    "de": "Bubungus",
+    "it": "Morelull"
+  },
+  "national_id": 755,
+  "alola_id": 145,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Illuminate"
+    },
+    {
+      "name": "Rain Dish",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 190,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5140,
+    5396
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "3.3 lbs.",
+  "weight_eu": "1.5 kg",
+  "base_exp_yield": 57,
+  "leveling_rate": "Medium Fast",
+  "color": "Purple",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 55,
+    "sp_atk": 65,
+    "sp_def": 75,
+    "speed": 15
+  },
+  "learnset": [
+    {
+      "move": "Astonish",
+      "level": 4
+    },
+    {
+      "move": "Flash",
+      "level": 8
+    },
+    {
+      "move": "Moonlight",
+      "level": 11
+    },
+    {
+      "move": "Mega Drain",
+      "level": 15
+    },
+    {
+      "move": "Sleep Powder",
+      "level": 18
+    },
+    {
+      "move": "Ingrain",
+      "level": 22
+    },
+    {
+      "move": "Confuse Ray",
+      "level": 25
+    },
+    {
+      "move": "Giga Drain",
+      "level": 29
+    },
+    {
+      "move": "Strength Sap",
+      "level": 32
+    },
+    {
+      "move": "Spore",
+      "level": 36
+    },
+    {
+      "move": "Moonblast",
+      "level": 39
+    },
+    {
+      "move": "Dream Eater",
+      "level": 43
+    },
+    {
+      "move": "Spotlight",
+      "level": 46
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Sunny Day",
+      "tm": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Solar Beam",
+      "tm": "TM22"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Sludge Bomb",
+      "tm": "TM36"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "Thunder Wave",
+      "tm": "TM73"
+    },
+    {
+      "move": "Dream Eater",
+      "tm": "TM85"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Nature Power",
+      "tm": "TM96"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "tm": "TM99"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Growth",
+      "parent": "Bulbasaur"
+    },
+    {
+      "move": "Growth",
+      "parent": "Ivysaur"
+    },
+    {
+      "move": "Growth",
+      "parent": "Venusaur"
+    },
+    {
+      "move": "Growth",
+      "parent": "Oddish"
+    },
+    {
+      "move": "Growth",
+      "parent": "Gloom"
+    },
+    {
+      "move": "Growth",
+      "parent": "Paras"
+    },
+    {
+      "move": "Growth",
+      "parent": "Parasect"
+    },
+    {
+      "move": "Growth",
+      "parent": "Bellsprout"
+    },
+    {
+      "move": "Growth",
+      "parent": "Weepinbell"
+    },
+    {
+      "move": "Growth",
+      "parent": "Tangela"
+    },
+    {
+      "move": "Growth",
+      "parent": "Tangrowth"
+    },
+    {
+      "move": "Growth",
+      "parent": "Sunkern"
+    },
+    {
+      "move": "Growth",
+      "parent": "Sunflora"
+    },
+    {
+      "move": "Growth",
+      "parent": "Seedot"
+    },
+    {
+      "move": "Growth",
+      "parent": "Nuzleaf"
+    },
+    {
+      "move": "Growth",
+      "parent": "Shroomish"
+    },
+    {
+      "move": "Growth",
+      "parent": "Roselia"
+    },
+    {
+      "move": "Growth",
+      "parent": "Cacnea"
+    },
+    {
+      "move": "Growth",
+      "parent": "Cacturne"
+    },
+    {
+      "move": "Growth",
+      "parent": "Tropius"
+    },
+    {
+      "move": "Growth",
+      "parent": "Cherubi"
+    },
+    {
+      "move": "Growth",
+      "parent": "Cherrim"
+    },
+    {
+      "move": "Growth",
+      "parent": "Carnivine"
+    },
+    {
+      "move": "Growth",
+      "parent": "Snivy"
+    },
+    {
+      "move": "Growth",
+      "parent": "Servine"
+    },
+    {
+      "move": "Growth",
+      "parent": "Serperior"
+    },
+    {
+      "move": "Growth",
+      "parent": "Cottonee"
+    },
+    {
+      "move": "Growth",
+      "parent": "Whimsicott"
+    },
+    {
+      "move": "Growth",
+      "parent": "Maractus"
+    },
+    {
+      "move": "Growth",
+      "parent": "Foongus"
+    },
+    {
+      "move": "Growth",
+      "parent": "Amoonguss"
+    },
+    {
+      "move": "Growth",
+      "parent": "Phantump"
+    },
+    {
+      "move": "Growth",
+      "parent": "Trevenant"
+    },
+    {
+      "move": "Growth",
+      "parent": "Fomantis"
+    },
+    {
+      "move": "Growth",
+      "parent": "Lurantis"
+    },
+    {
+      "move": "Growth",
+      "parent": "Comfey"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Ivysaur"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Venusaur"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Exeggcute"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Skiploom"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Jumpluff"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Sunkern"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Sunflora"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Shroomish"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Breloom"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Roselia"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Cacnea"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Cacturne"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Turtwig"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Grotle"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Torterra"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Cherubi"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Cherrim"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Snivy"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Servine"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Serperior"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Cottonee"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Whimsicott"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Phantump"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Trevenant"
+    },
+    {
+      "move": "Leech Seed",
+      "parent": "Comfey"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Bulbasaur"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Ivysaur"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Venusaur"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Oddish"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Gloom"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Vileplume"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Paras"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Parasect"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Bellsprout"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Weepinbell"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Exeggcute"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Tangela"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Tangrowth"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Chikorita"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Bayleef"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Meganium"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Skiploom"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Jumpluff"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Shroomish"
+    },
+    {
+      "move": "Poison Powder",
+      "parent": "Cottonee"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Oddish"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Gloom"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Vileplume"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Bellossom"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Paras"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Parasect"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Bellsprout"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Weepinbell"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Exeggcute"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Tangela"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Tangrowth"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Skiploom"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Jumpluff"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Shroomish"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Breloom"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Roselia"
+    },
+    {
+      "move": "Stun Spore",
+      "parent": "Cottonee"
+    }
+  ]
+}

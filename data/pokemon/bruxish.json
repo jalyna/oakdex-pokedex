@@ -1,0 +1,315 @@
+{
+  "names": {
+    "en": "Bruxish",
+    "jp": "トハギギシリ Hagigishiri",
+    "fr": "Denticrisse",
+    "es": "Bruxish",
+    "de": "Knirfish",
+    "it": "Bruxish"
+  },
+  "national_id": 779,
+  "alola_id": 243,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Dazzling"
+    },
+    {
+      "name": "Wonder Skin",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 80,
+  "egg_groups": [
+    "Water 2"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "41.9 lbs.",
+  "weight_eu": "19.0 kg",
+  "base_exp_yield": 166,
+  "leveling_rate": "Medium Fast",
+  "color": "Pink",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 68,
+    "atk": 105,
+    "def": 70,
+    "sp_atk": 70,
+    "sp_def": 70,
+    "speed": 92
+  },
+  "learnset": [
+    {
+      "move": "Astonish",
+      "level": 4
+    },
+    {
+      "move": "Confusion",
+      "level": 9
+    },
+    {
+      "move": "Bite",
+      "level": 12
+    },
+    {
+      "move": "Aqua Jet",
+      "level": 17
+    },
+    {
+      "move": "Disable",
+      "level": 20
+    },
+    {
+      "move": "Psywave",
+      "level": 25
+    },
+    {
+      "move": "Crunch",
+      "level": 28
+    },
+    {
+      "move": "Aqua Tail",
+      "level": 33
+    },
+    {
+      "move": "Screech",
+      "level": 36
+    },
+    {
+      "move": "Psychic Fangs",
+      "level": 41
+    },
+    {
+      "move": "Synchronoise",
+      "level": 44
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Bulk Up",
+      "tm": "TM08"
+    },
+    {
+      "move": "Venoshock",
+      "tm": "TM09"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Ice Beam",
+      "tm": "TM13"
+    },
+    {
+      "move": "Blizzard",
+      "tm": "TM14"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Psychic",
+      "tm": "TM29"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Reflect",
+      "tm": "TM33"
+    },
+    {
+      "move": "Aerial Ace",
+      "tm": "TM40"
+    },
+    {
+      "move": "Torment",
+      "tm": "TM41"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Scald",
+      "tm": "TM55"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Embargo",
+      "tm": "TM63"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "Frost Breath",
+      "tm": "TM79"
+    },
+    {
+      "move": "Dream Eater",
+      "tm": "TM85"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Trick Room",
+      "tm": "TM92"
+    },
+    {
+      "move": "Surf",
+      "tm": "TM94"
+    },
+    {
+      "move": "Waterfall",
+      "tm": "TM98"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Poison Fang",
+      "parent": "Carvanha"
+    },
+    {
+      "move": "Poison Fang",
+      "parent": "Sharpedo"
+    },
+    {
+      "move": "Rage",
+      "parent": "Carvanha"
+    },
+    {
+      "move": "Rage",
+      "parent": "Sharpedo"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Goldeen"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Seaking"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Remoraid"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Wailmer"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Wailord"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Barboach"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Whiscash"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Luvdisc"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Finneon"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Lumineon"
+    },
+    {
+      "move": "Water Pulse",
+      "parent": "Alomomola"
+    }
+  ]
+}

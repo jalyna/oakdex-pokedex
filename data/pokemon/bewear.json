@@ -1,0 +1,299 @@
+{
+  "names": {
+    "en": "Bewear",
+    "jp": "キテルグマ Kiteruguma",
+    "fr": "Chelours",
+    "es": "Bewear",
+    "de": "Kosturso",
+    "it": "Bewear"
+  },
+  "national_id": 760,
+  "alola_id": 170,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "abilities": [
+    {
+      "name": "Fluffy"
+    },
+    {
+      "name": "Unnerve",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 70,
+  "egg_groups": [
+    "Field"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "6'11\"",
+  "height_eu": "2.1 m",
+  "weight_us": "297.6 lbs.",
+  "weight_eu": "135.0 kg",
+  "base_exp_yield": 175,
+  "leveling_rate": "Medium Fast",
+  "color": "Pink",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 120,
+    "atk": 125,
+    "def": 80,
+    "sp_atk": 55,
+    "sp_def": 60,
+    "speed": 60
+  },
+  "learnset": [
+    {
+      "move": "Leer",
+      "level": 1
+    },
+    {
+      "move": "Bind",
+      "level": 0
+    },
+    {
+      "move": "Bide",
+      "level": 5
+    },
+    {
+      "move": "Baby-Doll Eyes",
+      "level": 10
+    },
+    {
+      "move": "Brutal Swing",
+      "level": 14
+    },
+    {
+      "move": "Flail",
+      "level": 19
+    },
+    {
+      "move": "Payback",
+      "level": 23
+    },
+    {
+      "move": "Take Down",
+      "level": 30
+    },
+    {
+      "move": "Hammer Arm",
+      "level": 36
+    },
+    {
+      "move": "Thrash",
+      "level": 43
+    },
+    {
+      "move": "Pain Split",
+      "level": 49
+    },
+    {
+      "move": "Double-Edge",
+      "level": 56
+    },
+    {
+      "move": "Superpower",
+      "level": 62
+    },
+    {
+      "move": "Dragon Claw",
+      "tm": "TM02"
+    },
+    {
+      "move": "Roar",
+      "tm": "TM05"
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Bulk Up",
+      "tm": "TM08"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Hyper Beam",
+      "tm": "TM15"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Earthquake",
+      "tm": "TM26"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Brick Break",
+      "tm": "TM31"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Rock Tomb",
+      "tm": "TM39"
+    },
+    {
+      "move": "Aerial Ace",
+      "tm": "TM40"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Low Sweep",
+      "tm": "TM47"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Focus Blast",
+      "tm": "TM52"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Brutal Swing",
+      "tm": "TM59"
+    },
+    {
+      "move": "Shadow Claw",
+      "tm": "TM65"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "Bulldoze",
+      "tm": "TM78"
+    },
+    {
+      "move": "Rock Slide",
+      "tm": "TM80"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Force Palm",
+      "parent": "Mienfoo"
+    },
+    {
+      "move": "Force Palm",
+      "parent": "Mienshao"
+    },
+    {
+      "move": "Ice Punch",
+      "parent": "Sneasel"
+    },
+    {
+      "move": "Ice Punch",
+      "parent": "Delibird"
+    },
+    {
+      "move": "Ice Punch",
+      "parent": "Buneary"
+    },
+    {
+      "move": "Ice Punch",
+      "parent": "Scraggy"
+    },
+    {
+      "move": "Ice Punch",
+      "parent": "Cubchoo"
+    },
+    {
+      "move": "Mega Kick",
+      "parent": "Mudbray"
+    },
+    {
+      "move": "Mega Kick",
+      "parent": "Mudsdale"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "parent": "Mankey"
+    },
+    {
+      "move": "Stomping Tantrum",
+      "parent": "Primeape"
+    },
+    {
+      "move": "Thunder Punch",
+      "parent": "Ampharos"
+    },
+    {
+      "move": "Wide Guard",
+      "parent": "Mienshao"
+    }
+  ]
+}
