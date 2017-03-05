@@ -271,5 +271,13 @@
       "move": "Mud Shot",
       "parent": "Trapinch"
     }
+  ],
+  "evolution_from": "Grubbin",
+  "evolutions": [
+    {
+      "to": "Vikavolt",
+      "level_up": true,
+      "conditions": ["In Vast Poni Canyon"]
+    }
   ]
 }

@@ -234,5 +234,12 @@
       "move": "Revenge",
       "parent": "Bouffalant"
     }
+  ],
+  "evolutions": [
+    {
+      "to": "Gumshoos",
+      "level": 20,
+      "conditions": ["Daytime"]
+    }
   ]
 }

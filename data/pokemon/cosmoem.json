@@ -59,5 +59,18 @@
       "level": 0
     }
   ],
-  "gender_ratios": null
+  "gender_ratios": null,
+  "evolution_from": "Cosmog",
+  "evolutions": [
+    {
+      "to": "Solgaleo",
+      "level": 53,
+      "conditions": ["Pokémon Sun"]
+    },
+    {
+      "to": "Lunala",
+      "level": 53,
+      "conditions": ["Pokémon Moon"]
+    }
+  ]
 }
