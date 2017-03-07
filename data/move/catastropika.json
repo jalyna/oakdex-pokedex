@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Catastropika",
+    "fr": "Pikachute Foudroyante",
+    "de": "Perfektes Pika-Projektil",
+    "it": "Super Pikaboom",
+    "es": "Pikavoltio Letal"
+  },
+  "index_number": 658,
+  "descriptions": {
+    "en": "Catastropika does damage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Electric",
+  "category": "physical",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 210,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

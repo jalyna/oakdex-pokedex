@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Spotlight",
+    "fr": "Projecteur",
+    "de": "Rampenlicht",
+    "it": "Riflettore",
+    "es": "Foco"
+  },
+  "index_number": 671,
+  "descriptions": {
+    "en": "Spotlight causes the move's target to become the center of attention, forcing all attacks from the target's foes to target it instead of their intended target."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Normal",
+  "category": "status",
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "priority": 3,
+  "target": "all_adjacent",
+  "critical_hit": 0
+}

@@ -1,0 +1,336 @@
+{
+  "names": {
+    "en": "Palossand",
+    "jp": "シロデスナ Shirodesuna",
+    "fr": "Trépassable",
+    "es": "Palossand",
+    "de": "Colossand",
+    "it": "Palossand"
+  },
+  "national_id": 770,
+  "alola_id": 187,
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "abilities": [
+    {
+      "name": "Water Compaction"
+    },
+    {
+      "name": "Sand Veil",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Amorphous"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "4'03\"",
+  "height_eu": "1.3 m",
+  "weight_us": "551.2 lbs.",
+  "weight_eu": "250.0 kg",
+  "base_exp_yield": 168,
+  "leveling_rate": "Medium Fast",
+  "color": "Brown",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 85,
+    "atk": 75,
+    "def": 110,
+    "sp_atk": 100,
+    "sp_def": 75,
+    "speed": 35
+  },
+  "learnset": [
+    {
+      "move": "Absorb",
+      "level": 1
+    },
+    {
+      "move": "Astonish",
+      "level": 1
+    },
+    {
+      "move": "Sand Attack",
+      "level": 1
+    },
+    {
+      "move": "Astonish",
+      "level": 5
+    },
+    {
+      "move": "Sand Attack",
+      "level": 9
+    },
+    {
+      "move": "Sand Tomb",
+      "level": 14
+    },
+    {
+      "move": "Mega Drain",
+      "level": 18
+    },
+    {
+      "move": "Bulldoze",
+      "level": 23
+    },
+    {
+      "move": "Hypnosis",
+      "level": 27
+    },
+    {
+      "move": "Iron Defense",
+      "level": 32
+    },
+    {
+      "move": "Giga Drain",
+      "level": 36
+    },
+    {
+      "move": "Shadow Ball",
+      "level": 41
+    },
+    {
+      "move": "Earth Power",
+      "level": 47
+    },
+    {
+      "move": "Shore Up",
+      "level": 54
+    },
+    {
+      "move": "Sandstorm",
+      "level": 60
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Earthquake",
+      "tm": "TM26"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Psychic",
+      "tm": "TM29"
+    },
+    {
+      "move": "Shadow Ball",
+      "tm": "TM30"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Sludge Bomb",
+      "tm": "TM36"
+    },
+    {
+      "move": "Sandstorm",
+      "tm": "TM37"
+    },
+    {
+      "move": "Rock Tomb",
+      "tm": "TM39"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Quash",
+      "tm": "TM60"
+    },
+    {
+      "move": "Embargo",
+      "tm": "TM63"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Rock Polish",
+      "tm": "TM69"
+    },
+    {
+      "move": "Stone Edge",
+      "tm": "TM71"
+    },
+    {
+      "move": "Bulldoze",
+      "tm": "TM78"
+    },
+    {
+      "move": "Rock Slide",
+      "tm": "TM80"
+    },
+    {
+      "move": "Infestation",
+      "tm": "TM83"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Ancient Power",
+      "parent": "Slugma"
+    },
+    {
+      "move": "Ancient Power",
+      "parent": "Magcargo"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Gastly"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Haunter"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Gengar"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Koffing"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Weezing"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Wobbuffet"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Yamask"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Cofagrigus"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Phantump"
+    },
+    {
+      "move": "Destiny Bond",
+      "parent": "Trevenant"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Gulpin"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Swalot"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Drifloon"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Drifblim"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Gulpin"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Swalot"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Drifloon"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Drifblim"
+    },
+    {
+      "move": "Swallow",
+      "parent": "Gulpin"
+    },
+    {
+      "move": "Swallow",
+      "parent": "Swalot"
+    },
+    {
+      "move": "Swallow",
+      "parent": "Drifloon"
+    },
+    {
+      "move": "Swallow",
+      "parent": "Drifblim"
+    }
+  ],
+  "evolution_from": "Sandygast"
+}

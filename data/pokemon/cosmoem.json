@@ -1,0 +1,76 @@
+{
+  "names": {
+    "en": "Cosmoem",
+    "jp": "コスモウム Cosmovum",
+    "fr": "Cosmovum",
+    "es": "Cosmoem",
+    "de": "Cosmovum",
+    "it": "Cosmoem"
+  },
+  "national_id": 790,
+  "alola_id": 290,
+  "types": [
+    "Psychic"
+  ],
+  "abilities": [
+    {
+      "name": "Sturdy"
+    }
+  ],
+  "catch_rate": 45,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "hatch_time": [
+    30840,
+    31096
+  ],
+  "height_us": "0'04\"",
+  "height_eu": "0.1 m",
+  "weight_us": "2204.4 lbs.",
+  "weight_eu": "999.9 kg",
+  "base_exp_yield": 80,
+  "leveling_rate": "Slow",
+  "color": "Blue",
+  "base_friendship": 0,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 1,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 131,
+    "sp_atk": 29,
+    "sp_def": 131,
+    "speed": 37
+  },
+  "learnset": [
+    {
+      "move": "Teleport",
+      "level": 1
+    },
+    {
+      "move": "Cosmic Power",
+      "level": 0
+    }
+  ],
+  "gender_ratios": null,
+  "evolution_from": "Cosmog",
+  "evolutions": [
+    {
+      "to": "Solgaleo",
+      "level": 53,
+      "conditions": ["Pokémon Sun"]
+    },
+    {
+      "to": "Lunala",
+      "level": 53,
+      "conditions": ["Pokémon Moon"]
+    }
+  ]
+}

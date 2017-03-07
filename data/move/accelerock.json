@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Accelerock",
+    "fr": "Vif Roc",
+    "de": "Turbofelsen",
+    "it": "Rocciarapida",
+    "es": "Roca Veloz"
+  },
+  "index_number": 709,
+  "descriptions": {
+    "en": "Accelerock inflicts damage. It has a priority of +1, so it is used before all moves that do not have increased priority."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Rock",
+  "category": "physical",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 40,
+  "accuracy": 100,
+  "priority": 1,
+  "target": "all_adjacent",
+  "critical_hit": 0
+}

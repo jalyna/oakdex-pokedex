@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Shore Up",
+    "fr": "Amass'Sable",
+    "de": "Sandsammler",
+    "it": "Sabbiaccumulo",
+    "es": "Recogearena"
+  },
+  "index_number": 659,
+  "descriptions": {
+    "en": "Shore Up restores the user's current HP based on the weather in the battle. Normal conditions restore ½ total HP and sandstorm conditions restore ⅔ total."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Ground",
+  "category": "status",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "priority": 0
+}

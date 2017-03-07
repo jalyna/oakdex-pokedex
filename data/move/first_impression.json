@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "First Impression",
+    "fr": "Escarmouche",
+    "de": "Überrumpler",
+    "it": "Schermaglia",
+    "es": "Escaramuza"
+  },
+  "index_number": 660,
+  "descriptions": {
+    "en": "First Impression inflicts damage. It has a priority of +2, so is used even before other increased priority moves."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Bug",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 90,
+  "accuracy": 100,
+  "priority": 2,
+  "target": "all_adjacent",
+  "critical_hit": 0
+}

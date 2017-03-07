@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Malicious Moonsault",
+    "fr": "Dark Body Press",
+    "de": "Hyper Dark Crusher",
+    "it": "Iperschianto delle Tenebre",
+    "es": "Hiperplancha Oscura"
+  },
+  "index_number": 696,
+  "descriptions": {
+    "en": "Malicious Moonsault inflicts damage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Dark",
+  "category": "physical",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 180,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

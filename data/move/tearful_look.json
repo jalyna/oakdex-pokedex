@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Tearful Look",
+    "fr": "Larme à l'Œil",
+    "de": "Tränendrüse",
+    "it": "Occhionilucidi",
+    "es": "Ojos Llorosos"
+  },
+  "index_number": 715,
+  "descriptions": {
+    "en": "Tearful Look lowers the target's Attack and Special Attack stats by one stage each. It bypasses accuracy checks to always hit, unless the opponent is in the semi-invulnerable turn of a move such as Dig or Fly. Tearful Look will hit the target even if it has used Protect, Detect, Spiky Shield, or Baneful Bunker, but will be blocked by Crafty Shield."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Normal",
+  "category": "status",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

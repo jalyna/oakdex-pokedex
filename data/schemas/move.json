@@ -52,7 +52,7 @@
     },
     "category": {
       "type": "string",
-      "enum" : ["physical", "status", "special"]
+      "enum" : ["physical", "status", "special", "varies"]
     },
     "priority": {
       "type": "integer",
@@ -78,7 +78,7 @@
     "critical_hit": {
       "type": "integer",
       "minimum": 0,
-      "maximum": 3
+      "maximum": 2
     },
     "makes_contact": {
       "type": "boolean"
@@ -126,6 +126,9 @@
           "type": "string"
         },
         "en": {
+          "type": "string"
+        },
+        "es": {
           "type": "string"
         }
       },

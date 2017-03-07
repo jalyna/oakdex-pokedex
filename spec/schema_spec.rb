@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'json-schema'
 
-describe 'types' do
+describe 'schemas' do
   Dir['data/schemas/*.json'].each do |schema_path|
     type = schema_path.sub('.json', '').split('/').last
     Dir["data/#{type}/*.json"].each do |file_name|

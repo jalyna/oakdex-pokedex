@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Dragon Hammer",
+    "fr": "Draco-Marteau",
+    "de": "Drachenhammer",
+    "it": "Marteldrago",
+    "es": "Martillo Dragón"
+  },
+  "index_number": 692,
+  "descriptions": {
+    "en": "Dragon Hammer deals damage and has no secondary effect."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Dragon",
+  "category": "physical",
+  "pp": 15,
+  "max_pp": 24,
+  "power": 90,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

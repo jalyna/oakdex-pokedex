@@ -1,0 +1,322 @@
+{
+  "names": {
+    "en": "Comfey",
+    "jp": "キュワワー Cuwawa",
+    "fr": "Guérilande",
+    "es": "Comfey",
+    "de": "Curelei",
+    "it": "Comfey"
+  },
+  "national_id": 764,
+  "alola_id": 174,
+  "types": [
+    "Fairy"
+  ],
+  "abilities": [
+    {
+      "name": "Flower Veil"
+    },
+    {
+      "name": "Natural Cure",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 25.0,
+    "female": 75.0
+  },
+  "catch_rate": 60,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5140,
+    5396
+  ],
+  "height_us": "0'04\"",
+  "height_eu": "0.1 m",
+  "weight_us": "0.7 lbs.",
+  "weight_eu": "0.3 kg",
+  "base_exp_yield": 170,
+  "leveling_rate": "Fast",
+  "color": "Green",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 51,
+    "atk": 52,
+    "def": 90,
+    "sp_atk": 82,
+    "sp_def": 110,
+    "speed": 100
+  },
+  "learnset": [
+    {
+      "move": "Vine Whip",
+      "level": 1
+    },
+    {
+      "move": "Flower Shield",
+      "level": 1
+    },
+    {
+      "move": "Leech Seed",
+      "level": 4
+    },
+    {
+      "move": "Draining Kiss",
+      "level": 7
+    },
+    {
+      "move": "Magical Leaf",
+      "level": 10
+    },
+    {
+      "move": "Growth",
+      "level": 13
+    },
+    {
+      "move": "Wrap",
+      "level": 16
+    },
+    {
+      "move": "Sweet Kiss",
+      "level": 19
+    },
+    {
+      "move": "Natural Gift",
+      "level": 22
+    },
+    {
+      "move": "Petal Blizzard",
+      "level": 25
+    },
+    {
+      "move": "Synthesis",
+      "level": 28
+    },
+    {
+      "move": "Sweet Scent",
+      "level": 31
+    },
+    {
+      "move": "Grass Knot",
+      "level": 34
+    },
+    {
+      "move": "Floral Healing",
+      "level": 37
+    },
+    {
+      "move": "Petal Dance",
+      "level": 40
+    },
+    {
+      "move": "Aromatherapy",
+      "level": 43
+    },
+    {
+      "move": "Grassy Terrain",
+      "level": 46
+    },
+    {
+      "move": "Play Rough",
+      "level": 49
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Sunny Day",
+      "tm": "TM11"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Hyper Beam",
+      "tm": "TM15"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Solar Beam",
+      "tm": "TM22"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Thief",
+      "tm": "TM46"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Echoed Voice",
+      "tm": "TM49"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Acrobatics",
+      "tm": "TM62"
+    },
+    {
+      "move": "Psych Up",
+      "tm": "TM77"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "U-turn",
+      "tm": "TM89"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Trick Room",
+      "tm": "TM92"
+    },
+    {
+      "move": "Nature Power",
+      "tm": "TM96"
+    },
+    {
+      "move": "Dazzling Gleam",
+      "tm": "TM99"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Bulbasaur"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Tangela"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Seedot"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Turtwig"
+    },
+    {
+      "move": "Amnesia",
+      "parent": "Morelull"
+    },
+    {
+      "move": "Endure",
+      "parent": "Bulbasaur"
+    },
+    {
+      "move": "Endure",
+      "parent": "Paras"
+    },
+    {
+      "move": "Endure",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Endure",
+      "parent": "Sunkern"
+    },
+    {
+      "move": "Endure",
+      "parent": "Petilil"
+    },
+    {
+      "move": "Endure",
+      "parent": "Foongus"
+    },
+    {
+      "move": "Lucky Chant",
+      "parent": "Oddish"
+    },
+    {
+      "move": "Lucky Chant",
+      "parent": "Gloom"
+    },
+    {
+      "move": "Lucky Chant",
+      "parent": "Cherubi"
+    },
+    {
+      "move": "Lucky Chant",
+      "parent": "Cherrim"
+    }
+  ]
+}

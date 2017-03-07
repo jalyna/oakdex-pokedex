@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Psychic Fangs",
+    "fr": "Psycho-Croc",
+    "de": "Psychobeißer",
+    "it": "Psicozanna",
+    "es": "Psicocolmillo"
+  },
+  "index_number": 706,
+  "descriptions": {
+    "en": "Psychic Fangs removes Light Screen, Reflect, and Aurora Veil from the target's side of the field, then inflicts damage. It will not remove Light Screen, Reflect, or Aurora Veil if Psychic Fangs misses or the target is immune to or protected from Psychic Fangs."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Psychic",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 85,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}
