@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Floral Healing",
+    "fr": "Soin Floral",
+    "de": "Florakur",
+    "it": "Cura Floreale",
+    "es": "Cura Floral"
+  },
+  "index_number": 666,
+  "descriptions": {
+    "en": "Floral Healing restores up to ½ of the target's maximum HP. If Grassy Terrain is in effect, Floral Healing will restore up to ⅔ of the target's maximum HP."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Fairy",
+  "category": "status",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

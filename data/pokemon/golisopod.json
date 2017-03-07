@@ -1,0 +1,429 @@
+{
+  "names": {
+    "en": "Golisopod",
+    "jp": "グソクムシャ Gusokumusha",
+    "fr": "Sarmuraï",
+    "es": "Golisopod",
+    "de": "Tectass",
+    "it": "Golisopod"
+  },
+  "national_id": 768,
+  "alola_id": 183,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "abilities": [
+    {
+      "name": "Emergency Exit"
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Bug",
+    "Water 3"
+  ],
+  "hatch_time": [
+    5140,
+    5396
+  ],
+  "height_us": "6'07\"",
+  "height_eu": "2.0 m",
+  "weight_us": "238.1 lbs.",
+  "weight_eu": "108.0 kg",
+  "base_exp_yield": 186,
+  "leveling_rate": "Medium Fast",
+  "color": "Gray",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 2,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 140,
+    "sp_atk": 60,
+    "sp_def": 90,
+    "speed": 40
+  },
+  "learnset": [
+    {
+      "move": "Struggle Bug",
+      "level": 1
+    },
+    {
+      "move": "Sand Attack",
+      "level": 1
+    },
+    {
+      "move": "Fury Cutter",
+      "level": 1
+    },
+    {
+      "move": "Rock Smash",
+      "level": 1
+    },
+    {
+      "move": "First Impression",
+      "level": 0
+    },
+    {
+      "move": "Fury Cutter",
+      "level": 4
+    },
+    {
+      "move": "Rock Smash",
+      "level": 7
+    },
+    {
+      "move": "Bug Bite",
+      "level": 10
+    },
+    {
+      "move": "Spite",
+      "level": 13
+    },
+    {
+      "move": "Swords Dance",
+      "level": 16
+    },
+    {
+      "move": "Slash",
+      "level": 21
+    },
+    {
+      "move": "Razor Shell",
+      "level": 26
+    },
+    {
+      "move": "Sucker Punch",
+      "level": 31
+    },
+    {
+      "move": "Iron Defense",
+      "level": 36
+    },
+    {
+      "move": "Pin Missile",
+      "level": 41
+    },
+    {
+      "move": "Liquidation",
+      "level": 48
+    },
+    {
+      "move": "Hail",
+      "tm": "TM07"
+    },
+    {
+      "move": "Bulk Up",
+      "tm": "TM08"
+    },
+    {
+      "move": "Venoshock",
+      "tm": "TM09"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Taunt",
+      "tm": "TM12"
+    },
+    {
+      "move": "Ice Beam",
+      "tm": "TM13"
+    },
+    {
+      "move": "Blizzard",
+      "tm": "TM14"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Leech Life",
+      "tm": "TM28"
+    },
+    {
+      "move": "Brick Break",
+      "tm": "TM31"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Sludge Wave",
+      "tm": "TM34"
+    },
+    {
+      "move": "Sludge Bomb",
+      "tm": "TM36"
+    },
+    {
+      "move": "Rock Tomb",
+      "tm": "TM39"
+    },
+    {
+      "move": "Aerial Ace",
+      "tm": "TM40"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Focus Blast",
+      "tm": "TM52"
+    },
+    {
+      "move": "False Swipe",
+      "tm": "TM54"
+    },
+    {
+      "move": "Scald",
+      "tm": "TM55"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Shadow Claw",
+      "tm": "TM65"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "Psych Up",
+      "tm": "TM77"
+    },
+    {
+      "move": "Frost Breath",
+      "tm": "TM79"
+    },
+    {
+      "move": "Rock Slide",
+      "tm": "TM80"
+    },
+    {
+      "move": "X-Scissor",
+      "tm": "TM81"
+    },
+    {
+      "move": "Poison Jab",
+      "tm": "TM84"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Surf",
+      "tm": "TM94"
+    },
+    {
+      "move": "Snarl",
+      "tm": "TM95"
+    },
+    {
+      "move": "Dark Pulse",
+      "tm": "TM97"
+    },
+    {
+      "move": "Waterfall",
+      "tm": "TM98"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Harden",
+      "parent": "Metapod"
+    },
+    {
+      "move": "Harden",
+      "parent": "Kakuna"
+    },
+    {
+      "move": "Harden",
+      "parent": "Krabby"
+    },
+    {
+      "move": "Harden",
+      "parent": "Kingler"
+    },
+    {
+      "move": "Harden",
+      "parent": "Pinsir"
+    },
+    {
+      "move": "Harden",
+      "parent": "Kabuto"
+    },
+    {
+      "move": "Harden",
+      "parent": "Kabutops"
+    },
+    {
+      "move": "Harden",
+      "parent": "Gligar"
+    },
+    {
+      "move": "Harden",
+      "parent": "Gliscor"
+    },
+    {
+      "move": "Harden",
+      "parent": "Corsola"
+    },
+    {
+      "move": "Harden",
+      "parent": "Silcoon"
+    },
+    {
+      "move": "Harden",
+      "parent": "Cascoon"
+    },
+    {
+      "move": "Harden",
+      "parent": "Nincada"
+    },
+    {
+      "move": "Harden",
+      "parent": "Ninjask"
+    },
+    {
+      "move": "Harden",
+      "parent": "Corphish"
+    },
+    {
+      "move": "Harden",
+      "parent": "Crawdaunt"
+    },
+    {
+      "move": "Harden",
+      "parent": "Anorith"
+    },
+    {
+      "move": "Harden",
+      "parent": "Armaldo"
+    },
+    {
+      "move": "Harden",
+      "parent": "Spewpa"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Krabby"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Kingler"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Scizor"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Nincada"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Anorith"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Armaldo"
+    },
+    {
+      "move": "Metal Claw",
+      "parent": "Durant"
+    },
+    {
+      "move": "Spikes",
+      "parent": "Cloyster"
+    },
+    {
+      "move": "Spikes",
+      "parent": "Pineco"
+    },
+    {
+      "move": "Spikes",
+      "parent": "Forretress"
+    },
+    {
+      "move": "Wide Guard",
+      "parent": "Kingler"
+    },
+    {
+      "move": "Wide Guard",
+      "parent": "Tirtouga"
+    },
+    {
+      "move": "Wide Guard",
+      "parent": "Carracosta"
+    },
+    {
+      "move": "Wide Guard",
+      "parent": "Araquanid"
+    }
+  ],
+  "evolution_from": "Wimpod"
+}

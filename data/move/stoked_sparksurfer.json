@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Stoked Sparksurfer",
+    "fr": "Électro-Surf Survolté",
+    "de": "Blitz-Wellenritt",
+    "it": "Elettrosurf Folgorante",
+    "es": "Surfeo Galvánico"
+  },
+  "index_number": 700,
+  "descriptions": {
+    "en": "Stoked Sparksurfer does damage and paralyzes the target."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Electric",
+  "category": "special",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 175,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

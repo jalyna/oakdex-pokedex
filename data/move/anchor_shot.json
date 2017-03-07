@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Anchor Shot",
+    "fr": "Ancrage",
+    "de": "Ankerschuss",
+    "it": "Colpo d'Ancora",
+    "es": "Anclaje"
+  },
+  "index_number": 677,
+  "descriptions": {
+    "en": "Anchor Shot inflicts damage and prevents foes from fleeing or switching out as long as the user remains in battle. Wimp Out, Emergency Exit, the Red Card, the Shed Shell, and the Eject Button can bypass this effect."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Steel",
+  "category": "physical",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 80,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

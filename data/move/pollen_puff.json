@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Pollen Puff",
+    "fr": "Boule Pollen",
+    "de": "Pollenknödel",
+    "it": "Sferapolline",
+    "es": "Bola de Polen"
+  },
+  "index_number": 676,
+  "descriptions": {
+    "en": "Pollen Puff varies depending on the target. If it targets an opponent, it deals damage. If it targets an ally, it restores up to 50% of the target's maximum HP. Pokémon with Bulletproof are immune to Pollen Puff."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Bug",
+  "category": "special",
+  "pp": 15,
+  "max_pp": 24,
+  "power": 90,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

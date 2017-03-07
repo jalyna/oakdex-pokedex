@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Throat Chop",
+    "fr": "Exécu-Son",
+    "de": "Neck Strike",
+    "it": "Colpo Infernale",
+    "es": "Golpe Mordaza"
+  },
+  "index_number": 675,
+  "descriptions": {
+    "en": "Throat Chop inflicts damage and prevents the target from using sound-based moves for two turns."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Dark",
+  "category": "physical",
+  "pp": 15,
+  "max_pp": 24,
+  "power": 80,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

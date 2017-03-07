@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Darkest Lariat",
+    "fr": "Dark Lariat",
+    "de": "Dark Lariat",
+    "it": "Braccioteso",
+    "es": "Lariat Oscuro"
+  },
+  "index_number": 663,
+  "descriptions": {
+    "en": "Darkest Lariat inflicts damage, ignoring any changes to the target's Defense and evasion stat stages. It does not ignore changes to stats that do not use stat stages, such as Reflect, Abilities such as Sand Veil, or items such as Eviolite. It also does not ignore changes to the user's Attack or accuracy."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Dark",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 85,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

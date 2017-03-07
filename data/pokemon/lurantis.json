@@ -1,0 +1,415 @@
+{
+  "names": {
+    "en": "Lurantis",
+    "jp": "ラランテス Rarantesu",
+    "fr": "Floramantis",
+    "es": "Lurantis",
+    "de": "Mantidea",
+    "it": "Lurantis"
+  },
+  "national_id": 754,
+  "alola_id": 144,
+  "types": [
+    "Grass"
+  ],
+  "abilities": [
+    {
+      "name": "Leaf Guard"
+    },
+    {
+      "name": "Contrary",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 75,
+  "egg_groups": [
+    "Grass"
+  ],
+  "hatch_time": [
+    5140,
+    5396
+  ],
+  "height_us": "2'11\"",
+  "height_eu": "0.9 m",
+  "weight_us": "40.8 lbs.",
+  "weight_eu": "18.5 kg",
+  "base_exp_yield": 168,
+  "leveling_rate": "Medium Fast",
+  "color": "Pink",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 2,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 90,
+    "sp_atk": 80,
+    "sp_def": 90,
+    "speed": 45
+  },
+  "learnset": [
+    {
+      "move": "X-Scissor",
+      "level": 1
+    },
+    {
+      "move": "Fury Cutter",
+      "level": 1
+    },
+    {
+      "move": "Leafage",
+      "level": 1
+    },
+    {
+      "move": "Razor Leaf",
+      "level": 1
+    },
+    {
+      "move": "Growth",
+      "level": 1
+    },
+    {
+      "move": "Petal Blizzard",
+      "level": 0
+    },
+    {
+      "move": "Leafage",
+      "level": 5
+    },
+    {
+      "move": "Razor Leaf",
+      "level": 10
+    },
+    {
+      "move": "Growth",
+      "level": 14
+    },
+    {
+      "move": "Ingrain",
+      "level": 19
+    },
+    {
+      "move": "Leaf Blade",
+      "level": 23
+    },
+    {
+      "move": "Synthesis",
+      "level": 28
+    },
+    {
+      "move": "Slash",
+      "level": 32
+    },
+    {
+      "move": "Sweet Scent",
+      "level": 40
+    },
+    {
+      "move": "Solar Blade",
+      "level": 47
+    },
+    {
+      "move": "Sunny Day",
+      "level": 55
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Sunny Day",
+      "tm": "TM11"
+    },
+    {
+      "move": "Hyper Beam",
+      "tm": "TM15"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Solar Beam",
+      "tm": "TM22"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Leech Life",
+      "tm": "TM28"
+    },
+    {
+      "move": "Brick Break",
+      "tm": "TM31"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Aerial Ace",
+      "tm": "TM40"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Low Sweep",
+      "tm": "TM47"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "False Swipe",
+      "tm": "TM54"
+    },
+    {
+      "move": "Fling",
+      "tm": "TM56"
+    },
+    {
+      "move": "Payback",
+      "tm": "TM66"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "X-Scissor",
+      "tm": "TM81"
+    },
+    {
+      "move": "Poison Jab",
+      "tm": "TM84"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Nature Power",
+      "tm": "TM96"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Defog",
+      "parent": "Seedot"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Oddish"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Gloom"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Paras"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Parasect"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Tangela"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Tangrowth"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Hoppip"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Skiploom"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Jumpluff"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Sunkern"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Sunflora"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Lotad"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Shroomish"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Roselia"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Turtwig"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Grotle"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Torterra"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Snivy"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Servine"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Serperior"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Cottonee"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Maractus"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Foongus"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Amoonguss"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Morelull"
+    },
+    {
+      "move": "Giga Drain",
+      "parent": "Shiinotic"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Victreebel"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Exeggutor"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Exeggutor"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Bellossom"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Sunflora"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Shiftry"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Tropius"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Turtwig"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Grotle"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Torterra"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Snivy"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Servine"
+    },
+    {
+      "move": "Leaf Storm",
+      "parent": "Serperior"
+    },
+    {
+      "move": "Weather Ball",
+      "parent": "Roserade"
+    }
+  ],
+  "evolution_from": "Fomantis"
+}

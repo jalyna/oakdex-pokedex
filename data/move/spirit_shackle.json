@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Spirit Shackle",
+    "fr": "Tisse Ombre",
+    "de": "Schattenfessel",
+    "it": "Cucitura d'Ombra",
+    "es": "Puntada Sombría"
+  },
+  "index_number": 662,
+  "descriptions": {
+    "en": "Spirit Shackle inflicts damage and prevents foes from fleeing or switching out as long as the user remains in battle. Wimp Out, Emergency Exit, the Red Card, the Shed Shell, and the Eject Button can bypass this effect."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Ghost",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

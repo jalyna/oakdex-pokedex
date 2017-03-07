@@ -1,0 +1,340 @@
+{
+  "names": {
+    "en": "Decidueye",
+    "jp": "ジュナイパー Junaiper",
+    "fr": "Archéduc",
+    "es": "Decidueye",
+    "de": "Silvarro",
+    "it": "Decidueye"
+  },
+  "national_id": 724,
+  "alola_id": 3,
+  "types": [
+    "Grass",
+    "Ghost"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Long Reach",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Flying"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "5'03\"",
+  "height_eu": "1.6 m",
+  "weight_us": "80.7 lbs.",
+  "weight_eu": "36.6 kg",
+  "base_exp_yield": 239,
+  "leveling_rate": "Medium Slow",
+  "color": "Brown",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 3,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 78,
+    "atk": 107,
+    "def": 75,
+    "sp_atk": 100,
+    "sp_def": 100,
+    "speed": 70
+  },
+  "learnset": [
+    {
+      "move": "U-turn",
+      "level": 1
+    },
+    {
+      "move": "Tackle",
+      "level": 1
+    },
+    {
+      "move": "Leafage",
+      "level": 1
+    },
+    {
+      "move": "Growl",
+      "level": 1
+    },
+    {
+      "move": "Peck",
+      "level": 1
+    },
+    {
+      "move": "Spirit Shackle",
+      "level": 0
+    },
+    {
+      "move": "Growl",
+      "level": 4
+    },
+    {
+      "move": "Peck",
+      "level": 8
+    },
+    {
+      "move": "Astonish",
+      "level": 11
+    },
+    {
+      "move": "Razor Leaf",
+      "level": 15
+    },
+    {
+      "move": "Foresight",
+      "level": 19
+    },
+    {
+      "move": "Pluck",
+      "level": 24
+    },
+    {
+      "move": "Synthesis",
+      "level": 28
+    },
+    {
+      "move": "Fury Attack",
+      "level": 33
+    },
+    {
+      "move": "Sucker Punch",
+      "level": 38
+    },
+    {
+      "move": "Leaf Blade",
+      "level": 44
+    },
+    {
+      "move": "Feather Dance",
+      "level": 49
+    },
+    {
+      "move": "Brave Bird",
+      "level": 55
+    },
+    {
+      "move": "Nasty Plot",
+      "level": 60
+    },
+    {
+      "move": "Toxic",
+      "tm": "TM06"
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Sunny Day",
+      "tm": "TM11"
+    },
+    {
+      "move": "Light Screen",
+      "tm": "TM16"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Roost",
+      "tm": "TM19"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Solar Beam",
+      "tm": "TM22"
+    },
+    {
+      "move": "Smack Down",
+      "tm": "TM23"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Shadow Ball",
+      "tm": "TM30"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Low Sweep",
+      "tm": "TM47"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Echoed Voice",
+      "tm": "TM49"
+    },
+    {
+      "move": "Steel Wing",
+      "tm": "TM51"
+    },
+    {
+      "move": "Energy Ball",
+      "tm": "TM53"
+    },
+    {
+      "move": "False Swipe",
+      "tm": "TM54"
+    },
+    {
+      "move": "Acrobatics",
+      "tm": "TM62"
+    },
+    {
+      "move": "Shadow Claw",
+      "tm": "TM65"
+    },
+    {
+      "move": "Giga Impact",
+      "tm": "TM68"
+    },
+    {
+      "move": "Swords Dance",
+      "tm": "TM75"
+    },
+    {
+      "move": "Grass Knot",
+      "tm": "TM86"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "U-turn",
+      "tm": "TM89"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Nature Power",
+      "tm": "TM96"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Zubat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Golbat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Crobat"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Natu"
+    },
+    {
+      "move": "Confuse Ray",
+      "parent": "Xatu"
+    },
+    {
+      "move": "Curse",
+      "parent": "Farfetch'd"
+    },
+    {
+      "move": "Defog",
+      "parent": "Ducklett"
+    },
+    {
+      "move": "Defog",
+      "parent": "Swanna"
+    },
+    {
+      "move": "Defog",
+      "parent": "Rufflet"
+    },
+    {
+      "move": "Defog",
+      "parent": "Braviary"
+    },
+    {
+      "move": "Haze",
+      "parent": "Zubat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Golbat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Crobat"
+    },
+    {
+      "move": "Haze",
+      "parent": "Murkrow"
+    },
+    {
+      "move": "Haze",
+      "parent": "Honchkrow"
+    },
+    {
+      "move": "Ominous Wind",
+      "parent": "Natu"
+    },
+    {
+      "move": "Ominous Wind",
+      "parent": "Xatu"
+    }
+  ],
+  "evolution_from": "Dartrix"
+}

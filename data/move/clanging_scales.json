@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Clanging Scales",
+    "fr": "Vibrécaille",
+    "de": "Schuppenrasseln",
+    "it": "Clamorsquame",
+    "es": "Fragor Escamas"
+  },
+  "index_number": 691,
+  "descriptions": {
+    "en": "Clanging Scales inflicts damage and reduces the user's Defense by one stage. Pokémon with the Ability Soundproof are not affected by this move."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Dragon",
+  "category": "special",
+  "pp": 5,
+  "max_pp": 8,
+  "power": 110,
+  "accuracy": 100,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "priority": 0
+}

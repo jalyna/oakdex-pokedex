@@ -1,0 +1,249 @@
+{
+  "names": {
+    "en": "Araquanid",
+    "jp": "オニシズクモ Onishizukumo",
+    "fr": "Tarenbulle",
+    "es": "Araquanid",
+    "de": "Aranestro",
+    "it": "Araquanid"
+  },
+  "national_id": 752,
+  "alola_id": 142,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "abilities": [
+    {
+      "name": "Water Bubble"
+    },
+    {
+      "name": "Water Absorb",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 50.0,
+    "female": 50.0
+  },
+  "catch_rate": 100,
+  "egg_groups": [
+    "Water 1",
+    "Bug"
+  ],
+  "hatch_time": [
+    3855,
+    4111
+  ],
+  "height_us": "5'11\"",
+  "height_eu": "1.8 m",
+  "weight_us": "180.8 lbs.",
+  "weight_eu": "82.0 kg",
+  "base_exp_yield": 159,
+  "leveling_rate": "Medium Fast",
+  "color": "Green",
+  "base_friendship": 70,
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 2,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 68,
+    "atk": 70,
+    "def": 92,
+    "sp_atk": 50,
+    "sp_def": 132,
+    "speed": 42
+  },
+  "learnset": [
+    {
+      "move": "Soak",
+      "level": 1
+    },
+    {
+      "move": "Bubble",
+      "level": 1
+    },
+    {
+      "move": "Infestation",
+      "level": 1
+    },
+    {
+      "move": "Spider Web",
+      "level": 1
+    },
+    {
+      "move": "Bug Bite",
+      "level": 1
+    },
+    {
+      "move": "Infestation",
+      "level": 5
+    },
+    {
+      "move": "Spider Web",
+      "level": 8
+    },
+    {
+      "move": "Bug Bite",
+      "level": 13
+    },
+    {
+      "move": "Bubble Beam",
+      "level": 16
+    },
+    {
+      "move": "Bite",
+      "level": 21
+    },
+    {
+      "move": "Aqua Ring",
+      "level": 26
+    },
+    {
+      "move": "Leech Life",
+      "level": 33
+    },
+    {
+      "move": "Crunch",
+      "level": 38
+    },
+    {
+      "move": "Lunge",
+      "level": 45
+    },
+    {
+      "move": "Mirror Coat",
+      "level": 50
+    },
+    {
+      "move": "Liquidation",
+      "level": 57
+    },
+    {
+      "move": "Entrainment",
+      "level": 62
+    },
+    {
+      "move": "Hidden Power",
+      "tm": "TM10"
+    },
+    {
+      "move": "Ice Beam",
+      "tm": "TM13"
+    },
+    {
+      "move": "Blizzard",
+      "tm": "TM14"
+    },
+    {
+      "move": "Protect",
+      "tm": "TM17"
+    },
+    {
+      "move": "Rain Dance",
+      "tm": "TM18"
+    },
+    {
+      "move": "Safeguard",
+      "tm": "TM20"
+    },
+    {
+      "move": "Frustration",
+      "tm": "TM21"
+    },
+    {
+      "move": "Return",
+      "tm": "TM27"
+    },
+    {
+      "move": "Leech Life",
+      "tm": "TM28"
+    },
+    {
+      "move": "Double Team",
+      "tm": "TM32"
+    },
+    {
+      "move": "Reflect",
+      "tm": "TM33"
+    },
+    {
+      "move": "Facade",
+      "tm": "TM42"
+    },
+    {
+      "move": "Rest",
+      "tm": "TM44"
+    },
+    {
+      "move": "Attract",
+      "tm": "TM45"
+    },
+    {
+      "move": "Round",
+      "tm": "TM48"
+    },
+    {
+      "move": "Scald",
+      "tm": "TM55"
+    },
+    {
+      "move": "Frost Breath",
+      "tm": "TM79"
+    },
+    {
+      "move": "X-Scissor",
+      "tm": "TM81"
+    },
+    {
+      "move": "Infestation",
+      "tm": "TM83"
+    },
+    {
+      "move": "Poison Jab",
+      "tm": "TM84"
+    },
+    {
+      "move": "Swagger",
+      "tm": "TM87"
+    },
+    {
+      "move": "Sleep Talk",
+      "tm": "TM88"
+    },
+    {
+      "move": "Substitute",
+      "tm": "TM90"
+    },
+    {
+      "move": "Surf",
+      "tm": "TM94"
+    },
+    {
+      "move": "Waterfall",
+      "tm": "TM98"
+    },
+    {
+      "move": "Confide",
+      "tm": "TM100"
+    },
+    {
+      "move": "Power Split",
+      "parent": "Shuckle"
+    },
+    {
+      "move": "Spit Up",
+      "parent": "Pelipper"
+    },
+    {
+      "move": "Stockpile",
+      "parent": "Pelipper"
+    }
+  ],
+  "evolution_from": "Dewpider"
+}

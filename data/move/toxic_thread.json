@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Toxic Thread",
+    "fr": "Fil Toxique",
+    "de": "Giftfaden",
+    "it": "Velenotela",
+    "es": "Hilo Venenoso"
+  },
+  "index_number": 672,
+  "descriptions": {
+    "en": "Toxic Thread poisons the target and lowers its Speed stat by one stage. Both effects are independent from each other; the target's Speed is still lowered even if it already has a status condition or cannot be poisoned, and it is still poisoned even if its Speed cannot be lowered."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Poison",
+  "category": "status",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Multi-Attack",
+    "fr": "Coup Varia-Type",
+    "de": "Multi-Angriff",
+    "it": "Multiattacco",
+    "es": "Multiataque"
+  },
+  "index_number": 718,
+  "descriptions": {
+    "en": "This move effect may be in need of research. Reason: Is it affected by Magic Room/Klutz, Normalize, Pixilate/Refrigerate/Aerilate/Galvanize, Ion Deluge (if the move would be Normal-type), or Electrify?You can discuss this on the talk page."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Normal",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 90,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

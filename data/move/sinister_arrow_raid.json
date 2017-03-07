@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Sinister Arrow Raid",
+    "fr": "Fureur des Plumes Spectrales",
+    "de": "Schatten-Pfeilregen",
+    "it": "Dardoassalto Spettrale",
+    "es": "Aluvión de Flechas Sombrías"
+  },
+  "index_number": 695,
+  "descriptions": {
+    "en": "Sinister Arrow Raid inflicts damage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Ghost",
+  "category": "physical",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 180,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

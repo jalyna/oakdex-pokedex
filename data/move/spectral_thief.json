@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Spectral Thief",
+    "fr": "Clepto-Mânes",
+    "de": "Diebesschatten",
+    "it": "Ombrafurto",
+    "es": "Robasombra"
+  },
+  "index_number": 712,
+  "descriptions": {
+    "en": "Spectral Thief causes the user to steal the target's stat boosts and then do damage. It also bypasses substitutes. Spectral Thief will only steal enough boosts to reach +6 in each stat; if the sum of the user's existing stat boosts and the target's stat boosts exceeds +6 in a stat, the target will retain any excess boosts."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Ghost",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 90,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}
