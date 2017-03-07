@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Beak Blast",
+    "fr": "Bec-Canon",
+    "de": "Schnabelkanone",
+    "it": "Cannonbecco",
+    "es": "Pico Cañón"
+  },
+  "index_number": 690,
+  "descriptions": {
+    "en": "Beak Blast is a decreased priority move. The user charges up at the beginning of the turn and executes Beak Blast at -3 priority. All who make contact with the user during the charging phase are burned."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Flying",
+  "category": "physical",
+  "pp": 15,
+  "max_pp": 24,
+  "power": 100,
+  "accuracy": 100,
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0
+}

@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Burn Up",
+    "fr": "Flamme Ultime",
+    "de": "Ausbrennen",
+    "it": "Ultima Fiamma",
+    "es": "Llama Final"
+  },
+  "index_number": 682,
+  "descriptions": {
+    "en": "If used by a Fire-type Pokémon, Burn Up will thaw out the user if it is frozen, and then inflict damage to the target and cause the user to lose its Fire type. Burn Up fails if the user is not Fire-type, making the move always fail after the first use until the Pokémon is switched out; Burn Up cannot thaw the user if the move would fail (due to the user not being Fire-type)."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Fire",
+  "category": "special",
+  "pp": 5,
+  "max_pp": 8,
+  "power": 130,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Stomping Tantrum",
+    "fr": "Trépignement",
+    "de": "Fruststampfer",
+    "it": "Battipiedi",
+    "es": "Pataleta"
+  },
+  "index_number": 707,
+  "descriptions": {
+    "en": "Stomping Tantrum does damage. If the user's previous move triggers the message \"But it failed!\" or had no effect on any target, Stomping Tantrum's power is doubled to 150."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Ground",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 75,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

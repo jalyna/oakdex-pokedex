@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Ice Hammer",
+    "fr": "Marteau de Glace",
+    "de": "Eishammer",
+    "it": "Martelgelo",
+    "es": "Martillo Hielo"
+  },
+  "index_number": 665,
+  "descriptions": {
+    "en": "Ice Hammer inflicts damage and lowers the user's Speed by one stage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Ice",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 100,
+  "accuracy": 90,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

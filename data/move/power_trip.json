@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Power Trip",
+    "fr": "Arrogance",
+    "de": "Überheblichkeit",
+    "it": "Tracotanza",
+    "es": "Chulería"
+  },
+  "index_number": 681,
+  "descriptions": {
+    "en": "Power Trip has variable power depending on the total amount of positive stat changes the user has accumulated. When the user has no positive stat changes, Power Trip's base power is 20. Its power increases by 20 for each positive stat stage the user has in any stat, and does not decrease in power due to any negative stat stages. It can reach a maximum power of 860 (20 + 20 × ( 7 × 6 )), if all seven stats (Attack, Defense, Special Attack, Special Defense, Speed, evasion, and accuracy) are at their maximum stage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Dark",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 20,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

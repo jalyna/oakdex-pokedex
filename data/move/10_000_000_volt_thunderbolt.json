@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "10,000,000 Volt Thunderbolt",
+    "fr": "Giga-Tonnerre",
+    "de": "Tausendfacher Donnerblitz",
+    "it": "Iperfulmine",
+    "es": "Gigarrayo Fulminante"
+  },
+  "index_number": 719,
+  "descriptions": {
+    "en": "10,000,000 Volt Thunderbolt deals damage and has a sharply increased critical hit ratio."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Electric",
+  "category": "special",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 195,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 1,
+  "priority": 0
+}

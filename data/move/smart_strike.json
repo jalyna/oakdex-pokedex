@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Smart Strike",
+    "fr": "Estocorne",
+    "de": "Schmalhorn",
+    "it": "Sottilcorno",
+    "es": "Cuerno Certero"
+  },
+  "index_number": 684,
+  "descriptions": {
+    "en": "Smart Strike inflicts damage and bypasses accuracy checks to always hit, unless the opponent is in the semi-invulnerable turn of a move such as Dig or Fly."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Steel",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 70,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

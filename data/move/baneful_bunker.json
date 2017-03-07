@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Baneful Bunker",
+    "fr": "Blockhaus",
+    "de": "Bunker",
+    "it": "Fortino",
+    "es": "Búnker"
+  },
+  "index_number": 661,
+  "descriptions": {
+    "en": "Baneful Bunker protects the user from all effects of moves that target the user during the turn it is used, including damage. (This does not include damage afflicted by weather conditions it is susceptible to, or damage from a status ailment that it obtained on a previous turn.) Additionally, if Baneful Bunker blocks an attack that would make contact with the user, the attacker becomes poisoned. However, if an attack is blocked by Baneful Bunker, the effects of the user's Rocky Helmet, Rough Skin, and Iron Barbs will not activate. If Sucker Punch is used on a Pokémon that has used Baneful Bunker, the move fails and the Pokémon does not take damage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Poison",
+  "category": "status",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "priority": 4,
+  "target": "user",
+  "critical_hit": 0
+}

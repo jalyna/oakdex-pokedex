@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Fleur Cannon",
+    "fr": "Canon Floral",
+    "de": "Kanonenbouquet",
+    "it": "Cannonfiore",
+    "es": "Cañón Floral"
+  },
+  "index_number": 705,
+  "descriptions": {
+    "en": "Fleur Cannon deals damage and lowers the user's Special Attack by two stages."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "type": "Fairy",
+  "category": "special",
+  "pp": 5,
+  "max_pp": 8,
+  "power": 130,
+  "accuracy": 90,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

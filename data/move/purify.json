@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Purify",
+    "fr": "Purification",
+    "de": "Läuterung",
+    "it": "Purificazione",
+    "es": "Purificación"
+  },
+  "index_number": 685,
+  "descriptions": {
+    "en": "If the target has a non-volatile status condition, Purify cures it and then restores the user's HP up to 50% of its own maximum HP. It has no effect if the target does not have a non-volatile status condition (even if it has the Ability Comatose)."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "type": "Poison",
+  "category": "status",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

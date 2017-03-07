@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Liquidation",
+    "fr": "Aqua-Brèche",
+    "de": "Aquadurchstoß",
+    "it": "Idrobreccia",
+    "es": "Hidroariete"
+  },
+  "index_number": 710,
+  "descriptions": {
+    "en": "Liquidation does damage and has a 20% chance of lowering the target's Defense stat by one stage."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Water",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 85,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

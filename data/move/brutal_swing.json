@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "Brutal Swing",
+    "fr": "Centrifugifle",
+    "de": "Wirbler",
+    "it": "Vorticolpo",
+    "es": "Giro Vil"
+  },
+  "index_number": 693,
+  "descriptions": {
+    "en": "Brutal Swing deals damage. It hits all Pokémon on the field, including allies."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Dark",
+  "category": "physical",
+  "pp": 20,
+  "max_pp": 32,
+  "power": 60,
+  "accuracy": 100,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}

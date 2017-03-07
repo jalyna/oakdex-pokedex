@@ -1,0 +1,28 @@
+{
+  "names": {
+    "en": "High Horsepower",
+    "fr": "Cavalerie Lourde",
+    "de": "Pferdestärke",
+    "it": "Forza Equina",
+    "es": "Fuerza Equina"
+  },
+  "index_number": 667,
+  "descriptions": {
+    "en": "High Horsepower deals damage and has no secondary effect."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Ground",
+  "category": "physical",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 95,
+  "accuracy": 95,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0
+}
