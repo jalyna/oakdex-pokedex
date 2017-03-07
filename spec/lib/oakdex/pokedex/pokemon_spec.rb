@@ -8,7 +8,7 @@ describe Oakdex::Pokedex::Pokemon do
         'en' => 'Bulbasaur',
         'de' => 'Bisasam'
       },
-      'categories': {
+      'categories' => {
         'en' => 'Seed Pokémon',
         'de' => 'Samen'
       },
