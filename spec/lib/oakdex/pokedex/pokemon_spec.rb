@@ -8,6 +8,10 @@ describe Oakdex::Pokedex::Pokemon do
         'en' => 'Bulbasaur',
         'de' => 'Bisasam'
       },
+      'categories' => {
+        'en' => 'Seed Pokémon',
+        'de' => 'Samen'
+      },
       'types' => %w(
         Grass
         Poison),
@@ -94,6 +98,12 @@ describe Oakdex::Pokedex::Pokemon do
     it { expect(subject.name).to eq('Bulbasaur') }
     it { expect(subject.name('de')).to eq('Bisasam') }
     it { expect(subject.name('nope')).to eq('Bulbasaur') }
+  end
+
+  describe '#category' do
+    it { expect(subject.category).to eq('Seed Pokémon') }
+    it { expect(subject.category('de')).to eq('Samen') }
+    it { expect(subject.category('nope')).to eq('Seed Pokémon') }
   end
 
   describe '#types' do
