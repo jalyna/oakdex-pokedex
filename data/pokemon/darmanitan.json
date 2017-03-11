@@ -38,9 +38,9 @@
   "leveling_rate": "Medium Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 0,
+    "atk": 2,
     "def": 0,
-    "sp_atk": 2,
+    "sp_atk": 0,
     "sp_def": 0,
     "speed": 0
   },
@@ -878,7 +878,34 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Standard Mode",
+    "de": "Normalmodus"
+  },
   "variations": [
-
+    {
+      "condition": "using Zen Mode",
+      "names": {
+        "en": "Zen Mode",
+        "de": "Trance-Modus"
+      },
+      "types": ["Fire", "Psychic"],
+      "base_stats": {
+        "hp": 105,
+        "atk": 30,
+        "def": 105,
+        "sp_atk": 140,
+        "sp_def": 105,
+        "speed": 55
+      },
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 2,
+        "sp_def": 0,
+        "speed": 0
+      }
+    }
   ]
 }
