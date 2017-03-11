@@ -647,7 +647,18 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Overcast Form",
+    "de": "Wolkenform"
+  },
   "variations": [
-
+    {
+      "condition": "harsh sunlight",
+      "names": {
+        "en": "Sunshine Form",
+        "de": "Sonnenform"
+      },
+      "types": ["Grass"]
+    }
   ]
 }
