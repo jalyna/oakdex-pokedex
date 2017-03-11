@@ -13,10 +13,6 @@
   "abilities": [
     {
       "name": "Air Lock"
-    },
-    {
-      "name": "Delta Stream",
-      "mega": true
     }
   ],
   "gender_ratios": null,
@@ -344,5 +340,31 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "35'05\"",
+      "height_eu": "10.8 m",
+      "weight_us": "864.2 lbs.",
+      "weight_eu": "392.0 kg",
+      "base_stats": {
+        "hp": 105,
+        "atk": 180,
+        "def": 100,
+        "sp_atk": 180,
+        "sp_def": 100,
+        "speed": 115
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

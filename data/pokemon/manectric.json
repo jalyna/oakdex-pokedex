@@ -16,10 +16,6 @@
     {
       "name": "Minus",
       "hidden": true
-    },
-    {
-      "name": "Intimidate",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -955,5 +951,29 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 74,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Electric"
+      ],
+      "ability": "Intimidate",
+      "mega_stone": "Manectite",
+      "height_us": "5'11\"",
+      "height_eu": "1.8 m",
+      "weight_us": "97.0 lbs.",
+      "weight_eu": "44.0 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 75,
+        "def": 80,
+        "sp_atk": 135,
+        "sp_def": 80,
+        "speed": 135
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

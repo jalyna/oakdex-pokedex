@@ -17,10 +17,6 @@
     {
       "name": "Unnerve",
       "hidden": true
-    },
-    {
-      "name": "Tough Claws",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -643,5 +639,31 @@
   "hoenn_id": null,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": 68
+  "kalos_id": 68,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "ability": "Tough Claws",
+      "mega_stone": "Aerodactylite",
+      "height_us": "6'11\"",
+      "height_eu": "2.1 m",
+      "weight_us": "174.2 lbs.",
+      "weight_eu": "79.0 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 135,
+        "def": 85,
+        "sp_atk": 70,
+        "sp_def": 95,
+        "speed": 150
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

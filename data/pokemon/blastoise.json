@@ -16,10 +16,6 @@
     {
       "name": "Rain Dish",
       "hidden": true
-    },
-    {
-      "name": "Mega Launcher",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -800,5 +796,29 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 88,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Water"
+      ],
+      "ability": "Mega Launcher",
+      "mega_stone": "Blastoisinite",
+      "height_us": "5'03\"",
+      "height_eu": "1.6 m",
+      "weight_us": "222.9 lbs.",
+      "weight_eu": "101.1 kg",
+      "base_stats": {
+        "hp": 79,
+        "atk": 103,
+        "def": 120,
+        "sp_atk": 135,
+        "sp_def": 115,
+        "speed": 78
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

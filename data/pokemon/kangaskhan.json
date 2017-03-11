@@ -16,10 +16,6 @@
     {
       "name": "Inner Focus",
       "hidden": true
-    },
-    {
-      "name": "Parental Bond",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -549,5 +545,30 @@
   "hoenn_id": null,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": 62
+  "kalos_id": 62,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Normal"
+      ],
+      "ability": "Parental Bond",
+      "mega_stone": "Kangaskhanite",
+      "height_us": "7'03\"",
+      "height_eu": "2.2 m",
+      "weight_us": "220.5 lbs.",
+      "weight_eu": "100.0 kg",
+      "base_stats": {
+        "hp": 105,
+        "atk": 125,
+        "def": 100,
+        "sp_atk": 60,
+        "sp_def": 100,
+        "speed": 100
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

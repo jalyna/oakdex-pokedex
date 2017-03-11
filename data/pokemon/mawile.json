@@ -17,10 +17,6 @@
     {
       "name": "Sheer Force",
       "hidden": true
-    },
-    {
-      "name": "Huge Power",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -824,5 +820,31 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 63,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "ability": "Huge Power",
+      "mega_stone": "Mawilite",
+      "height_us": "3'03\"",
+      "height_eu": "1.0 m",
+      "weight_us": "51.8 lbs.",
+      "weight_eu": "23.5 kg",
+      "base_stats": {
+        "hp": 50,
+        "atk": 105,
+        "def": 125,
+        "sp_atk": 55,
+        "sp_def": 95,
+        "speed": 50
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

@@ -16,14 +16,6 @@
     {
       "name": "Unnerve",
       "hidden": true
-    },
-    {
-      "name": "Steadfast",
-      "mega": true
-    },
-    {
-      "name": "Insomnia",
-      "mega": true
     }
   ],
   "gender_ratios": null,
@@ -399,5 +391,50 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 151,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Steadfast",
+      "mega_stone": "Mewtwonite X",
+      "height_us": "7'07\"",
+      "height_eu": "2.3 m",
+      "weight_us": "280.0 lbs.",
+      "weight_eu": "127.0 kg",
+      "base_stats": {
+        "hp": 106,
+        "atk": 190,
+        "def": 100,
+        "sp_atk": 154,
+        "sp_def": 100,
+        "speed": 130
+      }
+    },
+    {
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Insomnia",
+      "mega_stone": "Mewtwonite Y",
+      "height_us": "4'11\"",
+      "height_eu": "1.5 m",
+      "weight_us": "72.8 lbs.",
+      "weight_eu": "33.0 kg",
+      "base_stats": {
+        "hp": 106,
+        "atk": 150,
+        "def": 70,
+        "sp_atk": 194,
+        "sp_def": 120,
+        "speed": 140
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

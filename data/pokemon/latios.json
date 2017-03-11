@@ -374,5 +374,31 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "7'07\"",
+      "height_eu": "2.3 m",
+      "weight_us": "154.3 lbs.",
+      "weight_eu": "70.0 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 130,
+        "def": 100,
+        "sp_atk": 160,
+        "sp_def": 120,
+        "speed": 110
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

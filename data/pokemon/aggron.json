@@ -17,10 +17,6 @@
     {
       "name": "Heavy Metal",
       "hidden": true
-    },
-    {
-      "name": "Filter",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -656,5 +652,29 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 101,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel"
+      ],
+      "ability": "Filter",
+      "mega_stone": "Aggronite",
+      "height_us": "7'03\"",
+      "height_eu": "2.2 m",
+      "weight_us": "870.8 lbs.",
+      "weight_eu": "395.0 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 140,
+        "def": 230,
+        "sp_atk": 60,
+        "sp_def": 80,
+        "speed": 50
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

@@ -17,10 +17,6 @@
     {
       "name": "Big Pecks",
       "hidden": true
-    },
-    {
-      "name": "No Guard",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -532,5 +528,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 19,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "ability": "No Guard",
+      "mega_stone": "Pidgeotite",
+      "height_us": "7'03\"",
+      "height_eu": "2.2 m",
+      "weight_us": "111.3 lbs.",
+      "weight_eu": "50.5 kg",
+      "base_stats": {
+        "hp": 83,
+        "atk": 80,
+        "def": 80,
+        "sp_atk": 135,
+        "sp_def": 80,
+        "speed": 121
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

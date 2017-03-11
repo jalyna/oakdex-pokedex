@@ -17,10 +17,6 @@
     {
       "name": "Sheer Force",
       "hidden": true
-    },
-    {
-      "name": "Sand Force",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -476,5 +472,30 @@
   "sinnoh_id": 35,
   "unova_id": null,
   "kalos_id": 54,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel",
+        "Ground"
+      ],
+      "ability": "Sand Force",
+      "mega_stone": "Steelixite",
+      "height_us": "34'05\"",
+      "height_eu": "10.5 m",
+      "weight_us": "1631.4 lbs.",
+      "weight_eu": "740.0 kg",
+      "base_stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 230,
+        "sp_atk": 55,
+        "sp_def": 95,
+        "speed": 30
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

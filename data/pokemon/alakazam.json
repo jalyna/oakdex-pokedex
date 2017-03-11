@@ -16,10 +16,6 @@
     {
       "name": "Magic Guard",
       "hidden": true
-    },
-    {
-      "name": "Trace",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -431,5 +427,29 @@
   "hoenn_id": 42,
   "sinnoh_id": 22,
   "unova_id": null,
-  "kalos_id": 104
+  "kalos_id": 104,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Psychic"
+      ],
+      "ability": "Trace",
+      "mega_stone": "Alakazite",
+      "height_us": "3'11\"",
+      "height_eu": "1.2 m",
+      "weight_us": "105.8 lbs.",
+      "weight_eu": "48.0 kg",
+      "base_stats": {
+        "hp": 55,
+        "atk": 50,
+        "def": 65,
+        "sp_atk": 175,
+        "sp_def": 105,
+        "speed": 150
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

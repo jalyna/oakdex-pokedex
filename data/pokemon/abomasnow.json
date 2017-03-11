@@ -17,10 +17,6 @@
     {
       "name": "Soundproof",
       "hidden": true
-    },
-    {
-      "name": "Snow Warning",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -765,5 +761,30 @@
   "sinnoh_id": 143,
   "unova_id": null,
   "kalos_id": 89,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "ability": "Snow Warning",
+      "mega_stone": "Abomasite",
+      "height_us": "8'10\"",
+      "height_eu": "2.7 m",
+      "weight_us": "407.9 lbs.",
+      "weight_eu": "185.0 kg",
+      "base_stats": {
+        "hp": 90,
+        "atk": 132,
+        "def": 105,
+        "sp_atk": 132,
+        "sp_def": 105,
+        "speed": 30
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

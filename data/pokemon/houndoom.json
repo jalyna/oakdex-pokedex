@@ -17,10 +17,6 @@
     {
       "name": "Unnerve",
       "hidden": true
-    },
-    {
-      "name": "Solar Power",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -848,5 +844,30 @@
   "sinnoh_id": 177,
   "unova_id": null,
   "kalos_id": 76,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "ability": "Solar Power",
+      "mega_stone": "Houndoominite",
+      "height_us": "6'03\"",
+      "height_eu": "1.9 m",
+      "weight_us": "109.1 lbs.",
+      "weight_eu": "49.5 kg",
+      "base_stats": {
+        "hp": 75,
+        "atk": 90,
+        "def": 90,
+        "sp_atk": 140,
+        "sp_def": 90,
+        "speed": 115
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

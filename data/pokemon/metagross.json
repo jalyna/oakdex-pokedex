@@ -17,10 +17,6 @@
     {
       "name": "Light Metal",
       "hidden": true
-    },
-    {
-      "name": "Tough Claws",
-      "mega": true
     }
   ],
   "gender_ratios": null,
@@ -313,5 +309,30 @@
   "hoenn_id": 201,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": null
+  "kalos_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "ability": "Tough Claws",
+      "mega_stone": "Metagrossite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "2078.7 lbs.",
+      "weight_eu": "942.9 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 145,
+        "def": 150,
+        "sp_atk": 105,
+        "sp_def": 110,
+        "speed": 110
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

@@ -17,10 +17,6 @@
     {
       "name": "Speed Boost",
       "hidden": true
-    },
-    {
-      "name": "Strong Jaw",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -404,5 +400,30 @@
   "hoenn_id": 103,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": 56
+  "kalos_id": 56,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "287.3 lbs.",
+      "weight_eu": "130.3 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 140,
+        "def": 70,
+        "sp_atk": 110,
+        "sp_def": 65,
+        "speed": 105
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

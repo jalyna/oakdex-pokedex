@@ -16,10 +16,6 @@
     {
       "name": "Unburden",
       "hidden": true
-    },
-    {
-      "name": "Lightning Rod",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -704,5 +700,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "ability": "Lightning Rod",
+      "mega_stone": "Sceptilite",
+      "height_us": "6'03\"",
+      "height_eu": "1.9 m",
+      "weight_us": "121.7 lbs.",
+      "weight_eu": "55.2 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 110,
+        "def": 75,
+        "sp_atk": 145,
+        "sp_def": 85,
+        "speed": 145
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

@@ -17,10 +17,6 @@
     {
       "name": "Justified",
       "hidden": true
-    },
-    {
-      "name": "Inner Focus",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -703,5 +699,30 @@
   "sinnoh_id": 160,
   "unova_id": null,
   "kalos_id": 67,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "ability": "Inner Focus",
+      "mega_stone": "Galladite",
+      "height_us": "5'03\"",
+      "height_eu": "1.6 m",
+      "weight_us": "124.3 lbs.",
+      "weight_eu": "56.4 kg",
+      "base_stats": {
+        "hp": 68,
+        "atk": 165,
+        "def": 95,
+        "sp_atk": 65,
+        "sp_def": 115,
+        "speed": 110
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

@@ -17,10 +17,6 @@
     {
       "name": "Damp",
       "hidden": true
-    },
-    {
-      "name": "Swift Swim",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -821,5 +817,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "ability": "Swift Swim",
+      "mega_stone": "Swampertite",
+      "height_us": "6'03\"",
+      "height_eu": "1.9 m",
+      "weight_us": "224.9 lbs.",
+      "weight_eu": "102.0 kg",
+      "base_stats": {
+        "hp": 100,
+        "atk": 150,
+        "def": 110,
+        "sp_atk": 95,
+        "sp_def": 110,
+        "speed": 70
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

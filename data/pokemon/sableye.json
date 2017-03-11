@@ -17,10 +17,6 @@
     {
       "name": "Prankster",
       "hidden": true
-    },
-    {
-      "name": "Magic Bounce",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -619,5 +615,31 @@
   "hoenn_id": 70,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": 123
+  "kalos_id": 123,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "ability": "Magic Bounce",
+      "mega_stone": "Sablenite",
+      "height_us": "1'08\"",
+      "height_eu": "0.5 m",
+      "weight_us": "354.9 lbs.",
+      "weight_eu": "161.0 kg",
+      "base_stats": {
+        "hp": 50,
+        "atk": 85,
+        "def": 125,
+        "sp_atk": 85,
+        "sp_def": 115,
+        "speed": 20
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

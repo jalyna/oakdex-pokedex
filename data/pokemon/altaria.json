@@ -17,10 +17,6 @@
     {
       "name": "Cloud Nine",
       "hidden": true
-    },
-    {
-      "name": "Pixilate",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -753,5 +749,30 @@
   "sinnoh_id": 172,
   "unova_id": null,
   "kalos_id": 140,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dragon",
+        "Fairy"
+      ],
+      "ability": "Pixilate",
+      "mega_stone": "Altarianite",
+      "height_us": "4'11\"",
+      "height_eu": "1.5 m",
+      "weight_us": "45.4 lbs.",
+      "weight_eu": "20.6 kg",
+      "base_stats": {
+        "hp": 75,
+        "atk": 110,
+        "def": 110,
+        "sp_atk": 110,
+        "sp_def": 105,
+        "speed": 80
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

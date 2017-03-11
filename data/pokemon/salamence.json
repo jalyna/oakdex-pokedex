@@ -17,10 +17,6 @@
     {
       "name": "Moxie",
       "hidden": true
-    },
-    {
-      "name": "Aerilate",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -660,5 +656,30 @@
   "hoenn_id": 198,
   "sinnoh_id": null,
   "unova_id": null,
-  "kalos_id": 16
+  "kalos_id": 16,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "ability": "Aerilate",
+      "mega_stone": "Salamencite",
+      "height_us": "5'11\"",
+      "height_eu": "1.8 m",
+      "weight_us": "248.2 lbs.",
+      "weight_eu": "112.6 kg",
+      "base_stats": {
+        "hp": 95,
+        "atk": 145,
+        "def": 130,
+        "sp_atk": 120,
+        "sp_def": 90,
+        "speed": 120
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }
