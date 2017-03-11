@@ -14,9 +14,6 @@
       "name": "Prankster"
     },
     {
-      "name": "Regenerator"
-    },
-    {
       "name": "Defiant",
       "hidden": true
     }
@@ -40,11 +37,11 @@
   "leveling_rate": "Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 0,
+    "atk": 3,
     "def": 0,
     "sp_atk": 0,
     "sp_def": 0,
-    "speed": 3
+    "speed": 0
   },
   "color": "Green",
   "base_friendship": 90,
@@ -328,7 +325,43 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Incarnate Forme",
+    "de": "Inkarnationsform"
+  },
   "variations": [
-
+    {
+      "condition": "using Reveal Glass",
+      "names": {
+        "en": "Therian Forme",
+        "de": "Tiergeistform"
+      },
+      "types": ["Flying"],
+      "abilities": [
+        {
+          "name": "Regenerator"
+        }
+      ],
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "138.9 lbs.",
+      "weight_eu": "63.0 kg",
+      "base_stats": {
+        "hp": 79,
+        "atk": 100,
+        "def": 80,
+        "sp_atk": 110,
+        "sp_def": 90,
+        "speed": 121
+      },
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+      }
+    }
   ]
 }
