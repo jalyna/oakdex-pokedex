@@ -399,7 +399,70 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Small Size",
+    "de": "Größe S"
+  },
   "variations": [
-
+    {
+      "condition": "Inherited or Random",
+      "names": {
+        "en": "Average Size",
+        "de": "Größe M"
+      },
+      "types": ["Ghost", "Grass"],
+      "height_us": "2'11\"",
+      "height_eu": "0.9 m",
+      "weight_us": "27.6 lbs.",
+      "weight_eu": "12.5 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 90,
+        "def": 122,
+        "sp_atk": 58,
+        "sp_def": 75,
+        "speed": 84
+      }
+    },
+    {
+      "condition": "Inherited or Random",
+      "names": {
+        "en": "Large Size",
+        "de": "Größe L"
+      },
+      "types": ["Ghost", "Grass"],
+      "height_us": "3'07\"",
+      "height_eu": "1.1 m",
+      "weight_us": "30.9 lbs.",
+      "weight_eu": "14.0 kg",
+      "base_stats": {
+        "hp": 75,
+        "atk": 95,
+        "def": 122,
+        "sp_atk": 58,
+        "sp_def": 75,
+        "speed": 69
+      }
+    },
+    {
+      "condition": "Inherited or Random",
+      "names": {
+        "en": "Super Size",
+        "de": "Größe XL"
+      },
+      "types": ["Ghost", "Grass"],
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "86.0 lbs.",
+      "weight_eu": "39.0 kg",
+      "base_stats": {
+        "hp": 85,
+        "atk": 100,
+        "def": 122,
+        "sp_atk": 58,
+        "sp_def": 75,
+        "speed": 54
+      }
+    }
   ]
 }
