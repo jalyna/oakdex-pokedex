@@ -252,7 +252,90 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Normal Rotom",
+    "de": "Normal"
+  },
   "variations": [
-
+    {
+      "condition": "possesses microwave oven",
+      "names": {
+        "en": "Heat Rotom",
+        "de": "Hitze-Rotom"
+      },
+      "types": ["Electric", "Fire"],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      }
+    },
+    {
+      "condition": "possesses washing machine",
+      "names": {
+        "en": "Wash Rotom",
+        "de": "Wasch-Rotom"
+      },
+      "types": ["Electric", "Water"],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      }
+    },
+    {
+      "condition": "possesses refrigerator",
+      "names": {
+        "en": "Frost Rotom",
+        "de": "Frost-Rotom"
+      },
+      "types": ["Electric", "Ice"],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      }
+    },
+    {
+      "condition": "possesses electric fan",
+      "names": {
+        "en": "Fan Rotom",
+        "de": " Wirbel-Rotom"
+      },
+      "types": ["Electric", "Flying"],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      }
+    },
+    {
+      "condition": "possesses lawnmower",
+      "names": {
+        "en": "Mow Rotom",
+        "de": " Schneid-Rotom"
+      },
+      "types": ["Electric", "Grass"],
+      "base_stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 107,
+        "sp_atk": 105,
+        "sp_def": 107,
+        "speed": 86
+      }
+    }
   ]
 }
