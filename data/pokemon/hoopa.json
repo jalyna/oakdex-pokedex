@@ -324,7 +324,30 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Hoopa Confined",
+    "de": "Gebanntes Hoopa"
+  },
   "variations": [
-
+    {
+      "condition": "using Prison Bottle",
+      "names": {
+        "en": "Hoopa Unbound",
+        "de": "Entfesseltes Hoopa"
+      },
+      "types": ["Psychic", "Dark"],
+      "height_us": "21'04\"",
+      "height_eu": "6.5 m",
+      "weight_us": "1080.3 lbs.",
+      "weight_eu": "490.0 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 160,
+        "def": 60,
+        "sp_atk": 170,
+        "sp_def": 130,
+        "speed": 80
+      }
+    }
   ]
 }
