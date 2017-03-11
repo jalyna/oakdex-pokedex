@@ -355,7 +355,162 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Archipelago",
+    "de": "Archipelmuster"
+  },
   "variations": [
-
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Continental",
+        "de": "Kontinentalmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Elegant",
+        "de": "Prunkmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Garden",
+        "de": "Ziergartenmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "High Plains",
+        "de": "Dürremuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Icy Snow",
+        "de": "Frostmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Jungle",
+        "de": "Dschungelmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Marine",
+        "de": "Aquamarinmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Meadow",
+        "de": "Blumenmeermuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Modern",
+        "de": "Innovationsmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Monsoon",
+        "de": "Monsunmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Ocean",
+        "de": "Ozeanmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Polar",
+        "de": "Schneefeldmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "River",
+        "de": "Flussdeltamuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Sandstorm",
+        "de": "Sandmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Savanna",
+        "de": "Savannenmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Sun",
+        "de": "Sonnenmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Player's Location",
+      "names": {
+        "en": "Tundra",
+        "de": "Flockenmuster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "Paris Event",
+      "names": {
+        "en": "Poké Ball",
+        "de": "Pokéball-Muster"
+      },
+      "types": ["Bug", "Flying"]
+    },
+    {
+      "condition": "GTS 100 millionth trade Event",
+      "names": {
+        "en": "Fancy",
+        "de": "Fantasiemuster"
+      },
+      "types": ["Bug", "Flying"]
+    }
   ]
 }
