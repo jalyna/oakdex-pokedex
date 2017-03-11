@@ -17,10 +17,6 @@
     {
       "name": "Unnerve",
       "hidden": true
-    },
-    {
-      "name": "Sand Stream",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -668,5 +664,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 104,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "ability": "Sand Stream",
+      "mega_stone": "Tyranitarite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "562.2 lbs.",
+      "weight_eu": "255.0 kg",
+      "base_stats": {
+        "hp": 100,
+        "atk": 164,
+        "def": 150,
+        "sp_atk": 95,
+        "sp_def": 120,
+        "speed": 71
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

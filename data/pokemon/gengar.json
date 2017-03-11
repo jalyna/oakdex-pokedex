@@ -13,10 +13,6 @@
   "abilities": [
     {
       "name": "Levitate"
-    },
-    {
-      "name": "Shadow Tag",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -564,5 +560,30 @@
   "hoenn_id": null,
   "sinnoh_id": 71,
   "unova_id": null,
-  "kalos_id": 32
+  "kalos_id": 32,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "ability": "Shadow Tag",
+      "mega_stone": "Gengarite",
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "89.3 lbs.",
+      "weight_eu": "40.5 kg",
+      "base_stats": {
+        "hp": 60,
+        "atk": 65,
+        "def": 80,
+        "sp_atk": 170,
+        "sp_def": 95,
+        "speed": 130
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

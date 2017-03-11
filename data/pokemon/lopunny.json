@@ -16,10 +16,6 @@
     {
       "name": "Limber",
       "hidden": true
-    },
-    {
-      "name": "Scrappy",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -792,5 +788,30 @@
   "sinnoh_id": 68,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "ability": "Scrappy",
+      "mega_stone": "Lopunnite",
+      "height_us": "4'03\"",
+      "height_eu": "1.3 m",
+      "weight_us": "62.4 lbs.",
+      "weight_eu": "28.3 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 136,
+        "def": 94,
+        "sp_atk": 54,
+        "sp_def": 96,
+        "speed": 135
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

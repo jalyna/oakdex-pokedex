@@ -16,10 +16,6 @@
     {
       "name": "Justified",
       "hidden": true
-    },
-    {
-      "name": "Magic Bounce",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -974,5 +970,30 @@
   "hoenn_id": 159,
   "sinnoh_id": 209,
   "unova_id": null,
-  "kalos_id": 9
+  "kalos_id": 9,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Dark"
+      ],
+      "ability": "Magic Bounce",
+      "mega_stone": "Absolite",
+      "height_us": "3'11\"",
+      "height_eu": "1.2 m",
+      "weight_us": "108.0 lbs.",
+      "weight_eu": "49.0 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 150,
+        "def": 60,
+        "sp_atk": 115,
+        "sp_def": 60,
+        "speed": 115
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

@@ -17,10 +17,6 @@
     {
       "name": "Justified",
       "hidden": true
-    },
-    {
-      "name": "Adaptability",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -1033,5 +1029,30 @@
   "hoenn_id": null,
   "sinnoh_id": 116,
   "unova_id": null,
-  "kalos_id": 63
+  "kalos_id": 63,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "4'03\"",
+      "height_eu": "1.3 m",
+      "weight_us": "126.8 lbs.",
+      "weight_eu": "57.5 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 145,
+        "def": 88,
+        "sp_atk": 140,
+        "sp_def": 70,
+        "speed": 112
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

@@ -17,10 +17,6 @@
     {
       "name": "Chlorophyll",
       "hidden": true
-    },
-    {
-      "name": "Thick Fat",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -777,5 +773,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 82,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "7'10\"",
+      "height_eu": "2.4 m",
+      "weight_us": "342.8 lbs.",
+      "weight_eu": "155.5 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 100,
+        "def": 123,
+        "sp_atk": 122,
+        "sp_def": 120,
+        "speed": 80
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

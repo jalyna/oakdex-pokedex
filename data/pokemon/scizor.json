@@ -17,10 +17,6 @@
     {
       "name": "Light Metal",
       "hidden": true
-    },
-    {
-      "name": "Technician",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -636,5 +632,30 @@
   "hoenn_id": null,
   "sinnoh_id": 196,
   "unova_id": null,
-  "kalos_id": 137
+  "kalos_id": 137,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "ability": "Technician",
+      "mega_stone": "Scizorite",
+      "height_us": "6'07\"",
+      "height_eu": "2.0 m",
+      "weight_us": "275.6 lbs.",
+      "weight_eu": "125.0 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 150,
+        "def": 140,
+        "sp_atk": 65,
+        "sp_def": 100,
+        "speed": 75
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

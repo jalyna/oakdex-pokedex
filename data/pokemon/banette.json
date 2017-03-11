@@ -16,10 +16,6 @@
     {
       "name": "Cursed Body",
       "hidden": true
-    },
-    {
-      "name": "Prankster",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -655,5 +651,29 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 123,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Ghost"
+      ],
+      "ability": "Prankster",
+      "mega_stone": "Banettite",
+      "height_us": "3'11\"",
+      "height_eu": "1.2 m",
+      "weight_us": "28.7 lbs.",
+      "weight_eu": "13.0 kg",
+      "base_stats": {
+        "hp": 64,
+        "atk": 165,
+        "def": 75,
+        "sp_atk": 93,
+        "sp_def": 83,
+        "speed": 75
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

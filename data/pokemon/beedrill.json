@@ -17,10 +17,6 @@
     {
       "name": "Sniper",
       "hidden": true
-    },
-    {
-      "name": "Adaptability",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -276,5 +272,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 28,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "ability": "Adaptability",
+      "mega_stone": "Beedrillite",
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "89.3 lbs.",
+      "weight_eu": "40.5 kg",
+      "base_stats": {
+        "hp": 65,
+        "atk": 150,
+        "def": 40,
+        "sp_atk": 15,
+        "sp_def": 80,
+        "speed": 145
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

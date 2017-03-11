@@ -13,10 +13,6 @@
   "abilities": [
     {
       "name": "Clear Body"
-    },
-    {
-      "name": "Magic Bounce",
-      "mega": true
     }
   ],
   "gender_ratios": null,
@@ -280,5 +276,31 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 151,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "ability": "Magic Bounce",
+      "mega_stone": "Diancite",
+      "height_us": "3'07\"",
+      "height_eu": "1.1 m",
+      "weight_us": "61.3 lbs.",
+      "weight_eu": "27.8 kg",
+      "base_stats": {
+        "hp": 50,
+        "atk": 160,
+        "def": 110,
+        "sp_atk": 160,
+        "sp_def": 110,
+        "speed": 110
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

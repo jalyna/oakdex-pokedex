@@ -17,10 +17,6 @@
     {
       "name": "Rough Skin",
       "hidden": true
-    },
-    {
-      "name": "Sand Force",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -777,5 +773,30 @@
   "hoenn_id": null,
   "sinnoh_id": 111,
   "unova_id": null,
-  "kalos_id": 8
+  "kalos_id": 8,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "ability": "Thick Fat",
+      "mega_stone": "Venusaurite",
+      "height_us": "6'03\"",
+      "height_eu": "1.9 m",
+      "weight_us": "209.4 lbs.",
+      "weight_eu": "95.0 kg",
+      "base_stats": {
+        "hp": 108,
+        "atk": 170,
+        "def": 115,
+        "sp_atk": 120,
+        "sp_def": 95,
+        "speed": 92
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

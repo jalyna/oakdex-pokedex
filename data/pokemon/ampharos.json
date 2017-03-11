@@ -16,10 +16,6 @@
     {
       "name": "Plus",
       "hidden": true
-    },
-    {
-      "name": "Mold Breaker",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -1236,5 +1232,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 129,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "ability": "Mold Breaker",
+      "mega_stone": "Ampharosite",
+      "height_us": "4'07\"",
+      "height_eu": "1.4 m",
+      "weight_us": "135.6 lbs.",
+      "weight_eu": "61.5 kg",
+      "base_stats": {
+        "hp": 90,
+        "atk": 95,
+        "def": 105,
+        "sp_atk": 165,
+        "sp_def": 110,
+        "speed": 45
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

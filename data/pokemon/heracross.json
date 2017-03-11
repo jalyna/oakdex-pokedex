@@ -17,10 +17,6 @@
     {
       "name": "Moxie",
       "hidden": true
-    },
-    {
-      "name": "Skill Link",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -535,5 +531,31 @@
   "sinnoh_id": 62,
   "unova_id": null,
   "kalos_id": 131,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "ability": "Skill Link",
+      "mega_stone": "Heracronite",
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "137.8 lbs.",
+      "weight_eu": "62.5 kg",
+      "base_stats": {
+        "hp": 80,
+        "atk": 185,
+        "def": 115,
+        "sp_atk": 40,
+        "sp_def": 105,
+        "speed": 75
+      }
+    }
+  ],
+  "evolutions": [
+
+  ],
+  "evolution_from": null
 }

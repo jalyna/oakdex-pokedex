@@ -17,10 +17,6 @@
     {
       "name": "Anger Point",
       "hidden": true
-    },
-    {
-      "name": "Sheer Force",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -936,5 +932,30 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": null,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "ability": "Sheer Force",
+      "mega_stone": "Cameruptite",
+      "height_us": "8'02\"",
+      "height_eu": "2.5 m",
+      "weight_us": "706.6 lbs.",
+      "weight_eu": "320.5 kg",
+      "base_stats": {
+        "hp": 70,
+        "atk": 120,
+        "def": 100,
+        "sp_atk": 145,
+        "sp_def": 105,
+        "speed": 20
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

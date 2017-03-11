@@ -17,14 +17,6 @@
     {
       "name": "Solar Power",
       "hidden": true
-    },
-    {
-      "name": "Tough Claws",
-      "mega": true
-    },
-    {
-      "name": "Drought",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -885,5 +877,50 @@
   "sinnoh_id": null,
   "unova_id": null,
   "kalos_id": 85,
-  "alola_id": null
+  "alola_id": null,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "ability": "Tough Claws",
+      "mega_stone": "Charizardite X",
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "243.6 lbs.",
+      "weight_eu": "110.5 kg",
+      "base_stats": {
+        "hp": 78,
+        "atk": 130,
+        "def": 111,
+        "sp_atk": 130,
+        "sp_def": 85,
+        "speed": 100
+      }
+    },
+    {
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "ability": "Drought",
+      "mega_stone": "Charizardite Y",
+      "height_us": "5'07\"",
+      "height_eu": "1.7 m",
+      "weight_us": "221.6 lbs.",
+      "weight_eu": "100.5 kg",
+      "base_stats": {
+        "hp": 78,
+        "atk": 104,
+        "def": 78,
+        "sp_atk": 159,
+        "sp_def": 115,
+        "speed": 100
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }

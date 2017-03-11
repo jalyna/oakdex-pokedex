@@ -17,10 +17,6 @@
     {
       "name": "Moxie",
       "hidden": true
-    },
-    {
-      "name": "Mold Breaker",
-      "mega": true
     }
   ],
   "gender_ratios": {
@@ -297,5 +293,30 @@
   "hoenn_id": 54,
   "sinnoh_id": 24,
   "unova_id": null,
-  "kalos_id": 50
+  "kalos_id": 50,
+  "mega_evolutions": [
+    {
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "ability": "Mold Breaker",
+      "mega_stone": "Gyaradosite",
+      "height_us": "21'04\"",
+      "height_eu": "6.5 m",
+      "weight_us": "672.4 lbs.",
+      "weight_eu": "305.0 kg",
+      "base_stats": {
+        "hp": 95,
+        "atk": 155,
+        "def": 109,
+        "sp_atk": 70,
+        "sp_def": 130,
+        "speed": 81
+      }
+    }
+  ],
+  "evolutions": [
+
+  ]
 }
