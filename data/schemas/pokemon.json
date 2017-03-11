@@ -2358,7 +2358,8 @@
               "possesses washing machine",
               "possesses refrigerator",
               "possesses electric fan",
-              "possesses lawnmower"
+              "possesses lawnmower",
+              "holding Griseous Orb or in Distortion World"
             ]
           },
           "names": {
@@ -2393,6 +2394,26 @@
           },
           "ev_yield": {
             "$ref": "#/definitions/ev_yield"
+          },
+          "abilities": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "$ref": "#/definitions/ability"
+                },
+                "hidden": {
+                  "type": "boolean"
+                }
+              },
+              "required": [
+                "name"
+              ],
+              "additionalProperties": false
+            }
           }
         },
         "required": [
