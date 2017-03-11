@@ -13,12 +13,6 @@
   "abilities": [
     {
       "name": "Pressure"
-    },
-    {
-      "name": "Turboblaze"
-    },
-    {
-      "name": "Teravolt"
     }
   ],
   "gender_ratios": null,
@@ -37,10 +31,10 @@
   "base_exp_yield": 297,
   "leveling_rate": "Slow",
   "ev_yield": {
-    "hp": 0,
-    "atk": 3,
+    "hp": 1,
+    "atk": 1,
     "def": 0,
-    "sp_atk": 0,
+    "sp_atk": 1,
     "sp_def": 0,
     "speed": 0
   },
@@ -254,7 +248,68 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Kyurem",
+    "de": "Kyurem"
+  },
   "variations": [
-
+    {
+      "condition": "using DNA Splicers",
+      "names": {
+        "en": "White Kyurem",
+        "de": "Weißes Kyurem"
+      },
+      "types": ["Dragon", "Ice"],
+      "height_us": "11'10\"",
+      "height_eu": "3.6 m",
+      "abilities": [{
+        "name": "Turboblaze"
+      }],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 120,
+        "def": 90,
+        "sp_atk": 170,
+        "sp_def": 100,
+        "speed": 95
+      }
+    },
+    {
+      "condition": "using DNA Splicers",
+      "names": {
+        "en": "Black Kyurem",
+        "de": " Schwarzes Kyurem"
+      },
+      "types": ["Dragon", "Ice"],
+      "height_us": "10'10\"",
+      "height_eu": "3.3 m",
+      "abilities": [{
+        "name": "Teravolt"
+      }],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 170,
+        "def": 100,
+        "sp_atk": 120,
+        "sp_def": 90,
+        "speed": 95
+      }
+    }
   ]
 }
