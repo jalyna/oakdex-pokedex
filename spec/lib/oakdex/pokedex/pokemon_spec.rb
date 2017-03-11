@@ -95,7 +95,11 @@ describe Oakdex::Pokedex::Pokemon do
       'sinnoh_id' => nil,
       'unova_id' => nil,
       'kalos_id' => nil,
-      'alola_id' => nil
+      'alola_id' => nil,
+      'variation_names' => {
+        'en' => 'West Sea',
+        'de' => 'Westliches Meer'
+      },
     }.merge(additional_attributes)
   end
 
@@ -105,6 +109,12 @@ describe Oakdex::Pokedex::Pokemon do
     it { expect(subject.name).to eq('Bulbasaur') }
     it { expect(subject.name('de')).to eq('Bisasam') }
     it { expect(subject.name('nope')).to eq('Bulbasaur') }
+  end
+
+  describe '#variation_name' do
+    it { expect(subject.variation_name).to eq('West Sea') }
+    it { expect(subject.variation_name('de')).to eq('Westliches Meer') }
+    it { expect(subject.variation_name('nope')).to eq('West Sea') }
   end
 
   describe '#category' do

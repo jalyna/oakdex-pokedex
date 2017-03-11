@@ -275,5 +275,19 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Ordinary Form",
+    "de": "Standardform"
+  },
+  "variations": [
+    {
+      "condition": "learning Secret Sword",
+      "names": {
+        "en": "Resolute Form",
+        "de": "Resolutform"
+      },
+      "types": ["Water", "Fighting"]
+    }
+  ]
 }

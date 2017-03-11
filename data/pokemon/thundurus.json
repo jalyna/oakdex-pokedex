@@ -15,9 +15,6 @@
       "name": "Prankster"
     },
     {
-      "name": "Volt Absorb"
-    },
-    {
       "name": "Defiant",
       "hidden": true
     }
@@ -41,9 +38,9 @@
   "leveling_rate": "Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 0,
+    "atk": 3,
     "def": 0,
-    "sp_atk": 3,
+    "sp_atk": 0,
     "sp_def": 0,
     "speed": 0
   },
@@ -348,5 +345,47 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Incarnate Forme",
+    "de": "Inkarnationsform"
+  },
+  "variations": [
+    {
+      "condition": "using Reveal Glass",
+      "names": {
+        "en": "Therian Forme",
+        "de": "Tiergeistform"
+      },
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "abilities": [
+        {
+          "name": "Volt Absorb"
+        }
+      ],
+      "height_us": "9'10\"",
+      "height_eu": "3.0 m",
+      "weight_us": "143.3 lbs.",
+      "weight_eu": "65.0 kg",
+      "base_stats": {
+        "hp": 79,
+        "atk": 105,
+        "def": 70,
+        "sp_atk": 145,
+        "sp_def": 70,
+        "speed": 101
+      },
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+      }
+    }
+  ]
 }

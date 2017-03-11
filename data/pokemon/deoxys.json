@@ -31,11 +31,11 @@
   "leveling_rate": "Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 0,
+    "atk": 1,
     "def": 0,
-    "sp_atk": 0,
+    "sp_atk": 1,
     "sp_def": 0,
-    "speed": 3
+    "speed": 1
   },
   "color": "Red",
   "base_friendship": 0,
@@ -263,6 +263,129 @@
     {
       "tm": "HM06",
       "move": "Rock Smash"
+    },
+    {
+      "move": "Leer",
+      "level": 1
+    },
+    {
+      "move": "Wrap",
+      "level": 1
+    },
+    {
+      "move": "Night Shade",
+      "level": 7
+    },
+    {
+      "move": "Teleport",
+      "level": 13,
+      "variations": ["default", "Attack Forme", "Defense Forme"]
+    },
+    {
+      "move": "Double Team",
+      "level": 13,
+      "variations": ["Speed Forme"]
+    },
+    {
+      "move": "Knock Off",
+      "level": 19,
+      "variations": ["default", "Defense Forme", "Speed Forme"]
+    },
+    {
+      "move": "Taunt",
+      "level": 19,
+      "variations": ["Attack Forme"]
+    },
+    {
+      "move": "Pursuit",
+      "level": 25,
+      "variations": ["default", "Attack Forme", "Speed Forme"]
+    },
+    {
+      "move": "Spikes",
+      "level": 25,
+      "variations": ["Defense Forme"]
+    },
+    {
+      "move": "Psychic",
+      "level": 31
+    },
+    {
+      "move": "Snatch",
+      "level": 37,
+      "variations": ["default", "Defense Forme"]
+    },
+    {
+      "move": "Superpower",
+      "level": 37,
+      "variations": ["Attack Forme"]
+    },
+    {
+      "move": "Swift",
+      "level": 37,
+      "variations": ["Speed Forme"]
+    },
+    {
+      "move": "Psycho Shift",
+      "level": 43
+    },
+    {
+      "move": "Zen Headbutt",
+      "level": 49
+    },
+    {
+      "move": "Cosmic Power",
+      "level": 55,
+      "variations": ["default", "Attack Forme"]
+    },
+    {
+      "move": "Iron Defense",
+      "level": 55,
+      "variations": ["Defense Forme"]
+    },
+    {
+      "move": "Amnesia",
+      "level": 55,
+      "variations": ["Defense Forme"]
+    },
+    {
+      "move": "Agility",
+      "level": 55,
+      "variations": ["Speed Forme"]
+    },
+    {
+      "move": "Recover",
+      "level": 61,
+      "variations": ["default", "Defense Forme", "Speed Forme"]
+    },
+    {
+      "move": "Zap Cannon",
+      "level": 61,
+      "variations": ["Attack Forme"]
+    },
+    {
+      "move": "Psycho Boost",
+      "level": 67
+    },
+    {
+      "move": "Hyper Beam",
+      "level": 73,
+      "variations": ["default", "Attack Forme"]
+    },
+    {
+      "move": "Counter",
+      "level": 73,
+      "variations": ["Attack Forme"]
+    },
+    {
+      "move": "Mirror Coat",
+      "level": 73,
+      "variations": ["Attack Forme"]
+    },
+    {
+      "move": "Extreme Speed",
+      "level": 73,
+      "variations": ["Speed Forme"]
     }
   ],
   "categories": {
@@ -282,5 +405,83 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Normal Forme",
+    "de": "Normalform"
+  },
+  "variations": [
+    {
+      "condition": "Pokémon FireRed",
+      "names": {
+        "en": "Attack Forme",
+        "de": "Angriffsform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 180,
+        "def": 20,
+        "sp_atk": 180,
+        "sp_def": 20,
+        "speed": 150
+      }
+    },
+    {
+      "condition": "Pokémon LeafGreen",
+      "names": {
+        "en": "Defense Forme",
+        "de": "Verteidigungsform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 70,
+        "def": 160,
+        "sp_atk": 70,
+        "sp_def": 160,
+        "speed": 90
+      }
+    },
+    {
+      "condition": "Pokémon Emerald",
+      "names": {
+        "en": "Speed Forme",
+        "de": "Initiativeform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 95,
+        "def": 90,
+        "sp_atk": 95,
+        "sp_def": 90,
+        "speed": 180
+      }
+    }
+  ]
 }

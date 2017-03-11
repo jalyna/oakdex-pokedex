@@ -290,5 +290,19 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Neutral Mode",
+    "de": "Neutrale Form"
+  },
+  "variations": [
+    {
+      "condition": "in battle",
+      "names": {
+        "en": "Active Mode",
+        "de": "Aktive Form"
+      },
+      "types": ["Fairy"]
+    }
+  ]
 }

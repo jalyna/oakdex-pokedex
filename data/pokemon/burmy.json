@@ -127,5 +127,27 @@
   "mega_evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Plant Cloak",
+    "de": "Pflanzenumhang"
+  },
+  "variations": [
+    {
+      "condition": "Battled in Cave or Beach",
+      "names": {
+        "en": "Sandy Cloak",
+        "de": "Sandumhang"
+      },
+      "types": ["Bug"]
+    },
+    {
+      "condition": "Battled in Building",
+      "names": {
+        "en": "Trash Cloak",
+        "de": "Lumpenumhang"
+      },
+      "types": ["Bug"]
+    }
+  ]
 }

@@ -569,5 +569,35 @@
   "mega_evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Spring Form",
+    "de": "Frühlingsform"
+  },
+  "variations": [
+    {
+      "condition": "Summer",
+      "names": {
+        "en": "Summer Form",
+        "de": "Sommerform"
+      },
+      "types": ["Normal", "Grass"]
+    },
+    {
+      "condition": "Autumn",
+      "names": {
+        "en": "Autumn Form",
+        "de": "Herbstform"
+      },
+      "types": ["Normal", "Grass"]
+    },
+    {
+      "condition": "Winter",
+      "names": {
+        "en": "Winter Form",
+        "de": "Winterform"
+      },
+      "types": ["Normal", "Grass"]
+    }
+  ]
 }

@@ -361,5 +361,83 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Natural Form",
+    "de": "Zottelform"
+  },
+  "variations": [
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Heart Trim",
+        "de": "Herzchenschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Star Trim",
+        "de": "Sternchenschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Diamond Trim",
+        "de": "Diamantenschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Debutante Trim",
+        "de": "Fräuleinschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Matron Trim",
+        "de": "Damenschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Dandy Trim",
+        "de": "Kavaliersschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "La Reine Trim",
+        "de": "Königinnenschnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Kabuki Trim",
+        "de": "Kabuki-Schnitt"
+      },
+      "types": ["Normal"]
+    },
+    {
+      "condition": "groomed",
+      "names": {
+        "en": "Pharaoh Trim",
+        "de": "Herrscherschnitt"
+      },
+      "types": ["Normal"]
+    }
+  ]
 }

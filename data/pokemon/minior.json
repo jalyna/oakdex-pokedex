@@ -36,10 +36,10 @@
   "base_friendship": 70,
   "ev_yield": {
     "hp": 0,
-    "atk": 1,
-    "def": 0,
-    "sp_atk": 1,
-    "sp_def": 0,
+    "atk": 0,
+    "def": 1,
+    "sp_atk": 0,
+    "sp_def": 1,
     "speed": 0
   },
   "base_stats": {
@@ -265,5 +265,37 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Meteor Form",
+    "de": "Meteorform"
+  },
+  "variations": [
+    {
+      "condition": "using Shields Down",
+      "names": {
+        "en": "Core",
+        "de": "Farbige Kerne"
+      },
+      "types": ["Rock", "Flying"],
+      "weight_us": "0.7 lbs.",
+      "weight_eu": "0.3 kg",
+      "base_stats": {
+        "hp": 60,
+        "atk": 100,
+        "def": 60,
+        "sp_atk": 100,
+        "sp_def": 60,
+        "speed": 120
+      },
+      "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+      }
+    }
+  ]
 }

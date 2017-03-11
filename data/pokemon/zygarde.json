@@ -13,6 +13,9 @@
   "abilities": [
     {
       "name": "Aura Break"
+    },
+    {
+      "name": "Power Construct"
     }
   ],
   "gender_ratios": null,
@@ -267,5 +270,64 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Zygarde 50% Forme",
+    "de": "50%-Zygarde"
+  },
+  "variations": [
+    {
+      "condition": "Inherited or Random",
+      "names": {
+        "en": "Zygarde 10% Forme",
+        "de": "10%-Zygarde"
+      },
+      "types": ["Dragon", "Ground"],
+      "height_us": "3'11\"",
+      "height_eu": "2.2 m",
+      "weight_us": "73.9 lbs.",
+      "weight_eu": "33.5 kg",
+      "abilities": [
+        {
+          "name": "Aura Break"
+        },
+        {
+          "name": "Power Construct"
+        }
+      ],
+      "base_stats": {
+        "hp": 54,
+        "atk": 100,
+        "def": 71,
+        "sp_atk": 61,
+        "sp_def": 85,
+        "speed": 115
+      }
+    },
+    {
+      "condition": "Inherited or Random",
+      "names": {
+        "en": "Zygarde Complete Forme",
+        "de": "Optimum-Zygarde"
+      },
+      "types": ["Dragon", "Ground"],
+      "height_us": "14'09\"",
+      "height_eu": "4.5 m",
+      "weight_us": "1344.8 lbs.",
+      "weight_eu": "610.0 kg",
+      "abilities": [
+        {
+          "name": "Power Construct"
+        }
+      ],
+      "base_stats": {
+        "hp": 216,
+        "atk": 100,
+        "def": 121,
+        "sp_atk": 91,
+        "sp_def": 95,
+        "speed": 85
+      }
+    }
+  ]
 }

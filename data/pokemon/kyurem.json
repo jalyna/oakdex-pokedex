@@ -13,12 +13,6 @@
   "abilities": [
     {
       "name": "Pressure"
-    },
-    {
-      "name": "Turboblaze"
-    },
-    {
-      "name": "Teravolt"
     }
   ],
   "gender_ratios": null,
@@ -37,10 +31,10 @@
   "base_exp_yield": 297,
   "leveling_rate": "Slow",
   "ev_yield": {
-    "hp": 0,
-    "atk": 3,
+    "hp": 1,
+    "atk": 1,
     "def": 0,
-    "sp_atk": 0,
+    "sp_atk": 1,
     "sp_def": 0,
     "speed": 0
   },
@@ -234,6 +228,88 @@
     {
       "tm": "HM06",
       "move": "Rock Smash"
+    },
+    {
+      "level": 1,
+      "move": "Icy Wind"
+    },
+    {
+      "level": 1,
+      "move": "Dragon Rage"
+    },
+    {
+      "level": 8,
+      "move": "Imprison"
+    },
+    {
+      "level": 15,
+      "move": "Ancient Power"
+    },
+    {
+      "level": 22,
+      "move": "Ice Beam"
+    },
+    {
+      "level": 29,
+      "move": "Dragon Breath"
+    },
+    {
+      "level": 36,
+      "move": "Slash"
+    },
+    {
+      "level": 43,
+      "move": "Scary Face",
+      "variations": ["default"]
+    },
+    {
+      "level": 43,
+      "move": "Fusion Flare",
+      "variations": ["White Kyurem"]
+    },
+    {
+      "level": 43,
+      "move": "Fusion Bolt",
+      "variations": ["Black Kyurem"]
+    },
+    {
+      "level": 50,
+      "move": "Glaciate",
+      "variations": ["default"]
+    },
+    {
+      "level": 50,
+      "move": "Ice Burn",
+      "variations": ["White Kyurem"]
+    },
+    {
+      "level": 50,
+      "move": "Freeze Shock",
+      "variations": ["Black Kyurem"]
+    },
+    {
+      "level": 57,
+      "move": "Dragon Pulse"
+    },
+    {
+      "level": 64,
+      "move": "Imprison"
+    },
+    {
+      "level": 71,
+      "move": "Endeavor"
+    },
+    {
+      "level": 78,
+      "move": "Blizzard"
+    },
+    {
+      "level": 85,
+      "move": "Outrage"
+    },
+    {
+      "level": 92,
+      "move": "Hyper Voice"
     }
   ],
   "categories": {
@@ -253,5 +329,69 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Kyurem",
+    "de": "Kyurem"
+  },
+  "variations": [
+    {
+      "condition": "using DNA Splicers",
+      "names": {
+        "en": "White Kyurem",
+        "de": "Weißes Kyurem"
+      },
+      "types": ["Dragon", "Ice"],
+      "height_us": "11'10\"",
+      "height_eu": "3.6 m",
+      "abilities": [{
+        "name": "Turboblaze"
+      }],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 3,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 120,
+        "def": 90,
+        "sp_atk": 170,
+        "sp_def": 100,
+        "speed": 95
+      }
+    },
+    {
+      "condition": "using DNA Splicers",
+      "names": {
+        "en": "Black Kyurem",
+        "de": " Schwarzes Kyurem"
+      },
+      "types": ["Dragon", "Ice"],
+      "height_us": "10'10\"",
+      "height_eu": "3.3 m",
+      "abilities": [{
+        "name": "Teravolt"
+      }],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 3,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 125,
+        "atk": 170,
+        "def": 100,
+        "sp_atk": 120,
+        "sp_def": 90,
+        "speed": 95
+      }
+    }
+  ]
 }

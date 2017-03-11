@@ -344,5 +344,19 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Red-Striped Form",
+    "de": "Rotlinige Form"
+  },
+  "variations": [
+    {
+      "condition": "Inherited or found by surfing",
+      "names": {
+        "en": "Blue-Striped Form",
+        "de": "Blaulinige Form"
+      },
+      "types": ["Water"]
+    }
+  ]
 }

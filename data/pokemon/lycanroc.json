@@ -14,11 +14,13 @@
   ],
   "abilities": [
     {
-      "name": "Keen Eye",
-      "hidden": true
+      "name": "Keen Eye"
     },
     {
-      "name": "Keen Eye",
+      "name": "Sand Rush"
+    },
+    {
+      "name": "Steadfast",
       "hidden": true
     }
   ],
@@ -61,15 +63,33 @@
   "learnset": [
     {
       "level": 1,
-      "move": "Accelerock"
+      "move": "Accelerock",
+      "variations": ["default"]
     },
     {
       "level": 1,
-      "move": "Quick Guard"
+      "move": "Quick Guard",
+      "variations": ["default"]
     },
     {
       "level": 1,
-      "move": "Quick Attack"
+      "move": "Quick Attack",
+      "variations": ["default"]
+    },
+    {
+      "level": 1,
+      "move": "Counter",
+      "variations": ["Midnight Form"]
+    },
+    {
+      "level": 1,
+      "move": "Reversal",
+      "variations": ["Midnight Form"]
+    },
+    {
+      "level": 1,
+      "move": "Taunt",
+      "variations": ["Midnight Form"]
     },
     {
       "level": 1,
@@ -156,5 +176,43 @@
   ],
   "evolutions": [
 
+  ],
+  "variation_names": {
+    "en": "Midday Form",
+    "de": "Tagform"
+  },
+  "variations": [
+    {
+      "condition": "Pokémon Moon",
+      "names": {
+        "en": "Midnight Form",
+        "de": "Nachtform"
+      },
+      "types": ["Rock"],
+      "abilities": [
+        {
+          "name": "Keen Eye"
+        },
+        {
+          "name": "Vital Spirit"
+        },
+        {
+          "name": "No Guard",
+          "hidden": true
+        }
+      ],
+      "height_us": "3'07\"",
+      "height_eu": "1.1 m",
+      "weight_us": "55.1 lbs.",
+      "weight_eu": "15.0 kg",
+      "base_stats": {
+        "hp": 85,
+        "atk": 115,
+        "def": 75,
+        "sp_atk": 55,
+        "sp_def": 75,
+        "speed": 82
+      }
+    }
   ]
 }

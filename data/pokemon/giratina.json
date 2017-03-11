@@ -15,9 +15,6 @@
       "name": "Pressure"
     },
     {
-      "name": "Levitate"
-    },
-    {
       "name": "Telepathy",
       "hidden": true
     }
@@ -49,10 +46,10 @@
   "base_friendship": 0,
   "base_stats": {
     "hp": 150,
-    "atk": 120,
-    "def": 100,
-    "sp_atk": 120,
-    "sp_def": 100,
+    "atk": 100,
+    "def": 120,
+    "sp_atk": 100,
+    "sp_def": 120,
     "speed": 90
   },
   "learnset": [
@@ -318,5 +315,36 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Altered Forme",
+    "de": "Wandelform"
+  },
+  "variations": [
+    {
+      "condition": "holding Griseous Orb or in Distortion World",
+      "names": {
+        "en": "Origin Forme",
+        "de": "Urform"
+      },
+      "types": ["Ghost", "Dragon"],
+      "abilities": [
+        {
+          "name": "Levitate"
+        }
+      ],
+      "height_us": "22'08\"",
+      "height_eu": "4.5 m",
+      "weight_us": "1433.0 lbs.",
+      "weight_eu": "650.0 kg",
+      "base_stats": {
+        "hp": 150,
+        "atk": 120,
+        "def": 100,
+        "sp_atk": 120,
+        "sp_def": 100,
+        "speed": 90
+      }
+    }
+  ]
 }

@@ -15,6 +15,9 @@
       "name": "Torrent"
     },
     {
+      "name": "Battle Bond"
+    },
+    {
       "name": "Protean",
       "hidden": true
     }
@@ -462,5 +465,27 @@
   ],
   "evolutions": [
 
+  ],
+  "variation_names": {
+    "en": "Greninja",
+    "de": "Quajutsu"
+  },
+  "variations": [
+    {
+      "condition": "using Battle Bond",
+      "names": {
+        "en": "Ash-Greninja",
+        "de": "Ash-Quajutsu"
+      },
+      "types": ["Water", "Dark"],
+      "base_stats": {
+        "hp": 72,
+        "atk": 145,
+        "def": 67,
+        "sp_atk": 153,
+        "sp_def": 71,
+        "speed": 132
+      }
+    }
   ]
 }

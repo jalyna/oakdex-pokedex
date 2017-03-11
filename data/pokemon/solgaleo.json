@@ -305,5 +305,19 @@
   ],
   "evolutions": [
 
+  ],
+  "variation_names": {
+    "en": "Solgaleo",
+    "de": "Solgaleo"
+  },
+  "variations": [
+    {
+      "condition": "using Sunsteel Strike",
+      "names": {
+        "en": "Radiant Sun",
+        "de": "Sonnenaufgangsphase"
+      },
+      "types": ["Psychic", "Steel"]
+    }
   ]
 }

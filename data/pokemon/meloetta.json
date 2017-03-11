@@ -32,10 +32,10 @@
   "leveling_rate": "Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 1,
-    "def": 1,
-    "sp_atk": 0,
-    "sp_def": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 1,
     "speed": 1
   },
   "color": "White",
@@ -335,5 +335,35 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Aria Forme",
+    "de": "Gesangsform"
+  },
+  "variations": [
+    {
+      "condition": "using Relic Song",
+      "names": {
+        "en": "Pirouette Forme",
+        "de": "Tanzform"
+      },
+      "types": ["Normal", "Fighting"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 1,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 1
+      },
+      "base_stats": {
+        "hp": 100,
+        "atk": 128,
+        "def": 90,
+        "sp_atk": 77,
+        "sp_def": 77,
+        "speed": 128
+      }
+    }
+  ]
 }

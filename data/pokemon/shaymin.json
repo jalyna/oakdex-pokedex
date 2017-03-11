@@ -12,9 +12,6 @@
   "abilities": [
     {
       "name": "Natural Cure"
-    },
-    {
-      "name": "Serene Grace"
     }
   ],
   "gender_ratios": null,
@@ -33,12 +30,12 @@
   "base_exp_yield": 270,
   "leveling_rate": "Medium Slow",
   "ev_yield": {
-    "hp": 0,
+    "hp": 3,
     "atk": 0,
     "def": 0,
     "sp_atk": 0,
     "sp_def": 0,
-    "speed": 3
+    "speed": 0
   },
   "color": "Green",
   "base_friendship": 100,
@@ -65,7 +62,13 @@
     },
     {
       "level": 28,
-      "move": "Synthesis"
+      "move": "Synthesis",
+      "variations": ["default"]
+    },
+    {
+      "level": 28,
+      "move": "Quick Attack",
+      "variations": ["Sky Forme"]
     },
     {
       "level": 37,
@@ -81,7 +84,13 @@
     },
     {
       "level": 64,
-      "move": "Aromatherapy"
+      "move": "Aromatherapy",
+      "variations": ["default"]
+    },
+    {
+      "level": 64,
+      "move": "Air Slash",
+      "variations": ["Sky Forme"]
     },
     {
       "level": 73,
@@ -93,7 +102,13 @@
     },
     {
       "level": 91,
-      "move": "Healing Wish"
+      "move": "Healing Wish",
+      "variations": ["default"]
+    },
+    {
+      "level": 91,
+      "move": "Leaf Storm",
+      "variations": ["Sky Forme"]
     },
     {
       "level": 100,
@@ -273,5 +288,44 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variation_names": {
+    "en": "Land Forme",
+    "de": "Landform"
+  },
+  "variations": [
+    {
+      "condition": "using Gracidea flower",
+      "names": {
+        "en": "Sky Forme",
+        "de": "Zenitform"
+      },
+      "types": ["Grass", "Flying"],
+      "abilities": [
+        {
+          "name": "Serene Grace"
+        }
+      ],
+      "height_us": "1'04\"",
+      "height_eu": "0.4 m",
+      "weight_us": "11.5 lbs.",
+      "weight_eu": "5.2 kg",
+      "base_stats": {
+        "hp": 100,
+        "atk": 103,
+        "def": 75,
+        "sp_atk": 120,
+        "sp_def": 75,
+        "speed": 127
+      },
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+      }
+    }
+  ]
 }

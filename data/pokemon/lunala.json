@@ -309,5 +309,19 @@
   ],
   "evolutions": [
 
+  ],
+  "variation_names": {
+    "en": "Lunala",
+    "de": "Lunala"
+  },
+  "variations": [
+    {
+      "condition": "using Moongeist Beam",
+      "names": {
+        "en": "Full Moon",
+        "de": "Vollmondphase"
+      },
+      "types": ["Psychic", "Ghost"]
+    }
   ]
 }
