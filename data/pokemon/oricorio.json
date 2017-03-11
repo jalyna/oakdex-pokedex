@@ -381,7 +381,34 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Baile Style",
+    "de": "Flamenco-Stil"
+  },
   "variations": [
-
+    {
+      "condition": "using Nectar",
+      "names": {
+        "en": "Pom-Pom Style",
+        "de": "Cheerleading-Stil"
+      },
+      "types": ["Electric", "Flying"]
+    },
+    {
+      "condition": "using Nectar",
+      "names": {
+        "en": "Pa'u Style",
+        "de": "Hula-Stil"
+      },
+      "types": ["Psychic", "Flying"]
+    },
+    {
+      "condition": "using Nectar",
+      "names": {
+        "en": "Sensu Style",
+        "de": "Buyo-Stil"
+      },
+      "types": ["Ghost", "Flying"]
+    }
   ]
 }
