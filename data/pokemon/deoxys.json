@@ -31,11 +31,11 @@
   "leveling_rate": "Slow",
   "ev_yield": {
     "hp": 0,
-    "atk": 0,
+    "atk": 1,
     "def": 0,
-    "sp_atk": 0,
+    "sp_atk": 1,
     "sp_def": 0,
-    "speed": 3
+    "speed": 1
   },
   "color": "Red",
   "base_friendship": 0,
@@ -284,6 +284,77 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Pokémon FireRed",
+      "names": {
+        "en": "Attack Forme",
+        "de": "Angriffsform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 2,
+        "def": 0,
+        "sp_atk": 1,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 180,
+        "def": 20,
+        "sp_atk": 180,
+        "sp_def": 20,
+        "speed": 150
+      }
+    },
+    {
+      "condition": "Pokémon LeafGreen",
+      "names": {
+        "en": "Defense Forme",
+        "de": "Verteidigungsform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 70,
+        "def": 160,
+        "sp_atk": 70,
+        "sp_def": 160,
+        "speed": 90
+      }
+    },
+    {
+      "condition": "Pokémon Emerald",
+      "names": {
+        "en": "Speed Forme",
+        "de": "Initiativeform"
+      },
+      "types": ["Psychic"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 3
+      },
+      "base_stats": {
+        "hp": 50,
+        "atk": 95,
+        "def": 90,
+        "sp_atk": 95,
+        "sp_def": 90,
+        "speed": 180
+      }
+    }
   ]
 }

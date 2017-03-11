@@ -1843,6 +1843,50 @@
       ],
       "additionalProperties": false
     },
+    "ev_yield": {
+      "type": "object",
+      "properties": {
+        "hp": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "atk": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "def": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "sp_atk": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "sp_def": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        },
+        "speed": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 3
+        }
+      },
+      "required": [
+        "hp",
+        "atk",
+        "def",
+        "sp_atk",
+        "sp_def",
+        "speed"
+      ],
+      "additionalProperties": false
+    },
     "translations": {
       "type": "object",
       "properties": {
@@ -2179,48 +2223,7 @@
       ]
     },
     "ev_yield": {
-      "type": "object",
-      "properties": {
-        "hp": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        },
-        "atk": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        },
-        "def": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        },
-        "sp_atk": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        },
-        "sp_def": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        },
-        "speed": {
-          "type": "integer",
-          "minimum": 0,
-          "maximum": 3
-        }
-      },
-      "required": [
-        "hp",
-        "atk",
-        "def",
-        "sp_atk",
-        "sp_def",
-        "speed"
-      ],
-      "additionalProperties": false
+      "$ref": "#/definitions/ev_yield"
     },
     "color": {
       "type": "string",
@@ -2339,7 +2342,10 @@
             "enum": [
               "harsh sunlight",
               "rain",
-              "hail"
+              "hail",
+              "Pokémon FireRed",
+              "Pokémon LeafGreen",
+              "Pokémon Emerald"
             ]
           },
           "names": {
@@ -2371,6 +2377,9 @@
           },
           "base_stats": {
             "$ref": "#/definitions/base_stats"
+          },
+          "ev_yield": {
+            "$ref": "#/definitions/ev_yield"
           }
         },
         "required": [
