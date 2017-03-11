@@ -39,9 +39,9 @@
   "ev_yield": {
     "hp": 0,
     "atk": 0,
-    "def": 1,
+    "def": 0,
     "sp_atk": 0,
-    "sp_def": 1,
+    "sp_def": 2,
     "speed": 0
   },
   "color": "Gray",
@@ -75,7 +75,58 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Plant Cloak",
+    "de": "Pflanzenumhang"
+  },
   "variations": [
-
+    {
+      "condition": "Sandy Cloak of Burmy",
+      "names": {
+        "en": "Sandy Cloak",
+        "de": "Sandumhang"
+      },
+      "types": ["Bug", "Ground"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 2,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 60,
+        "atk": 79,
+        "def": 105,
+        "sp_atk": 59,
+        "sp_def": 85,
+        "speed": 36
+      }
+    },
+    {
+      "condition": "Trash Cloak of Burmy",
+      "names": {
+        "en": "Trash Cloak",
+        "de": "Lumpenumhang"
+      },
+      "types": ["Bug", "Steel"],
+      "ev_yield": {
+        "hp": 0,
+        "atk": 0,
+        "def": 1,
+        "sp_atk": 0,
+        "sp_def": 1,
+        "speed": 0
+      },
+      "base_stats": {
+        "hp": 60,
+        "atk": 69,
+        "def": 95,
+        "sp_atk": 69,
+        "sp_def": 95,
+        "speed": 36
+      }
+    }
   ]
 }

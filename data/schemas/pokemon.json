@@ -1934,6 +1934,9 @@
     "names": {
       "$ref": "#/definitions/translations"
     },
+    "variation_names": {
+      "$ref": "#/definitions/translations"
+    },
     "categories": {
       "type": "object",
       "properties": {
@@ -2345,7 +2348,11 @@
               "hail",
               "Pokémon FireRed",
               "Pokémon LeafGreen",
-              "Pokémon Emerald"
+              "Pokémon Emerald",
+              "Battled in Cave or Beach",
+              "Battled in Building",
+              "Sandy Cloak of Burmy",
+              "Trash Cloak of Burmy"
             ]
           },
           "names": {
