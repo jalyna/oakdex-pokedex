@@ -316,7 +316,42 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Aria Forme",
+    "de": "Gesangsform"
+  },
   "variations": [
-
+    {
+      "condition": "holding Drive",
+      "names": {
+        "en": "Fire",
+        "de": "Feuer"
+      },
+      "types": ["Bug", "Steel"]
+    },
+    {
+      "condition": "holding Drive",
+      "names": {
+        "en": "Water",
+        "de": "Wasser"
+      },
+      "types": ["Bug", "Steel"]
+    },
+    {
+      "condition": "holding Drive",
+      "names": {
+        "en": "Electric",
+        "de": "Elektro"
+      },
+      "types": ["Bug", "Steel"]
+    },
+    {
+      "condition": "holding Drive",
+      "names": {
+        "en": "Ice",
+        "de": "Eis"
+      },
+      "types": ["Bug", "Steel"]
+    }
   ]
 }
