@@ -291,7 +291,26 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Shield Forme",
+    "de": "Schildform"
+  },
   "variations": [
-
+    {
+      "condition": "using damaging move",
+      "names": {
+        "en": "Blade Forme",
+        "de": "Klingenform"
+      },
+      "types": ["Steel", "Ghost"],
+      "base_stats": {
+        "hp": 60,
+        "atk": 150,
+        "def": 50,
+        "sp_atk": 150,
+        "sp_def": 50,
+        "speed": 60
+      }
+    }
   ]
 }
