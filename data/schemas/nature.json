@@ -37,16 +37,20 @@
       "additionalProperties": false
     },
     "increased_stat": {
-      "type": ["string", "null"]
+      "type": ["string", "null"],
+      "enum": ["atk", "def", "sp_atk", "sp_def", "speed", null]
     },
     "decreased_stat": {
-      "type": ["string", "null"]
+      "type": ["string", "null"],
+      "enum": ["atk", "def", "sp_atk", "sp_def", "speed", null]
     },
     "favorite_flavor": {
-      "type": ["string", "null"]
+      "type": ["string", "null"],
+      "enum": ["Dry", "Spicy", "Sweet", "Bitter", "Sour", null]
     },
     "disliked_flavor": {
-      "type": ["string", "null"]
+      "type": ["string", "null"],
+      "enum": ["Dry", "Spicy", "Sweet", "Bitter", "Sour", null]
     }
   },
   "required": [
