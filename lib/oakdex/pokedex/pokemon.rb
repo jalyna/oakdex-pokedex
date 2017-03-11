@@ -7,6 +7,7 @@ module Oakdex
       json_folder 'pokemon'
       translate :names, :name
       translate :categories, :category
+      translate :variation_names, :variation_name
 
       class << self
         def all_by_id

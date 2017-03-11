@@ -674,7 +674,18 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "West Sea",
+    "de": "Westliches Meer"
+  },
   "variations": [
-
+    {
+      "condition": "East Sea",
+      "names": {
+        "en": "East Sea",
+        "de": "Östliches Meer"
+      },
+      "types": ["Water"]
+    }
   ]
 }
