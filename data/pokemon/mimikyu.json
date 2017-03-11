@@ -365,7 +365,18 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Disguised Form",
+    "de": "Verkleidete Form"
+  },
   "variations": [
-
+    {
+      "condition": "when receiving damage",
+      "names": {
+        "en": "Busted Form",
+        "de": "Entlarvte Form"
+      },
+      "types": ["Ghost", "Fairy"]
+    }
   ]
 }
