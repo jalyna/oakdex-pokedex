@@ -518,5 +518,31 @@
   "evolutions": [
 
   ],
-  "evolution_from": null
+  "evolution_from": null,
+  "variations": [
+    {
+      "condition": "harsh sunlight",
+      "names": {
+        "en": "Sunny Form",
+        "de": "Sonnenform"
+      },
+      "types": ["Fire"]
+    },
+    {
+      "condition": "rain",
+      "names": {
+        "en": "Rainy Form",
+        "de": "Regenform"
+      },
+      "types": ["Water"]
+    },
+    {
+      "condition": "hail",
+      "names": {
+        "en": "Snowy Form",
+        "de": "Schneeform"
+      },
+      "types": ["Ice"]
+    }
+  ]
 }
