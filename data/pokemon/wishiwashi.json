@@ -29,10 +29,10 @@
     3855,
     4111
   ],
-  "height_us": "26'11\"",
+  "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "0.7 lbs.",
-  "weight_eu": "78.6 kg",
+  "weight_eu": "0.3 kg",
   "base_exp_yield": 61,
   "leveling_rate": "Fast",
   "color": "Blue",
@@ -288,7 +288,30 @@
 
   ],
   "evolution_from": null,
+  "variation_names": {
+    "en": "Solo Form",
+    "de": "Einzelform"
+  },
   "variations": [
-
+    {
+      "condition": "Level 20 and using Schooling",
+      "names": {
+        "en": "School Form",
+        "de": "Schwarmform"
+      },
+      "types": ["Water"],
+      "height_us": "26'11\"",
+      "height_eu": "8.2 m",
+      "weight_us": "173.3 lbs.",
+      "weight_eu": "78.6 kg",
+      "base_stats": {
+        "hp": 45,
+        "atk": 140,
+        "def": 130,
+        "sp_atk": 140,
+        "sp_def": 135,
+        "speed": 30
+      }
+    }
   ]
 }
