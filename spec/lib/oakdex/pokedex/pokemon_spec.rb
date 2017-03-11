@@ -88,7 +88,14 @@ describe Oakdex::Pokedex::Pokemon do
         {
           'to' => 'Pichu'
         }
-      ]
+      ],
+      'kanto_id' => 1,
+      'johto_id' => nil,
+      'hoenn_id' => nil,
+      'sinnoh_id' => nil,
+      'unova_id' => nil,
+      'kalos_id' => nil,
+      'alola_id' => nil
     }.merge(additional_attributes)
   end
 
@@ -115,6 +122,13 @@ describe Oakdex::Pokedex::Pokemon do
 
   %w(
     national_id
+    kanto_id
+    johto_id
+    hoenn_id
+    sinnoh_id
+    unova_id
+    kalos_id
+    alola_id
     abilities
     gender_ratios
     catch_rate

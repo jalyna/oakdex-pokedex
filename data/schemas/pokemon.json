@@ -1968,15 +1968,45 @@
         "additionalProperties": false
       }
     },
-    "alola_id": {
-      "type": "integer",
-      "minimum": 1,
-      "maximum": 302
-    },
     "national_id": {
       "type": "integer",
       "minimum": 1,
       "maximum": 802
+    },
+    "kanto_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 151
+    },
+    "johto_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 256
+    },
+    "hoenn_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 211
+    },
+    "sinnoh_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 210
+    },
+    "unova_id": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "maximum": 155
+    },
+    "kalos_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 153
+    },
+    "alola_id": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 302
     },
     "types": {
       "type": "array",
@@ -2239,6 +2269,13 @@
     "names",
     "categories",
     "national_id",
+    "kanto_id",
+    "johto_id",
+    "hoenn_id",
+    "sinnoh_id",
+    "unova_id",
+    "kalos_id",
+    "alola_id",
     "types",
     "abilities",
     "gender_ratios",
