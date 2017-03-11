@@ -261,7 +261,42 @@
   "evolutions": [
 
   ],
+  "variation_names": {
+    "en": "Red Flower",
+    "de": "Rotblütler"
+  },
   "variations": [
-
+    {
+      "condition": "Inherited or holding Flower",
+      "names": {
+        "en": "Yellow Flower",
+        "de": "Gelbblütler"
+      },
+      "types": ["Fairy"]
+    },
+    {
+      "condition": "Inherited or holding Flower",
+      "names": {
+        "en": "Orange Flower",
+        "de": "Orangeblütler"
+      },
+      "types": ["Fairy"]
+    },
+    {
+      "condition": "Inherited or holding Flower",
+      "names": {
+        "en": "Blue Flower",
+        "de": "Blaublütler"
+      },
+      "types": ["Fairy"]
+    },
+    {
+      "condition": "Inherited or holding Flower",
+      "names": {
+        "en": "White Flower",
+        "de": "Weißblütler"
+      },
+      "types": ["Fairy"]
+    }
   ]
 }
