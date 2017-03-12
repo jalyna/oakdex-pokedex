@@ -70,6 +70,16 @@ Oakdex::Pokedex::Move.where(type: 'Ground').size
 # => 26
 ```
 
+If you want to know what the structure of the given data is, checkout the following documentations:
+
+- [Pokemon](doc/pokemon.md)
+- [Move](doc/move.md)
+- [Ability](doc/ability.md)
+- [Type](doc/type.md)
+- [Egg Group](doc/egg_group.md)
+- [Nature](doc/nature.md)
+- [Generation](doc/generation.md)
+
 ## Contributing
 
 I would be happy if you want to add your contribution to the project. In order to contribute, you just have to fork this repository.
