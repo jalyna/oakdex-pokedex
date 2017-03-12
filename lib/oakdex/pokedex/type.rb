@@ -8,7 +8,7 @@ module Oakdex
       translate :names, :name
 
       def effectivness_for(other_type)
-        @source.effectivness[other_type]
+        public_send(:effectivness)[other_type]
       end
     end
   end
