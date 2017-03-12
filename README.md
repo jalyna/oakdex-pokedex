@@ -17,7 +17,7 @@ Then you can use the library:
 require 'oakdex/pokedex'
 
 eevee = Oakdex::Pokedex::Pokemon.find('Eevee')
-#  => #<Oakdex::Pokedex::Pokemon:0x007fe3dd6a88f8 @attributes={"names"=>{"fr"=>"Évoli", "de"=>"Evoli", "it"=>"Eevee", "en"=>"Eevee"}, "national_id"=>133 ...>
+# => #<Oakdex::Pokedex::Pokemon:0x007fe3dd6a88f8 @attributes={"names"=>{"fr"=>"Évoli", "de"=>"Evoli", "it"=>"Eevee", "en"=>"Eevee"}, "national_id"=>133 ...>
 
 bulbasaur = Oakdex::Pokedex::Pokemon.find(1)
 # => #<Oakdex::Pokedex::Pokemon:0x007fe3dc55da80 @attributes={"names"=>{"fr"=>"Bulbizarre", "de"=>"Bisasam", ...>
