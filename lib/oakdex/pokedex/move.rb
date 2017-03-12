@@ -7,10 +7,6 @@ module Oakdex
       json_folder 'move'
       translate :names, :name
       translate :descriptions, :description
-
-      def type
-        Type.find(@source.type)
-      end
     end
   end
 end

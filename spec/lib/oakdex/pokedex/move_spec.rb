@@ -44,11 +44,6 @@ describe Oakdex::Pokedex::Move do
     it { expect(subject.description('nope')).to eq('Description') }
   end
 
-  describe '#type' do
-    it { expect(subject.type).to be_a(Oakdex::Pokedex::Type) }
-    it { expect(subject.type.name).to eq('Psychic') }
-  end
-
   %w(
     index_number
     pp
@@ -78,6 +73,15 @@ describe Oakdex::Pokedex::Move do
 
     it 'returns nil if move does not exist' do
       expect(described_class.find('Foo')).to be_nil
+    end
+  end
+
+  describe '.where' do
+    it 'filters by type' do
+      collection = described_class.where(type: 'Grass')
+      expect(collection.size).to eq(42)
+      expect(collection.first.type).to eq('Grass')
+      expect(collection.last.type).to eq('Grass')
     end
   end
 end
