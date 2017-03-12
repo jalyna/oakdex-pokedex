@@ -52,12 +52,16 @@
     {
       "level": 0,
       "move": "Hyperspace Hole",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 0,
       "move": "Hyperspace Fury",
-      "variations": ["Hoopa Unbound"]
+      "variations": [
+        "Hoopa Unbound"
+      ]
     },
     {
       "level": 0,
@@ -106,17 +110,23 @@
     {
       "level": 35,
       "move": "Phantom Force",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 46,
       "move": "Zen Headbutt",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 46,
       "move": "Knock Off",
-      "variations": ["Hoopa Unbound"]
+      "variations": [
+        "Hoopa Unbound"
+      ]
     },
     {
       "level": 50,
@@ -129,17 +139,23 @@
     {
       "level": 55,
       "move": "Shadow Ball",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 55,
       "move": "Dark Pulse",
-      "variations": ["Hoopa Unbound"]
+      "variations": [
+        "Hoopa Unbound"
+      ]
     },
     {
       "level": 68,
       "move": "Nasty Plot",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 75,
@@ -148,12 +164,16 @@
     {
       "level": 85,
       "move": "Hyperspace Hole",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 85,
       "move": "Hyperspace Fury",
-      "variations": ["Hoopa Unbound"]
+      "variations": [
+        "Hoopa Unbound"
+      ]
     },
     {
       "tm": "TM03",
@@ -361,7 +381,10 @@
         "en": "Hoopa Unbound",
         "de": "Entfesseltes Hoopa"
       },
-      "types": ["Psychic", "Dark"],
+      "types": [
+        "Psychic",
+        "Dark"
+      ],
       "height_us": "21'04\"",
       "height_eu": "6.5 m",
       "weight_us": "1080.3 lbs.",
@@ -375,5 +398,19 @@
         "speed": 80
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space."
+    },
+    "Y": {
+      "en": "It gathers things it likes and passes them through its loop to teleport them to a secret place."
+    },
+    "Omega Ruby": {
+      "en": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within."
+    },
+    "Alpha Sapphire": {
+      "en": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its powers sealed, it is transformed into a much smaller form."
+    }
+  }
 }

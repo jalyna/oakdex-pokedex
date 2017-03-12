@@ -279,32 +279,50 @@
     {
       "move": "Teleport",
       "level": 13,
-      "variations": ["default", "Attack Forme", "Defense Forme"]
+      "variations": [
+        "default",
+        "Attack Forme",
+        "Defense Forme"
+      ]
     },
     {
       "move": "Double Team",
       "level": 13,
-      "variations": ["Speed Forme"]
+      "variations": [
+        "Speed Forme"
+      ]
     },
     {
       "move": "Knock Off",
       "level": 19,
-      "variations": ["default", "Defense Forme", "Speed Forme"]
+      "variations": [
+        "default",
+        "Defense Forme",
+        "Speed Forme"
+      ]
     },
     {
       "move": "Taunt",
       "level": 19,
-      "variations": ["Attack Forme"]
+      "variations": [
+        "Attack Forme"
+      ]
     },
     {
       "move": "Pursuit",
       "level": 25,
-      "variations": ["default", "Attack Forme", "Speed Forme"]
+      "variations": [
+        "default",
+        "Attack Forme",
+        "Speed Forme"
+      ]
     },
     {
       "move": "Spikes",
       "level": 25,
-      "variations": ["Defense Forme"]
+      "variations": [
+        "Defense Forme"
+      ]
     },
     {
       "move": "Psychic",
@@ -313,17 +331,24 @@
     {
       "move": "Snatch",
       "level": 37,
-      "variations": ["default", "Defense Forme"]
+      "variations": [
+        "default",
+        "Defense Forme"
+      ]
     },
     {
       "move": "Superpower",
       "level": 37,
-      "variations": ["Attack Forme"]
+      "variations": [
+        "Attack Forme"
+      ]
     },
     {
       "move": "Swift",
       "level": 37,
-      "variations": ["Speed Forme"]
+      "variations": [
+        "Speed Forme"
+      ]
     },
     {
       "move": "Psycho Shift",
@@ -336,32 +361,47 @@
     {
       "move": "Cosmic Power",
       "level": 55,
-      "variations": ["default", "Attack Forme"]
+      "variations": [
+        "default",
+        "Attack Forme"
+      ]
     },
     {
       "move": "Iron Defense",
       "level": 55,
-      "variations": ["Defense Forme"]
+      "variations": [
+        "Defense Forme"
+      ]
     },
     {
       "move": "Amnesia",
       "level": 55,
-      "variations": ["Defense Forme"]
+      "variations": [
+        "Defense Forme"
+      ]
     },
     {
       "move": "Agility",
       "level": 55,
-      "variations": ["Speed Forme"]
+      "variations": [
+        "Speed Forme"
+      ]
     },
     {
       "move": "Recover",
       "level": 61,
-      "variations": ["default", "Defense Forme", "Speed Forme"]
+      "variations": [
+        "default",
+        "Defense Forme",
+        "Speed Forme"
+      ]
     },
     {
       "move": "Zap Cannon",
       "level": 61,
-      "variations": ["Attack Forme"]
+      "variations": [
+        "Attack Forme"
+      ]
     },
     {
       "move": "Psycho Boost",
@@ -370,22 +410,31 @@
     {
       "move": "Hyper Beam",
       "level": 73,
-      "variations": ["default", "Attack Forme"]
+      "variations": [
+        "default",
+        "Attack Forme"
+      ]
     },
     {
       "move": "Counter",
       "level": 73,
-      "variations": ["Attack Forme"]
+      "variations": [
+        "Attack Forme"
+      ]
     },
     {
       "move": "Mirror Coat",
       "level": 73,
-      "variations": ["Attack Forme"]
+      "variations": [
+        "Attack Forme"
+      ]
     },
     {
       "move": "Extreme Speed",
       "level": 73,
-      "variations": ["Speed Forme"]
+      "variations": [
+        "Speed Forme"
+      ]
     }
   ],
   "categories": {
@@ -417,7 +466,9 @@
         "en": "Attack Forme",
         "de": "Angriffsform"
       },
-      "types": ["Psychic"],
+      "types": [
+        "Psychic"
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 2,
@@ -441,7 +492,9 @@
         "en": "Defense Forme",
         "de": "Verteidigungsform"
       },
-      "types": ["Psychic"],
+      "types": [
+        "Psychic"
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 0,
@@ -465,7 +518,9 @@
         "en": "Speed Forme",
         "de": "Initiativeform"
       },
-      "types": ["Psychic"],
+      "types": [
+        "Psychic"
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 0,
@@ -483,5 +538,61 @@
         "speed": 180
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain."
+    },
+    "Sapphire": {
+      "en": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest."
+    },
+    "Emerald": {
+      "en": "A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed."
+    },
+    "FireRed": {
+      "en": "This Deoxys has transformed into its aggressive guise. It can fool enemies by altering its appearance."
+    },
+    "LeafGreen": {
+      "en": "When it changes form, an aurora appears. It absorbs attacks by altering its cellular structure."
+    },
+    "Diamond": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "Pearl": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "Platinum": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "HeartGold": {
+      "en": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
+    },
+    "SoulSilver": {
+      "en": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
+    },
+    "Black": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "White": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "Black 2": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "White 2": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "X": {
+      "en": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon."
+    },
+    "Y": {
+      "en": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
+    },
+    "Omega Ruby": {
+      "en": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain."
+    },
+    "Alpha Sapphire": {
+      "en": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest."
+    }
+  }
 }

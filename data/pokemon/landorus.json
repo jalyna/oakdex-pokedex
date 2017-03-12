@@ -337,7 +337,10 @@
         "en": "Therian Forme",
         "de": "Tiergeistform"
       },
-      "types": ["Ground", "Flying"],
+      "types": [
+        "Ground",
+        "Flying"
+      ],
       "abilities": [
         {
           "name": "Intimidate"
@@ -364,5 +367,31 @@
         "speed": 0
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\""
+    },
+    "White": {
+      "en": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size."
+    },
+    "Black 2": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+    },
+    "White 2": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+    },
+    "X": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\""
+    },
+    "Y": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+    },
+    "Omega Ruby": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\""
+    },
+    "Alpha Sapphire": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+    }
+  }
 }

@@ -889,7 +889,10 @@
         "en": "Zen Mode",
         "de": "Trance-Modus"
       },
-      "types": ["Fire", "Psychic"],
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
       "base_stats": {
         "hp": 105,
         "atk": 30,
@@ -907,5 +910,31 @@
         "speed": 0
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch."
+    },
+    "White": {
+      "en": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally."
+    },
+    "Black 2": {
+      "en": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+    },
+    "White 2": {
+      "en": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+    },
+    "X": {
+      "en": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+    },
+    "Y": {
+      "en": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+    },
+    "Omega Ruby": {
+      "en": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+    },
+    "Alpha Sapphire": {
+      "en": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+    }
+  }
 }

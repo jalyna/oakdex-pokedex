@@ -299,7 +299,9 @@
         "en": "School Form",
         "de": "Schwarmform"
       },
-      "types": ["Water"],
+      "types": [
+        "Water"
+      ],
       "height_us": "26'11\"",
       "height_eu": "8.2 m",
       "weight_us": "173.3 lbs.",
@@ -313,5 +315,13 @@
         "speed": 30
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "When it's in trouble, its eyes moisten and begin to shine. The shining light attracts its comrades, and they stand together against their enemies."
+    },
+    "Moon": {
+      "en": "It's awfully weak and notably tasty, so everyone is always out to get it. As it happens, anyone trying to bully it receives a painful lesson."
+    }
+  }
 }

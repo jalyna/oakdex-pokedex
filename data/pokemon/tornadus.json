@@ -336,7 +336,9 @@
         "en": "Therian Forme",
         "de": "Tiergeistform"
       },
-      "types": ["Flying"],
+      "types": [
+        "Flying"
+      ],
       "abilities": [
         {
           "name": "Regenerator"
@@ -363,5 +365,31 @@
         "speed": 3
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph."
+    },
+    "White": {
+      "en": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+    },
+    "Black 2": {
+      "en": "In every direction it flies, creating winds so powerful, they blow everything away."
+    },
+    "White 2": {
+      "en": "In every direction it flies, creating winds so powerful, they blow everything away."
+    },
+    "X": {
+      "en": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph."
+    },
+    "Y": {
+      "en": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+    },
+    "Omega Ruby": {
+      "en": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph."
+    },
+    "Alpha Sapphire": {
+      "en": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+    }
+  }
 }

@@ -282,7 +282,10 @@
         "en": "Zygarde 10% Forme",
         "de": "10%-Zygarde"
       },
-      "types": ["Dragon", "Ground"],
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
       "height_us": "3'11\"",
       "height_eu": "2.2 m",
       "weight_us": "73.9 lbs.",
@@ -310,7 +313,10 @@
         "en": "Zygarde Complete Forme",
         "de": "Optimum-Zygarde"
       },
-      "types": ["Dragon", "Ground"],
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
       "height_us": "14'09\"",
       "height_eu": "4.5 m",
       "weight_us": "1344.8 lbs.",
@@ -329,5 +335,25 @@
         "speed": 85
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power."
+    },
+    "Y": {
+      "en": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives."
+    },
+    "Omega Ruby": {
+      "en": "When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power."
+    },
+    "Alpha Sapphire": {
+      "en": "It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives."
+    },
+    "Sun": {
+      "en": "This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy."
+    },
+    "Moon": {
+      "en": "It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it."
+    }
+  }
 }

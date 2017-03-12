@@ -63,12 +63,16 @@
     {
       "level": 28,
       "move": "Synthesis",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 28,
       "move": "Quick Attack",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 37,
@@ -85,12 +89,16 @@
     {
       "level": 64,
       "move": "Aromatherapy",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 64,
       "move": "Air Slash",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 73,
@@ -103,12 +111,16 @@
     {
       "level": 91,
       "move": "Healing Wish",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 91,
       "move": "Leaf Storm",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 100,
@@ -300,7 +312,10 @@
         "en": "Sky Forme",
         "de": "Zenitform"
       },
-      "types": ["Grass", "Flying"],
+      "types": [
+        "Grass",
+        "Flying"
+      ],
       "abilities": [
         {
           "name": "Serene Grace"
@@ -327,5 +342,46 @@
         "speed": 3
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It lives in flower patches and avoids detection by curling up to look like a flowering plant."
+    },
+    "Pearl": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers."
+    },
+    "Platinum": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+    },
+    "HeartGold": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+    },
+    "SoulSilver": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+    },
+    "Black": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+    },
+    "White": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+    },
+    "Black 2": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+    },
+    "White 2": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude."
+    },
+    "X": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers."
+    },
+    "Y": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+    },
+    "Omega Ruby": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers."
+    },
+    "Alpha Sapphire": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers."
+    }
+  }
 }

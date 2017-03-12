@@ -277,7 +277,10 @@
         "en": "Core",
         "de": "Farbige Kerne"
       },
-      "types": ["Rock", "Flying"],
+      "types": [
+        "Rock",
+        "Flying"
+      ],
       "weight_us": "0.7 lbs.",
       "weight_eu": "0.3 kg",
       "base_stats": {
@@ -297,5 +300,13 @@
         "speed": 0
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy."
+    },
+    "Moon": {
+      "en": "Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles."
+    }
+  }
 }

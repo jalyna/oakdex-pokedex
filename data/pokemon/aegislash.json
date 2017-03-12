@@ -302,7 +302,10 @@
         "en": "Blade Forme",
         "de": "Klingenform"
       },
-      "types": ["Steel", "Ghost"],
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
       "base_stats": {
         "hp": 60,
         "atk": 150,
@@ -312,5 +315,19 @@
         "speed": 60
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon."
+    },
+    "Y": {
+      "en": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+    },
+    "Omega Ruby": {
+      "en": "Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon."
+    },
+    "Alpha Sapphire": {
+      "en": "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+    }
+  }
 }
