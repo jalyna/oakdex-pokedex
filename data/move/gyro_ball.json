@@ -23,7 +23,8 @@
     "en": "Gyro Ball"
   },
   "descriptions": {
-    "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.*The user tackles the foe from a high-speed spin. The slower the user, the greater the damage.*"
+    "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.*The user tackles the foe from a high-speed spin. The slower the user, the greater the damage.*",
+    "de": "Schaden hängt von den momentanen Initiativewerten des Angreifers und des Zielobjekts ab. Grundstärke = [abrunden(25 * InitiativeGegner / InitiativeAnwender)] +1"
   },
   "type": "Steel"
 }
