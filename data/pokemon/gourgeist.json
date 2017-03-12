@@ -410,7 +410,10 @@
         "en": "Average Size",
         "de": "Größe M"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "2'11\"",
       "height_eu": "0.9 m",
       "weight_us": "27.6 lbs.",
@@ -430,7 +433,10 @@
         "en": "Large Size",
         "de": "Größe L"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "3'07\"",
       "height_eu": "1.1 m",
       "weight_us": "30.9 lbs.",
@@ -450,7 +456,10 @@
         "en": "Super Size",
         "de": "Größe XL"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "5'07\"",
       "height_eu": "1.7 m",
       "weight_us": "86.0 lbs.",
@@ -464,5 +473,23 @@
         "speed": 54
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+      "de": "Unter unheimlichen Gesängen durchstreift es in Neumondnächten Städte und Dörfer. Wer dem unheilvollen Gesang lauscht, wird verflucht."
+    },
+    "Y": {
+      "en": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
+      "de": "Mit seinen haarähnlichen Armen erfasst es seine Beute und stimmt angesichts deren offenkundiger Qualen freudig ein Lied an."
+    },
+    "Omega Ruby": {
+      "en": "Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.",
+      "de": "Mit seinen haarähnlichen Armen erfasst es seine Beute und stimmt angesichts deren offenkundiger Qualen freudig ein Lied an."
+    },
+    "Alpha Sapphire": {
+      "en": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
+      "de": "Mit seinen haarähnlichen Armen erfasst es seine Beute und stimmt angesichts deren offenkundiger Qualen freudig ein Lied an."
+    }
+  }
 }

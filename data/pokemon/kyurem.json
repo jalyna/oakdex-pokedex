@@ -260,32 +260,44 @@
     {
       "level": 43,
       "move": "Scary Face",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 43,
       "move": "Fusion Flare",
-      "variations": ["White Kyurem"]
+      "variations": [
+        "White Kyurem"
+      ]
     },
     {
       "level": 43,
       "move": "Fusion Bolt",
-      "variations": ["Black Kyurem"]
+      "variations": [
+        "Black Kyurem"
+      ]
     },
     {
       "level": 50,
       "move": "Glaciate",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 50,
       "move": "Ice Burn",
-      "variations": ["White Kyurem"]
+      "variations": [
+        "White Kyurem"
+      ]
     },
     {
       "level": 50,
       "move": "Freeze Shock",
-      "variations": ["Black Kyurem"]
+      "variations": [
+        "Black Kyurem"
+      ]
     },
     {
       "level": 57,
@@ -341,12 +353,17 @@
         "en": "White Kyurem",
         "de": "Weißes Kyurem"
       },
-      "types": ["Dragon", "Ice"],
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
       "height_us": "11'10\"",
       "height_eu": "3.6 m",
-      "abilities": [{
-        "name": "Turboblaze"
-      }],
+      "abilities": [
+        {
+          "name": "Turboblaze"
+        }
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 0,
@@ -370,12 +387,17 @@
         "en": "Black Kyurem",
         "de": " Schwarzes Kyurem"
       },
-      "types": ["Dragon", "Ice"],
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
       "height_us": "10'10\"",
       "height_eu": "3.3 m",
-      "abilities": [{
-        "name": "Teravolt"
-      }],
+      "abilities": [
+        {
+          "name": "Teravolt"
+        }
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 3,
@@ -393,5 +415,39 @@
         "speed": 95
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "White": {
+      "en": "It can produce ultracold air. Its body is frozen.",
+      "de": "Es besitzt die Fähigkeit, eisige Kälte heraufzubeschwören, doch dabei gefriert auch sein eigener Körper."
+    },
+    "Black 2": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "White 2": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "X": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Ein Legendäres Eis-Pokémon, das auf den Helden wartet, der seinen verstümmelten Körper mit Wunsch und Wirklichkeit heilt."
+    },
+    "Y": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "Omega Ruby": {
+      "en": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    },
+    "Alpha Sapphire": {
+      "en": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "de": "Sein Körper erzeugt in seinem Inneren gewaltige Mengen an Kälteenergie. Tritt diese jedoch aus, gefriert sein Körper."
+    }
+  }
 }

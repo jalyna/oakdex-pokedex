@@ -78,32 +78,44 @@
     {
       "move": "Razor Leaf",
       "level": 26,
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "move": "Rock Blast",
       "level": 26,
-      "variations": ["Sandy Cloak"]
+      "variations": [
+        "Sandy Cloak"
+      ]
     },
     {
       "move": "Mirror Shot",
       "level": 26,
-      "variations": ["Trash Cloak"]
+      "variations": [
+        "Trash Cloak"
+      ]
     },
     {
       "move": "Growth",
       "level": 29,
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "move": "Harden",
       "level": 29,
-      "variations": ["Sandy Cloak"]
+      "variations": [
+        "Sandy Cloak"
+      ]
     },
     {
       "move": "Metal Sound",
       "level": 29,
-      "variations": ["Trash Cloak"]
+      "variations": [
+        "Trash Cloak"
+      ]
     },
     {
       "move": "Psybeam",
@@ -128,17 +140,23 @@
     {
       "move": "Leaf Storm",
       "level": 47,
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "move": "Fissure",
       "level": 47,
-      "variations": ["Sandy Cloak"]
+      "variations": [
+        "Sandy Cloak"
+      ]
     },
     {
       "move": "Iron Head",
       "level": 47,
-      "variations": ["Trash Cloak"]
+      "variations": [
+        "Trash Cloak"
+      ]
     }
   ],
   "evolution_from": "Burmy",
@@ -170,7 +188,10 @@
         "en": "Sandy Cloak",
         "de": "Sandumhang"
       },
-      "types": ["Bug", "Ground"],
+      "types": [
+        "Bug",
+        "Ground"
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 0,
@@ -194,7 +215,10 @@
         "en": "Trash Cloak",
         "de": "Lumpenumhang"
       },
-      "types": ["Bug", "Steel"],
+      "types": [
+        "Bug",
+        "Steel"
+      ],
       "ev_yield": {
         "hp": 0,
         "atk": 0,
@@ -212,5 +236,59 @@
         "speed": 36
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "de": "Als sich BURMY entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    },
+    "Pearl": {
+      "en": "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+      "de": "Die Umgebung, in der es sich ent- wickelt, bestimmt sein Aussehen. Dinge dort werden zu Körperteilen."
+    },
+    "Platinum": {
+      "en": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+      "de": "Es nimmt während der Entwicklung Dinge aus der Umgebung auf, daher gibt es viele Variationen von ihm."
+    },
+    "HeartGold": {
+      "en": "It is said that a Wormadam that evolves on a cold day will have a thicker cloak.",
+      "de": "Als sich BURMY entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    },
+    "SoulSilver": {
+      "en": "It is said that a Wormadam that evolves on a cold day will have a thicker cloak.",
+      "de": "Als sich BURMY entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    },
+    "Black": {
+      "en": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+      "de": "Es nimmt während der Entwicklung Dinge aus der Umgebung auf, daher gibt es viele Variationen von ihm."
+    },
+    "White": {
+      "en": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+      "de": "Es nimmt während der Entwicklung Dinge aus der Umgebung auf, daher gibt es viele Variationen von ihm."
+    },
+    "Black 2": {
+      "en": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+      "de": "Es nimmt während der Entwicklung Dinge aus der Umgebung auf, daher gibt es viele Variationen von ihm."
+    },
+    "White 2": {
+      "en": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+      "de": "Es nimmt während der Entwicklung Dinge aus der Umgebung auf, daher gibt es viele Variationen von ihm."
+    },
+    "X": {
+      "en": "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+      "de": "Die Umgebung, in der es sich entwickelt, bestimmt sein Aussehen. Es formt seinen Körper mithilfe der umliegenden Materialien."
+    },
+    "Y": {
+      "en": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "de": "Als sich Burmy entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    },
+    "Omega Ruby": {
+      "en": "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+      "de": "Als sich Burmy entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    },
+    "Alpha Sapphire": {
+      "en": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "de": "Als sich Burmy entwickelte, wurde sein Umhang Teil des Körpers. Es legt den Umhang niemals ab."
+    }
+  }
 }

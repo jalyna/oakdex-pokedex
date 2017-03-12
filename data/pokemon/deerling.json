@@ -581,7 +581,10 @@
         "en": "Summer Form",
         "de": "Sommerform"
       },
-      "types": ["Normal", "Grass"]
+      "types": [
+        "Normal",
+        "Grass"
+      ]
     },
     {
       "condition": "Autumn",
@@ -589,7 +592,10 @@
         "en": "Autumn Form",
         "de": "Herbstform"
       },
-      "types": ["Normal", "Grass"]
+      "types": [
+        "Normal",
+        "Grass"
+      ]
     },
     {
       "condition": "Winter",
@@ -597,7 +603,44 @@
         "en": "Winter Form",
         "de": "Winterform"
       },
-      "types": ["Normal", "Grass"]
+      "types": [
+        "Normal",
+        "Grass"
+      ]
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+      "de": "Sein Fell nimmt Farbe und Duft des Feldes und des Grases unter ihm an. Bei Gefahr sucht es im hohen Gras Schutz."
+    },
+    "White": {
+      "en": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+      "de": "Sein Fell und sein Geruch ändern sich mit dem Wechseln der Jahreszeiten. Es ist der Bote des Saisonwechsels."
+    },
+    "Black 2": {
+      "en": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+      "de": "Unabhängig von der Jahreszeit ändert sich seine Farbe auch bei wechselnder Temperatur oder Luftfeuchtigkeit leicht."
+    },
+    "White 2": {
+      "en": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+      "de": "Unabhängig von der Jahreszeit ändert sich seine Farbe auch bei wechselnder Temperatur oder Luftfeuchtigkeit leicht."
+    },
+    "X": {
+      "en": "Their coloring changes according to the season and can be slightly affected by the temperature and humidity as well.",
+      "de": "Unabhängig von der Jahreszeit ändert sich seine Farbe auch bei wechselnder Temperatur oder Luftfeuchtigkeit leicht."
+    },
+    "Y": {
+      "en": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+      "de": "Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels."
+    },
+    "Omega Ruby": {
+      "en": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+      "de": "Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels."
+    },
+    "Alpha Sapphire": {
+      "en": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+      "de": "Sein Fell und sein Geruch ändern sich mit dem Wechsel der Jahreszeiten. Es ist der Bote des Saisonwechsels."
+    }
+  }
 }

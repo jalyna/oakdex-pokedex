@@ -392,7 +392,10 @@
         "en": "Pom-Pom Style",
         "de": "Cheerleading-Stil"
       },
-      "types": ["Electric", "Flying"]
+      "types": [
+        "Electric",
+        "Flying"
+      ]
     },
     {
       "condition": "using Nectar",
@@ -400,7 +403,10 @@
         "en": "Pa'u Style",
         "de": "Hula-Stil"
       },
-      "types": ["Psychic", "Flying"]
+      "types": [
+        "Psychic",
+        "Flying"
+      ]
     },
     {
       "condition": "using Nectar",
@@ -408,7 +414,18 @@
         "en": "Sensu Style",
         "de": "Buyo-Stil"
       },
-      "types": ["Ghost", "Flying"]
+      "types": [
+        "Ghost",
+        "Flying"
+      ]
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames."
+    },
+    "Moon": {
+      "en": "This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind."
+    }
+  }
 }

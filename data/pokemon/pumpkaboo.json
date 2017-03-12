@@ -377,7 +377,10 @@
         "en": "Average Size",
         "de": "Größe M"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "1'04\"",
       "height_eu": "0.4 m",
       "weight_us": "11.0 lbs.",
@@ -397,7 +400,10 @@
         "en": "Large Size",
         "de": "Größe L"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "1'08\"",
       "height_eu": "0.5 m",
       "weight_us": "16.5 lbs.",
@@ -417,7 +423,10 @@
         "en": "Super Size",
         "de": "Größe XL"
       },
-      "types": ["Ghost", "Grass"],
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
       "height_us": "2'07\"",
       "height_eu": "0.8 m",
       "weight_us": "33.1 lbs.",
@@ -431,5 +440,23 @@
         "speed": 41
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+      "de": "Es entsteht aus der Vereinigung einer in der Welt der Lebenden gefangenen Seele mit einem Kürbis. Es wird erst nach Sonnenuntergang aktiv."
+    },
+    "Y": {
+      "en": "It is said to carry wandering spirits to the place where they belong so they can move on.",
+      "de": "Man sagt, es führe verlorene Seelen dem Ende ihres rastlosen irdischen Wandelns entgegen und geleite sie sicher ins Jenseits."
+    },
+    "Omega Ruby": {
+      "en": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+      "de": "Man sagt, es führe verlorene Seelen dem Ende ihres rastlosen irdischen Wandelns entgegen und geleite sie sicher ins Jenseits."
+    },
+    "Alpha Sapphire": {
+      "en": "It is said to carry wandering spirits to the place where they belong so they can move on.",
+      "de": "Man sagt, es führe verlorene Seelen dem Ende ihres rastlosen irdischen Wandelns entgegen und geleite sie sicher ins Jenseits."
+    }
+  }
 }

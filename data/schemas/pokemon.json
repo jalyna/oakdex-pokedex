@@ -1938,45 +1938,15 @@
       "$ref": "#/definitions/translations"
     },
     "categories": {
+      "$ref": "#/definitions/translations"
+    },
+    "pokedex_entries": {
       "type": "object",
-      "properties": {
-        "cz": {
-          "type": "string"
-        },
-        "dk": {
-          "type": "string"
-        },
-        "fr": {
-          "type": "string"
-        },
-        "de": {
-          "type": "string"
-        },
-        "gr": {
-          "type": "string"
-        },
-        "it": {
-          "type": "string"
-        },
-        "pl": {
-          "type": "string"
-        },
-        "tr": {
-          "type": "string"
-        },
-        "en": {
-          "type": "string"
-        },
-        "jp": {
-          "type": "string"
-        },
-        "es": {
-          "type": "string"
+      "patternProperties": {
+        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon": {
+          "$ref": "#/definitions/translations"
         }
       },
-      "required": [
-        "en"
-      ],
       "additionalProperties": false
     },
     "evolution_from": {
@@ -2491,7 +2461,8 @@
     "evolutions",
     "mega_evolutions",
     "evolution_from",
-    "variations"
+    "variations",
+    "pokedex_entries"
   ],
   "additionalProperties": false
 }

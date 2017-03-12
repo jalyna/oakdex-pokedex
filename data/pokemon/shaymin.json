@@ -63,12 +63,16 @@
     {
       "level": 28,
       "move": "Synthesis",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 28,
       "move": "Quick Attack",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 37,
@@ -85,12 +89,16 @@
     {
       "level": 64,
       "move": "Aromatherapy",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 64,
       "move": "Air Slash",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 73,
@@ -103,12 +111,16 @@
     {
       "level": 91,
       "move": "Healing Wish",
-      "variations": ["default"]
+      "variations": [
+        "default"
+      ]
     },
     {
       "level": 91,
       "move": "Leaf Storm",
-      "variations": ["Sky Forme"]
+      "variations": [
+        "Sky Forme"
+      ]
     },
     {
       "level": 100,
@@ -300,7 +312,10 @@
         "en": "Sky Forme",
         "de": "Zenitform"
       },
-      "types": ["Grass", "Flying"],
+      "types": [
+        "Grass",
+        "Flying"
+      ],
       "abilities": [
         {
           "name": "Serene Grace"
@@ -327,5 +342,59 @@
         "speed": 3
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+      "de": "Es lebt auf Blumenwiesen und rollt sich ein, um wie eine Blume auszu- sehen u. nicht entdeckt zu werden."
+    },
+    "Pearl": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+      "de": "Es kann die Luft von Giften reinigen und Ödland in ein üppig blühendes Blumenfeld verwandeln."
+    },
+    "Platinum": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "de": "Wird es umarmt, empfindet es Dankbarkeit, was wiederum dazu führt, dass seine Blumen blühen."
+    },
+    "HeartGold": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "de": "Es lebt auf Blumenwiesen und rollt sich ein, um wie eine Blume auszu- sehen u. nicht entdeckt zu werden."
+    },
+    "SoulSilver": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "de": "Es lebt auf Blumenwiesen und rollt sich ein, um wie eine Blume auszu- sehen u. nicht entdeckt zu werden."
+    },
+    "Black": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "de": "Wird es umarmt, empfindet es Dankbarkeit, was wiederum dazu führt, dass seine Blumen blühen."
+    },
+    "White": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "de": "Wird es umarmt, empfindet es Dankbarkeit, was wiederum dazu führt, dass seine Blumen blühen."
+    },
+    "Black 2": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "de": "Wird es umarmt, empfindet es Dankbarkeit, was wiederum dazu führt, dass seine Blumen blühen."
+    },
+    "White 2": {
+      "en": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "de": "Wird es umarmt, empfindet es Dankbarkeit, was wiederum dazu führt, dass seine Blumen blühen."
+    },
+    "X": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+      "de": "Es kann die Luft von Giften reinigen und Ödland in ein üppig blühendes Blumenfeld verwandeln."
+    },
+    "Y": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "de": "Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt."
+    },
+    "Omega Ruby": {
+      "en": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+      "de": "Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt."
+    },
+    "Alpha Sapphire": {
+      "en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "de": "Es heißt, wenn die Gracidea blühen, drückt es seine Dankbarkeit aus, indem es hoch in die Lüfte fliegt."
+    }
+  }
 }

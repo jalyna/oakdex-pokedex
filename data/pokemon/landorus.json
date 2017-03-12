@@ -337,7 +337,10 @@
         "en": "Therian Forme",
         "de": "Tiergeistform"
       },
-      "types": ["Ground", "Flying"],
+      "types": [
+        "Ground",
+        "Flying"
+      ],
       "abilities": [
         {
           "name": "Intimidate"
@@ -364,5 +367,39 @@
         "speed": 0
       }
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+      "de": "Da an Orten, wo es sich blicken lässt, mit reicher Ernte zu rechnen ist, nennt man es auch den „Herrn des Ackerbaus“."
+    },
+    "White": {
+      "en": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+      "de": "Es vergießt mit seinem Schweif Energie, die den Boden mit Nährstoffen anreichert und für reichhaltige Ernten sorgt."
+    },
+    "Black 2": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "de": "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    },
+    "White 2": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "de": "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    },
+    "X": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+      "de": "Da an Orten, wo es sich blicken lässt, mit reicher Ernte zu rechnen ist, nennt man es auch den „Herrn des Ackerbaus“."
+    },
+    "Y": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "de": "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    },
+    "Omega Ruby": {
+      "en": "Lands visited by Landorus grant such bountiful crops that it has been hailed as \"The Guardian of the Fields.\"",
+      "de": "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    },
+    "Alpha Sapphire": {
+      "en": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "de": "Seine aus Wind und Donner gewonnene Energie sorgt für reiche Ernten, da sie den Boden mit Nährstoffen anreichert."
+    }
+  }
 }
