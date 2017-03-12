@@ -12,7 +12,7 @@ module Oakdex
 
         def translate(attribute, name)
           define_method(name) do |locale = 'en'|
-            translations = @source.send(attribute)
+            translations = public_send(attribute)
             translations[locale] || translations['en']
           end
         end
@@ -47,12 +47,18 @@ module Oakdex
         end
       end
 
+      attr_reader :attributes
+
       def initialize(attributes)
-        @source = OpenStruct.new(attributes)
+        @attributes = attributes
       end
 
       def method_missing(method, *args, &block)
-        @source.send(method, *args, &block)
+        if @attributes.key?(method.to_s)
+          @attributes[method.to_s]
+        else
+          super
+        end
       end
     end
   end

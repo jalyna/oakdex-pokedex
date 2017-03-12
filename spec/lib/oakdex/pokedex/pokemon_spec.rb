@@ -105,6 +105,10 @@ describe Oakdex::Pokedex::Pokemon do
 
   subject { described_class.new(attributes) }
 
+  describe '#attributes' do
+    it { expect(subject.attributes).to eq(attributes) }
+  end
+
   describe '#name' do
     it { expect(subject.name).to eq('Bulbasaur') }
     it { expect(subject.name('de')).to eq('Bisasam') }
