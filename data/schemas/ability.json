@@ -5,7 +5,7 @@
   "properties": {
     "index_number": {
       "type": "integer",
-      "minimum": 0
+      "minimum": 1
     },
     "names": {
       "type": "object",
@@ -39,7 +39,8 @@
         }
       },
       "required": [
-        "en"
+        "en",
+        "de"
       ],
       "additionalProperties": false
     },
@@ -72,7 +73,8 @@
         }
       },
       "required": [
-        "en"
+        "en",
+        "de"
       ],
       "additionalProperties": false
     }
