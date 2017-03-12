@@ -123,13 +123,6 @@ describe Oakdex::Pokedex::Pokemon do
     it { expect(subject.category('nope')).to eq('Seed Pokémon') }
   end
 
-  describe '#types' do
-    it { expect(subject.types.first).to be_a(Oakdex::Pokedex::Type) }
-    it { expect(subject.types.last).to be_a(Oakdex::Pokedex::Type) }
-    it { expect(subject.types.first.name).to eq('Grass') }
-    it { expect(subject.types.last.name).to eq('Poison') }
-  end
-
   %w(
     national_id
     kanto_id
@@ -176,6 +169,29 @@ describe Oakdex::Pokedex::Pokemon do
 
     it 'returns nil if pokemon does not exist' do
       expect(described_class.find('Foo')).to be_nil
+    end
+  end
+
+  describe '.where' do
+    it 'filters by type' do
+      collection = described_class.where(type: 'Grass')
+      expect(collection.size).to eq(97)
+      expect(collection.first.types).to include('Grass')
+      expect(collection.last.types).to include('Grass')
+    end
+
+    it 'filters by egg group' do
+      collection = described_class.where(egg_group: 'Dragon')
+      expect(collection.size).to eq(52)
+      expect(collection.first.egg_groups).to include('Dragon')
+      expect(collection.last.egg_groups).to include('Dragon')
+    end
+
+    it 'filters by dex' do
+      collection = described_class.where(dex: 'unova')
+      expect(collection.size).to eq(156)
+      expect(collection.first.unova_id).to eq(0)
+      expect(collection.last.unova_id).to eq(155)
     end
   end
 end

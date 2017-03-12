@@ -25,6 +25,18 @@ module Oakdex
           all[name]
         end
 
+        def where(conditions = {})
+          all.values.select do |entry|
+            conditions.all? do |name, value|
+              if entry.public_send(name).is_a?(Array)
+                entry.public_send(name).include?(value)
+              else
+                entry.public_send(name) == value
+              end
+            end
+          end
+        end
+
         private
 
         def map_json_data(type, klass)

@@ -19,11 +19,26 @@ module Oakdex
         def find(name)
           all[name] || all_by_id[name]
         end
-      end
 
-      def types
-        @source.types.map do |type_name|
-          Type.find(type_name)
+        def where(conditions = {})
+          if type = conditions.delete(:type)
+            conditions[:types] = type
+          end
+          if egg_group = conditions.delete(:egg_group)
+            conditions[:egg_groups] = egg_group
+          end
+          if dex = conditions.delete(:dex)
+            return by_dex(dex)
+          end
+          super(conditions)
+        end
+
+        private
+
+        def by_dex(dex)
+          all.values.select do |entry|
+            !entry.public_send("#{dex}_id").nil?
+          end.sort_by(&:"#{dex}_id")
         end
       end
     end
