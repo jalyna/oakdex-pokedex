@@ -23,7 +23,8 @@
     "en": "Psywave"
   },
   "descriptions": {
-    "en": "A Psychic-type attack of varying intensity. It occasionally inflicts heavy damage."
+    "en": "A Psychic-type attack of varying intensity. It occasionally inflicts heavy damage.",
+    "de": "Diese Attacke richtet Schaden an und die Höhe des Schadens wird per Zufall bestimmt. Sie kann zwischen 1 KP und dem 1,5-fachen des Levels vom Angreifer liegen. Das heißt, ein Pokémon auf Level 100 kann einen maximalen Schaden von 150 KP anrichten. Sobald die Höhe des Schadens in einem Kampf bestimmt wurde, verändert sich diese nicht mehr. Der Schadensberechnung liegt folgender Formel zu Grunde, wobei X einen zufälligen Wert zwischen 0 und 1 annehmen kann: Verursachter Schaden = (0,5+X)*Level des Anwenders"
   },
   "type": "Psychic"
 }
