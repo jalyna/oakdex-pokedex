@@ -21,9 +21,7 @@ module Oakdex
         end
 
         def where(conditions = {})
-          if conditions[:type]
-            conditions[:types] = conditions.delete(:type)
-          end
+          conditions[:types] = conditions.delete(:type) if conditions[:type]
           if conditions[:egg_group]
             conditions[:egg_groups] = conditions.delete(:egg_group)
           end
