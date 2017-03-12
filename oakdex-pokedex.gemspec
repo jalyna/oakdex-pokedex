@@ -1,6 +1,9 @@
+$: << File.expand_path('../lib', __FILE__)
+require 'oakdex/version'
+
 Gem::Specification.new do |s|
   s.name        = 'oakdex-pokedex'
-  s.version     = '0.0.0'
+  s.version     = Oakdex::VERSION
   s.summary     = 'Pokedex for Gen 1-7'
   s.description = 'Pokedex for Gen 1-7, in JSON and accessible through Ruby.'
   s.authors     = ['Jalyna Schroeder']
