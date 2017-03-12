@@ -21,15 +21,13 @@ module Oakdex
         end
 
         def where(conditions = {})
-          if type = conditions[:type]
+          if conditions[:type]
             conditions[:types] = conditions.delete(:type)
           end
           if conditions[:egg_group]
             conditions[:egg_groups] = conditions.delete(:egg_group)
           end
-          if conditions[:dex]
-            return by_dex(conditions[:dex])
-          end
+          return by_dex(conditions[:dex]) if conditions[:dex]
           super(conditions)
         end
 
