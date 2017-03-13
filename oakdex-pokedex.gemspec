@@ -4,7 +4,7 @@ require 'oakdex/pokedex/version'
 Gem::Specification.new do |s|
   s.name        = 'oakdex-pokedex'
   s.version     = Oakdex::Pokedex::VERSION
-  s.summary     = 'Pokedex for Gen 1-7'
+  s.summary     = 'Comprehensive Pokedex for Gen 1-7'
   s.description = 'Pokedex for Gen 1-7, in JSON and accessible through Ruby.'
   s.authors     = ['Jalyna Schroeder']
   s.email       = 'jalyna.schroeder@gmail.com'
