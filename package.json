@@ -1,0 +1,36 @@
+{
+  "name": "oakdex-pokedex",
+  "version": "0.0.0",
+  "description": "Comprehensive Pokedex for Gen 1-7",
+  "main": "./src/oakdex_pokedex.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "json-schema-to-markdown": "^1.0.3"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalyna/oakdex-pokedex.git"
+  },
+  "keywords": [
+    "json",
+    "pokedex",
+    "pokemon",
+    "json-schema",
+    "json-api"
+  ],
+  "author": "Jalyna (https://github.com/jalyna)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalyna/oakdex-pokedex/issues"
+  },
+  "homepage": "https://github.com/jalyna/oakdex-pokedex#readme"
+}

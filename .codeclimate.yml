@@ -6,12 +6,16 @@ engines:
     config:
       languages:
       - ruby
+  eslint:
+    enabled: true
 
 ratings:
   paths:
   - "lib/**"
   - "data/**"
   - "**.rb"
+  - "**.js"
 
 exclude_paths:
 - "spec/**/*"
+- "schemas_to_markdown.js"

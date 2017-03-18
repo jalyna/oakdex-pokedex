@@ -2,13 +2,17 @@ language: "ruby"
 
 rvm:
   - "2.0"
-  - "2.3.3"
   - "2.4.0"
 
 sudo: false
 
 install:
   - bundle install --retry=3
+  - npm install
+
+script:
+  - bundle exec rspec
+  - npm test
 
 addons:
   code_climate:
