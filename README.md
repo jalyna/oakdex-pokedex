@@ -5,6 +5,8 @@
 
 ## Getting Started
 
+### Ruby
+
 Add oakdex to your Gemfile and do `bundle install`:
 
 ```ruby
@@ -69,6 +71,85 @@ Oakdex::Pokedex::Pokemon.where(alola_id: 1)
 Oakdex::Pokedex::Move.where(type: 'Ground').size
 # => 26
 ```
+
+
+### Javascript
+
+Install the package:
+
+```
+$ npm install oakdex-pokedex --save
+```
+
+Then you can use the library:
+
+```js
+oakdexPokedex = require('oakdex-pokedex');
+
+oakdexPokedex.findPokemon('Eevee', function(p) {
+  // returns data/pokemon/eevee.json
+  console.log(p.names.en); // Eeevee
+});
+
+oakdexPokedex.findPokemon(4, function(p) {
+  // returns data/pokemon/charmander.json
+  console.log(p.names.en); // Charmander
+});
+
+oakdexPokedex.findMove('Tackle', function(m) {
+  // returns data/move/tackle.json
+  console.log(m.names.en); // Tackle
+});
+
+oakdexPokedex.findAbility('Contrary', function(a) {
+  // returns data/ability/contrary.json
+  console.log(a.names.en); // Contrary
+});
+
+oakdexPokedex.findType('Fairy', function(t) {
+  // returns data/type/fairy.json
+  console.log(t.names.en); // Fairy
+});
+
+oakdexPokedex.findEggGroup('Water 1', function(e) {
+  // returns data/egg_group/water_1.json
+  console.log(e.names.en); // Water 1
+});
+
+oakdexPokedex.findGeneration('Generation VI', function(g) {
+  // returns data/generation/6.json
+  console.log(g.names.en); // Generation VI
+});
+
+oakdexPokedex.findNature('Bold', function(n) {
+  // returns data/nature/bold.json
+  console.log(n.names.en); // Bold
+});
+
+
+oakdexPokedex.allPokemon(function(pokemon) {
+  console.log(pokemon.length); // 802
+});
+
+oakdexPokedex.allPokemon({ type: 'Dark' }, function(pokemon) {
+  console.log(pokemon.length); // 46
+});
+
+oakdexPokedex.allPokemon({ egg_group: 'Human-Like' }, function(pokemon) {
+  console.log(pokemon.length); // 52
+});
+
+oakdexPokedex.allPokemon({ dex: 'alola' }, function(pokemon) {
+  console.log(pokemon.length); // 302
+});
+
+oakdexPokedex.allMoves({ type: 'Ground' }, function(moves) {
+  console.log(moves.length); // 26
+});
+```
+
+
+### Schemas
 
 If you want to know what the structure of the given data is, checkout the following documentations:
 
