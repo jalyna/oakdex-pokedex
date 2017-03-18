@@ -59,6 +59,10 @@ var findByType = function(type, name, cb) {
 };
 
 var allByType = function(type, conditions, cb) {
+  if (typeof conditions === 'function') {
+    cb = conditions;
+    conditions = {};
+  }
   allByName(type, function(list) {
     var objects = [];
     Object.keys(list).map(function(key) {

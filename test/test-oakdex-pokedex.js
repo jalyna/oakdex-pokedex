@@ -174,7 +174,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allPokemon', function() {
     it('finds all pokemon', function(done) {
-      oakdexPokedex.allPokemon({}, function(list) {
+      oakdexPokedex.allPokemon(function(list) {
         expect(list.length).to.equal(802);
         done();
       });
@@ -204,7 +204,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allMoves', function() {
     it('finds all moves', function(done) {
-      oakdexPokedex.allMoves({}, function(list) {
+      oakdexPokedex.allMoves(function(list) {
         expect(list.length).to.equal(701);
         done();
       });
@@ -220,7 +220,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allAbilities', function() {
     it('finds all abilities', function(done) {
-      oakdexPokedex.allAbilities({}, function(list) {
+      oakdexPokedex.allAbilities(function(list) {
         expect(list.length).to.equal(232);
         done();
       });
@@ -229,7 +229,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allTypes', function() {
     it('finds all types', function(done) {
-      oakdexPokedex.allTypes({}, function(list) {
+      oakdexPokedex.allTypes(function(list) {
         expect(list.length).to.equal(18);
         done();
       });
@@ -238,7 +238,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allEggGroups', function() {
     it('finds all egg groups', function(done) {
-      oakdexPokedex.allEggGroups({}, function(list) {
+      oakdexPokedex.allEggGroups(function(list) {
         expect(list.length).to.equal(15);
         done();
       });
@@ -247,7 +247,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allGenerations', function() {
     it('finds all generations', function(done) {
-      oakdexPokedex.allGenerations({}, function(list) {
+      oakdexPokedex.allGenerations(function(list) {
         expect(list.length).to.equal(7);
         done();
       });
@@ -256,7 +256,7 @@ describe('OakdexPokedex', function() {
 
   describe('#allNatures', function() {
     it('finds all natures', function(done) {
-      oakdexPokedex.allNatures({}, function(list) {
+      oakdexPokedex.allNatures(function(list) {
         expect(list.length).to.equal(25);
         done();
       });
