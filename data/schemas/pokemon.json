@@ -1928,133 +1928,145 @@
         "de"
       ],
       "additionalProperties": false
+    },
+    "evolution": {
+      "type": "object",
+      "properties": {
+        "to": {
+          "$ref": "#/definitions/pokemon"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "happiness": {
+          "type": "boolean"
+        },
+        "trade": {
+          "type": "boolean"
+        },
+        "level_up": {
+          "type": "boolean"
+        },
+        "item": {
+          "type": "string",
+          "enum": [
+            "Leaf Stone",
+            "Fire Stone",
+            "Shiny Stone",
+            "Sun Stone",
+            "Water Stone",
+            "Dawn Stone",
+            "Moon Stone",
+            "Thunderstone",
+            "Dusk Stone"
+          ]
+        },
+        "hold_item": {
+          "type": "string",
+          "enum": [
+            "Whipped Dream",
+            "Sachet",
+            "King's Rock",
+            "Karrablast",
+            "Dragon Scale",
+            "Metal Coat",
+            "Protector",
+            "Dubious Disc",
+            "Up-Grade",
+            "Magmarizer",
+            "Shelmet",
+            "Prism Scale",
+            "Electrizer",
+            "Reaper Cloth",
+            "Deepseatooth",
+            "Deepseascale",
+            "Razor Fang",
+            "Oval Stone",
+            "Razor Claw"
+          ]
+        },
+        "move_learned": {
+          "$ref": "#/definitions/move"
+        },
+        "conditions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "Female",
+              "Male",
+              "Attack > Defense",
+              "Attack = Defense",
+              "Defense > Attack",
+              "Nighttime",
+              "Daytime",
+              "Random",
+              "In Caves",
+              "In Buildings",
+              "Outside",
+              "Near a Mossy Rock",
+              "Near an Icy Rock",
+              "Fairy Type Move",
+              "Maximum Affection in Pokémon Amie",
+              "Beauty",
+              "Holding 3DS upside down",
+              "In a Magnetic Field area",
+              "With Remoraid in party",
+              "With empty spot in party",
+              "With a Dark type Pokémon in party",
+              "During rain",
+              "In Vast Poni Canyon",
+              "At Mount Lanakila",
+              "Pokémon Sun",
+              "Pokémon Moon"
+            ]
+          }
+        }
+      },
+      "required": [
+        "to"
+      ],
+      "additionalProperties": false
+    },
+    "move_learnset": {
+      "type": "object",
+      "properties": {
+        "parent": {
+          "$ref": "#/definitions/pokemon"
+        },
+        "move": {
+          "$ref": "#/definitions/move"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "tm": {
+          "type": "string"
+        },
+        "item_on_parent": {
+          "type": "string",
+          "enum": ["Light Ball"]
+        },
+        "variations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "move"
+      ],
+      "additionalProperties": false
     }
   },
   "properties": {
     "names": {
       "$ref": "#/definitions/translations"
-    },
-    "variation_names": {
-      "$ref": "#/definitions/translations"
-    },
-    "categories": {
-      "$ref": "#/definitions/translations"
-    },
-    "pokedex_entries": {
-      "type": "object",
-      "patternProperties": {
-        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon": {
-          "$ref": "#/definitions/translations"
-        }
-      },
-      "additionalProperties": false
-    },
-    "evolution_from": {
-      "$ref": "#/definitions/pokemon"
-    },
-    "evolutions": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "to": {
-            "$ref": "#/definitions/pokemon"
-          },
-          "level": {
-            "type": "integer",
-            "minimum": 0,
-            "maximum": 100
-          },
-          "happiness": {
-            "type": "boolean"
-          },
-          "trade": {
-            "type": "boolean"
-          },
-          "level_up": {
-            "type": "boolean"
-          },
-          "item": {
-            "type": "string",
-            "enum": [
-              "Leaf Stone",
-              "Fire Stone",
-              "Shiny Stone",
-              "Sun Stone",
-              "Water Stone",
-              "Dawn Stone",
-              "Moon Stone",
-              "Thunderstone",
-              "Dusk Stone"
-            ]
-          },
-          "hold_item": {
-            "type": "string",
-            "enum": [
-              "Whipped Dream",
-              "Sachet",
-              "King's Rock",
-              "Karrablast",
-              "Dragon Scale",
-              "Metal Coat",
-              "Protector",
-              "Dubious Disc",
-              "Up-Grade",
-              "Magmarizer",
-              "Shelmet",
-              "Prism Scale",
-              "Electrizer",
-              "Reaper Cloth",
-              "Deepseatooth",
-              "Deepseascale",
-              "Razor Fang",
-              "Oval Stone",
-              "Razor Claw"
-            ]
-          },
-          "move_learned": {
-            "$ref": "#/definitions/move"
-          },
-          "conditions": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "enum": [
-                "Female",
-                "Male",
-                "Attack > Defense",
-                "Attack = Defense",
-                "Defense > Attack",
-                "Nighttime",
-                "Daytime",
-                "Random",
-                "In Caves",
-                "In Buildings",
-                "Outside",
-                "Near a Mossy Rock",
-                "Near an Icy Rock",
-                "Fairy Type Move",
-                "Maximum Affection in Pokémon Amie",
-                "Beauty",
-                "Holding 3DS upside down",
-                "In a Magnetic Field area",
-                "With Remoraid in party",
-                "With empty spot in party",
-                "With a Dark type Pokémon in party",
-                "During rain",
-                "In Vast Poni Canyon",
-                "At Mount Lanakila",
-                "Pokémon Sun",
-                "Pokémon Moon"
-              ]
-            }
-          }
-        },
-        "required": [
-          "to"
-        ],
-        "additionalProperties": false
-      }
     },
     "national_id": {
       "type": "integer",
@@ -2095,6 +2107,27 @@
       "type": ["integer", "null"],
       "minimum": 1,
       "maximum": 302
+    },
+    "categories": {
+      "$ref": "#/definitions/translations"
+    },
+    "pokedex_entries": {
+      "type": "object",
+      "patternProperties": {
+        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon": {
+          "$ref": "#/definitions/translations"
+        }
+      },
+      "additionalProperties": false
+    },
+    "evolution_from": {
+      "$ref": "#/definitions/pokemon"
+    },
+    "evolutions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/evolution"
+      }
     },
     "types": {
       "type": "array",
@@ -2165,18 +2198,22 @@
     },
     "height_us": {
       "type": "string",
+      "description": "Height in inch e.g. 32'20\"",
       "pattern": "^[0-9]{1,3}'[0-9]{2}\"$"
     },
     "height_eu": {
       "type": "string",
+      "description": "Height in metres e.g. 2.3 m",
       "pattern": "^[0-9]{1,2}.[0-9]{1} m$"
     },
     "weight_us": {
       "type": "string",
+      "description": "Weight in lbs e.g. 200.3 lbs.",
       "pattern": "^[0-9]{1,4}.[0-9]{1} lbs.$"
     },
     "weight_eu": {
       "type": "string",
+      "description": "Weight in kg e.g. 200.5 kg",
       "pattern": "^[0-9]{1,4}.[0-9]{1} kg$"
     },
     "base_exp_yield": {
@@ -2224,41 +2261,12 @@
     "learnset": {
       "type": "array",
       "items": {
-        "type": "object",
-        "properties": {
-          "parent": {
-            "$ref": "#/definitions/pokemon"
-          },
-          "move": {
-            "$ref": "#/definitions/move"
-          },
-          "level": {
-            "type": "integer",
-            "minimum": 0,
-            "maximum": 100
-          },
-          "tm": {
-            "type": "string"
-          },
-          "item_on_parent": {
-            "type": "string",
-            "enum": ["Light Ball"]
-          },
-          "variations": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          }
-        },
-        "required": [
-          "move"
-        ],
-        "additionalProperties": false
+        "$ref": "#/definitions/move_learnset"
       }
     },
     "mega_evolutions": {
       "type": "array",
+      "description": "List of possible mega evolutions, if available. Charizard e.g. has two.",
       "minItems": 0,
       "maxItems": 2,
       "items": {
@@ -2311,8 +2319,12 @@
         "additionalProperties": false
       }
     },
+    "variation_names": {
+      "$ref": "#/definitions/translations"
+    },
     "variations": {
       "type": "array",
+      "description": "Pokemon that can change their form (e.g. Deoxys) otherwise always empty",
       "items": {
         "type": "object",
         "properties": {
