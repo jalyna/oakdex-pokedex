@@ -1,16 +1,28 @@
-# Pokedex Types
+# Type
 
 The schema defines the following properties:
 
+## `names` (translations, required)
+
 ## `color` (string, required)
+
+Hex color
 
 Additional restrictions:
 
 * Regex pattern: `^#[A-Fa-f0-9]{6}$`
 
-## `names` (object, required)
+## `effectivness` (object, required)
 
-Properties of the `names` object:
+---
+
+# Sub Schemas
+
+The schema defines the following additional types:
+
+## `translations` (object)
+
+Properties of the `translations` object:
 
 ### `cz` (string)
 
@@ -26,116 +38,10 @@ Properties of the `names` object:
 
 ### `pl` (string)
 
+### `tr` (string)
+
 ### `en` (string, required)
 
-## `effectivness` (object, required)
+### `jp` (string)
 
-Properties of the `effectivness` object:
-
-### `Normal` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Fighting` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Flying` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Poison` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Ground` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Rock` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Bug` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Ghost` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Steel` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Fire` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Water` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Grass` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Electric` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Psychic` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Ice` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Dragon` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Dark` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
-
-### `Fairy` (number, required)
-
-Additional restrictions:
-
-* Maximum: `2`
+### `es` (string)

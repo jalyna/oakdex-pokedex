@@ -4,78 +4,6 @@ The schema defines the following properties:
 
 ## `names` (translations, required)
 
-## `variation_names` (translations)
-
-## `categories` (translations, required)
-
-## `pokedex_entries` (object, required)
-
-## `evolution_from` (pokemon, required)
-
-## `evolutions` (array, required)
-
-The object is an array with all elements of the type `object`.
-
-The array object has the following properties:
-
-### `to` (pokemon, required)
-
-### `level` (integer)
-
-Additional restrictions:
-
-* Maximum: `100`
-
-### `happiness` (boolean)
-
-### `trade` (boolean)
-
-### `level_up` (boolean)
-
-### `item` (string, enum)
-
-This element must be one of the following enum values:
-
-* `Leaf Stone`
-* `Fire Stone`
-* `Shiny Stone`
-* `Sun Stone`
-* `Water Stone`
-* `Dawn Stone`
-* `Moon Stone`
-* `Thunderstone`
-* `Dusk Stone`
-
-### `hold_item` (string, enum)
-
-This element must be one of the following enum values:
-
-* `Whipped Dream`
-* `Sachet`
-* `King's Rock`
-* `Karrablast`
-* `Dragon Scale`
-* `Metal Coat`
-* `Protector`
-* `Dubious Disc`
-* `Up-Grade`
-* `Magmarizer`
-* `Shelmet`
-* `Prism Scale`
-* `Electrizer`
-* `Reaper Cloth`
-* `Deepseatooth`
-* `Deepseascale`
-* `Razor Fang`
-* `Oval Stone`
-* `Razor Claw`
-
-### `move_learned` (move)
-
-### `conditions` (array)
-
-The object is an array with all elements of the type `string`.
-
 ## `national_id` (integer, required)
 
 Additional restrictions:
@@ -131,6 +59,16 @@ Additional restrictions:
 * Minimum: `1`
 * Maximum: `302`
 
+## `categories` (translations, required)
+
+## `pokedex_entries` (object, required)
+
+## `evolution_from` (pokemon, required)
+
+## `evolutions` (array, required)
+
+The object is an array with all elements of the type `evolution`.
+
 ## `types` (array, required)
 
 The object is an array with all elements of the type `type`.
@@ -179,11 +117,15 @@ Additional restrictions:
 
 ## `height_us` (string, required)
 
+Height in inch e.g. 32'20"
+
 Additional restrictions:
 
 * Regex pattern: `^[0-9]{1,3}'[0-9]{2}"$`
 
 ## `height_eu` (string, required)
+
+Height in metres e.g. 2.3 m
 
 Additional restrictions:
 
@@ -191,11 +133,15 @@ Additional restrictions:
 
 ## `weight_us` (string, required)
 
+Weight in lbs e.g. 200.3 lbs.
+
 Additional restrictions:
 
 * Regex pattern: `^[0-9]{1,4}.[0-9]{1} lbs.$`
 
 ## `weight_eu` (string, required)
+
+Weight in kg e.g. 200.5 kg
 
 Additional restrictions:
 
@@ -245,33 +191,11 @@ Additional restrictions:
 
 ## `learnset` (array, required)
 
-The object is an array with all elements of the type `object`.
-
-The array object has the following properties:
-
-### `parent` (pokemon)
-
-### `move` (move, required)
-
-### `level` (integer)
-
-Additional restrictions:
-
-* Maximum: `100`
-
-### `tm` (string)
-
-### `item_on_parent` (string, enum)
-
-This element must be one of the following enum values:
-
-* `Light Ball`
-
-### `variations` (array)
-
-The object is an array with all elements of the type `string`.
+The object is an array with all elements of the type `move_learnset`.
 
 ## `mega_evolutions` (array, required)
+
+List of possible mega evolutions, if available. Charizard e.g. has two.
 
 The object is an array with all elements of the type `object`.
 
@@ -315,7 +239,11 @@ Additional restrictions:
 
 ### `mega_stone` (string, required)
 
+## `variation_names` (translations)
+
 ## `variations` (array, required)
+
+Pokemon that can change their form (e.g. Deoxys) otherwise always empty
 
 The object is an array with all elements of the type `object`.
 
@@ -546,3 +474,91 @@ Properties of the `translations` object:
 ### `jp` (string)
 
 ### `es` (string)
+
+## `evolution` (object)
+
+Properties of the `evolution` object:
+
+### `to` (pokemon, required)
+
+### `level` (integer)
+
+Additional restrictions:
+
+* Maximum: `100`
+
+### `happiness` (boolean)
+
+### `trade` (boolean)
+
+### `level_up` (boolean)
+
+### `item` (string, enum)
+
+This element must be one of the following enum values:
+
+* `Leaf Stone`
+* `Fire Stone`
+* `Shiny Stone`
+* `Sun Stone`
+* `Water Stone`
+* `Dawn Stone`
+* `Moon Stone`
+* `Thunderstone`
+* `Dusk Stone`
+
+### `hold_item` (string, enum)
+
+This element must be one of the following enum values:
+
+* `Whipped Dream`
+* `Sachet`
+* `King's Rock`
+* `Karrablast`
+* `Dragon Scale`
+* `Metal Coat`
+* `Protector`
+* `Dubious Disc`
+* `Up-Grade`
+* `Magmarizer`
+* `Shelmet`
+* `Prism Scale`
+* `Electrizer`
+* `Reaper Cloth`
+* `Deepseatooth`
+* `Deepseascale`
+* `Razor Fang`
+* `Oval Stone`
+* `Razor Claw`
+
+### `move_learned` (move)
+
+### `conditions` (array)
+
+The object is an array with all elements of the type `string`.
+
+## `move_learnset` (object)
+
+Properties of the `move_learnset` object:
+
+### `parent` (pokemon)
+
+### `move` (move, required)
+
+### `level` (integer)
+
+Additional restrictions:
+
+* Maximum: `100`
+
+### `tm` (string)
+
+### `item_on_parent` (string, enum)
+
+This element must be one of the following enum values:
+
+* `Light Ball`
+
+### `variations` (array)
+
+The object is an array with all elements of the type `string`.

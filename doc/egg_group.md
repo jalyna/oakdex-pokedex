@@ -1,10 +1,18 @@
-# Pokedex Egg Group
+# Egg Group
 
 The schema defines the following properties:
 
-## `names` (object, required)
+## `names` (translations, required)
 
-Properties of the `names` object:
+---
+
+# Sub Schemas
+
+The schema defines the following additional types:
+
+## `translations` (object)
+
+Properties of the `translations` object:
 
 ### `cz` (string)
 
@@ -20,8 +28,10 @@ Properties of the `names` object:
 
 ### `pl` (string)
 
+### `tr` (string)
+
 ### `en` (string, required)
 
-### `es` (string)
-
 ### `jp` (string)
+
+### `es` (string)

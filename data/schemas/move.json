@@ -1,8 +1,82 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
-  "title": "Pokedex Move",
+  "title": "Move",
+  "definitions": {
+    "translations": {
+      "type": "object",
+      "properties": {
+        "cz": {
+          "type": "string"
+        },
+        "dk": {
+          "type": "string"
+        },
+        "fr": {
+          "type": "string"
+        },
+        "de": {
+          "type": "string"
+        },
+        "gr": {
+          "type": "string"
+        },
+        "it": {
+          "type": "string"
+        },
+        "pl": {
+          "type": "string"
+        },
+        "tr": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        },
+        "jp": {
+          "type": "string"
+        },
+        "es": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "en",
+        "de"
+      ],
+      "additionalProperties": false
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "Normal",
+        "Fighting",
+        "Flying",
+        "Poison",
+        "Ground",
+        "Rock",
+        "Bug",
+        "Ghost",
+        "Steel",
+        "Fire",
+        "Water",
+        "Grass",
+        "Electric",
+        "Psychic",
+        "Ice",
+        "Dragon",
+        "Dark",
+        "Fairy"
+      ]
+    }
+  },
   "properties": {
+    "names": {
+      "$ref": "#/definitions/translations"
+    },
+    "descriptions": {
+      "$ref": "#/definitions/translations"
+    },
     "index_number": {
       "type": "integer",
       "minimum": 0
@@ -28,27 +102,7 @@
       "maximum": 100
     },
     "type": {
-      "type": "string",
-      "enum": [
-        "Normal",
-        "Fighting",
-        "Flying",
-        "Poison",
-        "Ground",
-        "Rock",
-        "Bug",
-        "Ghost",
-        "Steel",
-        "Fire",
-        "Water",
-        "Grass",
-        "Electric",
-        "Psychic",
-        "Ice",
-        "Dragon",
-        "Dark",
-        "Fairy"
-      ]
+      "$ref": "#/definitions/type"
     },
     "category": {
       "type": "string",
@@ -97,83 +151,6 @@
     },
     "affected_by_kings_rock": {
       "type": "boolean"
-    },
-    "names": {
-      "type": "object",
-      "properties": {
-        "cz": {
-          "type": "string"
-        },
-        "dk": {
-          "type": "string"
-        },
-        "fr": {
-          "type": "string"
-        },
-        "de": {
-          "type": "string"
-        },
-        "gr": {
-          "type": "string"
-        },
-        "it": {
-          "type": "string"
-        },
-        "pl": {
-          "type": "string"
-        },
-        "tr": {
-          "type": "string"
-        },
-        "en": {
-          "type": "string"
-        },
-        "es": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "en",
-        "de"
-      ],
-      "additionalProperties": false
-    },
-    "descriptions": {
-      "type": "object",
-      "properties": {
-        "cz": {
-          "type": "string"
-        },
-        "dk": {
-          "type": "string"
-        },
-        "fr": {
-          "type": "string"
-        },
-        "de": {
-          "type": "string"
-        },
-        "gr": {
-          "type": "string"
-        },
-        "it": {
-          "type": "string"
-        },
-        "pl": {
-          "type": "string"
-        },
-        "tr": {
-          "type": "string"
-        },
-        "en": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "en",
-        "de"
-      ],
-      "additionalProperties": false
     }
   },
   "required": [

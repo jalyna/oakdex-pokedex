@@ -1,6 +1,10 @@
-# Pokedex Move
+# Move
 
 The schema defines the following properties:
+
+## `names` (translations, required)
+
+## `descriptions` (translations, required)
 
 ## `index_number` (integer, required)
 
@@ -28,28 +32,7 @@ Additional restrictions:
 
 * Maximum: `100`
 
-## `type` (string, enum, required)
-
-This element must be one of the following enum values:
-
-* `Normal`
-* `Fighting`
-* `Flying`
-* `Poison`
-* `Ground`
-* `Rock`
-* `Bug`
-* `Ghost`
-* `Steel`
-* `Fire`
-* `Water`
-* `Grass`
-* `Electric`
-* `Psychic`
-* `Ice`
-* `Dragon`
-* `Dark`
-* `Fairy`
+## `type` (type, required)
 
 ## `category` (string, enum, required)
 
@@ -101,9 +84,15 @@ Additional restrictions:
 
 ## `affected_by_kings_rock` (boolean, required)
 
-## `names` (object, required)
+---
 
-Properties of the `names` object:
+# Sub Schemas
+
+The schema defines the following additional types:
+
+## `translations` (object)
+
+Properties of the `translations` object:
 
 ### `cz` (string)
 
@@ -122,27 +111,9 @@ Properties of the `names` object:
 ### `tr` (string)
 
 ### `en` (string, required)
+
+### `jp` (string)
 
 ### `es` (string)
 
-## `descriptions` (object, required)
-
-Properties of the `descriptions` object:
-
-### `cz` (string)
-
-### `dk` (string)
-
-### `fr` (string)
-
-### `de` (string, required)
-
-### `gr` (string)
-
-### `it` (string)
-
-### `pl` (string)
-
-### `tr` (string)
-
-### `en` (string, required)
+## `type` (string)
