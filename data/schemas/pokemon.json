@@ -2062,6 +2062,24 @@
         "move"
       ],
       "additionalProperties": false
+    },
+    "pokeathlon_stats": {
+      "type": "object",
+      "description": "Hash includes the 5 different stats speed, power stamina, skill and jump. Each of them has the current and the maximum.",
+      "patternProperties": {
+        "speed|power|stamina|skill|jump": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": ["speed", "power", "stamina", "skill", "jump"]
     }
   },
   "properties": {
@@ -2257,6 +2275,9 @@
     },
     "base_stats": {
       "$ref": "#/definitions/base_stats"
+    },
+    "pokeathlon_stats": {
+      "$ref": "#/definitions/pokeathlon_stats"
     },
     "learnset": {
       "type": "array",
