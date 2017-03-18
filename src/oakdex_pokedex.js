@@ -12,7 +12,7 @@ var allByName = function(type, cb) {
   _this.byName[type] = {};
   fs.readdir('./data/' + type, function(err, filenames) {
     filenames = filenames.filter(function(filename) {
-      return filename.includes('.json');
+      return filename.indexOf('.json') !== -1;
     });
     filenames.forEach(function(filename) {
       fs.readFile('./data/' + type + '/' + filename, function (err, data) {
