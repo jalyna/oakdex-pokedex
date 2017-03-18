@@ -5,6 +5,8 @@
 
 ## Getting Started
 
+### Ruby
+
 Add oakdex to your Gemfile and do `bundle install`:
 
 ```ruby
@@ -69,6 +71,26 @@ Oakdex::Pokedex::Pokemon.where(alola_id: 1)
 Oakdex::Pokedex::Move.where(type: 'Ground').size
 # => 26
 ```
+
+
+### Javascript
+
+Install the package:
+
+```
+$ npm install oakdex-pokedex --save
+```
+
+Then you can use the library:
+
+```js
+oakdexPokedex = require('oakdex-pokedex');
+
+var eevee = oakdexPokedex.findPokemon('Eevee');
+```
+
+
+### Schemas
 
 If you want to know what the structure of the given data is, checkout the following documentations:
 
