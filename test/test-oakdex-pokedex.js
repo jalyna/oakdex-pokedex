@@ -183,7 +183,6 @@ describe('OakdexPokedex', function() {
     it('finds Dark pokemon', function(done) {
       oakdexPokedex.allPokemon({ type: 'Dark' }, function(list) {
         expect(list.length).to.equal(46);
-        expect(list[0].names.en).to.equal('Absol');
         done();
       });
     });
@@ -191,7 +190,6 @@ describe('OakdexPokedex', function() {
     it('finds Human-Like pokemon', function(done) {
       oakdexPokedex.allPokemon({ egg_group: 'Human-Like' }, function(list) {
         expect(list.length).to.equal(52);
-        expect(list[0].names.en).to.equal('Abra');
         done();
       });
     });
@@ -199,7 +197,6 @@ describe('OakdexPokedex', function() {
     it('finds by alola id', function(done) {
       oakdexPokedex.allPokemon({ dex: 'alola' }, function(list) {
         expect(list.length).to.equal(302);
-        expect(list[0].names.en).to.equal('Abra');
         done();
       });
     });
@@ -216,7 +213,6 @@ describe('OakdexPokedex', function() {
     it('finds Ground moves', function(done) {
       oakdexPokedex.allMoves({ type: 'Ground' }, function(list) {
         expect(list.length).to.equal(26);
-        expect(list[0].names.en).to.equal('Bone Club');
         done();
       });
     });
