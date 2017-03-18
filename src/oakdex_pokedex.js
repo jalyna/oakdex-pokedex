@@ -29,13 +29,35 @@ var allByName = function(type, cb) {
   });
 };
 
+var pokemonById = function(cb) {
+  var _this = this;
+  if(_this.pokemonByIdList) {
+    cb(_this.pokemonByIdList);
+    return;
+  }
+  _this.pokemonByIdList = {};
+  allByName('pokemon', function(list) {
+    Object.keys(list).map(function(key, _index) {
+      _this.pokemonByIdList[list[key].national_id] = list[key];
+    });
+    cb(_this.pokemonByIdList);
+  });
+};
+
 module.exports = {
 
   findPokemon: function(idOrName, cb) {
     allByName('pokemon', function(list) {
-      obj = list[idOrName];
+      var obj = list[idOrName];
       if(!obj) {
-        cb(null);
+        pokemonById(function(listId) {
+          obj = listId[idOrName];
+          if(!obj) {
+            cb(null);
+            return;
+          }
+          cb(obj);
+        });
         return;
       }
       cb(obj);
