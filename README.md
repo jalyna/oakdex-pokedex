@@ -90,4 +90,4 @@ MIT License. See the included MIT-LICENSE file.
 
 ## Credits
 
-Logo Icon by [http://www.flaticon.com/authors/roundicons-freebies](Roundicons Freebies).
+Logo Icon by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies).
