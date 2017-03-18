@@ -2431,6 +2431,9 @@
           "base_stats": {
             "$ref": "#/definitions/base_stats"
           },
+          "pokeathlon_stats": {
+            "$ref": "#/definitions/pokeathlon_stats"
+          },
           "ev_yield": {
             "$ref": "#/definitions/ev_yield"
           },
