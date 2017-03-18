@@ -171,4 +171,99 @@ describe('OakdexPokedex', function() {
       });
     });
   });
+
+  describe('#allPokemon', function() {
+    it('finds all pokemon', function(done) {
+      oakdexPokedex.allPokemon({}, function(list) {
+        expect(list.length).to.equal(802);
+        done();
+      });
+    });
+
+    it('finds Dark pokemon', function(done) {
+      oakdexPokedex.allPokemon({ type: 'Dark' }, function(list) {
+        expect(list.length).to.equal(46);
+        expect(list[0].names.en).to.equal('Absol');
+        done();
+      });
+    });
+
+    it('finds Human-Like pokemon', function(done) {
+      oakdexPokedex.allPokemon({ egg_group: 'Human-Like' }, function(list) {
+        expect(list.length).to.equal(52);
+        expect(list[0].names.en).to.equal('Abra');
+        done();
+      });
+    });
+
+    it('finds by alola id', function(done) {
+      oakdexPokedex.allPokemon({ dex: 'alola' }, function(list) {
+        expect(list.length).to.equal(302);
+        expect(list[0].names.en).to.equal('Abra');
+        done();
+      });
+    });
+  });
+
+  describe('#allMoves', function() {
+    it('finds all moves', function(done) {
+      oakdexPokedex.allMoves({}, function(list) {
+        expect(list.length).to.equal(701);
+        done();
+      });
+    });
+
+    it('finds Ground moves', function(done) {
+      oakdexPokedex.allMoves({ type: 'Ground' }, function(list) {
+        expect(list.length).to.equal(26);
+        expect(list[0].names.en).to.equal('Bone Club');
+        done();
+      });
+    });
+  });
+
+  describe('#allAbilities', function() {
+    it('finds all abilities', function(done) {
+      oakdexPokedex.allAbilities({}, function(list) {
+        expect(list.length).to.equal(232);
+        done();
+      });
+    });
+  });
+
+  describe('#allTypes', function() {
+    it('finds all types', function(done) {
+      oakdexPokedex.allTypes({}, function(list) {
+        expect(list.length).to.equal(18);
+        done();
+      });
+    });
+  });
+
+  describe('#allEggGroups', function() {
+    it('finds all egg groups', function(done) {
+      oakdexPokedex.allEggGroups({}, function(list) {
+        expect(list.length).to.equal(15);
+        done();
+      });
+    });
+  });
+
+  describe('#allGenerations', function() {
+    it('finds all generations', function(done) {
+      oakdexPokedex.allGenerations({}, function(list) {
+        expect(list.length).to.equal(7);
+        done();
+      });
+    });
+  });
+
+  describe('#allNatures', function() {
+    it('finds all natures', function(done) {
+      oakdexPokedex.allNatures({}, function(list) {
+        expect(list.length).to.equal(25);
+        done();
+      });
+    });
+  });
 });

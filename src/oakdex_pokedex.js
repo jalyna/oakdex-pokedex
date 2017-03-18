@@ -58,6 +58,37 @@ var findByType = function(type, name, cb) {
   });
 };
 
+var allByType = function(type, conditions, cb) {
+  allByName(type, function(list) {
+    var objects = [];
+    Object.keys(list).map(function(key) {
+      var item = list[key];
+      if(Object.keys(conditions).length === 0) {
+        objects.push(item);
+      } else {
+        var exists = false;
+        Object.keys(conditions).map(function(attr) {
+          var value = conditions[attr];
+          if(attr === 'dex') {
+            if(item[value + '_id']) {
+              objects.push(item);
+            }
+          } else if(item[attr] && item[attr].constructor === Array) {
+            if(item[attr].indexOf(value) > -1) {
+              objects.push(item);
+            }
+          } else {
+            if(item[attr] === value) {
+              objects.push(item);
+            }
+          }
+        });
+      }
+    });
+    cb(objects);
+  });
+};
+
 module.exports = {
 
   findPokemon: function(idOrName, cb) {
@@ -100,6 +131,40 @@ module.exports = {
 
   findNature: function(name, cb) {
     findByType('nature', name, cb);
+  },
+
+  allPokemon: function(conditions, cb) {
+    if(conditions.type) {
+      conditions.types = conditions.type;
+    }
+    if(conditions.egg_group) {
+      conditions.egg_groups = conditions.egg_group;
+    }
+    allByType('pokemon', conditions, cb);
+  },
+
+  allMoves: function(conditions, cb) {
+    allByType('move', conditions, cb);
+  },
+
+  allAbilities: function(conditions, cb) {
+    allByType('ability', conditions, cb);
+  },
+
+  allTypes: function(conditions, cb) {
+    allByType('type', conditions, cb);
+  },
+
+  allEggGroups: function(conditions, cb) {
+    allByType('egg_group', conditions, cb);
+  },
+
+  allGenerations: function(conditions, cb) {
+    allByType('generation', conditions, cb);
+  },
+
+  allNatures: function(conditions, cb) {
+    allByType('nature', conditions, cb);
   }
 
 };
