@@ -10,7 +10,7 @@ var allByName = function(type, cb) {
   }
   var _this = this;
   _this.byName[type] = {};
-  fs.readdir('./data/' + type, function(err, filenames) {
+  fs.readdir(__dirname + '/../data/' + type, function(err, filenames) {
     if(err) {
       throw err;
     }
@@ -18,7 +18,7 @@ var allByName = function(type, cb) {
       return filename.indexOf('.json') !== -1;
     });
     filenames.forEach(function(filename) {
-      fs.readFile('./data/' + type + '/' + filename, function (err, data) {
+      fs.readFile(__dirname + '/../data/' + type + '/' + filename, function (err, data) {
         if(err) {
           throw err;
         }
