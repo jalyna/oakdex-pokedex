@@ -189,6 +189,8 @@ Additional restrictions:
 
 ## `base_stats` (base_stats, required)
 
+## `pokeathlon_stats` (pokeathlon_stats)
+
 ## `learnset` (array, required)
 
 The object is an array with all elements of the type `move_learnset`.
@@ -336,6 +338,8 @@ Additional restrictions:
 * Regex pattern: `^[0-9]{1,4}.[0-9]{1} kg$`
 
 ### `base_stats` (base_stats)
+
+### `pokeathlon_stats` (pokeathlon_stats)
 
 ### `ev_yield` (ev_yield)
 
@@ -562,3 +566,7 @@ This element must be one of the following enum values:
 ### `variations` (array)
 
 The object is an array with all elements of the type `string`.
+
+## `pokeathlon_stats` (object)
+
+Hash includes the 5 different stats speed, power stamina, skill and jump. Each of them has the current and the maximum.
