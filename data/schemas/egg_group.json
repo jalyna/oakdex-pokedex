@@ -1,9 +1,9 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
-  "title": "Pokedex Egg Group",
-  "properties": {
-    "names": {
+  "title": "Egg Group",
+  "definitions": {
+    "translations": {
       "type": "object",
       "properties": {
         "cz": {
@@ -27,13 +27,16 @@
         "pl": {
           "type": "string"
         },
+        "tr": {
+          "type": "string"
+        },
         "en": {
           "type": "string"
         },
-        "es": {
+        "jp": {
           "type": "string"
         },
-        "jp": {
+        "es": {
           "type": "string"
         }
       },
@@ -42,6 +45,11 @@
         "de"
       ],
       "additionalProperties": false
+    }
+  },
+  "properties": {
+    "names": {
+      "$ref": "#/definitions/translations"
     }
   },
   "required": [

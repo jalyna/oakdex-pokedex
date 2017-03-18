@@ -1,10 +1,26 @@
-# Pokedex Nature
+# Nature
 
 The schema defines the following properties:
 
-## `names` (object, required)
+## `names` (translations, required)
 
-Properties of the `names` object:
+## `increased_stat` (stat, required)
+
+## `decreased_stat` (stat, required)
+
+## `favorite_flavor` (flavor, required)
+
+## `disliked_flavor` (flavor, required)
+
+---
+
+# Sub Schemas
+
+The schema defines the following additional types:
+
+## `translations` (object)
+
+Properties of the `translations` object:
 
 ### `cz` (string)
 
@@ -20,48 +36,14 @@ Properties of the `names` object:
 
 ### `pl` (string)
 
+### `tr` (string)
+
 ### `en` (string, required)
 
-## `increased_stat` (string,null, enum, required)
+### `jp` (string)
 
-This element must be one of the following enum values:
+### `es` (string)
 
-* `atk`
-* `def`
-* `sp_atk`
-* `sp_def`
-* `speed`
-* `null`
+## `stat` (string,null)
 
-## `decreased_stat` (string,null, enum, required)
-
-This element must be one of the following enum values:
-
-* `atk`
-* `def`
-* `sp_atk`
-* `sp_def`
-* `speed`
-* `null`
-
-## `favorite_flavor` (string,null, enum, required)
-
-This element must be one of the following enum values:
-
-* `Dry`
-* `Spicy`
-* `Sweet`
-* `Bitter`
-* `Sour`
-* `null`
-
-## `disliked_flavor` (string,null, enum, required)
-
-This element must be one of the following enum values:
-
-* `Dry`
-* `Spicy`
-* `Sweet`
-* `Bitter`
-* `Sour`
-* `null`
+## `flavor` (string,null)

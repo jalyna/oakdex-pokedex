@@ -1,9 +1,9 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
-  "title": "Pokedex Nature",
-  "properties": {
-    "names": {
+  "title": "Nature",
+  "definitions": {
+    "translations": {
       "type": "object",
       "properties": {
         "cz": {
@@ -27,7 +27,16 @@
         "pl": {
           "type": "string"
         },
+        "tr": {
+          "type": "string"
+        },
         "en": {
+          "type": "string"
+        },
+        "jp": {
+          "type": "string"
+        },
+        "es": {
           "type": "string"
         }
       },
@@ -37,21 +46,30 @@
       ],
       "additionalProperties": false
     },
-    "increased_stat": {
+    "stat": {
       "type": ["string", "null"],
       "enum": ["atk", "def", "sp_atk", "sp_def", "speed", null]
+    },
+    "flavor": {
+      "type": ["string", "null"],
+      "enum": ["Dry", "Spicy", "Sweet", "Bitter", "Sour", null]
+    }
+  },
+  "properties": {
+    "names": {
+      "$ref": "#/definitions/translations"
+    },
+    "increased_stat": {
+      "$ref": "#/definitions/stat"
     },
     "decreased_stat": {
-      "type": ["string", "null"],
-      "enum": ["atk", "def", "sp_atk", "sp_def", "speed", null]
+      "$ref": "#/definitions/stat"
     },
     "favorite_flavor": {
-      "type": ["string", "null"],
-      "enum": ["Dry", "Spicy", "Sweet", "Bitter", "Sour", null]
+      "$ref": "#/definitions/flavor"
     },
     "disliked_flavor": {
-      "type": ["string", "null"],
-      "enum": ["Dry", "Spicy", "Sweet", "Bitter", "Sour", null]
+      "$ref": "#/definitions/flavor"
     }
   },
   "required": [
