@@ -44,6 +44,17 @@ var pokemonById = function(cb) {
   });
 };
 
+var findByType = function(type, name, cb) {
+  allByName(type, function(list) {
+    var obj = list[name];
+    if(!obj) {
+      cb(null);
+      return;
+    }
+    cb(obj);
+  });
+};
+
 module.exports = {
 
   findPokemon: function(idOrName, cb) {
@@ -62,6 +73,30 @@ module.exports = {
       }
       cb(obj);
     });
+  },
+
+  findMove: function(name, cb) {
+    findByType('move', name, cb);
+  },
+
+  findAbility: function(name, cb) {
+    findByType('ability', name, cb);
+  },
+
+  findType: function(name, cb) {
+    findByType('type', name, cb);
+  },
+
+  findEggGroup: function(name, cb) {
+    findByType('egg_group', name, cb);
+  },
+
+  findGeneration: function(name, cb) {
+    findByType('generation', name, cb);
+  },
+
+  findNature: function(name, cb) {
+    findByType('nature', name, cb);
   }
 
 };
