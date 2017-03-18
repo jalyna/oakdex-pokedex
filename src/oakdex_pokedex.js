@@ -11,6 +11,9 @@ var allByName = function(type, cb) {
   var _this = this;
   _this.byName[type] = {};
   fs.readdir('./data/' + type, function(err, filenames) {
+    if(err) {
+      throw err;
+    }
     filenames = filenames.filter(function(filename) {
       return filename.indexOf('.json') !== -1;
     });
@@ -21,8 +24,8 @@ var allByName = function(type, cb) {
         }
         var obj = JSON.parse(data);
         _this.byName[type][obj.names.en] = obj;
-        if(Object.keys(_this.byName[type]).length == filenames.length) {
-          cb(_this.byName[type]);
+        if(Object.keys(_this.byName[type]).length === filenames.length) {
+          return cb(_this.byName[type]);
         }
       });
     });
