@@ -328,7 +328,18 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "female",
+      "image_suffix": "female",
+      "names": {
+        "en": "Female",
+        "de": "Weiblich"
+      },
+      "types": [
+        "Normal",
+        "Flying"
+      ]
+    }
   ],
   "pokedex_entries": {
     "Black": {

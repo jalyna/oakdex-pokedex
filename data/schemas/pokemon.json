@@ -2325,6 +2325,9 @@
           },
           "mega_stone": {
             "type": "string"
+          },
+          "image_suffix": {
+            "type": "string"
           }
         },
         "required": [
@@ -2398,7 +2401,8 @@
               "using Shields Down",
               "when receiving damage",
               "using Sunsteel Strike",
-              "using Moongeist Beam"
+              "using Moongeist Beam",
+              "female"
             ]
           },
           "names": {
@@ -2456,6 +2460,9 @@
               ],
               "additionalProperties": false
             }
+          },
+          "image_suffix": {
+            "type": "string"
           }
         },
         "required": [
