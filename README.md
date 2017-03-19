@@ -161,6 +161,11 @@ If you want to know what the structure of the given data is, checkout the follow
 - [Nature](doc/nature.md)
 - [Generation](doc/generation.md)
 
+
+### Sprites
+
+If you want also to include sprites in your pokedex, check out [oakdex-pokedex-sprites](https://github.com/jalyna/oakdex-pokedex-sprites).
+
 ## Contributing
 
 I would be happy if you want to add your contribution to the project. In order to contribute, you just have to fork this repository.
