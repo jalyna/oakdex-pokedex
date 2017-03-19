@@ -241,6 +241,10 @@ Additional restrictions:
 
 ### `mega_stone` (string, required)
 
+### `image_suffix` (string)
+
+Suffix used in oakdex-pokedex-sprites
+
 ## `variation_names` (translations)
 
 ## `variations` (array, required)
@@ -302,6 +306,7 @@ This element must be one of the following enum values:
 * `when receiving damage`
 * `using Sunsteel Strike`
 * `using Moongeist Beam`
+* `female`
 
 ### `names` (translations, required)
 
@@ -356,6 +361,10 @@ The array object has the following properties:
 Additional restrictions:
 
 * Minimum items: `1`
+
+### `image_suffix` (string)
+
+Suffix used in oakdex-pokedex-sprites
 
 ---
 
