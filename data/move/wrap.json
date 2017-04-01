@@ -27,5 +27,25 @@
     "en": "Traps and squeezes the target over two to five turns. The target cannot move while under attack.",
     "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Wickel sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "A Normal-type attack. Also used for cutting small bushes to open new paths.",
     "de": "Schädigt im Kampf den Gegner. Außerhalb des Kampfes dient es zum Abschneiden von Büschen, Bäumen & Gras."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

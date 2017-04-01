@@ -27,5 +27,25 @@
     "en": "Raises Special to make special attacks stronger and enhance protection against special moves.",
     "de": "Erhöht Angriff und Spezial-Angriff des Anwenders um je eine Stufe (50%) seit der fünften Generation. Bei starkem Sonnenlicht (durch Sonnentag oder die Fähigkeit Dürre) steigen die Werte um je zwei Stufen (100%)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

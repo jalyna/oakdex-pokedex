@@ -25,5 +25,25 @@
     "en": "The user attacks using a sound wave based on words it has learned. It may also confuse the foe.",
     "de": "Abhängig von der Aufnahme verwirrt Geschwätz den Gegner zu 1%, 11% oder 31%, jenach Lautstärke der Aufnahme. Mit dem Mikrophon kann ein Geräusch aufgenommen werden, welches beim Einsatz dieser Attacke abgespielt wird. Im Online-Kampf wegen der Wahrscheinlichkeitsschwankung und möglichem Missbrauch verboten."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

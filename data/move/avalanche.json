@@ -25,5 +25,25 @@
     "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
     "de": "Doppelter Schaden wenn der Anwender in dieser Runde vom Gegner geschädigt wurde. Reihenfolge der Attacke wird nicht vom Initiativewert bestimmt."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

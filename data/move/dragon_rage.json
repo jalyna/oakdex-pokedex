@@ -27,5 +27,25 @@
     "en": "A Dragon-type attack. It inflicts a set amount of damage, regardless of the target's type.",
     "de": "Verursacht unabhängig von allen anderen Faktoren 40KP Schaden. ein Volltreffer ist bei dieser Attacke unmöglich."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

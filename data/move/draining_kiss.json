@@ -25,5 +25,25 @@
     "en": "The user steals the target's energy with a kiss. The user's HP is restored by over half of the damage taken by the target.",
     "de": "Diebeskuss fügt Schaden zu und 75% des angerichteten Schadens werden dem Anwender als KP gut geschrieben. Sollte der Anwender Großwurzel tragen, werden 100% des angerichteten Schadens beim Anwender als KP wieder hergestellt."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

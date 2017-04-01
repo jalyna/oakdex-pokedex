@@ -24,5 +24,13 @@
     "en": "The user shoots a torrent of water at the target and changes the target's type to Water.",
     "de": "Der Typ des Zieles ändert sich zu und bleibt bis zu seiner Auswechslung bestehen."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

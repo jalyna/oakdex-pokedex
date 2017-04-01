@@ -26,5 +26,25 @@
     "en": "Charges power to boost the electric move used next.",
     "de": "Verwendet das Pokémon nächste Runde eine Elektro-Attacke, so wird diese den doppelten Schaden anrichten. Der Spezial-Verteidigungswert des Anwenders wird um eine Stufe (50%) erhöht."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

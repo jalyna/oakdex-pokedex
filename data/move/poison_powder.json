@@ -27,5 +27,25 @@
     "en": "A technique that poisons the target. If poisoned, the victim loses HP steadily.",
     "de": "Vergiftet bei Erfolg den Gegner. Da Toxin eine höhere Trefferquote hat, von sehr vielen Pokémon erlernt werden kann und zudem den Gegner schwer vergiftet, wird Giftpuder so gut wie nie verwendet."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

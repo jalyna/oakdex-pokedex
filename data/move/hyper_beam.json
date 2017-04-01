@@ -28,5 +28,25 @@
     "en": "An extremely powerful attack. The attacker becomes so tired, it has to rest the next turn.",
     "de": "Richtet großen Schaden an, bei Erfolg muss das eigene Pokémon jedoch in der folgenden Kampfrunde pausieren."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "Absorbs stockpiled power and restores HP.",
     "de": "Je nachdem, wie oft die Attacke Horter eingesetzt wurde, gibt es 1/4, 1/2 oder alle KP zurück."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

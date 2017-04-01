@@ -24,5 +24,13 @@
     "en": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
     "de": "Über 5 Runden werden von allen Pokémon, welche den Boden berühren, KP wiederhergestellt und Attacken des Types werden um 50% verstärkt. Folglich bleiben fliegende Pokémon, mit Schwebe oder wenn ein Luftballon gehalten wird, unbeinflusst von der Attacke."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

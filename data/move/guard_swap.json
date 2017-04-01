@@ -25,5 +25,25 @@
     "en": "The user employs its psychic power to switch changes to its Defense and Sp. Def with the foe.",
     "de": "Der Anwender tauscht mit dem Gegner die Wertsteigerung (Boosts) der Verteidigungswerte aus."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

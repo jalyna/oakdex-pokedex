@@ -24,5 +24,25 @@
     "en": "The user employs its psychic power to average its Defense and Sp. Def stats with those of its target's.",
     "de": "Die Werte für die Verteidigung und die Spezial-Verteidigung werden zwischen Anwender und Ziel gemittelt und aufgeteilt. Jegliche Änderungen der Statuswerte der beiden Pokémon werden hierbei jedoch nicht berücksichtigt."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

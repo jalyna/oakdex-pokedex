@@ -25,5 +25,25 @@
     "en": "Causes an uproar for 2 to 5 turns and prevents sleep.",
     "de": "Richtet Schaden an. Pokémon werden aufgeweckt und kein Pokémon ist in der Lage einzuschlafen. Schälgt fehl, wenn die Attacke gegen Pokémon des Typen oder mit der Fähigkeit Lärmschutz, eingesetzt wird."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

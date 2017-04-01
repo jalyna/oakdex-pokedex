@@ -26,5 +26,25 @@
     "en": "Strikes the target with sharp claws. Has a one-in-ten shot at raising the user's Attack.",
     "de": "Schädigt, 10% Chance den Angriffswert um eine Stufe (50%) zu steigern."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

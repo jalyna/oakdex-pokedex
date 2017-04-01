@@ -27,5 +27,25 @@
     "en": "A charging tackle attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
     "de": "Richtet großen Schaden an, ein Viertel (1/4) davon erleidet der Anwender. In der dritten Generation wurde der Rückstoßschaden auf ein Drittel (1/3) erhöht. Vor der 2. Generation betrug die Stärke dieser Attacke 100. Attacken mit ähnlicher Wirkung: Steinschädel, Sturzflug, Volttackle, Flammenblitz und Holzhammer."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

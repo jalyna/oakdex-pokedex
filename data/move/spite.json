@@ -25,5 +25,25 @@
     "en": "A vengeful move that slightly reduces the PP of the opponent's last move.",
     "de": "Von der vom Gegner zuletzt verwendeten Attacke werden 2-5 AP abgezogen.Beachte: Setze diese Attacke erst in der 2. Kampfrunde ein, hat der Gegner noch keine Attacke eingesetzt, geht die Attacke daneben."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

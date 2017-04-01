@@ -24,5 +24,13 @@
     "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
     "de": "Wenn das Ziel vergiftet ist, verringern sich Angriff, Spezial-Angriff und Initiative des getroffenen Pokémon um eine Stufe (auf ca. 66,7% des Ausgangswertes)."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

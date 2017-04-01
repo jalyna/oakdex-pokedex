@@ -26,5 +26,25 @@
     "en": "A Dark-type attack. Has a one-in-five chance of reducing the target's Spcl.Def.",
     "de": "Richtet großen Schaden an, 20% Chance die Verteidigung des Gegners um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The user lets out a damaging belch on the target. The user must eat a Berry to use this move.",
     "de": "Rülpser verursacht Schaden und lässt den Benutzer seine gehaltene Beere essen. Sollte der Anwender keine Beere halten, verhindert das Spiel den Einsatz der Attacke."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

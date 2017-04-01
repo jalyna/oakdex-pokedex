@@ -26,5 +26,25 @@
     "en": "Releases stockpiled power (the more the better).",
     "de": "Mit der Attacke Horter muss Energie gesammelt werden. Der Schaden berechnet sich aus 100 * (Anzahl der Einsätze von Horter). Kann verheerenden Schaden anrichten."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

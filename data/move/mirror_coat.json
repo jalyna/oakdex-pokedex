@@ -26,5 +26,25 @@
     "en": "The foe will receive double the damage the user sustained from a special attack. High accuracy.",
     "de": "Setzt der Gegner eine Spezialattacke ein, so wird diese mit doppeltem Schaden gekontert. Attackenpriorität -5, daher fast immer langsamer als der Gegner."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

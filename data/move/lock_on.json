@@ -25,5 +25,25 @@
     "en": "An attack that locks on to the target to ensure that the next attack will hit without fail.",
     "de": "Die nächste Attacke trifft zu 100 ProzentTipp: Setze diese Attacke ein, bevor du eine K.O. Attacke ausführst. Der Gegner kann aber noch wechseln und sobald er wechselt bringt Zielschuss nichts mehr. Zielschuss kann man sehr gut in Kombination mit Staffette und Horrorblick benutzen, da der Gegner dann nicht mehr wechseln kann. Aber Vorsicht bei Roarern."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

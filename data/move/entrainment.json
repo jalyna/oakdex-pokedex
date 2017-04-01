@@ -24,5 +24,25 @@
     "en": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.",
     "de": "Das Ziel nimmt die Fähigkeit des Anwenders an. Die Attacke schlägt fehl, wenn das Ziel über Schnarchnase, Variabilität, Trance-Modus oder Taktikwechsel verfügt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

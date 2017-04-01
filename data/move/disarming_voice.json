@@ -24,5 +24,25 @@
     "en": "Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.",
     "de": "Säuselstimme verursacht Schaden und trifft immer, außer das verteidigende Pokémon verfügt über die Fähigkeit Lärmschutz."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

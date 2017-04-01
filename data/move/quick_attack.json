@@ -27,5 +27,25 @@
     "en": "An attack that always strikes first. If both Pokémon use this, the one with higher Speed attacks first.",
     "de": "Richtet Schaden an und besitzt erhöhte Priorität (Schutzschild oder Ausdauer sind beispielsweise schneller)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

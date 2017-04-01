@@ -26,5 +26,25 @@
     "en": "Knocks down the foe’s held item to prevent its use.",
     "de": "Schädigt den Gegner und entreißt ein getragenes Item des Zieles, sodass es nicht mehr eingesetzt werden kann. Effekte von getragenen Items aktivieren sich vor der Schadensberechnung. Pokémon mit der Fähigkeit Wertehalter oder Variabilität können ihr Item nicht verlieren. Auch ein Delegator verhindern den Verlust eines Items. Der Platinum-Orb von Giratina kann nicht entfernt werden. Nach dem Kampf erhält das Ziel sein Item zurück."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

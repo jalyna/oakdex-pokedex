@@ -25,5 +25,13 @@
     "en": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.",
     "de": "Bei jedem Treffer erhält das Ziel Schaden und wird paralysiert."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

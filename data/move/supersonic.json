@@ -28,5 +28,25 @@
     "en": "A special Normal-type technique. Supersonic sound waves are used to confuse the target.",
     "de": "Verwirrt den Gegner. Da die Trefferquote ziemlich schlecht ist, lohnt sich Konfustrahl mehr."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "Hacks with razorlike wind. High critical-hit ratio.",
     "de": "Schädigt den Gegner und hat eine Volltrefferquote von 25%. Im Doppelkampf werden beide Gegner geschädigt. Allerdings teilen sie sich den Schaden auf und ein einzelnes Pokémon erleidet nur den halben Schaden. In Dreierkämpfen werden nur die gegenüberstehenden gegnerischen Pokémon getroffen. Bei einer Massbegegnung werden alle Gegner getroffen."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

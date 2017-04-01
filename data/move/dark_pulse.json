@@ -26,5 +26,25 @@
     "en": "The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.",
     "de": "Gegner schreckt mit einer Wahrscheinlichkeit von 20% zurück. Trifft in Mehrfachkämpfen alle auf dem Feld befindlichen Pokémon."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

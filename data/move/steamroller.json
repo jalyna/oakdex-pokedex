@@ -25,5 +25,13 @@
     "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
     "de": "Verursacht Schaden und lässt das Ziel mit einer Wahrscheinlichkeit von 30% zurückschrecken. Sollte das Ziel zuvor Komprimator angewandt haben, verdoppelt sich die Stärke von Quetschwalze."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

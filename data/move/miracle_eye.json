@@ -25,5 +25,25 @@
     "en": "Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.",
     "de": "Unlicht-Pokémon verlieren ihre Immunität gegen Psycho-Attacken; Fluchtwert des Gegners wird auf den Startwert gesetzt."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "Works only on sleeping Pokémon. This technique steals the target's HP and adds it to the user's HP.",
     "de": "Einem schlafenden Gegner werden KP abgezogen, das eigene Pokémon erhält davon die Hälfte (aufgerundet) des angerichteten Schadens. Bricht Traumfresser einen Delegator werden keine KP wiederhergestellt."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

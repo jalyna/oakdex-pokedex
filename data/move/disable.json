@@ -26,5 +26,25 @@
     "en": "A technique that disables one of the target's moves. The disabled move can't be used until it wears off.",
     "de": "Dem gegnerische Pokémon wird die zuletzt verwendete Attacke für 4-7 Runden blockiert und kann so in diesem Zeitraum nicht mehr benutzt werden. Es kann immer nur eine Attacke pro Pokémon gleichzeitig blockiert werden. Die Attacke schlägt fehl, wenn der Gegner keine Attacke einsetzte. Wird die Attacke blockiert, die der Gegner gerade einsetzen wollte, schlägt diese fehl."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

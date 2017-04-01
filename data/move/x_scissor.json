@@ -26,5 +26,25 @@
     "en": "The user slashes at the foe by crossing its scythes or claws as if they were a pair of scissors.",
     "de": "Schädigt den Gegner und bewirkt keine zusätzlichen Effekte."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

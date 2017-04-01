@@ -26,5 +26,25 @@
     "en": "Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.",
     "de": "Gegnerischer Fluchtwert sinkt um eine Stufe (auf ca. 66,7% des Ausgangswertes). Außerhalb von Kämpfen wird das Auflösen von Nebel ermöglicht."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

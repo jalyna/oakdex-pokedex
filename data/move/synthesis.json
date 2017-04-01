@@ -26,5 +26,25 @@
     "en": "Allows HP to be restored by the sunlight. In battle, half the user's max HP is restored.",
     "de": "Gibt 1/2 der KP zurück. Bei Regen, Hagel und Sandsturm nur 1/4, bei Sonne jedoch alle KP. Attacken mit ähnlicher Wirkung sind: Heilbefehl, Genesung, Ruheort, Tagedieb, Milchgetränk, Mondschein, Morgengrauen, Wunschtraum und Weichei."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

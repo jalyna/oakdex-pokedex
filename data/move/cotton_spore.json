@@ -25,5 +25,25 @@
     "en": "Spores that cling to the target, sharply reducing the opponent's Speed.",
     "de": "Senkt die gegnerischen Initiative um zwei Stufen (auf 50% des Ausgangswertes), bis das Pokemon ausgetauscht oder besiegt wird."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    }
+  ]
 }

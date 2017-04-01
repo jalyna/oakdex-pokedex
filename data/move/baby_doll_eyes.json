@@ -24,5 +24,13 @@
     "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
     "de": "Mit erhöhter Priorität senkt es den Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes)."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

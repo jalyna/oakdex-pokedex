@@ -25,5 +25,25 @@
     "en": "A mystical dance that ups Attack and Speed.",
     "de": "Erhöht Angriff und Initiative des Pokémons um eine Stufe (50%). Wird oft auf Pokemon mit mindestens 264 Init gespielt, da diese mit +1 Init 396 erreichen, was schnell genug ist um alle Pokemon außer Ninjask und Lektrobal zu überholen."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

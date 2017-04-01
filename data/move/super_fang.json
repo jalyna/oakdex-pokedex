@@ -27,5 +27,25 @@
     "en": "If it hits, this attack cuts the target's HP in half. Learned by Pokémon with developed fangs.",
     "de": "Die gegnerischen vorhandenen KP werden halbiert. Sinnvoll einzusetzen, wenn Gegner sehr viele KP hat (Relaxo, Chaneira, ...). Kann man mit der Attacke Lake kombinieren."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

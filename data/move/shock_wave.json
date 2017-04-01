@@ -26,5 +26,25 @@
     "en": "A fast and unavoidable electric attack.*Zaps the foe with a jolt of electricity that never misses.*",
     "de": "Schädigt den Gegner, genauigkeitsverändernde Attacke haben darauf keinen Einfluss."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

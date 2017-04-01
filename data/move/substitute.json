@@ -27,5 +27,25 @@
     "en": "Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks.",
     "de": "Erzeugt aus 1/4 der KP des Anwenders einen Klon. Die Delegator KP des Delegators betragen hierbei 1/4 der maximalen KP des Anwenders plus 1 KP. Solange dieser Klon kämpft, kann der Gegner jedoch keinen Schaden anrichten, sondern nur den Delegator angreifen bis dieser zerstört ist. Der Delegator absorbiert Statusveränderungen von Attacken wie Donnerwelle, Konfustrahl, Irrlicht oder Schlafpuder, aber auch solche wie Silberblick und Charme. Attacken wie Angeberei steigern den Angriff jedoch trotzdem, aber man erleidet keine Verwirrung. Seit der 6. Generation absorbiert Delegator nicht mehr Klangbasierte Attacken, wie Metallsound."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

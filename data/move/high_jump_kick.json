@@ -27,5 +27,25 @@
     "en": "Stronger than a Jump Kick. If it misses, the attacker sustains 1/8 damage it should have caused.",
     "de": "In den Generationen 1-3 beträgt die Stärke 85."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

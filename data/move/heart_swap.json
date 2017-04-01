@@ -25,5 +25,25 @@
     "en": "The user employs its psychic power to switch stat changes with the foe.",
     "de": "Tauscht Statuswerte, die während des Kampfes verändert wurden, mit dem Gegner. Nützlich in Verbindung mit den Attacken Nahkampf, Hammerarm oder Kraftkoloss."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

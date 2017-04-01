@@ -25,5 +25,25 @@
     "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chances of failing rises.",
     "de": "Schützt in Mehrfachkämpfen die eigenen Pokémon vor Attacken, welche mehrere Ziele treffen - nicht jedoch vor Attacken mit einem Pokémon als Ziel. So bewahrt es Mitstreiter auch vor Schaden, wenn von einem eigenen Pokémon Erdbeben eingesetzt wird."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Summons a hailstorm that strikes every turn.*Summons a hailstorm that hurts all types except Ice.RS*Creates a hailstorm that damages all types except Ice.E*",
     "de": "Anwender erzeugt einen Hagelsturm, der 5 Runden lang wütet. Ist der Gegner nicht vom Typ Eis, wird ihm jede Runde 1/16 seiner KP abgezogen. Hagelsturm wird auch durch die Fähigkeit Hagelalarm ausgelöst."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    }
+  ]
 }

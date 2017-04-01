@@ -26,5 +26,25 @@
     "en": "The user launches a hard-packed mud ball to attack. It may also lower the target’s accuracy.",
     "de": "Senkt gegnerische Genauigkeit um eine Stufe (30% Chance)."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Cute"
+    }
+  ]
 }

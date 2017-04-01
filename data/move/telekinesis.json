@@ -26,5 +26,13 @@
     "en": "The user makes the target float with its psychic power. The target is easier to hit for three turns.",
     "de": "Telekinese lässt über drei Runden das Ziel immun gegenüber Attacken vom Typ und der Fähigkeit Ausweglos werden. Im Gegenzug kann das betroffene Pokémon nun von allen Attacken getroffen werden. Hiervon ausgenommen sind K.O.-Attacken, wie Eiseskälte."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

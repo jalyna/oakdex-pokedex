@@ -26,5 +26,25 @@
     "en": "A Rock-type attack that hits the target with an avalanche of rocks and boulders.",
     "de": "Schädigt den Gegner, 30% Chance (seit der 2. Generation) den Gegner zurückschrecken zu lassen. Das Ziel schreckt nicht zurück, wenn es sich hinter einem Delegator befindet oder Konzentrator besitzt. Auch fliegende Gegner werden getroffen. In Mehrfachkämpfen trifft diese Attacke alle gegnerischen Pokémon."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Tough"
+    }
+  ]
 }

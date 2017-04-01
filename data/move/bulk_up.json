@@ -27,5 +27,25 @@
     "en": "Bulks up the body to boost both Attack and Defense.*Bulks up the body to boost both Attack & Defense.*",
     "de": "Erhöht Angriff und Verteidigung des eigenen Pokémon um je 50%."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

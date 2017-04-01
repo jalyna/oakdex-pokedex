@@ -25,5 +25,25 @@
     "en": "A Dark-type attack. The attacking Pokémon may steal an item held by the target.",
     "de": "Stiehlt wilden Pokémons das Item und behält es auch noch nach dem Kampf. Briefe können nicht gestohlen werden. Trägt der Anwender bereits ein Item, wird das gegnerische Item nicht gestohlen. Raub ist sehr nützlich, um Items wie Herzschuppen von wilden Pokémon zu farmen."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

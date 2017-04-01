@@ -26,5 +26,25 @@
     "en": "If the foe’s HP is down to about half, this attack will hit with double the power.*If the foe’s HP is down to under half, this attack will hit with double the power.*",
     "de": "Der Schaden verdoppelt sich auf 130, wenn der Gegner weniger als die Hälfte seiner KP hat. Lake eignet sich daher gut, um einem Kampf ein Ende zu setzen und ist strategisch überlegenswert. Ansonsten ist Surfer besser."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

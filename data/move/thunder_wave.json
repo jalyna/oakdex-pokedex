@@ -28,5 +28,25 @@
     "en": "A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.",
     "de": "Paralysiert den Gegner. Hohe Trefferquote, daher beste Paralyse-Attacke. Donnerwelle trifft keine Pokémon des Types , sollte das Ziel über Voltabsober (ab der 4. Generation) bzw. Starthilfe oder Blitzfänger (seit der 5. Generation) verfügen. Seit der 6. Generation bleiben auch Pokémon des Types unberührt von Donnerwelle, da sie nicht mehr paralysiert werden können. Bei Paralyse wird der Initiativewert des Pokémon um 75% reduziert. In der siebten Generation wird der Wert nur noch um 50% gesenkt."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    }
+  ]
 }

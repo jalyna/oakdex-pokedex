@@ -27,5 +27,25 @@
     "en": "A Fire-type attack that lasts two to five turns. The target cannot move while surrounded by flames.",
     "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Feuerwirbel sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit einem Geist-Pokémon (seit der sechsten Generation), Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

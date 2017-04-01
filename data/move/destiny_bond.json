@@ -25,5 +25,25 @@
     "en": "A move that causes the opponent to faint if the user faints after using this move.",
     "de": "Wenn dein Pokémon durch einen direkten Treffer besiegt wird, wird auch das gegnerische Pokémon kampfunfähig. Attacken wie Egelsamen und Sandsturm zählen nicht als direkte Treffer! Direkte Treffer richten immer in der Runde des Einsatzes sofort einen Schaden an, und nicht erst später."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

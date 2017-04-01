@@ -27,5 +27,25 @@
     "en": "An Ice-type attack. Has a one-in-three chance of reducing the target's Attack power.",
     "de": "Verletzt das gegnerische Pokémon, zusätzliche 10% Chance den gegnerischen Angriff um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken. Diese Attacke ist deutlich schlechter als Eisstrahl, daher sollte sie eher nicht verwendet werden."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "An attack that lasts two to three turns. Afterwards, the attacker becomes confused.",
     "de": "Greift 2-3 Kampfrunden lang an, nach dem Einsatz ist das eigene Pokémon jedoch verwirrt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

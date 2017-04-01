@@ -26,5 +26,25 @@
     "en": "A Dragon-type attack. Has a one-in-three chance of paralyzing the target.",
     "de": "Schädigt, 30% Chance den Gegner zu paralysieren."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Cool"
+    }
+  ]
 }

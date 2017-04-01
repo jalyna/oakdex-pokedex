@@ -25,5 +25,25 @@
     "en": "If the user can use this attack after the foe attacks, its power is doubled.*The user stores power, then attacks. If the user can use this attack after the foe, its power is doubled.*",
     "de": "Schaden verdoppelt sich, wenn der Anwender nach dem Ziel handelt. Hierbei ist es egal, ob der Anwender attackiert, das Ziel ausgewechselt oder der Gegner ein Item angewendet hat. Seit der 5. Generation wird die Stärke von Gegenstoß nicht mehr nach einem Auswechseln des Zieles verdoppelt."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

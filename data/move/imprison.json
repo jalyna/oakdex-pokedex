@@ -25,5 +25,25 @@
     "en": "Prevents foes from using moves known by the user.",
     "de": "Hindert das gesamte Team des Gegners daran, Attacken zu benutzen, die der Anwender beherrscht, bis der Anwender besiegt oder ausgetauscht wird."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

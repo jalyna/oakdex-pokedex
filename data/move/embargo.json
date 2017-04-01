@@ -25,5 +25,25 @@
     "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
     "de": "Das getroffene Pokémon kann keine Items benutzen und der Trainer des Pokémon kann keine Items auf dieses Pokémon anwenden für 5 Runden. Unter dem Einfluss von Itemsperre kann Katapult nicht eingesetzt werden."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "A move that strikes back with the opponent's last move. This move comes after the enemy's move.",
     "de": "Setzt die selbe Attacke ein, die das gegnerische Pokemon zuvor eingesetzt hat, aber nur, wenn dessen Angriff nicht fehlgeschlagen ist."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

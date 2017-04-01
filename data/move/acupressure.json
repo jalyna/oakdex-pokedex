@@ -25,5 +25,25 @@
     "en": "The user applies pressure to stress points, sharply boosting one of its stats.",
     "de": "Ein zufällig ausgewählter Statuswert des Anwenders steigt um zwei Stufen (auch Genauigkeit und Fluchtwert können erhöht werden)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

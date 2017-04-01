@@ -26,5 +26,25 @@
     "en": "The user looses a flash of energy from its polished body. It may also lower the target’s accuracy.",
     "de": "Senkt gegnerische Genauigkeit."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "The user becomes soaked to raise resistance to fire.",
     "de": "Lässt den Schaden von allen Feuer-Attacken sinken. Bis zur 4. Generation verringerte sich die Stärke der Feuer-Attacken um 50% und ab der 5. Generation um 67%. Eine weitaus bessere Alternative stellt Regentanz dar."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

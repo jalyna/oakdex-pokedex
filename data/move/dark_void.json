@@ -26,5 +26,25 @@
     "en": "The foe is dragged into a world of total darkness that puts it to sleep.",
     "de": "Lässt den Gegner einschlafen. In der siebten Generation ist die Attacke nur noch von Darkrai oder von in Darkrai verwandelten Pokémon benutzbar."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

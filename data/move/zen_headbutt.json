@@ -26,5 +26,25 @@
     "en": "The user focuses its willpower to its head and rams the foe. It may also make the target flinch.",
     "de": "Richtet Schaden an und lässt das Ziel mit einer Wahrscheinlichkeit von 20% zurückschrecken. Die Attacke Delegator und die Fähigkeit Konzentrator verhindern ein Zurückschrecken."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

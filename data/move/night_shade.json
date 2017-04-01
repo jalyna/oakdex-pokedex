@@ -27,5 +27,25 @@
     "en": "A Ghost-type attack. Highly accurate, it inflicts damage regardless of the target's type.",
     "de": "Schädigt den Gegner, abhängig vom Level, nicht von den Fähigkeiten und Werten des Pokémon. Das heißt, auf Level 50 macht diese Attacke 50 Schaden und z.B auf Level 100, 100 Schaden. Diese Attacke kann weder sehr, noch nicht effektiv sein, ist aber wirkungslos gegen Normaltypen."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

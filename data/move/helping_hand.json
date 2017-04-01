@@ -26,5 +26,25 @@
     "en": "Boosts the power of the recipient’s moves.",
     "de": "Erhöht den Angriff/Spezialangriff des Partners im Doppelkampf um eine Stufe (50%), im Einzelkampf sinnlos."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

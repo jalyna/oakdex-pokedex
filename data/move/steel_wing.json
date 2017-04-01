@@ -26,5 +26,25 @@
     "en": "Strikes the target with stiff wings. Has a one-in-ten chance of raising the user's Defense.",
     "de": "Schädigt den Gegner, 10% Chance zusätzlich die Verteidigung des Anwenders um eine Stufe (50%) zu erhöhen."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

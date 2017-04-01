@@ -24,5 +24,13 @@
     "en": "The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",
     "de": "Standpauke verursacht Schaden und verringert den Spezial-Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangsertes). Trifft in Mehrfachkämpfen nur die unmittelbar in der Nähe befindlichen Pokémon."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

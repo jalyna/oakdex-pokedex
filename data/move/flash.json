@@ -26,5 +26,25 @@
     "en": "Creates a brilliant flash of light that blinds the target. This technique reduces the opponent's accuracy.",
     "de": "Senkt die Genauigkeit des Gegners um eine Stufe (ca. 66,7% des Ausgangswertes). Versteckt sich das Ziel hinter einem Delegator oder ist nebel aktiv, schlägt die Attacke fehl. Außerhalb des Kampfes werden dunkle Höhlen erhellt bis der Spieler die Höhle wieder verlässt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

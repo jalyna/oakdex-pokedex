@@ -28,5 +28,25 @@
     "en": "A Psychic-type attack. Has a one-in-three chance of lowering the target's Special rating.",
     "de": "Gute Attacke, richtet Schaden an. Seit der zweiten Generation besteht eine Chance von 10% die (vorher 30%) Spezial-Verteidigung des Gegners um eine Stufe zu senken."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

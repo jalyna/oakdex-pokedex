@@ -25,5 +25,25 @@
     "en": "Powerful against paralyzed foes, but also heals them.",
     "de": "Schädigt den Gegner. Doppelter Schaden wenn der Gegner paralysiert ist. Dieser wird danach allerdings von Paralyse geheilt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The user raises the Sp. Def stat of an ally Pokémon with a mysterious aroma.",
     "de": "Spezialangriff von Parfinesse. Erhöht den Spezialangriff von verbündeten Pokémon."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

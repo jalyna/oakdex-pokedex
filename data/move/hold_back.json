@@ -24,5 +24,13 @@
     "en": "The user holds back when it attacks and the target is left with at least 1 HP.",
     "de": "Die Attacke verursacht Schaden, lässt dem Ziel jedoch mindestens 1 KP. Es ist möglich mit Zurückhaltung einen Delegator zu zerstören."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

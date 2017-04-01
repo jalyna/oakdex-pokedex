@@ -26,5 +26,25 @@
     "en": "A sharp Fighting-type attack. Has a one-in-three chance of making the target flinch if it connects.",
     "de": "Schädigt den Gegner, 30% Chance den Gegner zurückschrecken zu lassen."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

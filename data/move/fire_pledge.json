@@ -25,5 +25,25 @@
     "en": "A column of fire hits opposing Pokémon. When used with its Grass equivalent, its damage increases into a vast sea of fire.",
     "de": "Feuersäulen verursacht Schaden, welcher verdoppelt wird und noch einen Zusatzeffekt erhält, wenn in einem Mehrfachkampf zuvor Pflanzsäulen oder Wassersäulen eingesetzt wurde. Die Attacke, welche als zweites ausgeführt wird, erhält die Boni durch die Kombination."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy.",
     "de": "Verursacht Schaden und besitzt eine Chance von 30% die Genauigkeit des Zieles um eine Stufe zu senken."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

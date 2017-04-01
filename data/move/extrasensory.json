@@ -26,5 +26,25 @@
     "en": "Attacks with a peculiar power. May cause flinching.",
     "de": "Der Gegner wird geschädigt, doppelter Schaden, wenn der Gegner Komprimator einsetzt. Greift die Attacke zuerst an, schreckt der Gegner zu 10% zurück. Die Fähigkeit Konzentrator oder ein Delegator verhindern ein Zurückschrecken. Seit der 6. Generation besitzt die Attacke nur noch 20 AP und nicht mehr wie zuvor 30."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

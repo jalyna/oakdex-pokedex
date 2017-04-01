@@ -26,5 +26,25 @@
     "en": "Traps and hurts the foe in quicksand for 2 to 5 turns.",
     "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Sandgrab sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

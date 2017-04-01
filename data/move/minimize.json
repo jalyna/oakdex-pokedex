@@ -26,5 +26,25 @@
     "en": "Reduces the user's size and makes it harder to hit. Can normally be used up to six times.",
     "de": "Steigert den Fluchtwert des eigenen Pokémon um eine Stufe (50%) bis einschließlich zur 4. Generation."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

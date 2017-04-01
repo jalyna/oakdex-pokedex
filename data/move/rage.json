@@ -26,5 +26,25 @@
     "en": "A non-stop attack move. The user's Attack power increases every time it sustains damage.",
     "de": "Anfangs schwache Attacke, bei mehrmaligem (erfolgreichen) Wiederholen wird sie stärker. Bei jedem erlittenen Treffer, vor dem Raserei eingesetzt wurde, erhöht sich der Angriff um eine Stufe. Maximal sind sechs Stufen erreichbar."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    }
+  ]
 }

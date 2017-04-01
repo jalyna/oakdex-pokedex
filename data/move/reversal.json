@@ -25,5 +25,25 @@
     "en": "An attack that increases in power if the user's HP is low. It could turn the tide in battle.",
     "de": "Je weniger KP das ausführende Pokémon hat, desto mehr Schaden richtet diese Attacke an."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

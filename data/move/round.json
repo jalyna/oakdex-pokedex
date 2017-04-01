@@ -25,5 +25,13 @@
     "en": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage.",
     "de": "Kanon verursacht Schaden, welcher sich auf 120 verdoppelt, wenn ein Partner im Anschluss erneut Kanon anwendet. Unabhängig von der Initiative des zweiten Anwenders, wird Kanon direkt im Anschluss an den ersten Einsatz durchgeführt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

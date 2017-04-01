@@ -25,5 +25,13 @@
     "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
     "de": "Der Anwender erhöht seinen Angriff und Spezial-Angriff jeweils um eine Stufe (50% des Ausgangswertes)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

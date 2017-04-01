@@ -28,5 +28,25 @@
     "en": "A single-hit knockout attack. Learned only by Pokémon that have large pincers.",
     "de": "Bei erfolgreicher Ausführung ist der Gegner auf einen Schlag besiegt. In strategischen Kämpfen verboten."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "An HP-draining attack. It adds half the HP it drained from the target to the attacker's HP.",
     "de": "Fügt Schaden zu und stellt beim Anwender KP in Höhe von 50% des verursachten Schadens wieder her. In Gen.7 wird die Stärke dieser Attacke drastisch angehoben."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

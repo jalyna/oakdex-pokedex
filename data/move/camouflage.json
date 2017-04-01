@@ -25,5 +25,25 @@
     "en": "",
     "de": "Lässt das Pokémon den Typ der vom Gegner zuletzt eingesetzten Attacke übernehmen. Hat dieser keine Attacke eingesetzt, so wird der Typ auf Normal gesetzt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

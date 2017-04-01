@@ -25,5 +25,13 @@
     "en": "The user attacks by engulfing the target in an intense fire. It leaves the target with a burn.",
     "de": "Verursacht Schaden und verbrennt das Ziel bei einem Treffer unter Garantie. Eine Verbrennung findet jedoch nicht statt, wenn das Ziel vom Typen ist, die Fähigkeit Aquahülle besitzt, sich hinter einem Delegator befindet oder bereits unter einer primären Statusveränderung leidet."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
 }

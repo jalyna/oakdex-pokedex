@@ -26,5 +26,25 @@
     "en": "A storm of sharp leaves is whipped up. The attack's recoil sharply reduces the user's Sp. Atk stat.",
     "de": "Spezieller Angriff des Anwenders sinkt um zwei Stufen (auf 50% des Ausgangswertes), nachdem die Attacke getroffen hat. Diese Attacke ist gut kombinierbar mit Schlohkraut, Umkehrung oder Dunkelnebel."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -28,5 +28,25 @@
     "en": "Makes the weather sunny for five turns. When sunny, Fire-type moves are more powerful.",
     "de": "Wirkt 5 Runden lang: Die Wirkung von Feuerattacken wird um 50% erhöht, die Stärke von Wasserattacken sinkt dagegen um 50%, die Trefferquote von Donner sinkt auf 50%, Solarstrahl muss nicht aufgeladen werden, die Attacken Mondschein, Morgengrauen und Synthese erzielen die doppelte Wirkung."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

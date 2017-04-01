@@ -26,5 +26,25 @@
     "en": "A Dragon-type attack. Has a one-in-five chance of causing the target to flinch.",
     "de": "Fügt in Mehrfachkämpfen allen Gegnern in Reichweite Schaden zu. Die Stärke verdoppelt sich, wenn das Ziel sich momentan in der Luft befindet (durch die Attacken Sprungfeder und Fliegen). Lässt getroffene Gegner mit einer 20%-igen Chance zurückschrecken."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

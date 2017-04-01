@@ -26,5 +26,25 @@
     "en": "A 1st-turn, 1st-strike move that causes flinching.",
     "de": "Richtet Schaden an. Greift immer zuerst an (Schnelligkeitsstufe 1, Attacken wie Schutzschild gehen vor), lässt Gegner zurückschrecken. Funktioniert nur beim ersten Angriff des Anwenders (nach Wechsel wird Zähler auf 0 gesetzt)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Cute"
+    }
+  ]
 }

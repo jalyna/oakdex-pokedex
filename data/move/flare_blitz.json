@@ -26,5 +26,25 @@
     "en": "The user cloaks itself in fire and charges at the foe. The user sustains serious damage, too.",
     "de": "Starke Attacke mit Rückstoßschaden in Höhe von 1/3 des angerichteten Schadens. Zudem eine 10%-ige Chance den Gegner zu verbrennen. Sollte das Ziel eingefroren sein, wird es vor der Schadensberechnung aufgetaut. Attacken mit ähnlicher Wirkung: Sturzflug, Risikotackle, Volttackle, Holzhammer und Steinschädel."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -24,5 +24,25 @@
     "en": "An inferno of scarlet flames torches everything around the user. It may leave the target with a burn.",
     "de": "Die Spezial-Attacke von Victini verursacht Schaden und verbrennt mit einer Wahrscheinlichkeit von 30% das Ziel."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

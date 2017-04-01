@@ -26,5 +26,25 @@
     "en": "Attacks with muddy water. May lower accuracy.",
     "de": "Schädigt den Gegner und senkt zu 30% die Genauigkeit seiner Attacken um eine Stufe (auf ca. 66,7% des Ausgangswertes)."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Tough"
+    }
+  ]
 }

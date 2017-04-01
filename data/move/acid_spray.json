@@ -24,5 +24,13 @@
     "en": "The user spits fluid that works to melt the target. This harshly reduces the target's Sp. Def stat.",
     "de": "Verursacht Schaden und verringert die Spezial-Verteidigung des Zieles um zwei Stufen."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    }
+  ]
 }

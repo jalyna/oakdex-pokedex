@@ -27,5 +27,25 @@
     "en": "A special technique that boosts the user's Attack power. Can normally be used up to six times.",
     "de": "Steigert Angriffskraft um eine Stufe (50%). Schwerttanz und Drachentanz sind bessere Alternativen."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

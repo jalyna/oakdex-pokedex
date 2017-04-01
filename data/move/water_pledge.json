@@ -24,5 +24,13 @@
     "en": "A column of water strikes the target. When combined with its fire equivalent, the damage increases and a rainbow appears.",
     "de": "Wassersäulen verursacht Schaden, welcher verdoppelt wird und noch einen Zusatzeffekt erhält, wenn in einem Mehrfachkampf zuvor Feuersäulen oder Pflanzsäulen eingesetzt wurde. Die Attacke, welche als zweites ausgeführt wird, erhält die Boni durch die Kombination."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
     "de": "Spezial-Attacke von Durengard, welche den Anwender vor fast allen (physischen) und (speziellen) Attacken schützt. Eventueller Schaden durch Wettereffekte oder bereits bestehende Statusprobleme wird dennoch nicht abgewendet. Sollte der Anwender von Königsschild mit einer Attacke angegriffen werden, welche Kontakt herstellt, wird der Angriff des Angreifers um zwei Level herabgesetzt."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

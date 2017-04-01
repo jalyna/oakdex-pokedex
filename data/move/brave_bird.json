@@ -26,5 +26,25 @@
     "en": "The user tucks in its wings and charges from a low altitude. The user also takes serious damage.",
     "de": "Rückstoßeffekt in der Höhe von 1/3 des angerichteten Schadens. Attacken mit ähnlicher Wirkung: Steinschädel, Risikotackle, Volttackle, Flammenblitz und Holzhammer."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

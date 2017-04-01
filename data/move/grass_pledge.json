@@ -24,5 +24,13 @@
     "en": "A column of grass hits opposing Pokémon. When used with its water equivalent, its damage increases into a vast swamp.",
     "de": "Pflanzsäulen verursacht Schaden, welcher verdoppelt wird und noch einen Zusatzeffekt erhält, wenn in einem Mehrfachkampf zuvor Feuersäulen oder Wassersäulen eingesetzt wurde. Die Attacke, welche als zweites ausgeführt wird, erhält die Boni durch die Kombination."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

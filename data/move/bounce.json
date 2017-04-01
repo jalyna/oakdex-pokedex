@@ -26,5 +26,25 @@
     "en": "Bounces up, then down the next turn. May paralyze.",
     "de": "Das Pokémon verschwindet für eine Runde, in der es nicht getroffen werden kann. Danach greift es an. Ähnelt von der Funktionsweise her Fliegen, ist aber nicht so treffsicher. Es besteht ebenfalls eine Chance von 30% auf eine Paralyse des Gegners. Der Anwender von Sprungfeder kann von folgenden Attacken getroffen werden : Windhose*, Donner*, Orkan*, Himmelhieb. Mit \"*\" markierte Attacken richten doppelten Schaden an. Wenn der Anwender vor dem Einsatz von Sprungfeder von Willenleser getroffen wird, kann er in der nächsten Runde ebenfalls getroffen werden. Pokémon mit der Fähigkeit Schildlos treffen auch."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

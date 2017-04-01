@@ -25,5 +25,25 @@
     "en": "The user draws power to attack by using its held Berry. The Berry determines its type and power.*The user draws power from the Berry it is holding to attack. The Berry determines its type and power.*",
     "de": "Stärke und Effekt hängen davon ab, welche Beere der Anwender trägt, so liegt der maximale Schaden von Beerenkräfte bei 100. Da die Beere danach verbraucht ist, ist die Attacke ingame eher unbrauchbar, kann strategisch aber sehr wichtig sein."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

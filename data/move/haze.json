@@ -27,5 +27,25 @@
     "en": "Eliminates all changes affecting status, such as Speed and accuracy, of both Pokémon in battle.",
     "de": "Setzt alle Werte-Veränderungen zurück, in RBY wurden durch Dunkelnebel Statusveränderungen geheilt."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

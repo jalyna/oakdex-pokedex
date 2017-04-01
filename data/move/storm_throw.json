@@ -24,5 +24,25 @@
     "en": "The user strikes the target with a fierce blow. This attack always results in a critical hit.",
     "de": "Verursacht Schaden und trifft immer mit einem Volltreffer, sofern das Ziel nicht die Fähigkeiten Kampfpanzer oder Panzerhaut besitzt bzw. unter dem Einfluss von Beschwörung steht."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

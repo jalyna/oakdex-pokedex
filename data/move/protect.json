@@ -27,5 +27,25 @@
     "en": "Completely foils an opponent's attack. If used consecutively, its success rate decreases.",
     "de": "Verhindert gegnerischen Angriff, Erfolgsrate sinkt bei mehrmaliger Verwendung."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

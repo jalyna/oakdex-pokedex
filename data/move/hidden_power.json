@@ -28,5 +28,25 @@
     "en": "A peculiar move that changes type and power depending on the Pokémon using it.",
     "de": "Bis einschließlich zur 5. Generation wurde der Typ und die Stärke dieser Attacke von den DVs (am GameBoy / DS nicht sichtbare Werte eines Pokémon) bestimmt. Die Stärke der Attacke unterschreitet nie 30, wird jedoch auch nicht stärker als 70. Für eine ausführliche Erklärung dieses Zusammenhanges gibt es den Kraftreserve-Guide. Auch wird dort die Frage geklärt, ob Kraftreserve physisch oder speziell angreift."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Confuses all Pokémon on the scene.",
     "de": "Verwirrt den Gegner. Im 2 vs 2 Kampf werden beide Gegner und der Partner verwirrt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Cute"
+    }
+  ]
 }

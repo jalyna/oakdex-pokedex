@@ -26,5 +26,25 @@
     "en": "The strongest Fighting attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
     "de": "Schädigt, 1/4 des Schadens erhält der Angreifer."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

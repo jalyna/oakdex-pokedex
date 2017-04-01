@@ -26,5 +26,25 @@
     "en": "The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.",
     "de": "Gegner schreckt mit einer Wahrscheinlichkeit von 20% zurück. Da Drachenstoß aber eine schlechte Trefferquote besitzt, ist Drachenklaue/Wutanfall zuverlässiger bzw. eher zu empfehlen!"
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

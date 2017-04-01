@@ -25,5 +25,25 @@
     "en": "The user crashes into its target while rotating its body like a drill. Critical hits land more easily.",
     "de": "Verursacht Schaden mit einer erhöhten Chance auf einen kritischen Treffer."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

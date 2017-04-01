@@ -25,5 +25,25 @@
     "en": "A move that infuriates and confuses the opponent, but it increases the target's Attack.",
     "de": "Der Gegner wird durch diese Attacke verwirrt; gleichzeitig steigt sein Angriffswert um zwei Stufen (+100%). Der Schaden, den sich ein Pokémon durch Selbstangriff bei Verwirrung zufügt, ist umso höher, je höher der Angriffswert ist, wenn es eine physische Attacke benutzt. Angeberei sollte jedoch niemals gegen Pokémon mit physischen Attacken gerichtet werden, weil diese dadurch wesentlich stärker werden und die Verwirrung jederzeit aufhören kann. Angeberei schlägt immer fehl, wenn der Angriffswert bereits 6 Stufen über dem Ausgangswert ist. Das heißt: Sollte Angeberei bereits 3 mal gegen ein Pokémon gerichtet worden sein, und wurden die Statusveränderungen noch nicht (z.B. durch Tausch oder Dunkelnebel) wiederhergestellt, schlägt Angeberei fehl. Wenn das angegriffene Pokémon durch einen Delegator geschützt wird, steigt zwar der Angriff dieses Pokémons, es wird jedoch nicht verwirrt. Sollte das Ziel bereits verwirrt sein, steigt sein Angriff."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

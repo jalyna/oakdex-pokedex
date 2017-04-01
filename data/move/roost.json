@@ -25,5 +25,25 @@
     "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.*The user lands and rests its body. It restores the user’s HP by up to half of its top HP.*",
     "de": "Heilt das Pokémon. Bis zu 50% der KP werden wiederhergestellt. Anwender verliert bis zum Ende der Runde seine Flug-Fähigkeit. So können Flug-Pokémon auch von Bodenattacken getroffen werden."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.",
     "de": "Verursacht Schaden und verringert den Spezial-Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes). Trifft beide Gegner in Doppelkämpfen und in Dreierkämpfen alle erreichbaren Gegner."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "An attack that gains power if injured by the foe.",
     "de": "Schädigt den Gegner. Wenn dein Pokémon vor dem Angriff geschädigt wird, wird der Schaden verdoppelt. Greift immer zuletzt an."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.",
     "de": "Schädigt den Gegner und verwirrt ihn eventuell mit einer 20% Chance. Außerhalb von Kämpfen ermöglicht Kraxler das Bezwingen von Felswänden."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable.",
     "de": "Richtet Schaden an. Trägt das Ziel eine Beere wird diese verbrannt und kann nicht mehr eingesetzt werden. Beeren, die direkt auf Einäschern reagieren, aktivieren dennoch ihren Effekt, wie zum Beispiel die Koakobeere. In Doppelkämpfen werden beide Gegner getroffen. Während eines Dreifachkampfes können nur die Pokémon getroffen werden, welche dem Anwender direkt gegenüber stehen."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

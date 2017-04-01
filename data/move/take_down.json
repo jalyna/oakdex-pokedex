@@ -28,5 +28,25 @@
     "en": "A charging attack. One quarter of the damage it inflicts comes back to hurt the attacker.",
     "de": "Eigenes Pokémon verliert 25% des beim Gegner angerichteten Schadens an KP."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

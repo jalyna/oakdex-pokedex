@@ -25,5 +25,25 @@
     "en": "The foe is crushed with great force. The attack is more powerful the more HP the foe has left.",
     "de": "Formel : 120 x aktuelle KP des Gegners / maximale KP des Gegners"
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

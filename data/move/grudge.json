@@ -25,5 +25,25 @@
     "en": "If the user faints, deletes the PP of the final move.",
     "de": "Wenn dein Pokémon in dieser Runde besiegt wird, werden die AP der Attacke, mit der der Gegner dich besiegt hat, auf 0 gesetzt. Attacken mit ähnlicher Wirkung sind: Abgangsbund, Heilopfer, Lunartanz und Memento-Mori."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
 }

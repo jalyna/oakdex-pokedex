@@ -27,5 +27,25 @@
     "en": "A Normal-type attack. A triangular field of energy is created and launched at the target.",
     "de": "Schädigt, 20% Chance den Gegner zu verbrennen, paralysieren oder einzufrieren. Eine der besten speziellen Normal Attacken, nur zu empfehlen."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

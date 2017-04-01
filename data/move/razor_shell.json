@@ -25,5 +25,25 @@
     "en": "The user cuts its target with sharp shells. This attack may also lower the target's Defense stat.",
     "de": "Verursacht Schaden und verringert mit einer Wahrscheinlichkeit von 50% die Verteidigung des Zieles um eine Stufe."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

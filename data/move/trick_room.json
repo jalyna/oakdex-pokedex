@@ -26,5 +26,25 @@
     "en": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.*The user creates a bizarre space in which slower Pokémon get to move first for five turns.*",
     "de": "Während den nächsten fünf Runden hat das langsamere Pokémon Erstschlag. Eine Attacke mit höherer Priorität hat auch nach Einsatz von Bizarroraum immer noch Erstschlag. Der wiederholte Einsatz von Bizzaroraum in den 5 Runden hebt diesen Effekt wieder auf."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

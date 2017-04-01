@@ -26,5 +26,25 @@
     "en": "The user attacks with a ray of light that sparkles as if it were made of gemstones.",
     "de": "Schädigt den Gegner. In der 6. Generation wurde die Stärke von 70 auf 80 angehoben."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

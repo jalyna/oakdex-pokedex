@@ -26,5 +26,25 @@
     "en": "An Ice-type attack. It is guaranteed to reduce the target's Speed if it hits.",
     "de": "Schädigt den Gegner und senkt seinen Initiative-Wert um 1 Level (50%)."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

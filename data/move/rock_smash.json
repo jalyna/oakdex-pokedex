@@ -26,5 +26,25 @@
     "en": "A Fighting-type attack. In the field, it can be used to shatter rocks and open new paths.",
     "de": "Schädigt und senkt mit einer Wahrscheinlichkeit von 50% die gegnerische Verteidigung. Außerhalb des Kampfes können Felsen zerschmettert werden. Ist sehr unbrauchbar, da Zertrümmerer nur minimalen Schaden macht und so nicht viel bringt."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

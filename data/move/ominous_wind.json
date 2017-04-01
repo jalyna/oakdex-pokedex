@@ -26,5 +26,25 @@
     "en": "The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.",
     "de": "Erhöht mit einer Wahrscheinlichkeit von 10% alle Statuswerte um eine Stufe. Ausgenommen davon sind Genauigkeit und Fluchtwert."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

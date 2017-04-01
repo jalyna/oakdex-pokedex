@@ -27,5 +27,25 @@
     "en": "Restores HP by 1/2 of the user's maximum HP. Few Pokémon learn this technique on their own.",
     "de": "Das Pokémon gewinnt bis zur Hälfte seiner maximalen KP zurück. Ein Pokémon, welches im unbeschadeten Zustand 404 KP besitzt, würde bis zu 202 KP zurück erhalten. Die Anzahl der KP wird dabei abgerundet. Ein Pokémon mit 403 KP würde also nur 201 und nicht 201,5 KP gewinnen. Ein Pokémon bekommt jedoch klarerweise maximal so viele KP zurück, dass die anfänglichen KP vollgefüllt sind. Diese Attacke ist im Kampf extrem wertvoll, wenn das Pokémon von vorne herein eine halbwegs hohe Zahl an KP und gute defensive Statuswerte (Verteidigung und Spezial Verteidigung) besitzt. Der Einsatz auf defensiv schwachen Pokémon lohnt sich nicht. Attacken mit ähnlicher Wirkung sind: Morgengrauen, Heilbefehl, Tagedieb, Ruheort, Milchgetränk, Synthese, Mondschein, Wunschtraum und Weichei."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

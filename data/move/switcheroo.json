@@ -25,5 +25,25 @@
     "en": "The user trades held items with the foe faster than the eye can follow.",
     "de": "Anwender tauscht Item mit dem Gegner, wie die Attacke Trickbetrug. Megasteine und Z-Kristalle können mit Wechseldich nicht entfernt werden."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

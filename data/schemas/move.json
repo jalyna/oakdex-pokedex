@@ -151,6 +151,40 @@
     },
     "affected_by_kings_rock": {
       "type": "boolean"
+    },
+    "contests": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "properties": {
+          "contest": {
+            "type": "string",
+            "enum": ["Contests", "Super Contests", "Contest Spectaculars"]
+          },
+          "condition": {
+            "type": "string",
+            "enum": ["Tough", "Cute", "Clever", "Cool", "Beautiful"]
+          },
+          "appeal": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 8
+          },
+          "jam": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 5
+          }
+        },
+        "required": [
+          "contest",
+          "condition",
+          "appeal",
+          "jam"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "required": [
@@ -171,7 +205,8 @@
     "affected_by_mirror_move",
     "affected_by_kings_rock",
     "names",
-    "descriptions"
+    "descriptions",
+    "contests"
   ],
   "additionalProperties": false
 }

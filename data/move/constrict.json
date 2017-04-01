@@ -27,5 +27,25 @@
     "en": "A Normal-type attack. Has a one-in-three chance of reducing the target's Speed.",
     "de": "Schädigt geringfügig, die Initiative des Gegner sinkt mit einer Wahrscheinlichkeit von 10%."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Tears at the foe with sharp claws. May lower Defense.",
     "de": "Schädigt den Gegner und senkt mit einer Wahrscheinlichkeit von 50% seine Verteidigung."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    }
+  ]
 }

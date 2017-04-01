@@ -26,5 +26,25 @@
     "en": "A Grass-type attack that sends sharp-edged leaves at the target. Likely to get a critical hit.",
     "de": "Schädigt den Gegner, erhöhte Chance auf Volltreffer."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }
