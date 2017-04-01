@@ -25,5 +25,13 @@
     "en": "The user stirs up a fairy wind and strikes the target with it.",
     "de": "Schädigt den Gegner."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

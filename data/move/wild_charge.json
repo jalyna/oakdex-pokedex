@@ -25,5 +25,25 @@
     "en": "The user shrouds itself in electricity and smashes into its target. It also damages the user a little.",
     "de": "Verursacht Schaden und der Anwender wird durch einen Rückstoß verletzt. Hierbei werden 1/4 des verursachten Schadens von den KP des Anwenders abgezogen."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "A move that makes a sleeping target have bad dreams. The victim will steadily lose HP.",
     "de": "Gegner bekommt Alpträume, sofern dieser schläft. Schläft das gegnerische Pokemon, erleidet es jede Runde Schaden (25% der maximalen KP)."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

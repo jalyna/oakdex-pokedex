@@ -26,5 +26,25 @@
     "en": "A Rock-type attack. This prehistoric move may boost all of the user's stats.",
     "de": "Der Gegner erleidet Schaden. Außerdem hat Antik-Kraft eine Chance von 10%, alle Statuswerte, KP ausgenommen, um eine Stufe (+50%) steigen zu lassen."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

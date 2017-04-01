@@ -26,5 +26,25 @@
     "en": "The user fires a concentrated bundle of electricity. It may also raise the user’s Sp. Atk stat.*The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.*",
     "de": "Mäßiger Schaden. Als Nebeneffekt wird mit 70% Wahrscheinlichkeit der Spezial-Angriff um eine Stufe (50%) gesteigert. In Verbindung mit der Charakteristik Edelmut sogar zu 100%."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

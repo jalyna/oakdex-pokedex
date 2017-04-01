@@ -28,5 +28,25 @@
     "en": "A Psychic-type attack. Has a one-in-ten chance of leaving the target confused.",
     "de": "Schädigt den Gegner, 10% Chance diesen zusätzlich zu verwirren."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "Attacks for five turns, growing more powerful each time. Power returns to normal if it misses.",
     "de": "Greift bis zu 5 mal (1x pro Kampfrunde) an, der Effekt (anfangs bei 30 SP) wird mit jeder Runde größer, endet jedoch bei Misserfolg."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

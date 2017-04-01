@@ -26,5 +26,25 @@
     "en": "The user levitates using electrically generated magnetism for five turns.",
     "de": "Ändert die eigene Charakteristik auf Schwebe für 5 Runden. Kann mit Staffete weitergegeben werden."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

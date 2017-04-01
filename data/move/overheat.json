@@ -26,5 +26,25 @@
     "en": "Allows a full-power attack, but sharply lowers Sp.Atk.*Enables full-power attack, but sharply lowers the Sp.Atk.*",
     "de": "Richtet enormen Schaden an. Der eigene Spezialangriff sinkt aber um 2 Stufen. Mit dem Item Schlohkraut kombinierbar. Ansonsten stellen Flammenwurf oder Feuersturm eine bessere Alternative dar."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

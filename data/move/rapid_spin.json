@@ -26,5 +26,25 @@
     "en": "A Normal-type attack. By spinning quickly, the user can escape from restraining moves.",
     "de": "Richtet Schaden an. Ermöglicht dem Benutzer das Entfernen von Klammergriff, Stachler, Egelsamen Tarnsteine, Giftspitzen, Wickel, Schnapper, Feuerwirbel, Lavasturm, Sandgrab und Klebenetz. In strategischen Kämpfen sehr häufig benutzt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

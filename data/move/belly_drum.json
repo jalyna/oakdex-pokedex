@@ -25,5 +25,25 @@
     "en": "A move that allows the user to consume half of its own HP in order to maximize its Attack.",
     "de": ""
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

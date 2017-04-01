@@ -26,5 +26,25 @@
     "en": "The user launches a huge boulder at the foe to attack. It must rest on the next turn, however.",
     "de": "Anwender muss nächste Runde pausieren, wenn erfolgreich."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
 }

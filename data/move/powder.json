@@ -24,5 +24,13 @@
     "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
     "de": "Pulverschleuder verursacht Schaden, wenn das Ziel versucht eine Feuerattacke einzusetzen. Ebenso endet die Runde ohne dass die Feuerattacke zu Ende ausgeführt wird."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

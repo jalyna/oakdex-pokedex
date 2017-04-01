@@ -27,5 +27,25 @@
     "en": "Slashes the foe with sharp claws.*Hooks and slashes the foe with long, sharp claws.*",
     "de": "Richtet Schaden an."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

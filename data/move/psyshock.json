@@ -26,5 +26,13 @@
     "en": "The user materializes an odd psychic wave to attack the target. This attack does physical damage.",
     "de": "Der Schaden, welcher von Psychoschock verursacht wird, richtet sich nach dem Spezial-Angriff des Anwenders und der physischen Verteidigung des Gegners - ähnlich wie bei den Attacken Mystoschwert und Psychosto&szlig."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
 }

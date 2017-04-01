@@ -27,5 +27,25 @@
     "en": "A Rock-type attack. As the name implies, a huge boulder is dropped on the target.",
     "de": "Schädigt den Gegner. Steinkante und Steinhagel sind bessere Gesteins-Attacken."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

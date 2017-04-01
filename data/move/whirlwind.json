@@ -28,5 +28,25 @@
     "en": "Generates a powerful wind that blows away wild Pokémon. Useful in the wild only.",
     "de": "Lässt wilde Pokémon flüchten, zwingt im Kampf zum Wechsel. Wirkt wie Brüller, kann aber auch Pokemon mit Lärmschutz vom Feld fegen. Für mehr Informationen über die taktische Verwendung siehe den Eintrag von Brüller."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

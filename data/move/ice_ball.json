@@ -25,5 +25,25 @@
     "en": "A 5-turn attack that gains power on successive hits.",
     "de": "Greift bis zu 5 Runden lang an. In jeder Runde verdoppelt sich der Ausgangsschaden (30 SP). Ähnlich wie Walzer."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "The type of attack varies depending on the location.",
     "de": "Die Angriffsart wechselt mit der Kampf-Umgebung."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

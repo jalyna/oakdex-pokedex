@@ -25,5 +25,25 @@
     "en": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.",
     "de": "Katapult verursacht Schaden. Es hebt die Effekte von Magnetflug, Telekinese und der Fähigkeit Schwebe auf, sodass das verteidigende Pokémon von Attacken des Typs getroffen wird, sowie von der Fähigkeit Ausweglos gefangen gehalten werden kann. Bis das betroffene Pokémon ausgewechselt wird, bleiben die Auswirkungen von Katapult bestehen."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

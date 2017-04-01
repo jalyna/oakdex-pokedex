@@ -26,5 +26,25 @@
     "en": "The user strikes with a tough punch as fast as a bullet. This move always goes first.",
     "de": "Reihenfolge der Attacke wird nicht vom Initiativewert bestimmt."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Attacks with ultrasonic waves. May confuse the foe.*Generates an ultrasonic wave that may confuse.*",
     "de": "Schädigt den Gegner und verwirrt diesen zu 20%. In Dreierkämpfen können sämtliche Pokémon getroffen werden."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

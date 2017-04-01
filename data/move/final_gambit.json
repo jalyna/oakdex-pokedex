@@ -24,5 +24,13 @@
     "en": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP.",
     "de": "Besiegt den Anwender und zieht dem Ziel KP in der Anzahl ab, die der Anwender vor dem Einsatz der Attacke besaß. Sollte Wagemut fehl schlagen, weil sie daneben geht, das Ziel immun gegen die Attacke ist oder einen Schutzschild eingesetzt hat, wird der Anwender nicht besiegt."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

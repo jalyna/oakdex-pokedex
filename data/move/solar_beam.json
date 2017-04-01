@@ -28,5 +28,25 @@
     "en": "The strongest Grass-type attack. Energy is absorbed in the first turn, then fired the next turn.",
     "de": "Das ausführende Pokémon muss sich aufladen und attackiert in der nächsten Runde. Scheint die Sonne oder wird das Item Energiekraut getragen, muss diese Attacke nicht aufgeladen werden. Taktisch empfielt sich eine Kombination mit der Attacke Sonnentag oder der Fähigkeit Dürre."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

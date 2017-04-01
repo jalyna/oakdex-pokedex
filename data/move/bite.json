@@ -27,5 +27,25 @@
     "en": "A bite made using sharp fangs. This may cause the opponent to flinch, and it might not attack.",
     "de": "Verletzt den Gegner, 30% Chance dass der Gegner in dieser Runde zurückschreckt, wenn der Anwender zuerst angreift."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Tough"
+    }
+  ]
 }

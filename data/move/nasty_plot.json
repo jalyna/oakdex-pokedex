@@ -25,5 +25,25 @@
     "en": "The user stimulates its brain by thinking bad thoughts. It sharply raises the user's Sp. Atk.",
     "de": "Erhöht Spezialangriff des Anwenders um zwei Stufen (100%)!"
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

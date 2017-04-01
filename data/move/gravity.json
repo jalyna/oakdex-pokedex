@@ -25,5 +25,25 @@
     "en": "Gravity is intensified for five turns, making moves involving flying unusable and negating Levitation.",
     "de": "Flug- und Schwebe-Pokémon verlieren für die Dauer von 5 Runden ihre Immunität gegen Boden-Attacken. Weiters können Flug- und Schwebe-Attacken wie Turmkick oder Fliegen für die selbe Dauer nicht mehr verwendet werden."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

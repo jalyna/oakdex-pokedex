@@ -26,5 +26,25 @@
     "en": "A powerful loyalty attack. The user flinches if hit.*Powerful, but makes the user flinch if hit by foe.*",
     "de": "Anwender lädt sich zu Beginn der Runde auf und greift dann als Zweites an. Richtet enormen Schaden an, wenn das eigene Pokémon dazwischen nicht getroffen wurde. Sollte daher nur von erfahrenen Trainern verwendet werden. Diese Attacke lässt sich gut mit Delegator kombinieren und ist im Competitive Play als \"SubPunch\" Taktik bekannt."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

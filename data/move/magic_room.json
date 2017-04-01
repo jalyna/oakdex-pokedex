@@ -23,5 +23,25 @@
     "en": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.",
     "de": "Verhindert für 5 Runden den Einsatz von Items. Ist die Wirkung noch aktiv und wird Magieraum erneut eingesetzt, endet - ähnlich wie bei Bizarroraum oder Wunderraum - der Effekt der Attacke sofort."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

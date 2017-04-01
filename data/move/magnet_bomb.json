@@ -26,5 +26,25 @@
     "en": "The user launches a steel bomb that sticks to the target. This attack will not miss.",
     "de": "Genauigkeit kann nicht beeinträchtigt werden."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

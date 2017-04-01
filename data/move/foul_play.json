@@ -25,5 +25,25 @@
     "en": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage.",
     "de": "Verursacht Schaden. Hierbei wird zur Schadensberechnung der Angriffswert des Zieles - inklusive der Änderungen der Statuswerte - heran gezogen. Die restlichen Werte werden vom Anwender mit einbezogen, wie z.B. etwa eine Verbrennung, Wahlitems, STAB oder Fähigkeiten."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

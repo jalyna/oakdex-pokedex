@@ -26,5 +26,25 @@
     "en": "The user blasts the foe with power that distorts even time. The user must rest on the next turn.",
     "de": "Wenn die Spezial-Attacke von Dialga erfolgreicht ausgeführt, muss der Anwender sich in der nächsten Runde ausruhen und kann nicht angreifen."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
 }

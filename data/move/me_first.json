@@ -25,5 +25,25 @@
     "en": "The user tries to cut ahead of the foe to steal and use the foe’s intended move with greater power.",
     "de": "Funktioniert nur, wenn der Anwender zuerst angreift. Falls der Gegner eine Angriffs-Attacke ausführt, greift der Anwender mit dieser Attacke zuerst an und richtet 50% mehr Schaden an."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

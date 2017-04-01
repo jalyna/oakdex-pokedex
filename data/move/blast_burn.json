@@ -25,5 +25,25 @@
     "en": "Powerful, but leaves the user immobile the next turn.",
     "de": "Richtet enormen Schaden an, bei Erfolg muss das eigene Pokémon jedoch in der folgenden Kampfrunde pausieren. Kann nur von vollentwickelten Feuer-Startern erlernt werden."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
 }

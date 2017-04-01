@@ -27,5 +27,25 @@
     "en": "Special spores are scattered from mushrooms. If the opponent inhales the spores, it will fall asleep.",
     "de": "Der Gegner schläft ein."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.",
     "de": "Physische Wasserattacke! Reihenfolge der Attacke wird nicht durch die Initiative bestimmt, trifft zuerst."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

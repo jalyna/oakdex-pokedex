@@ -25,5 +25,25 @@
     "en": "Torments the foe and stops successive use of a move.*Prevents the foe from using the same move in a row.*",
     "de": "Verhindert, dass der Gegner die selbe Attacke 2 mal hintereinander einsetzt. Taktisch eine wertvolle Attacke, wenn sie richtig eingesetzt wird: Hält der Gegner z.B. ein Wahl-Item, wie z.B. Wahlband, wird jede zweite Runde Verzweifler eingesetzt."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -24,5 +24,25 @@
     "en": "On the second turn, the user hits the target with electrically charged ice. It may leave the target with paralysis.",
     "de": "Die Spezial-Attacke des schwarzen Kyurem wird über zwei Runden ausgeführt, verursacht Schaden und besitzt eine Wahrscheinlichkeit von 30% das Ziel zu paralysieren. Trägt der Anwender ein Energiekraut wird in der Runde angegriffen in der Frosthauch ausgewählt wurde."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

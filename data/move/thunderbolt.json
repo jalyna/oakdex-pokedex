@@ -26,5 +26,25 @@
     "en": "An Electric-type attack. Has a one-in-ten chance of paralyzing the target.",
     "de": "Richtet Schaden an, 10% Chance den Gegner zu paralysieren. 100 TQ, ist daher in den meisten Fällen sinnvoller als Donner."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

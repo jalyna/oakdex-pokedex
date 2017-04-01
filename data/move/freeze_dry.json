@@ -24,5 +24,25 @@
     "en": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.",
     "de": "Verursacht Schaden und mit einer Wahrscheinlichkeit von 10% friert das Ziel ein. Zusätzlich ist diese Attacke sehr effektiv gegenüber Pokémon des Typs ."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

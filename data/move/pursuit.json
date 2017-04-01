@@ -25,5 +25,25 @@
     "en": "A Dark-type attack. It inflicts major damage if the target switches out in the same turn.",
     "de": "Bei Rückzug (auswechseln des Pokémon) erhält der Gegner doppelten Schaden."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

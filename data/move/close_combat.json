@@ -26,5 +26,25 @@
     "en": "The user fights the foe in close without guarding itself. It also cuts the user’s Defense and Sp. Def.",
     "de": "Starke Attacke, die die Verteidigung und Spezial-Verteidigung um eine Stufe senkt, mit dem Item Schlohkraut und der Attacke Dunkelnebel kombinierbar."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

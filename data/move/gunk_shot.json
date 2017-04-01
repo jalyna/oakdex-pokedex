@@ -26,5 +26,25 @@
     "en": "The user shoots filthy garbage at the foe to attack. It may also poison the target.",
     "de": "Verursacht Schaden und der Gegner wird zu 30% vergiftet."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

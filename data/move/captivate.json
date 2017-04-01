@@ -26,5 +26,25 @@
     "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
     "de": "Gegnerischer Spezial-Angriff wird um 2 Level gesenkt, wenn die gegenüberstehenden Pokémon nicht vom selben Geschlecht sind."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets' Speed stat.",
     "de": "Verursacht Schaden und senkt die Initiative des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes). In Doppelkämpfen werden beide Gegner getroffen und in Dreifachkämpfen die direkt gegenüber stehenden."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    }
+  ]
 }

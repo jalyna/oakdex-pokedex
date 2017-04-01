@@ -24,5 +24,13 @@
     "en": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.",
     "de": "Es werden sämtliche Statusveränderungen des Zieles umgekehrt. Demnach wird ein zweifach-positiver Boost zu einem zweifach-negativen."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

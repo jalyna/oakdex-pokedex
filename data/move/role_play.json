@@ -25,5 +25,25 @@
     "en": "Mimics the target and copies its special ability.",
     "de": "Das Pokémon übernimmt die Charakteristik des Gegners (nicht immer sinnvoll). Nicht zu verwechseln mit Wertewechsel."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

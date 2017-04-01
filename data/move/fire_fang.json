@@ -26,5 +26,25 @@
     "en": "The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.",
     "de": "Hat eine Chance von 10% den Gegner zu verbrennen und eine ebenso hohe Chance den Gegner zurückschrecken zu lassen. Beide Effekte können gleichzeitig auftreten. In der 4. Generation kann die Attacke aufgrund eines Glitches einen Gegner mit der Fähigkeit Wunderwache schädigen, auch wenn dieser keine Feuerschwäche aufweist. Aus den nachfolgenden Generationen wurde dieser Glitsch entfernt. Ähnliche Attacken sind: Donnerzahn und Eiszahn."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -24,5 +24,25 @@
     "en": "The user helps the target and makes it use its move right after the user.",
     "de": "Das Ziel wird direkt nach dem Anwender agieren. Sollte das Ziel in dieser Runde bereits zum Zuge gekommen sein, schlägt die Attacke fehl."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

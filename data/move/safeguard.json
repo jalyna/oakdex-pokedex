@@ -26,5 +26,25 @@
     "en": "A mystic power that protects the user from status problems for five turns.",
     "de": "Baut eine Mauer um das Team des Anwenders, die das ganze Team 5 Runden lang vor Statusveränderungen schützt. Gehaltene Items oder Nebeneffekte von selbst eingesetzten Attacken lösen immer noch Statusveränderungen aus. Bestehende Veränderungen des Status werden nicht geheilt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

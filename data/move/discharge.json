@@ -26,5 +26,25 @@
     "en": "A flare of electricity is loosed to strike all Pokémon in battle. It may also cause paralysis.",
     "de": "Attacke, die im Doppelkampf alle Kampfteilnehmer außer den Anwender trifft. Gegner wird mit einer Wahrscheinlichkeit von 30% paralysiert."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Beautiful"
+    }
+  ]
 }

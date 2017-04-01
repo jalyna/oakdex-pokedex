@@ -25,5 +25,25 @@
     "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
     "de": "Der Schaden hängt von den KP des Gegners ab. Die Schadenspunkte der Attacke berechnen sich nach der folgenden Formel: 110 * (aktuelle KP-Zahl : volle KP-Zahl). Daraus ergibt sich, dass die Stärke von Auswringen zwischen 1 und 110 SP liegt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

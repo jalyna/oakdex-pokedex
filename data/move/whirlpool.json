@@ -26,5 +26,25 @@
     "en": "Lasts two to five turns. Foe becomes trapped in a vortex, making it impossible to switch.",
     "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Whirlpool sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -24,5 +24,25 @@
     "en": "The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power.",
     "de": "Die Verteidigung von allen am Kampf teilnehmenden Pokémon des Typs wird um eine Stufe (50%) erhöht."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

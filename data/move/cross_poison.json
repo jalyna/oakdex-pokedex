@@ -27,5 +27,25 @@
     "en": "A slashing attack that may also leave the target poisoned. It has a high critical-hit ratio.",
     "de": "Erhöhte Chance auf Volltreffer, vergiftet den Gegner mit einer Wahrscheinlichkeit von 10%."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

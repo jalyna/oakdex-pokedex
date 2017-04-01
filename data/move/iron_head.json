@@ -26,5 +26,25 @@
     "en": "The foe slams the target with its steel-hard head. It may also make the target flinch.",
     "de": "Gegner schreckt mit einer Wahrscheinlichkeit von 30% zurück."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

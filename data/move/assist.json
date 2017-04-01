@@ -26,5 +26,25 @@
     "en": "Attacks randomly with one of the partner’s moves.",
     "de": "Schädigt den Gegner, der zuletzt angegriffen hat - auch wenn er ausgewechselt wurde. Wendet eine zufällige Attacke eines Pokémon in deinem Team an. Diese Attacke wird sehr selten benutzt, weil es einfach nur auf Glück ankommt, welche Attacke genommen wird. In der fünften Generation können die Attacken ungeschlüpfter Eier verwendet werden."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

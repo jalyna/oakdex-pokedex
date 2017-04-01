@@ -25,5 +25,25 @@
     "en": "Summons strong sunlight to attack 2 turns later.",
     "de": "Drei Runden nach dem Einsatz erleidet der Gegner schweren Schaden. Der Typ des Gegners hat keinen Einfluss auf die Höhe des Schadens."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

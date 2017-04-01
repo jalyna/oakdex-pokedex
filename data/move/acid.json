@@ -27,5 +27,25 @@
     "en": "A Poison-type attack. Has a one-in-three chance of lowering the target's Defense.",
     "de": "Richtet mäßigen Schaden an. Wurde Schaden angerichtet, das gegnerische Pokémon aber nicht besiegt, so besteht eine 10% Chance, das der Verteidigungs-Wert des gegnerischen Pokémon um einen Level sinkt. Die Attacke schädigt im Doppelkampf beide Gegner, jeder von ihnen erleidet aber nur halben Schaden. Die 10% Chance zum Herabsetzen der Verteidigung bleibt erhalten. Es gibt bessere Attacken vom Typ Gift wie Matschbombe."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

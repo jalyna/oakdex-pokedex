@@ -25,5 +25,25 @@
     "en": "The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.",
     "de": "Verursacht Schaden und alle in der Nähe stehenden Pokémon erleiden Schaden über 1/16 ihrer maximalen KP. Der Effekt von Funkenflug tritt nicht auf, wenn das Ziel über die Fähigkeit Feuerfänger verfügt oder die Attacke fehl schlägt. Ebenso erhalten Pokémon mit Magieschild keinen Schaden durch den Effekt der Attacke."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

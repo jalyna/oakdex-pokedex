@@ -27,5 +27,25 @@
     "en": "An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pokémon.",
     "de": "Starke Attacke und taktisch sehr wertvoll. Fügt doppelten Schaden zu, wenn der Gegner Schaufler eingesetzt hat."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

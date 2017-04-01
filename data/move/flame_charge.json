@@ -25,5 +25,25 @@
     "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat.",
     "de": "Die Attacke verursacht Schaden und erhöht die Initiative des Anwenders um eine Stufe (50%)."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

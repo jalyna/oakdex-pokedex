@@ -25,5 +25,25 @@
     "en": "Attacks with a flurry of down. May lower Sp. Atk.",
     "de": "Richtet beim Gegner Schaden an und lässt dessen Spezialangriff mit einer Wahrscheinlichkeit von 50% sinken."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

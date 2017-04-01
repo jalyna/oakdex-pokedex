@@ -24,5 +24,25 @@
     "en": "The user lightly performs a beautiful, mystic dance. It boosts the user's Sp. Atk, Sp. Def, and Speed stats.",
     "de": "Der Anwender erhöht seine Spezial-Verteidigung, Spezial-Angriff und Initiative um jeweils eine Stufe (50% des Ausgangswertes). Hierbei handelt es sich um eine der besten Attacken, um seine Werte zu steigern."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

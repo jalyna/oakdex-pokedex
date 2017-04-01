@@ -28,5 +28,25 @@
     "en": "A special Ice-type attack. Has a one-in-ten chance of freezing the target.",
     "de": "Schädigt den Gegner, 10% Chance ihn einzufrieren."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

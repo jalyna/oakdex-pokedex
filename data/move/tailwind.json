@@ -25,5 +25,25 @@
     "en": "The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.",
     "de": "Verdoppelt die Geschwindigkeit aller Teammitglieder für eine begrenzte Zeit."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

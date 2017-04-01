@@ -26,5 +26,25 @@
     "en": "The user polishes its body to reduce drag. It can sharply raise the Speed stat.*The user polishes its body to reduce drag. It sharply raises the Speed stat.*",
     "de": "Steigert die Initiative des Anwenders um zwei Stufen."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

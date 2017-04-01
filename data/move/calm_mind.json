@@ -25,5 +25,25 @@
     "en": "Raises Sp. Atk and Sp. Def by focusing the mind.",
     "de": "Erhöht Spezialangriff und Spezialverteidigung des Pokémon um eine Stufe (50% vom Grundwert)."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

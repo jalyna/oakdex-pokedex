@@ -25,5 +25,25 @@
     "en": "The user employs its psychic power to switch changes to its Attack and Sp. Atk with the foe.",
     "de": "Der Anwender tauscht beide Angriffswerte mit denen des Gegners. Taktisch interessant. Das Pokemon mit dieser Attacke sollte möglichst wenig Angriff haben."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

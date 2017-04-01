@@ -27,5 +27,25 @@
     "en": "Has a high critical-hit ratio. May also poison.",
     "de": "Der Gegner erleidet Schaden und wird zu 10% vergiftet. Giftschweif besitzt eine erhöhte Volltrefferquote."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

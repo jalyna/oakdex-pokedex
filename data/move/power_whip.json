@@ -26,5 +26,25 @@
     "en": "The user violently whirls its vines or tentacles to harshly lash the foe.",
     "de": "Schädigt den Gegner ohne weitere Zusatzeffekte."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

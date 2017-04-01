@@ -26,5 +26,25 @@
     "en": "An inferno of scarlet flames washes over all Pokémon in battle. It may also inflict burns.",
     "de": "Fügt dem Gegner zu 30% eine Verbrennung zu."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Tough"
+    }
+  ]
 }

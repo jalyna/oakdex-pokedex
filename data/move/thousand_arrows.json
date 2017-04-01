@@ -24,5 +24,13 @@
     "en": "This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground.",
     "de": ""
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    }
+  ]
 }

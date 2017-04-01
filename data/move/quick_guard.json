@@ -25,5 +25,25 @@
     "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
     "de": "Anwender und Mitstreiter werden vor Erstschlag-Attacken, wie z.B. Ruckzuhieb oder Eissplitter, geschützt. Offenlegung stellt hierbei eine Ausnahme dar."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

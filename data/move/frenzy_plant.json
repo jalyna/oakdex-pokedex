@@ -26,5 +26,25 @@
     "en": "Powerful, but leaves the user immobile the next turn.",
     "de": "Richtet enormen Schaden an, bei Erfolg muss das eigene Pokémon jedoch in der folgenden Kampfrunde pausieren. Kann nur von vollentwickelten Pflanzen-Startern erlernt werden."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "The target is hit with a blow packing the power of fish traveling up waterfalls.",
     "de": "Schädigt den Gegner und lässt diesen zu 20% (ab der 4. Generation) zurückschrecken; außerhalb eines Kampfes ist der Aufstieg an Wasserfällen damit seit der 2. Generation möglich. In Diamant, Perl und Platin wird Kaskade auch benötigt um Wasserfälle hinab schwimmen zu können."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

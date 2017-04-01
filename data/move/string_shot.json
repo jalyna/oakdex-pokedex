@@ -27,5 +27,25 @@
     "en": "Strings are sprayed out and wrapped around the target to reduces its Speed.",
     "de": "Senkt die Initiative des Gegners um zwei Stufen (50%) seit der sechsten Generation. Davor wurde die Initiative nur um eine Stufe gesenkt."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

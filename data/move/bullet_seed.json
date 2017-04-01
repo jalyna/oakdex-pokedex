@@ -26,5 +26,25 @@
     "en": "Shoots 2 to 5 seeds in a row to strike the foe.",
     "de": "Schädigt den Gegner, greift 2 bis 5 mal in einer Runde an."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

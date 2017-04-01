@@ -26,5 +26,25 @@
     "en": "A Normal-type attack. Has a one-in-three chance of paralyzing the target if it connects.",
     "de": "Richtet Schaden an. Es besteht eine Chance von 30%, dass der Gegner dabei paralysiert wird."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
 }

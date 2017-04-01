@@ -25,5 +25,25 @@
     "en": "The soothing ringing of a bell that eliminates all status problems for the entire party.",
     "de": "Heilt alle Pokémon mit Statusveränderungen im Team. Kann von Pokémon mit der Charakteristik Lärmschutz in der 3. und 4. Generation blockiert werden, daher wird, wenn möglich, oft Aromakur vorgezogen."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

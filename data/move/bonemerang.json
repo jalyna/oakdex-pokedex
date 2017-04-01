@@ -27,5 +27,25 @@
     "en": "A boomerang made of bone is thrown to inflict damage twice -- on the way out and on its return.",
     "de": "Trifft 2 mal hintereinander in einer Runde. (50 Basisstärke pro Treffer)"
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

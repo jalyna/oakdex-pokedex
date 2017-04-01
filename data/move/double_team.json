@@ -28,5 +28,25 @@
     "en": "Creates illusionary copies of the user. The copies disorient the enemy, reducing its accuracy.",
     "de": "Steigert den Fluchtwert um eine Stufe, also auf ca. 66,7% des Ausgangswertes. Im Online-Kampf verboten!"
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

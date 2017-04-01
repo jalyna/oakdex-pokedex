@@ -26,5 +26,25 @@
     "en": "This attack’s power increases the more the foe has powered up with stat changes.",
     "de": "Die Stärke errechnet sich aus den positiven Statusveränderungen des Gegners."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

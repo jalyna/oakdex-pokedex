@@ -24,5 +24,25 @@
     "en": "The user attacks by blowing freezing cold air at opposing Pokémon. This attack reduces the targets' Speed stat.",
     "de": "Die Spezial-Attacke von Kyurem verursacht Schaden und senkt die Initiative des Zieles um eine Stufe."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "A two-turn attack with the wind attack in the second turn. Learned by many Flying-type Pokémon.",
     "de": "Attacke über 2 Runden. In der ersten Runde wird ein Klingensturm entfacht und in der nächsten Runde der Angriff ausgeführt. Während dieser Zeit ist der Anwender den Angriffen des Gegners ausgesetzt. Erhöhte Chance auf Volltreffer."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -24,5 +24,25 @@
     "en": "The user's mysterious psychic wave changes the target's Ability to Simple.",
     "de": "Die Fähigkeit des Zieles wird zu Wankelmut geändert. Die Attacke schlägt fehl, wenn das Ziel über Variabilität, Schnarchnase oder Taktikwechsel verfügt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

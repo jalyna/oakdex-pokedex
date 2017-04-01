@@ -27,5 +27,25 @@
     "en": "A forceful Fighting-type attack. If it misses, however, the attacker gets hurt.",
     "de": "Richtet Schaden an, schlägt sie fehl, so erhält der Anwender Schaden."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

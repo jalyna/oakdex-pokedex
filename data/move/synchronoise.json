@@ -24,5 +24,13 @@
     "en": "Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.",
     "de": "Verursacht bei allen Pokémon auf dem Feld Schaden, die mindestens einen Typen mit dem Anwender gemeinsam haben. Es wird empfohlen diese Attacke mit einem Pokémon zu spielen, welches 2 Typen besitzt damit es wahrscheinlicher ist Schaden anzurichten."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

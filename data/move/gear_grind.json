@@ -24,5 +24,13 @@
     "en": "The user attacks by throwing two steel gears at its target.",
     "de": "Teilt zweimal in einer Runde Schaden aus, selbst wenn ein Delegator zerstört wird. Unabhängig voneinander kann jeder Treffer kritischen Schaden verursachen."
   },
-  "type": "Steel"
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

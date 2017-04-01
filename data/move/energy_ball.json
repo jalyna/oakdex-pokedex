@@ -26,5 +26,25 @@
     "en": "Inflicts damage on the target, even at a distance. It may also reduce the target's Special Defense by 1 level.",
     "de": "Senkt mit einer Wahrscheinlichkeit von 10% die spezielle Verteidigung des Gegner um eine Stufe (50%)."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

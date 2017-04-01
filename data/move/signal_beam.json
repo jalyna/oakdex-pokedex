@@ -26,5 +26,25 @@
     "en": "A strange beam attack that may confuse the foe.",
     "de": "Starke Käfer-Attacke, verwirrt den Gegner zu 10%."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

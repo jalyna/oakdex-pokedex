@@ -25,5 +25,25 @@
     "en": "Steals the effects of the move the foe uses next.*Steals the effects of the move the foe is trying to use.*",
     "de": "Verwendet dein Gegner beim nächsten Angriff eine Statuswerte erhöhende oder das Pokemon unterstützende Attacke, wird der Effekt auf dein Pokémon übertragen. Greift immer zuerst an (Priorität von 5, Rechte Hand ist schneller). Beispiel 1: Du setzt Übernahme ein, dein Gegner Schwerttanz. Anstatt des Angriffs des gegnerischen Pokemon, steigt deiner. Beispiel 2: Du setzt Übernahme ein, dein Gegner einen Angriff mit dem er dir Schaden hinzufügt. Übernahme schlägt fehl und dein Pokémon erleidet Schaden. Folgende Attacken können neben Statuswerte-Erhöhenden Attacken \"übernommen\" werden: Weißnebel, Bodyguard, Reflektor, Lichtschild, Verwurzler, Aromakur, Psycho-Plus, Horter, Verzehrer, Tarnung und Ladevorgang."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

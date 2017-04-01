@@ -27,5 +27,25 @@
     "en": "A special Psychic-type move. The target is hypnotized into a deep sleep.",
     "de": "Lässt den Gegner einschlafen."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

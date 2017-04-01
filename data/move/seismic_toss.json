@@ -28,5 +28,25 @@
     "en": "A Fighting-type attack. Throws the target with enough force to flip the world upside down.",
     "de": "Verursacht Schaden entsprechend des Levels des eigenen Pokémon. Alle anderen Fähigkeiten (gegn. und eigenes Pokémon) sind egal."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

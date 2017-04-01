@@ -26,5 +26,25 @@
     "en": "The user lays a trap of levitating stones around the foe. The trap hurts foes that switch into battle.",
     "de": "Verursacht Schaden, wenn der Gegner sein Pokémon wechselt. Die Höhe des Schadens ist vom Typ des Gegners abhängig:"
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

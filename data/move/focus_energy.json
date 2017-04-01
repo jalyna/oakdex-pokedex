@@ -27,5 +27,25 @@
     "en": "Raises the likelihood of nailing the opponent's weak spot for a critical hit.",
     "de": "Erhöht die Chance auf einen Volltreffer um zwei Stufen. Um mehr als 2 Stufen kann man die Volltrefferchance mit Energiefokus nicht steigern. Bei Austausch geht dieser Bonus wieder verloren."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

@@ -25,5 +25,25 @@
     "en": "If the foe has already taken some damage in the same turn, this attack’s power is doubled.",
     "de": "Doppelter Schaden, wenn der Gegner in dieser Runde bereits Schaden erlitten hat. Dies ist unter anderem möglich in Mehrfachkämpfen, Rückstoßschaden oder durch Leben-Orb."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

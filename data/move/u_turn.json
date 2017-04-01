@@ -25,5 +25,25 @@
     "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
     "de": "Anwender wird nach der Schadensverrechnung automatisch ausgewechselt. Die Wirkung ist die Gleiche, wie bei Voltwechsel."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

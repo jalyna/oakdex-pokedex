@@ -25,5 +25,25 @@
     "en": "The user releases countless shots of light. Its type varies with the kind of Plate the user is holding.",
     "de": "Typ der Attacke ändert sich in Abhängigkeit von der getragenen Platte. Diese Attacke ist nur empfehlenswert, da sie hohen Schaden macht, 100% trifft (99,6%) und 10 AP besitzt."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

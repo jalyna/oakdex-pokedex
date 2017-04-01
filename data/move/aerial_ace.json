@@ -27,5 +27,25 @@
     "en": "An extremely speedy and unavoidable attack.*An extremely fast attack that can't be avoided.*",
     "de": "Schädigt den Gegner. Genauigkeitsverändernde Attacken (z.B. Sandwirbel), Items wie Blendpuder oder ein erhöhter Fluchtwert des Gegners (z.B. durch Doppelteam) betreffen die Attacke nicht, sie trifft immer! Fliegt der Gegner, taucht, ist vergraben oder sonstwie weg, trifft die Attacke nicht!"
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

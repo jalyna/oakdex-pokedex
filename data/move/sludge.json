@@ -27,5 +27,25 @@
     "en": "A Poison-type attack. Has a fifty-fifty chance of poisoning the target.",
     "de": "Schädigt, 30% Chance den Gegner zu vergiften. Das Ziel kann nicht vergiftet werden, wenn es sich hinter einem Delegator verbirgt, bereits an einer primären Statusveränderung leidet, die Fähigkeit Immunität besitzt oder dem Typ oder angehört."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -27,5 +27,25 @@
     "en": "A Normal-type attack. Has a one-in-ten chance of making the target flinch.",
     "de": "Richtet Schaden an und das Ziel schreckt mit einer Wahrscheinlichkeit von 10% zurück. Die Attacke Delegator und die Fähigkeit Konzentrator verhindern ein Zurückschrecken."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

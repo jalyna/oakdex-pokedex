@@ -26,5 +26,25 @@
     "en": "A Water-type attack. The power of this technique is strong and highly accurate.",
     "de": "Die beste Wasserattacke im Spiel. Gegenüber Hydropumpe hat sie den Vorteil, dass sie treffsicher ist. Außerhalb des Kampfes kann man mit VM Surfer Gewässer überqueren."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Beautiful"
+    }
+  ]
 }

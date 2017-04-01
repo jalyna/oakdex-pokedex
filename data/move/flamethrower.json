@@ -29,5 +29,25 @@
     "en": "A powerful Fire-type attack. Has a one-in-ten chance of leaving the target with a damaging burn.",
     "de": "Richtet großen Schaden an, 10% Chance den Gegner zu verbrennen. Alternativ kann auch Feuersturm verwendet werden."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

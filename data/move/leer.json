@@ -27,5 +27,25 @@
     "en": "A technique that lowers the target's Defense. Useful against tough, armored Pokémon.",
     "de": "Lässt den gegnerischen Verteidigungwert auf 66,7% des Ausgangswertes sinken."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
 }

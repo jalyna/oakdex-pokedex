@@ -24,5 +24,25 @@
     "en": "The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target.",
     "de": "75% des verursachten Schadens werden beim Anwender als KP wiederhergestellt."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

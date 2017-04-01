@@ -26,5 +26,25 @@
     "en": "Charges up power for up to 3 turns.",
     "de": "Kann bis zu 3 Runden eingesetzt werden. Sammelt Energie für die Attacken Verzehrer und Entfessler. Ab Diamant/Perl steigt außerdem der Verteidigungs- und Spezial-Verteidigungswert um eine Stufe (50%)."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

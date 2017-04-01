@@ -24,5 +24,13 @@
     "en": "Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.",
     "de": "Schädigt den Gegner und zusätzlich kann er mit einer Wahrscheinlichkeit von 30% zurückschrecken."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

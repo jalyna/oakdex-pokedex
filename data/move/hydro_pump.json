@@ -28,5 +28,25 @@
     "en": "The strongest Water-type attack. However, while it is powerful, it may miss the target.",
     "de": "Richtet großen Schaden an, trifft jedoch nicht immer. Aufgrund der besseren Trefferquote wird meistens Surfer gegenüber Hydropumpe bevorzugt. Siedewasser stellt ebenfalls eine gute Alternative dar, wenn man das Ziel eventuell noch verbrennen möchte."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

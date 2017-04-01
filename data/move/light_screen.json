@@ -27,5 +27,25 @@
     "en": "Reduces damage from special attacks by about half. A special Psychic-type technique.",
     "de": "Gegnerische spezielle Attacken richten 5 Runden lang nur halben Schaden an, wirkt auch nach Pokémon-Wechsel. Taktisch wertvolle Attacke!"
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

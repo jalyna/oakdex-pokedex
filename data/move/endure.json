@@ -25,5 +25,25 @@
     "en": "Always leaves the user with at least one HP. Success rate decreases if used repeatedly.",
     "de": "Nach einem Angriff auf das eigene Pokémon bleibt mindestens 1 KP übrig. Hauptsächlich verwendet, um werteerhöhende Beeren sicher zu aktivieren, oft auch mit Gegenschlag oder Dreschflegel kombiniert. Ausdauer bietet keinen Schutz vor Wettereffekten und Statusveränderungen."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

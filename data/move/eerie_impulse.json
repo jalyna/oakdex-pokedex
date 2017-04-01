@@ -24,5 +24,13 @@
     "en": "The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat.",
     "de": "Mystowellen verringert den Spezial-Angriff des Zieles um zwei Stufen (50%)."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "A Ground-type attack. The attacker uses a bone to club the foe two to five times.",
     "de": "Greift 2-5 mal in einer Runde an."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

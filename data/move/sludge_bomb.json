@@ -26,5 +26,25 @@
     "en": "A Poison-type attack. Has a one-in-three chance of leaving the target poisoned.",
     "de": "Schädigt, 30% Chance, den Gegner zu vergiften - eine sehr gute Giftattacke."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

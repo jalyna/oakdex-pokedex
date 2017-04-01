@@ -27,5 +27,25 @@
     "en": "A Ghost-type attack. Has a one-in-three chance of leaving the target with paralysis.",
     "de": "Verursacht Schaden und besitzt eine 30% Chance das Ziel zu paralysieren."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Cute"
+    }
+  ]
 }

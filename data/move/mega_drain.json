@@ -26,5 +26,25 @@
     "en": "A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP.",
     "de": "Gibt entsprechend des beim Gegner verursachten Schadens KP zurück, die Attacke Gigasauger ist besser."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

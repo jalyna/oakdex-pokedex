@@ -26,5 +26,25 @@
     "en": "An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.",
     "de": "Offenlegung umgeht Schutzattacken wie Schutzschild und Scanner. Bis zur 4. Generation fügt die Attacke nur dann Schaden zu, wenn der Gegner sich mit einer dieser Attacken schützt; in Spielen der 5. und 6. Generation wurde der Effekt der Attacke jedoch verändert, sodass sie auch normalen Zielen schadet."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

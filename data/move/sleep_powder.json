@@ -27,5 +27,25 @@
     "en": "Induces sleep. A Pokémon will stay asleep for several turns if an item isn't used to wake it.",
     "de": "Das Ziel wird in Schlaf versetzt. Hat keine Wirkung auf Pflanzen-Pokemon (seit der 6. Generation)"
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

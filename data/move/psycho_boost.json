@@ -25,5 +25,25 @@
     "en": "Allows a full-power attack, but sharply lowers Sp. Atk.",
     "de": "Die Spezial-Attacke von Deoxys richtet enormen Schaden an, senkt jedoch den eigenen Spezialangriff um zwei Stufen, mit Schlohkraut und der Attacke Dunkelnebel kombinierbar."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

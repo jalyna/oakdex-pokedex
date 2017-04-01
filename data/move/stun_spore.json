@@ -28,5 +28,25 @@
     "en": "A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.",
     "de": "Paralysiert den Gegner. Hat keine Wirkung auf Pflanzen-Pokemon (ab 6. Generation)."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Envelops the foe with down to sharply reduce Attack.",
     "de": "Senkt den Angriff des Gegners um zwei Stufen."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

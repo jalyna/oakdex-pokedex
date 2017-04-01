@@ -26,5 +26,25 @@
     "en": "An attack that fires dirt, inflicting damage and reducing the target's accuracy.",
     "de": "Schädigt und senkt die Genauigkeit des Gegners um eine Stufe, bei mehrmaligem Einsatz trifft der Gegner nahezu nicht mehr."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

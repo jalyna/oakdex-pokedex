@@ -26,5 +26,25 @@
     "en": "A malevolent melody that causes both the user and the opponent to faint in three turns.",
     "de": "Beide Pokémon werden nach drei Kampfrunden besiegt, sofern sie nicht ausgewechselt werden. Pokémon mit der Fähigkeit Lärmschutz sind immun gegen diese Attacke. Dagegen bewahrt ein Fokusgurt oder Magieschild nicht davor besiegt zu werden."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

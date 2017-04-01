@@ -26,5 +26,25 @@
     "en": "Half of the HP drained from the target is added to the attacker's HP.",
     "de": "Verursacht Schaden beim Gegner. Die Hälfte der abgezogenen KPs werden dem eigenem Pokémon wieder hinzugefügt."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    }
+  ]
 }

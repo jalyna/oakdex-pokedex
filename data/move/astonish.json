@@ -27,5 +27,25 @@
     "en": "An attack that may shock the foe into flinching.",
     "de": "Schädigt den Gegner. Doppelter Schaden wenn Gegner Komprimator eingesetzt hat. Lässt den Gegner eventuell zurückschrecken (30%)."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Cute"
+    }
+  ]
 }

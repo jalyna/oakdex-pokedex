@@ -25,5 +25,25 @@
     "en": "Howls to raise the spirit and boosts Attack.",
     "de": "Verwendet man Jauler als Z-Attacke, erhöht sich der Angriff des Anwenders um eine Stufe."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

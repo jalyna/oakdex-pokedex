@@ -25,5 +25,25 @@
     "en": "The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the damage.",
     "de": "Der verursachte Schaden ist abhängig davon wie groß das Gewichtsverhältnis zwischen Angreifer und Verteidiger ist. Hierbei gilt: Je schwerer der Anwender als das Ziel ist, desto mehr KP werden dem Ziel abgezogen."
   },
-  "type": "Fire"
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

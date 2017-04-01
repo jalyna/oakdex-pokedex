@@ -25,5 +25,25 @@
     "en": "This move can be used only after the user has used all the other moves it knows in the battle.",
     "de": "Fügt Schaden zu. Zuflucht kann erst eingesetzt werden, wenn alle anderen Attacken bereits verwendet wurden. Die Attacke schlägt fehl, wenn Zuflucht die einzige Attacke des Anwenders ist. Der Anwender muss erneut jede Attacke einmal benutzen, wenn er ausgewechselt wurde."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

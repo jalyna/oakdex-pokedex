@@ -27,5 +27,25 @@
     "en": "Provides full protection against any enemy status attack, such as those that lower Defense.",
     "de": "Verhindert den Einsatz von Attacken, die das Ziel haben, den Status des Pokémon zu verändern."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

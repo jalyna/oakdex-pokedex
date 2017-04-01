@@ -26,5 +26,25 @@
     "en": "The user charges at the foe using every bit of its power. The user must rest on the next turn.*The user charges the foe using every bit of its power. It must rest on the next turn to recover.*",
     "de": "Der Anwender muss nächste Runde pausieren."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
 }

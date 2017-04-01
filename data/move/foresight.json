@@ -26,5 +26,25 @@
     "en": "Neutralizes the foe's evasive-ness. Also makes the Ghost type vulnerable to physical attacks.",
     "de": "Gesichte ignoriert alle Genauigkeits- und Fluchtwertveränderungen. Alle Veränderungen der beiden Werte werden auf 0 gesetzt und können bis zum Austausch nicht verändert werden. Items und Fähigkeiten sind nicht davon betroffen."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

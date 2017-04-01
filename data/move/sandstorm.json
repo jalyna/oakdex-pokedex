@@ -26,5 +26,25 @@
     "en": "An attack that creates a sandstorm. The effect causes damage to both combatants.",
     "de": "Schädigt gegnerisches und eigenes Pokémon über mehrere Runden, ohne Effekt gegen Gestein-, Stahl- und Bodenpokémon. In der 2. Generation betrug der Schaden 1/8 der maximalen KP, seit der 3. Generation werden am Ende einer Runde 1/16 der maximalen KP abgezogen."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
 }

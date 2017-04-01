@@ -26,5 +26,25 @@
     "en": "Raises the user's Defense. Useful when battling physically strong Pokémon.",
     "de": "Steigert die Abwehrkraft um einen Level (50%), Eisenabwehr und Säurepanzer sind bessere Attacken."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

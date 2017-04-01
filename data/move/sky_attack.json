@@ -27,5 +27,25 @@
     "en": "The strongest Flying-type attack. Energy is stored in the first turn, then fired the next turn.",
     "de": "Lädt eine Runde lang auf, richtet dann jedoch großen Schaden an. Erhöhte Chance auf kritischen Treffer - trotz Aufladens einer der besseren Flug-Attacken! Im Online-Battling wegen nachteilhaftem Aufladen kaum benutzt."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

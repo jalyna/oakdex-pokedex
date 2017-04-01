@@ -26,5 +26,25 @@
     "en": "The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.",
     "de": "Senkt eventuell die spezielle Verteidigung des Gegner um eine Stufe."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
 }

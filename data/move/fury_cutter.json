@@ -26,5 +26,25 @@
     "en": "A Bug-type attack that grows more powerful with every hit. Returns to normal if it misses.",
     "de": "Angriffskraft verdoppelt sich bei jedem Schlag, jedoch nur solange, bis die Attacke einmal fehlschlägt, der Anwender ausgetauscht, oder eine andere Attacke eingesetzt wird. Maximal kann Zornklinge eine Stärke von 160 erreichen. Bringt aber nur auf Pokémon mit gutem Durchhaltevermögen oder mit Doppelteams etwas, da die Attacke ihre Zeit braucht um richtig austeilen zu können."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

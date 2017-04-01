@@ -24,5 +24,13 @@
     "en": "The user manipulates magnetic fields which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
     "de": "Die Attacke erhöht die Verteidigung und die Spezial-Verteidigung aller eigenen Pokémon mit den Fähigkeiten Plus oder Minus."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

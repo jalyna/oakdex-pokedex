@@ -26,5 +26,25 @@
     "en": "The user waits for several turns. At the end, it returns double the damage it received.",
     "de": "Der durch einen Angriff erlittene Schaden wird verdoppelt und in 2-3 Runden wieder zurückgegeben. Bis dahin kann das Pokémon allerdings nicht angreifen."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

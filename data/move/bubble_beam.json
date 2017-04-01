@@ -26,5 +26,25 @@
     "en": "A Water-type attack. Stronger than Bubble. Many Water-type Pokémon learn this move.",
     "de": "Verletzt, 10% Chance gegnerischen Initiativewert um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken."
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Beautiful"
+    }
+  ]
 }

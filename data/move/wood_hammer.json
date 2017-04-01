@@ -26,5 +26,25 @@
     "en": "The user slams its rugged body into the foe to attack. The user also sustains serious damage.",
     "de": "Rückstoßeffekt in der Höhe von 1/3 des angerichteten Schadens. Attacken mit ähnlicher Wirkung: Sturzflug, Risikotackle, Volttackle, Flammenblitz und Steinschädel."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -24,5 +24,13 @@
     "en": "The Pokémon congratulates you on your special day!",
     "de": "Wie bereits Platscher hat es keinen Effekt im Kampf. Das Pokémon verschwindet kurz und kommt aus einem herrabfallenden Geburtstagsgeschenk heraus."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

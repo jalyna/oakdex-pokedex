@@ -25,5 +25,25 @@
     "en": "Recycles a used item for one more use.",
     "de": "Das getragene Item kann erneut benutzt werden, sofern es schon einmal benutzt und unbrauchbar gemacht wurde. Die Attacke kann nach Gebrauch eines Items einmal eingesetzt werden, das nächste mal erst wieder nachdem das Item wieder benutzt worden ist. Man kann also nicht dreimal in Folge Aufbereitung einsetzten und das Item dannach dreimal benutzen, ohne zwischendurch wieder Aufbereitung zu benutzen. Besonders sinnvoll ist diese Attacke beim Tragen von bestimmten Beeren. Da man aber eine Runde benötigt, ohne schaden zu machen, eher sinnlos."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

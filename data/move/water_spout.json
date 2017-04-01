@@ -25,5 +25,25 @@
     "en": "Inflicts more damage if the user’s HP is high.",
     "de": "Der Schaden, den die Attacke anrichtet, nimmt ab, wenn dein Pokémon KP verliert. Berechnet wird die Stärke mit dieser Formel: Stärke = 150 * momentane Kraftpunkte / maximale Kraftpunkte"
   },
-  "type": "Water"
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

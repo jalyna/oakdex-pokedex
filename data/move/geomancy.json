@@ -24,5 +24,25 @@
     "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
     "de": "Spezial-Attacke von Xerneas, welche über zwei Runden ausgeführt wird. In der zweiten Runde werden Spezial-Verteidigung, Spezial-Angriff und Initiative des Anwenders um zwei Stufen (100% des Ausgangswertes) erhöht. Wird Energiekraut vom Anwender getragen, kann die Attacke binnen einer Runde ausgeführt werden."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

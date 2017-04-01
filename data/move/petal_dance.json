@@ -27,5 +27,25 @@
     "en": "A dance-like attack that lasts two to three turns. Afterwards, the attacker becomes confused.",
     "de": "Greift den Gegner 2-3 Runden lang an und verwirrt sich danach selbst. Der Anwender kann während dieser Zeit nicht ausgewechselt werden oder eine andere Attacke auswählen. Die Attacke bricht ab, wenn der Anwender aus irgendeinem Grund (Paralyse, Verwirrung oder Immunität des Gegners) nicht angreift."
   },
-  "type": "Grass"
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

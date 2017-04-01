@@ -27,5 +27,25 @@
     "en": "A special Psychic-type attack. It strikes the target two turns after it is used.",
     "de": "Der Gegner wird 2 Runden nach dem Angriff attackiert. Bis zur Ausführung von Seher kann diese Attacke nicht erneut verwendet werden. Funktioniert auch nach gegnerischem oder eigenem Pokémontausch."
   },
-  "type": "Psychic"
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

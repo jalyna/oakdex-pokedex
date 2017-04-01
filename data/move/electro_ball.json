@@ -25,5 +25,25 @@
     "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
     "de": "Der verursachte Schaden ist abhängig vom Unterschied zwischen der Initiative des Anwenders und der des Zieles. Es gilt: Je schneller der Anwender im Vergleich zum Ziel ist, desto stärker ist Elektroball."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

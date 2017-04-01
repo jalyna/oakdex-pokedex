@@ -25,5 +25,25 @@
     "en": "A move that charms the target into complacency, sharply reducing its Attack power.",
     "de": "Verringert den Angriffswert des Zieles um zwei Stufen."
   },
-  "type": "Fairy"
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

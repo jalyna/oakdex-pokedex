@@ -24,5 +24,13 @@
     "en": "Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.",
     "de": "Tatami-Schild ist die Spezial-Attacke von Quajatsu und schützt alle Pokémon auf der Seite das Anwenders vor allen Attacken außer statusveränderden Attacken. Ähnlich wie Mogelhieb kann es nur im ersten Zug verwendet werden."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    }
+  ]
 }

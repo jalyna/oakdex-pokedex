@@ -25,5 +25,25 @@
     "en": "A Ground-type attack. The power of the attack will vary each time it is used.",
     "de": "Die Stärke kann zwischen 10, 30, 70, 90, 110 und 150 Schadenspunkten variieren. Setzt der Gegner Schaufler ein wird der doppelte Schaden angerichtet. Da die Attacke vom Zufall abhängt, ist Erdbeben eher zu empfehlen."
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

@@ -26,5 +26,13 @@
     "en": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",
     "de": "Verursacht Schaden. In einem Trainerkampf wird das Ziel ausgewechselt, sofern der Trainer noch ein anderes kampffähiges Pokémon besitzt. Beendet Kämpfe gegen wilde Pokémon, sofern das Level des Anwenders über dem des Zieles liegt."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

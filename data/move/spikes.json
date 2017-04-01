@@ -26,5 +26,25 @@
     "en": "An attack that scatters Spikes and injures opponent Pokémon when they switch.",
     "de": "Verursacht Schaden, wenn der gegnerische Trainer sein Pokémon wechselt. Ab Rubin/Saphir kann man Stachler 3 mal auslegen, in GSK nur einmal und beträgt in der 2. Generation konstant 1/8 (12,5%) der maximalen KP eines Pokémon. Je nach Anzahl des Einsatzes der Attacke, verursacht diese unterschiedlich viel Schaden:"
   },
-  "type": "Ground"
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

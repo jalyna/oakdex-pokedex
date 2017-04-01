@@ -27,5 +27,25 @@
     "en": "Transforms the user into a copy of the target, including the type. All moves have only five PP each.",
     "de": "Der Anwender verwandelt sich in das gegnerische Pokemon und nimmt dessen Base-Stats, Typ und Spezies an, es übernimmt zusätzlich Statuswerte-Veränderungen und all seine Attacken, jedoch nur mit je 5 AP."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

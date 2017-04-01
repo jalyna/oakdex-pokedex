@@ -24,5 +24,25 @@
     "en": "The user takes the target trick-or-treating. This adds Ghost type to the target's type.",
     "de": "Das Ziel erhält zusätzlich zu seinen anderen Typen . Ein Dualtyp-Pokémon bekommt diesen Typen zusätzlich zu seinen zwei bestehenden. Sollte das Ziel bereits durch Waldesfluch zum -Pokémon geworden sein, wird dieser Typ durch ersetzt."
   },
-  "type": "Ghost"
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
 }

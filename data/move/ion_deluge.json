@@ -24,5 +24,13 @@
     "en": "The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves.",
     "de": "Bis zum Ende der Runde wechseln alle Attacken vom Typ Normal zu Elektro. Auch Normal-Attacken die den Status eines Pokémon verändern, sind hiervon betroffen und sorgen dafür, dass Fähigkeiten wie Blitzfänger, Starthilfe oder Voltabsorber aktiviert werden."
   },
-  "type": "Electric"
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

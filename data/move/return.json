@@ -26,5 +26,25 @@
     "en": "A Normal-type attack. The tamer the user, the more powerful the move.",
     "de": "Richtet Schaden, entsprechend der Zuneigung deiner Pokémon zu dir an. Die Stärke variiert zwischen 1 und 102."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

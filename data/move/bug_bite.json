@@ -26,5 +26,25 @@
     "en": "The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.",
     "de": "Schädigt den Gegner und isst dessen Beere, sofern er eine hält. Hält der Gegner eine Tanigabeere oder Jabocabeere, frisst dieser diese Beere bevor sie gestohlen werden kann. Wird ein Pokémon Opfer dieser Attacke und ist im Itemsperre-Zustand, wird die Beere zwar gefressen, hat aber keinen Effekt. Ebenso behält das Ziel seine Beere, wenn es über die Fähigkeit Wertehalter verfügt oder sich hinter einem Delegator verbirgt."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

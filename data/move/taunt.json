@@ -27,5 +27,25 @@
     "en": "Taunts the foe into only using attack moves.*Enrages the foe so it can only use attack moves.*",
     "de": "Zwingt den Gegner dazu, nur noch Schaden anrichtende Attacken einzusetzen. Unterbindet damit Attacken wie Genesung, Erholung, Drachentanz etc. Daher taktisch sehr wertvoll. Wie lange Verhöhner anhält ist von Generation zu Generation unterschiedlich."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
 }

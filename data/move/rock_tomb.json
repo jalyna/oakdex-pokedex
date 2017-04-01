@@ -26,5 +26,25 @@
     "en": "Stops the foe from moving with rocks and cuts Speed.*Stops the foe from moving with rocks. May lower Speed.*",
     "de": "Von der 3. bis zur 5. Generation: Schädigt den Gegner mit eienr Stärke von 50, hat 10 AP sowie eine Genauigkeit von 80%. Der Initiativewert wird um eine Stufe (auf ca. 66,7% des Ausgangswertes) gesenkt."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

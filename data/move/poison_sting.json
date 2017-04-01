@@ -27,5 +27,25 @@
     "en": "A Poison-type attack. Has a one-in-five chance of leaving the target with the lingering effects of poison.",
     "de": "Schädigt den Gegner, 30% Chance diesen zusätzlich zu vergiften."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

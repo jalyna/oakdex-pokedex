@@ -26,5 +26,25 @@
     "en": "The user bites with cold-infused fangs. It may also make the foe flinch or freeze.",
     "de": "Hat eine Chance von 10% den Gegner einzufrieren und eine ebenso hohe Chance den Gegner zurückschrecken zu lassen. Beide Effekte können gleichzeitig auftreten. Ähnliche Attacken sind: Donnerzahn und Feuerzahn."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

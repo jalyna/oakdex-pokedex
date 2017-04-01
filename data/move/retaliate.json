@@ -24,5 +24,13 @@
     "en": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack's damage increases.",
     "de": "Der Schaden der Attacke verdoppelt sich auf 140, wenn in der vorherigen Runde ein Mitstreiter besiegt wurde."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

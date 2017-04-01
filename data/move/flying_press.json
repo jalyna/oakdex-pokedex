@@ -25,5 +25,13 @@
     "en": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.",
     "de": "Bei der Spezial-Attacke von Resladero handelt es sich um eine Dualtyp-Attacke mit / und verursacht Schaden."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

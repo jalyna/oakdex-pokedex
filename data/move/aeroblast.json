@@ -25,5 +25,25 @@
     "en": "A powerful Flying-type attack. It often becomes a critical hit.",
     "de": "Starke Attacke mit erhöhter Volltreffer-Quote. Diese Attacke wird ausschließlich von Lugia erlernt. Eine ähnliche Wirkung besitzt die Attacke Raumschlag."
   },
-  "type": "Flying"
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

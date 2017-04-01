@@ -24,5 +24,25 @@
     "en": "The user fires a beam of light at its target. The type changes depending on the Drive the user holds.",
     "de": "Die Spezial-Attacke von Genesect verursacht Schaden. Der Typ ist abhängig davon, welches Modul der Anwender trägt. So kann Techblaster je nach getragenem Modul die Typen , , oder annehmen - ohne Modul ist die Attacke vom Typen ."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

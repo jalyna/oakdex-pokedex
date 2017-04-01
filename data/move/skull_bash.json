@@ -27,5 +27,25 @@
     "en": "In the first turn, the attacker tucks in its head. The next turn, it head-butts at full steam.",
     "de": "Richtet großen Schaden an und muss jedoch zuvor eine Runde aufladen in der die eigene Verteidigung um eine Stufe (50%) steigt. Mit dem Item Energiekraut kombinierbar."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

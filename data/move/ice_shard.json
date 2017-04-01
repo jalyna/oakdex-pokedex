@@ -26,5 +26,25 @@
     "en": "The user flash freezes chunks of ice and hurls them. This move always goes first.",
     "de": "Reihenfolge der Attacke wird nicht von der Initiative bestimmt, sondern greift immer als erstes an. Setzen zwei Pokémon diese Attacke gleichzeitig an, greift das mit der höheren Initiative zuerst an."
   },
-  "type": "Ice"
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

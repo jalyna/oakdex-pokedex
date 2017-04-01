@@ -25,5 +25,25 @@
     "en": "The user calls out its underlings to make a living shield, raising its Defense and Sp. Def stats.",
     "de": "Der Verteidigungswert, sowie der Spezial-Verteidigungswert steigen um eine Stufe (50%)."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
 }

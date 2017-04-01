@@ -25,5 +25,25 @@
     "en": "Slacks off and restores half the maximum HP.",
     "de": "Gibt dem Pokémon 50% seiner ursprünglichen KP wieder. Attacken mit ähnlicher Wirkung sind: Heilbefehl, Morgengrauen, Genesung, Ruheort, Milchgetränk, Synthese, Mondschein, Wunschtraum und Weichei."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

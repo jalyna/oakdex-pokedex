@@ -25,5 +25,13 @@
     "en": "The user attacks the target's legs swiftly, reducing the target's Speed stat.",
     "de": "Die Attacke verursacht Schaden und verringert die Initiative des Zieles um eine Stufe (50%)."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
 }

@@ -26,5 +26,25 @@
     "en": "Destroys barriers such as Reflect and causes damage.*Destroys barriers like Light Screen and causes damage.*",
     "de": "Gute Attacke, die von vielen Pokémon als TM erlernt werden kann."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

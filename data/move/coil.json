@@ -24,5 +24,13 @@
     "en": "The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.",
     "de": "Der Anwender erhöht seine Genauigkeit, Verteidigung und Angriff um jeweils eine Stufe."
   },
-  "type": "Poison"
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

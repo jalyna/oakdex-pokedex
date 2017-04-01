@@ -28,5 +28,25 @@
     "en": "A Normal-type attack. Often turns into a critical hit and inflicts double the damage.",
     "de": "Schädigt den Gegner, erhöhte Chance auf einen kritischen Treffer."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

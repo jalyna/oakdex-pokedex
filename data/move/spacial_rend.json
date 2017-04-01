@@ -26,5 +26,25 @@
     "en": "The user tears the foe along with the space around it. This move has a high critical-hit ratio.",
     "de": "Spezial-Attacke von Palkia. Erhöhte Chance auf einen kritischen Treffer."
   },
-  "type": "Dragon"
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
 }

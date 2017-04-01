@@ -26,5 +26,25 @@
     "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.*The user stabs the foe with a sharpened stone from below. It has a high critical-hit ratio.*",
     "de": "Verursacht Schaden und besitzt eine erhöhte Chance auf einen kritischen Treffer."
   },
-  "type": "Rock"
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
 }

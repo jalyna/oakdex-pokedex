@@ -24,5 +24,13 @@
     "en": "The target is infested and attacked for four to five turns. The target can't flee during this time.",
     "de": "Diese Attacke fügt dem Ziel Schaden in Höhe 1/8 seiner maximalen KP zu, zusätzlich zu dem Schaden, den Plage bei der Anwendung verursacht. Die Attacke hält für 4 bis 5 Runden an. Das Ziel wird daran gehindert zu fliehen oder ausgetauscht zu werden."
   },
-  "type": "Bug"
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

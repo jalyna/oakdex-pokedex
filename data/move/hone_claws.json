@@ -25,5 +25,25 @@
     "en": "The user sharpens its claws to boost its Attack stat and accuracy.",
     "de": "Steigert Genauigkeits- und Angriffswert des Anwenders um eine Stufe (jeweils 50%)."
   },
-  "type": "Dark"
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
 }

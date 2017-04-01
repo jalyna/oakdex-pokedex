@@ -25,5 +25,25 @@
     "en": "A move that adjusts Attack so that the foe has one HP left. Can't cause the foe to faint.",
     "de": "Richet Schaden an, jedoch maximal so viel, dass dem Gegner 1 KP bleibt - der Gegner kann mit dieser Attacke nie besiegt werden. Sollte das Ziel noch 1 KP besitzen, trifft Trugschlag und lässt dem Ziel noch 1 KP. Ein Delegator kann mit einem Trugschlag zerstört werden."
   },
-  "type": "Normal"
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }

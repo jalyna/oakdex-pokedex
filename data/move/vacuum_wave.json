@@ -26,5 +26,25 @@
     "en": "The user whirls its fists to send a wave of pure vacuum at the foe. This move always goes first.",
     "de": "Eine der Erstschlagattacken, jedoch die einzige spezielle Attacke darunter."
   },
-  "type": "Fighting"
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
 }
