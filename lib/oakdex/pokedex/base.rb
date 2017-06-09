@@ -40,7 +40,7 @@ module Oakdex
         private
 
         def map_json_data(type, klass)
-          Hash[Dir["data/#{type}/*.json"].map do |file_name|
+          Hash[Dir["#{Oakdex::Pokedex.data_dir}/#{type}/*.json"].map do |file_name|
             data = JSON.parse(File.read(file_name))
             [data['names']['en'], klass.new(data)]
           end]
