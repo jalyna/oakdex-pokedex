@@ -740,7 +740,23 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Raichu",
+        "de": "Alola-Raichu"
+      },
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "abilities": [
+        {
+          "name": "Surge Surfer"
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

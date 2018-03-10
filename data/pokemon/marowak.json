@@ -559,7 +559,30 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Marowak",
+        "de": "Alola-Knogga"
+      },
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "abilities": [
+        {
+          "name": "Cursed Body"
+        },
+        {
+          "name": "Lightning Rod"
+        },
+        {
+          "name": "Rock Head",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

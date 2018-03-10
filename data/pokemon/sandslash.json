@@ -635,7 +635,27 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Sandslash",
+        "de": "Alola-Sandamer"
+      },
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "abilities": [
+        {
+          "name": "Snow Cloak"
+        },
+        {
+          "name": "Slush Rush",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

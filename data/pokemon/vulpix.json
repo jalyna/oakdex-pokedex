@@ -1178,7 +1178,26 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Vulpix",
+        "de": "Alola-Vulpix"
+      },
+      "types": [
+        "Ice"
+      ],
+      "abilities": [
+        {
+          "name": "Snow Cloak"
+        },
+        {
+          "name": "Snow Warning",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

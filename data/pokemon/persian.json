@@ -1031,7 +1031,29 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Persian",
+        "de": "Alola-Snobilikat"
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        {
+          "name": "Pickup"
+        },
+        {
+          "name": "Technician"
+        },
+        {
+          "name": "Rattled",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

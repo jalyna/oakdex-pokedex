@@ -843,7 +843,30 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Dugtrio",
+        "de": "Alola-Digdri"
+      },
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "abilities": [
+        {
+          "name": "Sand Veil"
+        },
+        {
+          "name": "Tangling Hair"
+        },
+        {
+          "name": "Sand Force",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

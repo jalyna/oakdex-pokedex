@@ -595,7 +595,30 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Muk",
+        "de": "Alola-Sleimok"
+      },
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "abilities": [
+        {
+          "name": "Poison Touch"
+        },
+        {
+          "name": "Gluttony"
+        },
+        {
+          "name": "Power of Alchemy",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

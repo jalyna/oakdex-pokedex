@@ -998,7 +998,29 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Meowth",
+        "de": "Alola-Mauzi"
+      },
+      "types": [
+        "Dark"
+      ],
+      "abilities": [
+        {
+          "name": "Pickup"
+        },
+        {
+          "name": "Technician"
+        },
+        {
+          "name": "Rattled",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

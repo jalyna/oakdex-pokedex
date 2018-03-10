@@ -411,7 +411,30 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Gedodude",
+        "de": "Alola-Kleinstein"
+      },
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "abilities": [
+        {
+          "name": "Magnet Pull"
+        },
+        {
+          "name": "Sturdy"
+        },
+        {
+          "name": "Galvanize",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

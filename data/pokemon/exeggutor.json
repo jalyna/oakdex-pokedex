@@ -696,7 +696,27 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Exeggutor",
+        "de": "Alola-Kokowei"
+      },
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "abilities": [
+        {
+          "name": "Frisk"
+        },
+        {
+          "name": "Harvest",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

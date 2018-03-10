@@ -436,7 +436,30 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Golem",
+        "de": "Alola-Geowaz"
+      },
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "abilities": [
+        {
+          "name": "Magnet Pull"
+        },
+        {
+          "name": "Sturdy"
+        },
+        {
+          "name": "Galvanize",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

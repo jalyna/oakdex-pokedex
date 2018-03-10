@@ -955,7 +955,30 @@
 
   ],
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Raticate",
+        "de": "Alola-Rattikarl"
+      },
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "abilities": [
+        {
+          "name": "Gluttony"
+        },
+        {
+          "name": "Hustle"
+        },
+        {
+          "name": "Thick Fat",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

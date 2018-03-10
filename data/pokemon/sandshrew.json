@@ -610,7 +610,27 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Sandshrew",
+        "de": "Alola-Sandan"
+      },
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "abilities": [
+        {
+          "name": "Snow Cloak"
+        },
+        {
+          "name": "Slush Rush",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

@@ -810,7 +810,30 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Diglett",
+        "de": "Alola-Digda"
+      },
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "abilities": [
+        {
+          "name": "Sand Veil"
+        },
+        {
+          "name": "Tangling Hair"
+        },
+        {
+          "name": "Sand Force",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {

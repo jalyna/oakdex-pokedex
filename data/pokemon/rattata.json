@@ -914,7 +914,30 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Rattata",
+        "de": "Alola-Rattfratz"
+      },
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "abilities": [
+        {
+          "name": "Gluttony"
+        },
+        {
+          "name": "Hustle"
+        },
+        {
+          "name": "Thick Fat",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {
