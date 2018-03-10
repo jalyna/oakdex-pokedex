@@ -7,6 +7,10 @@ module Oakdex
       json_folder 'move'
       translate :names, :name
       translate :descriptions, :description
+
+      def pp
+        @attributes['pp']
+      end
     end
   end
 end
