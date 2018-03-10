@@ -84,6 +84,42 @@ Additional restrictions:
 
 ## `affected_by_kings_rock` (boolean, required)
 
+## `contests` (array, required)
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+### `contest` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `Contests`
+* `Super Contests`
+* `Contest Spectaculars`
+
+### `condition` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `Tough`
+* `Cute`
+* `Clever`
+* `Cool`
+* `Beautiful`
+
+### `appeal` (integer, required)
+
+Additional restrictions:
+
+* Maximum: `8`
+
+### `jam` (integer, required)
+
+Additional restrictions:
+
+* Maximum: `5`
+
 ---
 
 # Sub Schemas

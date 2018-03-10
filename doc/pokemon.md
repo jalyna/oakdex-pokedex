@@ -259,6 +259,7 @@ The array object has the following properties:
 
 This element must be one of the following enum values:
 
+* `Alola`
 * `harsh sunlight`
 * `rain`
 * `hail`
