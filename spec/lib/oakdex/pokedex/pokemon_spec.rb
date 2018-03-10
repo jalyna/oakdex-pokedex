@@ -12,9 +12,9 @@ describe Oakdex::Pokedex::Pokemon do
         'en' => 'Seed Pokémon',
         'de' => 'Samen'
       },
-      'types' => %w(
+      'types' => %w[
         Grass
-        Poison),
+        Poison],
       'abilities' => [
         {
           'name' => 'Overgrow'
@@ -30,9 +30,9 @@ describe Oakdex::Pokedex::Pokemon do
         'female' => 12.5
       },
       'catch_rate' => 45,
-      'egg_groups' => %w(
+      'egg_groups' => %w[
         Monster
-        Grass),
+        Grass],
       'hatch_time' => [
         5355,
         5609
@@ -127,7 +127,7 @@ describe Oakdex::Pokedex::Pokemon do
     it { expect(subject.category('nope')).to eq('Seed Pokémon') }
   end
 
-  %w(
+  %w[
     national_id
     kanto_id
     johto_id
@@ -153,7 +153,7 @@ describe Oakdex::Pokedex::Pokemon do
     base_stats
     learnset
     evolution_from
-    evolutions).each do |attribute|
+    evolutions].each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end

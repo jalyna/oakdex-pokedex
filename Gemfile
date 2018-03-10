@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'json-schema'
+gem 'json-minify'
 gem 'rspec'
 gem 'rake'
 gem 'simplecov'
