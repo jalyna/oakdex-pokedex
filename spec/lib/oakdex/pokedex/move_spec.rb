@@ -44,7 +44,7 @@ describe Oakdex::Pokedex::Move do
     it { expect(subject.description('nope')).to eq('Description') }
   end
 
-  %w(
+  %w[
     index_number
     pp
     max_pp
@@ -59,7 +59,7 @@ describe Oakdex::Pokedex::Move do
     affected_by_magic_coat
     affected_by_snatch
     affected_by_mirror_move
-    affected_by_kings_rock).each do |attribute|
+    affected_by_kings_rock].each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end

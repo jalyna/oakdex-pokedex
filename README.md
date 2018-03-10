@@ -170,6 +170,12 @@ If you want also to include sprites in your pokedex, check out [oakdex-pokedex-s
 
 I would be happy if you want to add your contribution to the project. In order to contribute, you just have to fork this repository.
 
+### Minify json files before releasing new version:
+
+```
+$ rake compress_data:run
+```
+
 ## License
 
 MIT License. See the included MIT-LICENSE file.

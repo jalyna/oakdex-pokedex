@@ -11,25 +11,12 @@ var allByName = function(type, cb) {
   }
   var _this = this;
   _this.byName[type] = {};
-  fs.readdir(path.join(__dirname, '../data/' + type), function(err, filenames) {
+  fs.readFile(path.join(__dirname, '../data/' + type + '.json'), function (err, data) {
     if(err) {
       throw err;
     }
-    filenames = filenames.filter(function(filename) {
-      return filename.indexOf('.json') !== -1;
-    });
-    filenames.forEach(function(filename) {
-      fs.readFile(path.join(__dirname, '../data/' + type + '/' + filename), function (err, data) {
-        if(err) {
-          throw err;
-        }
-        var obj = JSON.parse(data);
-        _this.byName[type][obj.names.en] = obj;
-        if(Object.keys(_this.byName[type]).length === filenames.length) {
-          return cb(_this.byName[type]);
-        }
-      });
-    });
+    _this.byName[type] = JSON.parse(data)
+    return cb(_this.byName[type]);
   });
 };
 
