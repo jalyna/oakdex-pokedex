@@ -558,7 +558,30 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "condition": "Alola",
+      "image_suffix": "alola",
+      "names": {
+        "en": "Alolan Grimer",
+        "de": "Alola-Sleima"
+      },
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "abilities": [
+        {
+          "name": "Poison Touch"
+        },
+        {
+          "name": "Gluttony"
+        },
+        {
+          "name": "Power of Alchemy",
+          "hidden": true
+        }
+      ]
+    }
   ],
   "pokedex_entries": {
     "Red": {
