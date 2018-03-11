@@ -25,6 +25,11 @@ module Oakdex
           all[name]
         end
 
+        def find!(name)
+          find(name) ||
+            (raise NotFound, "#{name} (#{json_folder}) could not be found")
+        end
+
         def where(conditions = {})
           all.values.select do |entry|
             conditions.all? do |name, value|

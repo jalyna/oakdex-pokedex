@@ -1,4 +1,5 @@
 require 'json'
+require 'oakdex/pokedex/not_found'
 require 'oakdex/pokedex/type'
 require 'oakdex/pokedex/nature'
 require 'oakdex/pokedex/ability'

@@ -176,6 +176,19 @@ describe Oakdex::Pokedex::Pokemon do
     end
   end
 
+  describe '.find!' do
+    it 'returns pokemon' do
+      pokemon = described_class.find!('Bulbasaur')
+      expect(pokemon).to be_instance_of(Oakdex::Pokedex::Pokemon)
+    end
+
+    it 'raises error if pokemon does not exist' do
+      expect { described_class.find!('Foo') }
+        .to raise_error(Oakdex::Pokedex::NotFound,
+                        'Foo (pokemon) could not be found')
+    end
+  end
+
   describe '.where' do
     it 'filters by type' do
       collection = described_class.where(type: 'Grass')
