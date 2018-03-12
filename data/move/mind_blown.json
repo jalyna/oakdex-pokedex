@@ -1,0 +1,30 @@
+{
+  "index_number": 720,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 150,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "de": "Knallkopf",
+    "it": "Sbalorditesta",
+    "en": "Mind Blown",
+    "fr": "Caboche-Kaboum",
+    "es": "Cabeza Sorpresa"
+  },
+  "descriptions": {
+    "en": "Mind Blown inflicts damage, and the user loses half of its maximum HP rounded up, unless the user has Magic Guard. Mind Blown cannot be used when a Pokémon with the Ability Damp is on the field.",
+    "de": "Fügt allen Pokémon in der Nähe des Anwenders Schaden zu, wobei dieser beim Einsatz der Attacke 50% seiner maximalen KP aufgerundet verliert."
+  },
+  "type": "Fire",
+  "contests": []
+}
