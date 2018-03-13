@@ -196,7 +196,7 @@ describe('OakdexPokedex', function() {
 
     it('finds by alola id', function(done) {
       oakdexPokedex.allPokemon({ dex: 'alola' }, function(list) {
-        expect(list.length).to.equal(307);
+        expect(list.length).to.equal(302);
         done();
       });
     });

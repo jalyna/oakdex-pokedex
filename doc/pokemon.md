@@ -54,6 +54,17 @@ Additional restrictions:
 
 ## `alola_id` (integer,null, required)
 
+Dex ID for Moon/Sun
+
+Additional restrictions:
+
+* Minimum: `1`
+* Maximum: `302`
+
+## `ultra_alola_id` (integer,null, required)
+
+Dex ID for Ultra Moon/Ultra Sun
+
 Additional restrictions:
 
 * Minimum: `1`
