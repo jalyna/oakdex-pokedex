@@ -2137,6 +2137,13 @@
     },
     "alola_id": {
       "type": ["integer", "null"],
+      "description": "Dex ID for Moon/Sun",
+      "minimum": 1,
+      "maximum": 302
+    },
+    "ultra_alola_id": {
+      "type": ["integer", "null"],
+      "description": "Dex ID for Ultra Moon/Ultra Sun",
       "minimum": 1,
       "maximum": 403
     },
@@ -2501,6 +2508,7 @@
     "unova_id",
     "kalos_id",
     "alola_id",
+    "ultra_alola_id",
     "types",
     "abilities",
     "gender_ratios",
