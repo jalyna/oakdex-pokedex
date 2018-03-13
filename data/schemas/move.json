@@ -116,17 +116,17 @@
     "target": {
       "type": "string",
       "enum" : [
-        "target",
-        "all_adjacent_foes",
-        "all_foes",
+        "target_adjacent_single",
+        "target_adjacent_user_single",
+        "target_user_or_adjacent_user",
         "user",
-        "anyone_but_user",
-        "user_and_adjacent_ally",
-        "user_and_allies",
-        "adjacent_ally",
+        "all_users",
         "all_adjacent",
-        "everyone",
-        "target_foe"
+        "adjacent_foes_all",
+        "all_except_user",
+        "all_foes",
+        "all",
+        "user_and_random_adjacent_foe"
       ]
     },
     "critical_hit": {
