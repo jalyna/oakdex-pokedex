@@ -175,7 +175,7 @@ describe('OakdexPokedex', function() {
   describe('#allPokemon', function() {
     it('finds all pokemon', function(done) {
       oakdexPokedex.allPokemon(function(list) {
-        expect(list.length).to.equal(802);
+        expect(list.length).to.equal(807);
         done();
       });
     });
@@ -196,7 +196,7 @@ describe('OakdexPokedex', function() {
 
     it('finds by alola id', function(done) {
       oakdexPokedex.allPokemon({ dex: 'alola' }, function(list) {
-        expect(list.length).to.equal(302);
+        expect(list.length).to.equal(307);
         done();
       });
     });
@@ -205,7 +205,7 @@ describe('OakdexPokedex', function() {
   describe('#allMoves', function() {
     it('finds all moves', function(done) {
       oakdexPokedex.allMoves(function(list) {
-        expect(list.length).to.equal(701);
+        expect(list.length).to.equal(710);
         done();
       });
     });
