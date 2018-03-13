@@ -9,7 +9,7 @@ The schema defines the following properties:
 Additional restrictions:
 
 * Minimum: `1`
-* Maximum: `802`
+* Maximum: `807`
 
 ## `kanto_id` (integer,null, required)
 
@@ -57,7 +57,7 @@ Additional restrictions:
 Additional restrictions:
 
 * Minimum: `1`
-* Maximum: `302`
+* Maximum: `403`
 
 ## `categories` (translations, required)
 
@@ -121,7 +121,7 @@ Height in inch e.g. 32'20"
 
 Additional restrictions:
 
-* Regex pattern: `^[0-9]{1,3}'[0-9]{2}"$`
+* Regex pattern: `^[0-9]{1,3}'[0-9]{1,2}"$`
 
 ## `height_eu` (string, required)
 
