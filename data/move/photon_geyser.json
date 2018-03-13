@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Photon Geyser",
+    "fr": "Photo-Geyser",
+    "de": "Photonen-Geysir",
+    "it": "Geyser Fotonico",
+    "es": "Géiser Fotónico"
+  },
+  "index_number": 722,
+  "priority": 0,
+  "critical_hit": 0,
+  "descriptions": {
+    "en": "The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.",
+    "de": "Ein Angriff mit einer Lichtsäule. Ist der Angriff höher als der Spezial-Angriff, wird die Höhe des Schadens durch den Angriff bestimmt und umgekehrt."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Psychic",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "max_pp": 8,
+  "target": "target"
+}

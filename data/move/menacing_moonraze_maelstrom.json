@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Menacing Moonraze Maelstrom",
+    "fr": "Rayons Séléno-Explosifs",
+    "de": "Geballter Mondlaser",
+    "it": "Deflagrazione Lunare",
+    "es": "Deflagración Lunar"
+  },
+  "index_number": 725,
+  "priority": 0,
+  "critical_hit": 0,
+  "descriptions": {
+    "en": "After obtaining Z-Power, the user, Lunala, attacks the target with full force. This move can ignore the effect of the target’s Ability.",
+    "de": "Lunala greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Ghost",
+  "category": "special",
+  "power": 200,
+  "accuracy": 0,
+  "pp": 1,
+  "max_pp": 1,
+  "target": "target"
+}

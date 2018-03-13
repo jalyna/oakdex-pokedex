@@ -58,13 +58,13 @@ bold = Oakdex::Pokedex::Nature.find('Bold')
 
 
 Oakdex::Pokedex::Pokemon.all.size
-# => 802
+# => 807
 Oakdex::Pokedex::Pokemon.where(type: 'Dark').size
 # => 46
 Oakdex::Pokedex::Pokemon.where(egg_group: 'Human-Like').size
 # => 52
 Oakdex::Pokedex::Pokemon.where(dex: 'alola').size
-# => 302
+# => 307
 Oakdex::Pokedex::Pokemon.where(alola_id: 1)
 # => [#<Oakdex::Pokedex::Pokemon:0x007fbc9e542510 @attributes={"names"=>{"en"=>"Rowlet", "jp"=>"モクロー Mokuroh", "fr"=>"Brindibou", "es"=>"Rowlet", "de"=>"Bauz", "it"=>"Rowlet"}, "national_id"=>722, "alola_id"=>1, ...>]
 

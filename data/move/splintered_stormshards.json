@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Splintered Stormshards",
+    "fr": "Hurlement des Roches-Lames",
+    "de": "Fataler Steinregen",
+    "it": "Litotempesta Radiale",
+    "es": "Tempestad Rocosa"
+  },
+  "index_number": 727,
+  "priority": 0,
+  "critical_hit": 0,
+  "descriptions": {
+    "en": "After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield.",
+    "de": "Wolwerock greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Herrschen besondere Feldeffekte, werden diese zusätzlich neutralisiert."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Rock",
+  "category": "physical",
+  "power": 190,
+  "accuracy": 0,
+  "pp": 1,
+  "max_pp": 1,
+  "target": "target"
+}

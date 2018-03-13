@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Plasma Fists",
+    "fr": "Plasma Punch",
+    "de": "Plasmafäuste",
+    "it": "Pugni Plasma",
+    "es": "Puños Plasma"
+  },
+  "index_number": 721,
+  "priority": 0,
+  "critical_hit": 0,
+  "descriptions": {
+    "en": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.",
+    "de": "Ein Angriff mit elektrisch geladenen Fäusten, der bewirkt, dass Normal-Attacken den Typ Elektro annehmen."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Electric",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "target": "target"
+}
