@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Mind Blown",
+    "fr": "Caboche-Kaboum",
+    "de": "Knallkopf",
+    "it": "Sbalorditesta",
+    "es": "Cabeza Sorpresa"
+  },
+  "index_number": 720,
+  "priority": 0,
+  "critical_hit": 0,
+  "descriptions": {
+    "en": "The user attacks everything around it by causing its own head to explode. This also damages the user.",
+    "de": "Der Anwender greift alle Pokémon in der Umgebung an, indem er seinen Kopf explodieren lässt. Dabei verletzt er sich auch selbst."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "max_pp": 8,
+  "target": "target"
+}
