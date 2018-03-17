@@ -3,7 +3,8 @@ require 'json/minify'
 
 namespace :compress_data do
   task :run do
-    %w[ability egg_group generation move nature pokemon type].each do |type|
+    %w[ability egg_group generation move nature pokemon
+       type region].each do |type|
       entries = Hash[Dir["#{Oakdex::Pokedex.data_dir}/#{type}/*.json"]
         .map do |file_name|
                        data = JSON.parse(File.read(file_name))

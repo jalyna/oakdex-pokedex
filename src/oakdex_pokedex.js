@@ -113,6 +113,10 @@ module.exports = {
     findByType('type', name, cb);
   },
 
+  findRegion: function(name, cb) {
+    findByType('region', name, cb);
+  },
+
   findEggGroup: function(name, cb) {
     findByType('egg_group', name, cb);
   },
@@ -145,6 +149,10 @@ module.exports = {
 
   allTypes: function(conditions, cb) {
     allByType('type', conditions, cb);
+  },
+
+  allRegions: function(conditions, cb) {
+    allByType('region', conditions, cb);
   },
 
   allEggGroups: function(conditions, cb) {

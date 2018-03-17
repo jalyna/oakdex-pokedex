@@ -106,6 +106,28 @@ describe('OakdexPokedex', function() {
     });
   });
 
+  describe('#findRegion', function() {
+    it('finds Region by name', function(done) {
+      oakdexPokedex.findRegion('Kanto', function(found) {
+        fs.readFile('./data/region/kanto.json', 'utf8', function (err, data) {
+          if(err) {
+            throw err;
+          }
+          var obj = JSON.parse(data);
+          expect(found).to.eql(obj);
+          done();
+        });
+      });
+    });
+
+    it('returns null if entry does not exist', function(done) {
+      oakdexPokedex.findRegion('NotKnownByMe', function(found) {
+        expect(found).to.equal(null);
+        done();
+      });
+    });
+  });
+
   describe('#findEggGroup', function() {
     it('finds Water 1 by name', function(done) {
       oakdexPokedex.findEggGroup('Water 1', function(found) {
@@ -231,6 +253,15 @@ describe('OakdexPokedex', function() {
     it('finds all types', function(done) {
       oakdexPokedex.allTypes(function(list) {
         expect(list.length).to.equal(18);
+        done();
+      });
+    });
+  });
+
+  describe('#allRegions', function() {
+    it('finds all regions', function(done) {
+      oakdexPokedex.allRegions(function(list) {
+        expect(list.length).to.equal(7);
         done();
       });
     });
