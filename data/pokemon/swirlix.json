@@ -54,228 +54,6 @@
     "sp_def": 57,
     "speed": 49
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Sweet Scent"
-    },
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 5,
-      "move": "Fairy Wind"
-    },
-    {
-      "level": 8,
-      "move": "Play Nice"
-    },
-    {
-      "level": 10,
-      "move": "Fake Tears"
-    },
-    {
-      "level": 13,
-      "move": "Round"
-    },
-    {
-      "level": 17,
-      "move": "Cotton Spore"
-    },
-    {
-      "level": 21,
-      "move": "Endeavor"
-    },
-    {
-      "level": 26,
-      "move": "Aromatherapy"
-    },
-    {
-      "level": 31,
-      "move": "Draining Kiss"
-    },
-    {
-      "level": 36,
-      "move": "Energy Ball"
-    },
-    {
-      "level": 41,
-      "move": "Cotton Guard"
-    },
-    {
-      "level": 45,
-      "move": "Wish"
-    },
-    {
-      "level": 49,
-      "move": "Play Rough"
-    },
-    {
-      "level": 58,
-      "move": "Light Screen"
-    },
-    {
-      "level": 67,
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM35",
-      "move": "Flamethrower"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM46",
-      "move": "Thief"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM77",
-      "move": "Psych Up"
-    },
-    {
-      "tm": "TM85",
-      "move": "Dream Eater"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM99",
-      "move": "Dazzling Gleam"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM03",
-      "move": "Surf"
-    },
-    {
-      "parent": "Clefairy",
-      "move": "After You"
-    },
-    {
-      "parent": "Togetic",
-      "move": "After You"
-    },
-    {
-      "parent": "Togekiss",
-      "move": "After You"
-    },
-    {
-      "parent": "Audino",
-      "move": "After You"
-    },
-    {
-      "parent": "Marill",
-      "move": "Belly Drum"
-    },
-    {
-      "parent": "Skitty",
-      "move": "Copycat"
-    },
-    {
-      "parent": "Plusle",
-      "move": "Copycat"
-    },
-    {
-      "parent": "Minun",
-      "move": "Copycat"
-    },
-    {
-      "parent": "Togetic",
-      "move": "Yawn"
-    }
-  ],
   "evolutions": [
     {
       "to": "Slurpuff",
@@ -341,5 +119,823 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 5
+        },
+        {
+          "move": "Play Nice",
+          "level": 8
+        },
+        {
+          "move": "Fake Tears",
+          "level": 10
+        },
+        {
+          "move": "Round",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Endeavor",
+          "level": 21
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 26
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 36
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 41
+        },
+        {
+          "move": "Wish",
+          "level": 45
+        },
+        {
+          "move": "Play Rough",
+          "level": 49
+        },
+        {
+          "move": "Light Screen",
+          "level": 58
+        },
+        {
+          "move": "Safeguard",
+          "level": 67
+        },
+        {
+          "move": "After You",
+          "egg_move": true
+        },
+        {
+          "move": "Belly Drum",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 5
+        },
+        {
+          "move": "Play Nice",
+          "level": 8
+        },
+        {
+          "move": "Fake Tears",
+          "level": 10
+        },
+        {
+          "move": "Round",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Endeavor",
+          "level": 21
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 26
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 36
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 41
+        },
+        {
+          "move": "Wish",
+          "level": 45
+        },
+        {
+          "move": "Play Rough",
+          "level": 49
+        },
+        {
+          "move": "Light Screen",
+          "level": 58
+        },
+        {
+          "move": "Safeguard",
+          "level": 67
+        },
+        {
+          "move": "After You",
+          "egg_move": true
+        },
+        {
+          "move": "Belly Drum",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 5
+        },
+        {
+          "move": "Play Nice",
+          "level": 8
+        },
+        {
+          "move": "Fake Tears",
+          "level": 10
+        },
+        {
+          "move": "Round",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Endeavor",
+          "level": 21
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 26
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 36
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 41
+        },
+        {
+          "move": "Wish",
+          "level": 45
+        },
+        {
+          "move": "Play Rough",
+          "level": 49
+        },
+        {
+          "move": "Light Screen",
+          "level": 58
+        },
+        {
+          "move": "Safeguard",
+          "level": 67
+        },
+        {
+          "move": "After You",
+          "egg_move": true
+        },
+        {
+          "move": "Belly Drum",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Fairy Wind",
+          "level": 5
+        },
+        {
+          "move": "Play Nice",
+          "level": 8
+        },
+        {
+          "move": "Fake Tears",
+          "level": 10
+        },
+        {
+          "move": "Round",
+          "level": 13
+        },
+        {
+          "move": "Cotton Spore",
+          "level": 17
+        },
+        {
+          "move": "Endeavor",
+          "level": 21
+        },
+        {
+          "move": "Aromatherapy",
+          "level": 26
+        },
+        {
+          "move": "Draining Kiss",
+          "level": 31
+        },
+        {
+          "move": "Energy Ball",
+          "level": 36
+        },
+        {
+          "move": "Cotton Guard",
+          "level": 41
+        },
+        {
+          "move": "Wish",
+          "level": 45
+        },
+        {
+          "move": "Play Rough",
+          "level": 49
+        },
+        {
+          "move": "Light Screen",
+          "level": 58
+        },
+        {
+          "move": "Safeguard",
+          "level": 67
+        },
+        {
+          "move": "After You",
+          "egg_move": true
+        },
+        {
+          "move": "Belly Drum",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Sticky Web",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

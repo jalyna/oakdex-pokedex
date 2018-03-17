@@ -48,264 +48,6 @@
     "sp_def": 100,
     "speed": 90
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Thunder Fang"
-    },
-    {
-      "level": 0,
-      "move": "Dragon Rage"
-    },
-    {
-      "level": 8,
-      "move": "Imprison"
-    },
-    {
-      "level": 15,
-      "move": "Ancient Power"
-    },
-    {
-      "level": 22,
-      "move": "Thunderbolt"
-    },
-    {
-      "level": 29,
-      "move": "Dragon Breath"
-    },
-    {
-      "level": 36,
-      "move": "Slash"
-    },
-    {
-      "level": 43,
-      "move": "Zen Headbutt"
-    },
-    {
-      "level": 50,
-      "move": "Fusion Bolt"
-    },
-    {
-      "level": 54,
-      "move": "Dragon Claw"
-    },
-    {
-      "level": 64,
-      "move": "Imprison"
-    },
-    {
-      "level": 71,
-      "move": "Crunch"
-    },
-    {
-      "level": 78,
-      "move": "Thunder"
-    },
-    {
-      "level": 85,
-      "move": "Outrage"
-    },
-    {
-      "level": 92,
-      "move": "Hyper Voice"
-    },
-    {
-      "level": 100,
-      "move": "Bolt Strike"
-    },
-    {
-      "tm": "TM01",
-      "move": "Hone Claws"
-    },
-    {
-      "tm": "TM02",
-      "move": "Dragon Claw"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM19",
-      "move": "Roost"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM25",
-      "move": "Thunder"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM30",
-      "move": "Shadow Ball"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM33",
-      "move": "Reflect"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM51",
-      "move": "Steel Wing"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM56",
-      "move": "Fling"
-    },
-    {
-      "tm": "TM57",
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM65",
-      "move": "Shadow Claw"
-    },
-    {
-      "tm": "TM66",
-      "move": "Payback"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM72",
-      "move": "Volt Switch"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM82",
-      "move": "Dragon Tail"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM93",
-      "move": "Wild Charge"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    },
-    {
-      "tm": "HM02",
-      "move": "Fly"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    }
-  ],
   "categories": {
     "en": "Deep Black Pokémon",
     "de": "Reines Schwarz"
@@ -383,5 +125,1483 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Imprison",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Imprison",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Imprison",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Imprison",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Imprison",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Dragon Rage",
+          "level": 1
+        },
+        {
+          "move": "Thunder Fang",
+          "level": 1
+        },
+        {
+          "move": "Imprison",
+          "level": 8
+        },
+        {
+          "move": "Ancient Power",
+          "level": 15
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 22
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 29
+        },
+        {
+          "move": "Slash",
+          "level": 36
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 43
+        },
+        {
+          "move": "Fusion Bolt",
+          "level": 50
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 54
+        },
+        {
+          "move": "Noble Roar",
+          "level": 64
+        },
+        {
+          "move": "Crunch",
+          "level": 71
+        },
+        {
+          "move": "Thunder",
+          "level": 78
+        },
+        {
+          "move": "Outrage",
+          "level": 85
+        },
+        {
+          "move": "Hyper Voice",
+          "level": 92
+        },
+        {
+          "move": "Bolt Strike",
+          "level": 100
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

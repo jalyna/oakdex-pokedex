@@ -54,224 +54,6 @@
     "sp_def": 75,
     "speed": 36
   },
-  "learnset": [
-    {
-      "move": "Vice Grip",
-      "level": 1
-    },
-    {
-      "move": "String Shot",
-      "level": 1
-    },
-    {
-      "move": "Mud-Slap",
-      "level": 1
-    },
-    {
-      "move": "Bite",
-      "level": 1
-    },
-    {
-      "move": "Charge",
-      "level": 0
-    },
-    {
-      "move": "String Shot",
-      "level": 4
-    },
-    {
-      "move": "Mud-Slap",
-      "level": 7
-    },
-    {
-      "move": "Bite",
-      "level": 10
-    },
-    {
-      "move": "Bug Bite",
-      "level": 13
-    },
-    {
-      "move": "Spark",
-      "level": 16
-    },
-    {
-      "move": "Acrobatics",
-      "level": 19
-    },
-    {
-      "move": "Crunch",
-      "level": 25
-    },
-    {
-      "move": "X-Scissor",
-      "level": 31
-    },
-    {
-      "move": "Dig",
-      "level": 37
-    },
-    {
-      "move": "Discharge",
-      "level": 43
-    },
-    {
-      "move": "Iron Defense",
-      "level": 49
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Acrobatics",
-      "tm": "TM62"
-    },
-    {
-      "move": "Volt Switch",
-      "tm": "TM72"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "X-Scissor",
-      "tm": "TM81"
-    },
-    {
-      "move": "Poison Jab",
-      "tm": "TM84"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Wild Charge",
-      "tm": "TM93"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Endure",
-      "parent": "Heracross"
-    },
-    {
-      "move": "Endure",
-      "parent": "Sewaddle"
-    },
-    {
-      "move": "Endure",
-      "parent": "Karrablast"
-    },
-    {
-      "move": "Harden",
-      "parent": "Metapod"
-    },
-    {
-      "move": "Harden",
-      "parent": "Kakuna"
-    },
-    {
-      "move": "Harden",
-      "parent": "Pinsir"
-    },
-    {
-      "move": "Harden",
-      "parent": "Gligar"
-    },
-    {
-      "move": "Harden",
-      "parent": "Gliscor"
-    },
-    {
-      "move": "Harden",
-      "parent": "Silcoon"
-    },
-    {
-      "move": "Harden",
-      "parent": "Cascoon"
-    },
-    {
-      "move": "Harden",
-      "parent": "Nincada"
-    },
-    {
-      "move": "Harden",
-      "parent": "Ninjask"
-    },
-    {
-      "move": "Harden",
-      "parent": "Spewpa"
-    },
-    {
-      "move": "Mud Shot",
-      "parent": "Surskit"
-    },
-    {
-      "move": "Mud Shot",
-      "parent": "Trapinch"
-    }
-  ],
   "evolution_from": "Grubbin",
   "evolutions": [
     {
@@ -330,5 +112,375 @@
       0
     ]
   },
-  "ultra_alola_id": 13
+  "ultra_alola_id": 13,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bite",
+          "level": 1
+        },
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Vice Grip",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 4
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Spark",
+          "level": 16
+        },
+        {
+          "move": "Acrobatics",
+          "level": 19
+        },
+        {
+          "move": "Crunch",
+          "level": 25
+        },
+        {
+          "move": "X-Scissor",
+          "level": 31
+        },
+        {
+          "move": "Dig",
+          "level": 37
+        },
+        {
+          "move": "Discharge",
+          "level": 43
+        },
+        {
+          "move": "Iron Defense",
+          "level": 49
+        },
+        {
+          "move": "Electroweb",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bite",
+          "level": 1
+        },
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Vice Grip",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 4
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Spark",
+          "level": 16
+        },
+        {
+          "move": "Acrobatics",
+          "level": 19
+        },
+        {
+          "move": "Crunch",
+          "level": 25
+        },
+        {
+          "move": "X-Scissor",
+          "level": 31
+        },
+        {
+          "move": "Dig",
+          "level": 37
+        },
+        {
+          "move": "Discharge",
+          "level": 43
+        },
+        {
+          "move": "Iron Defense",
+          "level": 49
+        },
+        {
+          "move": "Electroweb",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Shot",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

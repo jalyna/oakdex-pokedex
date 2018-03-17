@@ -49,12 +49,6 @@
     "sp_def": 31,
     "speed": 37
   },
-  "learnset": [
-    {
-      "move": "Teleport",
-      "level": 23
-    }
-  ],
   "gender_ratios": null,
   "evolutions": [
     {
@@ -111,5 +105,39 @@
       0
     ]
   },
-  "ultra_alola_id": 387
+  "ultra_alola_id": 387,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 23
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 23
+        }
+      ]
+    }
+  ]
 }

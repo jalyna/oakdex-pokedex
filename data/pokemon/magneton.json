@@ -52,224 +52,6 @@
     "sp_def": 70,
     "speed": 70
   },
-  "learnset": [
-    {
-      "level": 1,
-      "move": "Zap Cannon"
-    },
-    {
-      "level": 1,
-      "move": "Electric Terrain"
-    },
-    {
-      "level": 1,
-      "move": "Tackle"
-    },
-    {
-      "level": 1,
-      "move": "Supersonic"
-    },
-    {
-      "level": 1,
-      "move": "Thunder Shock"
-    },
-    {
-      "level": 1,
-      "move": "Sonic Boom"
-    },
-    {
-      "level": 5,
-      "move": "Supersonic"
-    },
-    {
-      "level": 7,
-      "move": "Thunder Shock"
-    },
-    {
-      "level": 11,
-      "move": "Sonic Boom"
-    },
-    {
-      "level": 13,
-      "move": "Thunder Wave"
-    },
-    {
-      "level": 17,
-      "move": "Magnet Bomb"
-    },
-    {
-      "level": 19,
-      "move": "Spark"
-    },
-    {
-      "level": 23,
-      "move": "Mirror Shot"
-    },
-    {
-      "level": 25,
-      "move": "Metal Sound"
-    },
-    {
-      "level": 29,
-      "move": "Electro Ball"
-    },
-    {
-      "level": 30,
-      "move": "Tri Attack"
-    },
-    {
-      "level": 33,
-      "move": "Flash Cannon"
-    },
-    {
-      "level": 39,
-      "move": "Screech"
-    },
-    {
-      "level": 43,
-      "move": "Discharge"
-    },
-    {
-      "level": 49,
-      "move": "Lock-On"
-    },
-    {
-      "level": 53,
-      "move": "Magnet Rise"
-    },
-    {
-      "level": 59,
-      "move": "Gyro Ball"
-    },
-    {
-      "level": 63,
-      "move": "Zap Cannon"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM25",
-      "move": "Thunder"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM33",
-      "move": "Reflect"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM57",
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM64",
-      "move": "Explosion"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM72",
-      "move": "Volt Switch"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    },
-    {
-      "tm": "TM74",
-      "move": "Gyro Ball"
-    },
-    {
-      "tm": "TM77",
-      "move": "Psych Up"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM93",
-      "move": "Wild Charge"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    }
-  ],
   "evolution_from": "Magnemite",
   "evolutions": [
     {
@@ -425,5 +207,2759 @@
       4
     ]
   },
-  "ultra_alola_id": 26
+  "ultra_alola_id": 26,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 21
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 25
+        },
+        {
+          "move": "Supersonic",
+          "level": 29
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 38
+        },
+        {
+          "move": "Swift",
+          "level": 46
+        },
+        {
+          "move": "Screech",
+          "level": 54
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Teleport",
+          "tm": "TM30"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM45"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 21
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 25
+        },
+        {
+          "move": "Supersonic",
+          "level": 29
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 38
+        },
+        {
+          "move": "Swift",
+          "level": 46
+        },
+        {
+          "move": "Screech",
+          "level": 54
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Teleport",
+          "tm": "TM30"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM45"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 16
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 21
+        },
+        {
+          "move": "Lock-On",
+          "level": 27
+        },
+        {
+          "move": "Swift",
+          "level": 35
+        },
+        {
+          "move": "Screech",
+          "level": 43
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 53
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Zap Cannon",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 16
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 21
+        },
+        {
+          "move": "Lock-On",
+          "level": 27
+        },
+        {
+          "move": "Tri Attack",
+          "level": 35
+        },
+        {
+          "move": "Screech",
+          "level": 43
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 53
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Zap Cannon",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 16
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 21
+        },
+        {
+          "move": "Spark",
+          "level": 26
+        },
+        {
+          "move": "Lock-On",
+          "level": 35
+        },
+        {
+          "move": "Tri Attack",
+          "level": 44
+        },
+        {
+          "move": "Screech",
+          "level": 53
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 62
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 16
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 21
+        },
+        {
+          "move": "Spark",
+          "level": 26
+        },
+        {
+          "move": "Lock-On",
+          "level": 35
+        },
+        {
+          "move": "Tri Attack",
+          "level": 44
+        },
+        {
+          "move": "Screech",
+          "level": 53
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 62
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 16
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 21
+        },
+        {
+          "move": "Spark",
+          "level": 26
+        },
+        {
+          "move": "Lock-On",
+          "level": 35
+        },
+        {
+          "move": "Tri Attack",
+          "level": 44
+        },
+        {
+          "move": "Screech",
+          "level": 53
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 62
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 14
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 22
+        },
+        {
+          "move": "Lock-On",
+          "level": 27
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 30
+        },
+        {
+          "move": "Screech",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 40
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 46
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 50
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 54
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 60
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Recycle",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 14
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 22
+        },
+        {
+          "move": "Lock-On",
+          "level": 27
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 30
+        },
+        {
+          "move": "Screech",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 40
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 46
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 50
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 54
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 60
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Recycle",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 14
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 22
+        },
+        {
+          "move": "Lock-On",
+          "level": 27
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 30
+        },
+        {
+          "move": "Screech",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 40
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 46
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 50
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 54
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 60
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Recycle",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Metal Sound",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 6
+        },
+        {
+          "move": "Supersonic",
+          "level": 11
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 14
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 22
+        },
+        {
+          "move": "Electro Ball",
+          "level": 27
+        },
+        {
+          "move": "Lock-On",
+          "level": 30
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 34
+        },
+        {
+          "move": "Screech",
+          "level": 40
+        },
+        {
+          "move": "Discharge",
+          "level": 46
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 50
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 54
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 60
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 66
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 4
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 7
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 11
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 15
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 18
+        },
+        {
+          "move": "Spark",
+          "level": 21
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 25
+        },
+        {
+          "move": "Metal Sound",
+          "level": 29
+        },
+        {
+          "move": "Electro Ball",
+          "level": 34
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 39
+        },
+        {
+          "move": "Screech",
+          "level": 45
+        },
+        {
+          "move": "Discharge",
+          "level": 51
+        },
+        {
+          "move": "Lock-On",
+          "level": 56
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 62
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 67
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 4
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 7
+        },
+        {
+          "move": "Electric Terrain",
+          "level": 11
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 15
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 18
+        },
+        {
+          "move": "Spark",
+          "level": 21
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 25
+        },
+        {
+          "move": "Metal Sound",
+          "level": 29
+        },
+        {
+          "move": "Electro Ball",
+          "level": 34
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 39
+        },
+        {
+          "move": "Screech",
+          "level": 45
+        },
+        {
+          "move": "Discharge",
+          "level": 51
+        },
+        {
+          "move": "Lock-On",
+          "level": 56
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 62
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 67
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Electric Terrain",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 5
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 7
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 11
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 13
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 19
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 23
+        },
+        {
+          "move": "Metal Sound",
+          "level": 25
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Tri Attack",
+          "level": 30
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 33
+        },
+        {
+          "move": "Screech",
+          "level": 39
+        },
+        {
+          "move": "Discharge",
+          "level": 43
+        },
+        {
+          "move": "Lock-On",
+          "level": 49
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 53
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 59
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 63
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Electric Terrain",
+          "level": 1
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 5
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 7
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 11
+        },
+        {
+          "move": "Light Screen",
+          "level": 13
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 19
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 23
+        },
+        {
+          "move": "Metal Sound",
+          "level": 25
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 33
+        },
+        {
+          "move": "Screech",
+          "level": 39
+        },
+        {
+          "move": "Discharge",
+          "level": 43
+        },
+        {
+          "move": "Lock-On",
+          "level": 49
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 53
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 59
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 63
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Electric Terrain",
+          "level": 1
+        },
+        {
+          "move": "Supersonic",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Tri Attack",
+          "level": 1
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 5
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 7
+        },
+        {
+          "move": "Magnet Bomb",
+          "level": 11
+        },
+        {
+          "move": "Light Screen",
+          "level": 13
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Spark",
+          "level": 19
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 23
+        },
+        {
+          "move": "Metal Sound",
+          "level": 25
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 33
+        },
+        {
+          "move": "Screech",
+          "level": 39
+        },
+        {
+          "move": "Discharge",
+          "level": 43
+        },
+        {
+          "move": "Lock-On",
+          "level": 49
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 53
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 59
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 63
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -51,188 +51,6 @@
     "sp_def": 55,
     "speed": 100
   },
-  "learnset": [
-    {
-      "level": 1,
-      "move": "Charge"
-    },
-    {
-      "level": 1,
-      "move": "Tackle"
-    },
-    {
-      "level": 4,
-      "move": "Sonic Boom"
-    },
-    {
-      "level": 6,
-      "move": "Eerie Impulse"
-    },
-    {
-      "level": 9,
-      "move": "Spark"
-    },
-    {
-      "level": 11,
-      "move": "Rollout"
-    },
-    {
-      "level": 13,
-      "move": "Screech"
-    },
-    {
-      "level": 16,
-      "move": "Charge Beam"
-    },
-    {
-      "level": 20,
-      "move": "Swift"
-    },
-    {
-      "level": 22,
-      "move": "Electro Ball"
-    },
-    {
-      "level": 26,
-      "move": "Self-Destruct"
-    },
-    {
-      "level": 29,
-      "move": "Light Screen"
-    },
-    {
-      "level": 34,
-      "move": "Magnet Rise"
-    },
-    {
-      "level": 37,
-      "move": "Discharge"
-    },
-    {
-      "level": 41,
-      "move": "Explosion"
-    },
-    {
-      "level": 46,
-      "move": "Gyro Ball"
-    },
-    {
-      "level": 48,
-      "move": "Mirror Coat"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM25",
-      "move": "Thunder"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM41",
-      "move": "Torment"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM46",
-      "move": "Thief"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM57",
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM64",
-      "move": "Explosion"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM72",
-      "move": "Volt Switch"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    },
-    {
-      "tm": "TM74",
-      "move": "Gyro Ball"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM93",
-      "move": "Wild Charge"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    }
-  ],
   "evolutions": [
     {
       "to": "Electrode",
@@ -377,5 +195,2403 @@
       5
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Screech",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 22
+        },
+        {
+          "move": "Light Screen",
+          "level": 29
+        },
+        {
+          "move": "Swift",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 43
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Teleport",
+          "tm": "TM30"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Self-Destruct",
+          "tm": "TM36"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM45"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM47"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Screech",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 22
+        },
+        {
+          "move": "Light Screen",
+          "level": 29
+        },
+        {
+          "move": "Swift",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 43
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Teleport",
+          "tm": "TM30"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Self-Destruct",
+          "tm": "TM36"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM45"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM47"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Screech",
+          "level": 9
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 23
+        },
+        {
+          "move": "Rollout",
+          "level": 29
+        },
+        {
+          "move": "Light Screen",
+          "level": 33
+        },
+        {
+          "move": "Swift",
+          "level": 37
+        },
+        {
+          "move": "Explosion",
+          "level": 39
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 41
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Zap Cannon",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Screech",
+          "level": 9
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 23
+        },
+        {
+          "move": "Rollout",
+          "level": 29
+        },
+        {
+          "move": "Light Screen",
+          "level": 33
+        },
+        {
+          "move": "Swift",
+          "level": 37
+        },
+        {
+          "move": "Explosion",
+          "level": 39
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 41
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Zap Cannon",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Screech",
+          "level": 8
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 15
+        },
+        {
+          "move": "Spark",
+          "level": 21
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 27
+        },
+        {
+          "move": "Rollout",
+          "level": 32
+        },
+        {
+          "move": "Light Screen",
+          "level": 37
+        },
+        {
+          "move": "Swift",
+          "level": 42
+        },
+        {
+          "move": "Explosion",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 49
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Screech",
+          "level": 8
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 15
+        },
+        {
+          "move": "Spark",
+          "level": 21
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 27
+        },
+        {
+          "move": "Rollout",
+          "level": 32
+        },
+        {
+          "move": "Light Screen",
+          "level": 37
+        },
+        {
+          "move": "Swift",
+          "level": 42
+        },
+        {
+          "move": "Explosion",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 49
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Screech",
+          "level": 8
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 15
+        },
+        {
+          "move": "Spark",
+          "level": 21
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 27
+        },
+        {
+          "move": "Rollout",
+          "level": 32
+        },
+        {
+          "move": "Light Screen",
+          "level": 37
+        },
+        {
+          "move": "Swift",
+          "level": 42
+        },
+        {
+          "move": "Explosion",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 49
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Light Screen",
+          "level": 22
+        },
+        {
+          "move": "Charge Beam",
+          "level": 26
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 29
+        },
+        {
+          "move": "Swift",
+          "level": 33
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 36
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 40
+        },
+        {
+          "move": "Explosion",
+          "level": 43
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 47
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Light Screen",
+          "level": 22
+        },
+        {
+          "move": "Charge Beam",
+          "level": 26
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 29
+        },
+        {
+          "move": "Swift",
+          "level": 33
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 36
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 40
+        },
+        {
+          "move": "Explosion",
+          "level": 43
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 47
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Light Screen",
+          "level": 22
+        },
+        {
+          "move": "Charge Beam",
+          "level": 26
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 29
+        },
+        {
+          "move": "Swift",
+          "level": 33
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 36
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 40
+        },
+        {
+          "move": "Explosion",
+          "level": 43
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 47
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Shock Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Charge Beam",
+          "level": 22
+        },
+        {
+          "move": "Light Screen",
+          "level": 26
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 33
+        },
+        {
+          "move": "Swift",
+          "level": 36
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 40
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 43
+        },
+        {
+          "move": "Explosion",
+          "level": 47
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 50
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Charge Beam",
+          "level": 22
+        },
+        {
+          "move": "Light Screen",
+          "level": 26
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 33
+        },
+        {
+          "move": "Swift",
+          "level": 36
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 40
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 43
+        },
+        {
+          "move": "Explosion",
+          "level": 47
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 50
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 5
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 8
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 10
+        },
+        {
+          "move": "Spark",
+          "level": 12
+        },
+        {
+          "move": "Rollout",
+          "level": 15
+        },
+        {
+          "move": "Screech",
+          "level": 19
+        },
+        {
+          "move": "Charge Beam",
+          "level": 22
+        },
+        {
+          "move": "Light Screen",
+          "level": 26
+        },
+        {
+          "move": "Electro Ball",
+          "level": 29
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 33
+        },
+        {
+          "move": "Swift",
+          "level": 36
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 40
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 43
+        },
+        {
+          "move": "Explosion",
+          "level": 47
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 50
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 4
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 6
+        },
+        {
+          "move": "Spark",
+          "level": 9
+        },
+        {
+          "move": "Rollout",
+          "level": 11
+        },
+        {
+          "move": "Screech",
+          "level": 13
+        },
+        {
+          "move": "Charge Beam",
+          "level": 16
+        },
+        {
+          "move": "Swift",
+          "level": 20
+        },
+        {
+          "move": "Electro Ball",
+          "level": 22
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 26
+        },
+        {
+          "move": "Light Screen",
+          "level": 29
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 37
+        },
+        {
+          "move": "Explosion",
+          "level": 41
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 48
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 4
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 6
+        },
+        {
+          "move": "Spark",
+          "level": 9
+        },
+        {
+          "move": "Rollout",
+          "level": 11
+        },
+        {
+          "move": "Screech",
+          "level": 13
+        },
+        {
+          "move": "Charge Beam",
+          "level": 16
+        },
+        {
+          "move": "Swift",
+          "level": 20
+        },
+        {
+          "move": "Electro Ball",
+          "level": 22
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 26
+        },
+        {
+          "move": "Light Screen",
+          "level": 29
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 37
+        },
+        {
+          "move": "Explosion",
+          "level": 41
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 48
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 4
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 6
+        },
+        {
+          "move": "Spark",
+          "level": 9
+        },
+        {
+          "move": "Rollout",
+          "level": 11
+        },
+        {
+          "move": "Screech",
+          "level": 13
+        },
+        {
+          "move": "Charge Beam",
+          "level": 16
+        },
+        {
+          "move": "Swift",
+          "level": 20
+        },
+        {
+          "move": "Electro Ball",
+          "level": 22
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 26
+        },
+        {
+          "move": "Light Screen",
+          "level": 29
+        },
+        {
+          "move": "Magnet Rise",
+          "level": 34
+        },
+        {
+          "move": "Discharge",
+          "level": 37
+        },
+        {
+          "move": "Explosion",
+          "level": 41
+        },
+        {
+          "move": "Gyro Ball",
+          "level": 46
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 48
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

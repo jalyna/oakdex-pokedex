@@ -50,172 +50,6 @@
     "sp_def": 70,
     "speed": 40
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Headbutt"
-    },
-    {
-      "level": 0,
-      "move": "Thunder Wave"
-    },
-    {
-      "level": 0,
-      "move": "Spark"
-    },
-    {
-      "level": 0,
-      "move": "Charge Beam"
-    },
-    {
-      "level": 9,
-      "move": "Bind"
-    },
-    {
-      "level": 19,
-      "move": "Acid"
-    },
-    {
-      "level": 29,
-      "move": "Discharge"
-    },
-    {
-      "level": 39,
-      "move": "Crunch"
-    },
-    {
-      "level": 44,
-      "move": "Thunderbolt"
-    },
-    {
-      "level": 49,
-      "move": "Acid Spray"
-    },
-    {
-      "level": 54,
-      "move": "Coil"
-    },
-    {
-      "level": 59,
-      "move": "Wild Charge"
-    },
-    {
-      "level": 64,
-      "move": "Gastro Acid"
-    },
-    {
-      "level": 69,
-      "move": "Zap Cannon"
-    },
-    {
-      "level": 74,
-      "move": "Thrash"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM25",
-      "move": "Thunder"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM57",
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM62",
-      "move": "Acrobatics"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM72",
-      "move": "Volt Switch"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM89",
-      "move": "U-turn"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM93",
-      "move": "Wild Charge"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    }
-  ],
   "evolution_from": "Tynamo",
   "evolutions": [
     {
@@ -296,5 +130,1019 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Crunch",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Crunch",
+          "level": 1
+        },
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Bind",
+          "level": 9
+        },
+        {
+          "move": "Acid",
+          "level": 19
+        },
+        {
+          "move": "Discharge",
+          "level": 29
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 44
+        },
+        {
+          "move": "Acid Spray",
+          "level": 49
+        },
+        {
+          "move": "Coil",
+          "level": 54
+        },
+        {
+          "move": "Wild Charge",
+          "level": 59
+        },
+        {
+          "move": "Gastro Acid",
+          "level": 64
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 69
+        },
+        {
+          "move": "Thrash",
+          "level": 74
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -49,16 +49,6 @@
     "sp_def": 131,
     "speed": 37
   },
-  "learnset": [
-    {
-      "move": "Teleport",
-      "level": 1
-    },
-    {
-      "move": "Cosmic Power",
-      "level": 0
-    }
-  ],
   "gender_ratios": null,
   "evolution_from": "Cosmog",
   "evolutions": [
@@ -125,5 +115,39 @@
       0
     ]
   },
-  "ultra_alola_id": 388
+  "ultra_alola_id": 388,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Cosmic Power",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Cosmic Power",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 1
+        }
+      ]
+    }
+  ]
 }

@@ -50,188 +50,6 @@
     "sp_def": 37,
     "speed": 151
   },
-  "learnset": [
-    {
-      "move": "Quick Guard",
-      "level": 1
-    },
-    {
-      "move": "Low Kick",
-      "level": 1
-    },
-    {
-      "move": "Rapid Spin",
-      "level": 1
-    },
-    {
-      "move": "Leer",
-      "level": 1
-    },
-    {
-      "move": "Double Kick",
-      "level": 1
-    },
-    {
-      "move": "Swift",
-      "level": 7
-    },
-    {
-      "move": "Stomp",
-      "level": 13
-    },
-    {
-      "move": "Feint",
-      "level": 19
-    },
-    {
-      "move": "Silver Wind",
-      "level": 23
-    },
-    {
-      "move": "Bounce",
-      "level": 29
-    },
-    {
-      "move": "Jump Kick",
-      "level": 31
-    },
-    {
-      "move": "Agility",
-      "level": 37
-    },
-    {
-      "move": "Triple Kick",
-      "level": 43
-    },
-    {
-      "move": "Lunge",
-      "level": 47
-    },
-    {
-      "move": "Bug Buzz",
-      "level": 53
-    },
-    {
-      "move": "Me First",
-      "level": 59
-    },
-    {
-      "move": "High Jump Kick",
-      "level": 67
-    },
-    {
-      "move": "Speed Swap",
-      "level": 73
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Roost",
-      "tm": "TM19"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Torment",
-      "tm": "TM41"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Low Sweep",
-      "tm": "TM47"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Echoed Voice",
-      "tm": "TM49"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "False Swipe",
-      "tm": "TM54"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Poison Jab",
-      "tm": "TM84"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "U-turn",
-      "tm": "TM89"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Lissome Pokémon",
@@ -285,5 +103,399 @@
       0
     ]
   },
-  "ultra_alola_id": 395
+  "ultra_alola_id": 395,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Double Kick",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Low Kick",
+          "level": 1
+        },
+        {
+          "move": "Quick Guard",
+          "level": 1
+        },
+        {
+          "move": "Quiver Dance",
+          "level": 1
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 1
+        },
+        {
+          "move": "Swift",
+          "level": 7
+        },
+        {
+          "move": "Stomp",
+          "level": 13
+        },
+        {
+          "move": "Feint",
+          "level": 19
+        },
+        {
+          "move": "Silver Wind",
+          "level": 23
+        },
+        {
+          "move": "Bounce",
+          "level": 29
+        },
+        {
+          "move": "Jump Kick",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Triple Kick",
+          "level": 43
+        },
+        {
+          "move": "Lunge",
+          "level": 47
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 53
+        },
+        {
+          "move": "Me First",
+          "level": 59
+        },
+        {
+          "move": "High Jump Kick",
+          "level": 67
+        },
+        {
+          "move": "Speed Swap",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Double Kick",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Low Kick",
+          "level": 1
+        },
+        {
+          "move": "Quick Guard",
+          "level": 1
+        },
+        {
+          "move": "Quiver Dance",
+          "level": 1
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 1
+        },
+        {
+          "move": "Swift",
+          "level": 7
+        },
+        {
+          "move": "Stomp",
+          "level": 13
+        },
+        {
+          "move": "Feint",
+          "level": 19
+        },
+        {
+          "move": "Silver Wind",
+          "level": 23
+        },
+        {
+          "move": "Bounce",
+          "level": 29
+        },
+        {
+          "move": "Jump Kick",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Triple Kick",
+          "level": 43
+        },
+        {
+          "move": "Lunge",
+          "level": 47
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 53
+        },
+        {
+          "move": "Me First",
+          "level": 59
+        },
+        {
+          "move": "High Jump Kick",
+          "level": 67
+        },
+        {
+          "move": "Speed Swap",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -51,228 +51,6 @@
     "sp_def": 150,
     "speed": 60
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Fury Cutter"
-    },
-    {
-      "level": 0,
-      "move": "Pursuit"
-    },
-    {
-      "level": 0,
-      "move": "Autotomize"
-    },
-    {
-      "level": 0,
-      "move": "Shadow Sneak"
-    },
-    {
-      "level": 0,
-      "move": "Slash"
-    },
-    {
-      "level": 0,
-      "move": "Iron Defense"
-    },
-    {
-      "level": 0,
-      "move": "Night Slash"
-    },
-    {
-      "level": 0,
-      "move": "Power Trick"
-    },
-    {
-      "level": 0,
-      "move": "Iron Head"
-    },
-    {
-      "level": 0,
-      "move": "Head Smash"
-    },
-    {
-      "level": 0,
-      "move": "Swords Dance"
-    },
-    {
-      "level": 0,
-      "move": "Aerial Ace"
-    },
-    {
-      "level": 0,
-      "move": "King's Shield"
-    },
-    {
-      "level": 0,
-      "move": "Sacred Sword"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM30",
-      "move": "Shadow Ball"
-    },
-    {
-      "tm": "TM31",
-      "move": "Brick Break"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM33",
-      "move": "Reflect"
-    },
-    {
-      "tm": "TM40",
-      "move": "Aerial Ace"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM54",
-      "move": "False Swipe"
-    },
-    {
-      "tm": "TM65",
-      "move": "Shadow Claw"
-    },
-    {
-      "tm": "TM67",
-      "move": "Retaliate"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM74",
-      "move": "Gyro Ball"
-    },
-    {
-      "tm": "TM75",
-      "move": "Swords Dance"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Yamask",
-      "move": "Destiny Bond"
-    },
-    {
-      "parent": "Cofagrigus",
-      "move": "Destiny Bond"
-    },
-    {
-      "parent": "Honedge",
-      "move": "Metal Sound"
-    },
-    {
-      "parent": "Doublade",
-      "move": "Metal Sound"
-    },
-    {
-      "parent": "Klefki",
-      "move": "Metal Sound"
-    },
-    {
-      "parent": "Honedge",
-      "move": "Shadow Sneak"
-    },
-    {
-      "parent": "Doublade",
-      "move": "Shadow Sneak"
-    },
-    {
-      "parent": "Aegislash",
-      "move": "Shadow Sneak"
-    },
-    {
-      "parent": "Probopass",
-      "move": "Wide Guard"
-    }
-  ],
   "evolution_from": "Doublade",
   "categories": {
     "en": "Royal Sword Pokémon",
@@ -357,5 +135,811 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Aerial Ace",
+          "level": 1
+        },
+        {
+          "move": "Autotomize",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Head Smash",
+          "level": 1
+        },
+        {
+          "move": "Iron Defense",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "King's Shield",
+          "level": 1
+        },
+        {
+          "move": "Night Slash",
+          "level": 1
+        },
+        {
+          "move": "Power Trick",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Aerial Ace",
+          "level": 1
+        },
+        {
+          "move": "Autotomize",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Head Smash",
+          "level": 1
+        },
+        {
+          "move": "Iron Defense",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "King's Shield",
+          "level": 1
+        },
+        {
+          "move": "Night Slash",
+          "level": 1
+        },
+        {
+          "move": "Power Trick",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aerial Ace",
+          "level": 1
+        },
+        {
+          "move": "Autotomize",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Head Smash",
+          "level": 1
+        },
+        {
+          "move": "Iron Defense",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "King's Shield",
+          "level": 1
+        },
+        {
+          "move": "Night Slash",
+          "level": 1
+        },
+        {
+          "move": "Power Trick",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aerial Ace",
+          "level": 1
+        },
+        {
+          "move": "Autotomize",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Head Smash",
+          "level": 1
+        },
+        {
+          "move": "Iron Defense",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "King's Shield",
+          "level": 1
+        },
+        {
+          "move": "Night Slash",
+          "level": 1
+        },
+        {
+          "move": "Power Trick",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Shadow Sneak",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 1
+        },
+        {
+          "move": "Swords Dance",
+          "level": 1
+        },
+        {
+          "move": "Destiny Bond",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Sound",
+          "egg_move": true
+        },
+        {
+          "move": "Shadow Sneak",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

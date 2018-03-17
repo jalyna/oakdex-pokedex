@@ -50,248 +50,6 @@
     "sp_def": 107,
     "speed": 97
   },
-  "learnset": [
-    {
-      "move": "Cosmic Power",
-      "level": 1
-    },
-    {
-      "move": "Hypnosis",
-      "level": 1
-    },
-    {
-      "move": "Teleport",
-      "level": 1
-    },
-    {
-      "move": "Confusion",
-      "level": 1
-    },
-    {
-      "move": "Moongeist Beam",
-      "level": 0
-    },
-    {
-      "move": "Night Shade",
-      "level": 7
-    },
-    {
-      "move": "Confuse Ray",
-      "level": 13
-    },
-    {
-      "move": "Air Slash",
-      "level": 19
-    },
-    {
-      "move": "Shadow Ball",
-      "level": 23
-    },
-    {
-      "move": "Moonlight",
-      "level": 31
-    },
-    {
-      "move": "Night Daze",
-      "level": 37
-    },
-    {
-      "move": "Magic Coat",
-      "level": 43
-    },
-    {
-      "move": "Moonblast",
-      "level": 47
-    },
-    {
-      "move": "Dream Eater",
-      "level": 59
-    },
-    {
-      "move": "Phantom Force",
-      "level": 61
-    },
-    {
-      "move": "Wide Guard",
-      "level": 67
-    },
-    {
-      "move": "Hyper Beam",
-      "level": 73
-    },
-    {
-      "move": "Psyshock",
-      "tm": "TM03"
-    },
-    {
-      "move": "Calm Mind",
-      "tm": "TM04"
-    },
-    {
-      "move": "Roar",
-      "tm": "TM05"
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Roost",
-      "tm": "TM19"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Thunder",
-      "tm": "TM25"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Shadow Ball",
-      "tm": "TM30"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Aerial Ace",
-      "tm": "TM40"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Sky Drop",
-      "tm": "TM58"
-    },
-    {
-      "move": "Will-O-Wisp",
-      "tm": "TM61"
-    },
-    {
-      "move": "Acrobatics",
-      "tm": "TM62"
-    },
-    {
-      "move": "Shadow Claw",
-      "tm": "TM65"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "Fly",
-      "tm": "TM76"
-    },
-    {
-      "move": "Psych Up",
-      "tm": "TM77"
-    },
-    {
-      "move": "Dream Eater",
-      "tm": "TM85"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "evolution_from": "Cosmoem",
   "categories": {
@@ -359,5 +117,511 @@
       0
     ]
   },
-  "ultra_alola_id": 390
+  "ultra_alola_id": 390,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "Cosmic Power",
+          "level": 1
+        },
+        {
+          "move": "Hypnosis",
+          "level": 1
+        },
+        {
+          "move": "Moongeist Beam",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 1
+        },
+        {
+          "move": "Night Shade",
+          "level": 7
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 13
+        },
+        {
+          "move": "Air Slash",
+          "level": 19
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 23
+        },
+        {
+          "move": "Moonlight",
+          "level": 31
+        },
+        {
+          "move": "Night Daze",
+          "level": 37
+        },
+        {
+          "move": "Magic Coat",
+          "level": 43
+        },
+        {
+          "move": "Moonblast",
+          "level": 47
+        },
+        {
+          "move": "Dream Eater",
+          "level": 59
+        },
+        {
+          "move": "Phantom Force",
+          "level": 61
+        },
+        {
+          "move": "Wide Guard",
+          "level": 67
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 73
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "Cosmic Power",
+          "level": 1
+        },
+        {
+          "move": "Hypnosis",
+          "level": 1
+        },
+        {
+          "move": "Moongeist Beam",
+          "level": 1
+        },
+        {
+          "move": "Teleport",
+          "level": 1
+        },
+        {
+          "move": "Night Shade",
+          "level": 7
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 13
+        },
+        {
+          "move": "Air Slash",
+          "level": 19
+        },
+        {
+          "move": "Shadow Ball",
+          "level": 23
+        },
+        {
+          "move": "Moonlight",
+          "level": 31
+        },
+        {
+          "move": "Night Daze",
+          "level": 37
+        },
+        {
+          "move": "Magic Coat",
+          "level": 43
+        },
+        {
+          "move": "Moonblast",
+          "level": 47
+        },
+        {
+          "move": "Dream Eater",
+          "level": 59
+        },
+        {
+          "move": "Phantom Force",
+          "level": 61
+        },
+        {
+          "move": "Wide Guard",
+          "level": 67
+        },
+        {
+          "move": "Hyper Beam",
+          "level": 73
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

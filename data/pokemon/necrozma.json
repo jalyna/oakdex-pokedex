@@ -49,244 +49,6 @@
     "sp_def": 89,
     "speed": 79
   },
-  "learnset": [
-    {
-      "move": "Morning Sun",
-      "level": 1
-    },
-    {
-      "move": "Charge Beam",
-      "level": 1
-    },
-    {
-      "move": "Mirror Shot",
-      "level": 1
-    },
-    {
-      "move": "Metal Claw",
-      "level": 1
-    },
-    {
-      "move": "Confusion",
-      "level": 1
-    },
-    {
-      "move": "Slash",
-      "level": 7
-    },
-    {
-      "move": "Stored Power",
-      "level": 13
-    },
-    {
-      "move": "Rock Blast",
-      "level": 19
-    },
-    {
-      "move": "Night Slash",
-      "level": 23
-    },
-    {
-      "move": "Gravity",
-      "level": 31
-    },
-    {
-      "move": "Psycho Cut",
-      "level": 37
-    },
-    {
-      "move": "Power Gem",
-      "level": 43
-    },
-    {
-      "move": "Autotomize",
-      "level": 47
-    },
-    {
-      "move": "Stealth Rock",
-      "level": 53
-    },
-    {
-      "move": "Iron Defense",
-      "level": 59
-    },
-    {
-      "move": "Wring Out",
-      "level": 67
-    },
-    {
-      "move": "Prismatic Laser",
-      "level": 73
-    },
-    {
-      "move": "Calm Mind",
-      "tm": "TM04"
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Rock Tomb",
-      "tm": "TM39"
-    },
-    {
-      "move": "Aerial Ace",
-      "tm": "TM40"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Thief",
-      "tm": "TM46"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Embargo",
-      "tm": "TM63"
-    },
-    {
-      "move": "Shadow Claw",
-      "tm": "TM65"
-    },
-    {
-      "move": "Smart Strike",
-      "tm": "TM67"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Rock Polish",
-      "tm": "TM69"
-    },
-    {
-      "move": "Stone Edge",
-      "tm": "TM71"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "Gyro Ball",
-      "tm": "TM74"
-    },
-    {
-      "move": "Swords Dance",
-      "tm": "TM75"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "X-Scissor",
-      "tm": "TM81"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Flash Cannon",
-      "tm": "TM91"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Dark Pulse",
-      "tm": "TM97"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Prism Pokémon",
@@ -340,5 +102,515 @@
       0
     ]
   },
-  "ultra_alola_id": 400
+  "ultra_alola_id": 400,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 1
+        },
+        {
+          "move": "Moonlight",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 7
+        },
+        {
+          "move": "Stored Power",
+          "level": 13
+        },
+        {
+          "move": "Rock Blast",
+          "level": 19
+        },
+        {
+          "move": "Night Slash",
+          "level": 23
+        },
+        {
+          "move": "Gravity",
+          "level": 31
+        },
+        {
+          "move": "Psycho Cut",
+          "level": 37
+        },
+        {
+          "move": "Power Gem",
+          "level": 43
+        },
+        {
+          "move": "Autotomize",
+          "level": 47
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 53
+        },
+        {
+          "move": "Iron Defense",
+          "level": 59
+        },
+        {
+          "move": "Wring Out",
+          "level": 67
+        },
+        {
+          "move": "Prismatic Laser",
+          "level": 73
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 1
+        },
+        {
+          "move": "Moonlight",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Slash",
+          "level": 7
+        },
+        {
+          "move": "Stored Power",
+          "level": 13
+        },
+        {
+          "move": "Rock Blast",
+          "level": 19
+        },
+        {
+          "move": "Night Slash",
+          "level": 23
+        },
+        {
+          "move": "Gravity",
+          "level": 31
+        },
+        {
+          "move": "Psycho Cut",
+          "level": 37
+        },
+        {
+          "move": "Power Gem",
+          "level": 43
+        },
+        {
+          "move": "Autotomize",
+          "level": 47
+        },
+        {
+          "move": "Photon Geyser",
+          "level": 50
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 53
+        },
+        {
+          "move": "Iron Defense",
+          "level": 59
+        },
+        {
+          "move": "Wring Out",
+          "level": 67
+        },
+        {
+          "move": "Prismatic Laser",
+          "level": 73
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

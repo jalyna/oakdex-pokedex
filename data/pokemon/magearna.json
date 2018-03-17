@@ -50,212 +50,6 @@
     "sp_def": 115,
     "speed": 65
   },
-  "learnset": [
-    {
-      "move": "Gear Up",
-      "level": 1
-    },
-    {
-      "move": "Shift Gear",
-      "level": 1
-    },
-    {
-      "move": "Iron Head",
-      "level": 1
-    },
-    {
-      "move": "Helping Hand",
-      "level": 1
-    },
-    {
-      "move": "Sonic Boom",
-      "level": 1
-    },
-    {
-      "move": "Defense Curl",
-      "level": 1
-    },
-    {
-      "move": "Psybeam",
-      "level": 1
-    },
-    {
-      "move": "Lucky Chant",
-      "level": 9
-    },
-    {
-      "move": "Aurora Beam",
-      "level": 17
-    },
-    {
-      "move": "Mirror Shot",
-      "level": 25
-    },
-    {
-      "move": "Mind Reader",
-      "level": 33
-    },
-    {
-      "move": "Flash Cannon",
-      "level": 41
-    },
-    {
-      "move": "Fleur Cannon",
-      "level": 49
-    },
-    {
-      "move": "Iron Defense",
-      "level": 57
-    },
-    {
-      "move": "Pain Split",
-      "level": 65
-    },
-    {
-      "move": "Synchronoise",
-      "level": 73
-    },
-    {
-      "move": "Aura Sphere",
-      "level": 81
-    },
-    {
-      "move": "Heart Swap",
-      "level": 89
-    },
-    {
-      "move": "Trump Card",
-      "level": 97
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Shadow Ball",
-      "tm": "TM30"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Echoed Voice",
-      "tm": "TM49"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "False Swipe",
-      "tm": "TM54"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Embargo",
-      "tm": "TM63"
-    },
-    {
-      "move": "Explosion",
-      "tm": "TM64"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Volt Switch",
-      "tm": "TM72"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "Gyro Ball",
-      "tm": "TM74"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Flash Cannon",
-      "tm": "TM91"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Artificial Pokémon",
@@ -309,5 +103,447 @@
       0
     ]
   },
-  "ultra_alola_id": 401
+  "ultra_alola_id": 401,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Crafty Shield",
+          "level": 1
+        },
+        {
+          "move": "Defense Curl",
+          "level": 1
+        },
+        {
+          "move": "Gear Up",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "Psybeam",
+          "level": 1
+        },
+        {
+          "move": "Shift Gear",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 9
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 17
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 25
+        },
+        {
+          "move": "Mind Reader",
+          "level": 33
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 41
+        },
+        {
+          "move": "Fleur Cannon",
+          "level": 49
+        },
+        {
+          "move": "Iron Defense",
+          "level": 57
+        },
+        {
+          "move": "Pain Split",
+          "level": 65
+        },
+        {
+          "move": "Synchronoise",
+          "level": 73
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 81
+        },
+        {
+          "move": "Heart Swap",
+          "level": 89
+        },
+        {
+          "move": "Trump Card",
+          "level": 97
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Crafty Shield",
+          "level": 1
+        },
+        {
+          "move": "Defense Curl",
+          "level": 1
+        },
+        {
+          "move": "Gear Up",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 1
+        },
+        {
+          "move": "Iron Head",
+          "level": 1
+        },
+        {
+          "move": "Psybeam",
+          "level": 1
+        },
+        {
+          "move": "Shift Gear",
+          "level": 1
+        },
+        {
+          "move": "Sonic Boom",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 9
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 17
+        },
+        {
+          "move": "Mirror Shot",
+          "level": 25
+        },
+        {
+          "move": "Mind Reader",
+          "level": 33
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 41
+        },
+        {
+          "move": "Fleur Cannon",
+          "level": 49
+        },
+        {
+          "move": "Iron Defense",
+          "level": 57
+        },
+        {
+          "move": "Pain Split",
+          "level": 65
+        },
+        {
+          "move": "Synchronoise",
+          "level": 73
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 81
+        },
+        {
+          "move": "Heart Swap",
+          "level": 89
+        },
+        {
+          "move": "Trump Card",
+          "level": 97
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

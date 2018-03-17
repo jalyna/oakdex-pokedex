@@ -54,240 +54,6 @@
     "sp_def": 95,
     "speed": 75
   },
-  "learnset": [
-    {
-      "move": "Wood Hammer",
-      "level": 1
-    },
-    {
-      "move": "Superpower",
-      "level": 1
-    },
-    {
-      "move": "Mean Look",
-      "level": 1
-    },
-    {
-      "move": "Disable",
-      "level": 1
-    },
-    {
-      "move": "Whirlwind",
-      "level": 1
-    },
-    {
-      "move": "Withdraw",
-      "level": 1
-    },
-    {
-      "move": "Leafage",
-      "level": 1
-    },
-    {
-      "move": "Horn Attack",
-      "level": 8
-    },
-    {
-      "move": "Giga Drain",
-      "level": 14
-    },
-    {
-      "move": "Scary Face",
-      "level": 20
-    },
-    {
-      "move": "Leech Seed",
-      "level": 26
-    },
-    {
-      "move": "Horn Leech",
-      "level": 32
-    },
-    {
-      "move": "Rototiller",
-      "level": 38
-    },
-    {
-      "move": "Nature's Madness",
-      "level": 43
-    },
-    {
-      "move": "Zen Headbutt",
-      "level": 48
-    },
-    {
-      "move": "Megahorn",
-      "level": 53
-    },
-    {
-      "move": "Skull Bash",
-      "level": 58
-    },
-    {
-      "move": "Calm Mind",
-      "tm": "TM04"
-    },
-    {
-      "move": "Roar",
-      "tm": "TM05"
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Bulk Up",
-      "tm": "TM08"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Rock Tomb",
-      "tm": "TM39"
-    },
-    {
-      "move": "Torment",
-      "tm": "TM41"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Echoed Voice",
-      "tm": "TM49"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "False Swipe",
-      "tm": "TM54"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Smart Strike",
-      "tm": "TM67"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Stone Edge",
-      "tm": "TM71"
-    },
-    {
-      "move": "Swords Dance",
-      "tm": "TM75"
-    },
-    {
-      "move": "Psych Up",
-      "tm": "TM77"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Snarl",
-      "tm": "TM95"
-    },
-    {
-      "move": "Nature Power",
-      "tm": "TM96"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Land Spirit Pokémon",
@@ -341,5 +107,503 @@
       0
     ]
   },
-  "ultra_alola_id": 160
+  "ultra_alola_id": 160,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Disable",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Leafage",
+          "level": 1
+        },
+        {
+          "move": "Mean Look",
+          "level": 1
+        },
+        {
+          "move": "Superpower",
+          "level": 1
+        },
+        {
+          "move": "Whirlwind",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Wood Hammer",
+          "level": 1
+        },
+        {
+          "move": "Horn Attack",
+          "level": 8
+        },
+        {
+          "move": "Giga Drain",
+          "level": 14
+        },
+        {
+          "move": "Scary Face",
+          "level": 20
+        },
+        {
+          "move": "Leech Seed",
+          "level": 26
+        },
+        {
+          "move": "Horn Leech",
+          "level": 32
+        },
+        {
+          "move": "Rototiller",
+          "level": 38
+        },
+        {
+          "move": "Nature's Madness",
+          "level": 43
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 48
+        },
+        {
+          "move": "Megahorn",
+          "level": 53
+        },
+        {
+          "move": "Skull Bash",
+          "level": 58
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Snarl",
+          "tm": "TM95"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Disable",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Leafage",
+          "level": 1
+        },
+        {
+          "move": "Mean Look",
+          "level": 1
+        },
+        {
+          "move": "Superpower",
+          "level": 1
+        },
+        {
+          "move": "Whirlwind",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Wood Hammer",
+          "level": 1
+        },
+        {
+          "move": "Horn Attack",
+          "level": 8
+        },
+        {
+          "move": "Giga Drain",
+          "level": 14
+        },
+        {
+          "move": "Scary Face",
+          "level": 20
+        },
+        {
+          "move": "Leech Seed",
+          "level": 26
+        },
+        {
+          "move": "Horn Leech",
+          "level": 32
+        },
+        {
+          "move": "Rototiller",
+          "level": 38
+        },
+        {
+          "move": "Nature's Madness",
+          "level": 43
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 48
+        },
+        {
+          "move": "Megahorn",
+          "level": 53
+        },
+        {
+          "move": "Skull Bash",
+          "level": 58
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Snarl",
+          "tm": "TM95"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

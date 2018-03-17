@@ -2047,9 +2047,6 @@
     "move_learnset": {
       "type": "object",
       "properties": {
-        "parent": {
-          "$ref": "#/definitions/pokemon"
-        },
         "move": {
           "$ref": "#/definitions/move"
         },
@@ -2061,9 +2058,8 @@
         "tm": {
           "type": "string"
         },
-        "item_on_parent": {
-          "type": "string",
-          "enum": ["Light Ball"]
+        "egg_move": {
+          "type": "boolean"
         },
         "variations": {
           "type": "array",
@@ -2300,12 +2296,6 @@
     "pokeathlon_stats": {
       "$ref": "#/definitions/pokeathlon_stats"
     },
-    "learnset": {
-      "type": "array",
-      "items": {
-        "$ref": "#/definitions/move_learnset"
-      }
-    },
     "mega_evolutions": {
       "type": "array",
       "description": "List of possible mega evolutions, if available. Charizard e.g. has two.",
@@ -2495,6 +2485,64 @@
         ],
         "additionalProperties": false
       }
+    },
+    "move_learnsets": {
+      "type": "array",
+      "description": "List of movesets by generation",
+      "items": {
+        "type": "object",
+        "properties": {
+          "games": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 3,
+            "items": {
+              "type": "string",
+              "enum": [
+                "Red",
+                "Blue",
+                "Yellow",
+                "Gold",
+                "Silver",
+                "Crystal",
+                "Ruby",
+                "Sapphire",
+                "Emerald",
+                "FireRed",
+                "LeafGreen",
+                "Diamond",
+                "Pearl",
+                "Platinum",
+                "HeartGold",
+                "SoulSilver",
+                "Black",
+                "White",
+                "Black 2",
+                "White 2",
+                "X",
+                "Y",
+                "Omega Ruby",
+                "Alpha Sapphire",
+                "Sun",
+                "Moon",
+                "Ultra Sun",
+                "Ultra Moon"
+              ]
+            }
+          },
+          "learnset": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/move_learnset"
+            }
+          }
+        },
+        "required": [
+          "games",
+          "learnset"
+        ],
+        "additionalProperties": false
+      }
     }
   },
   "required": [
@@ -2525,7 +2573,7 @@
     "color",
     "base_friendship",
     "base_stats",
-    "learnset",
+    "move_learnsets",
     "evolutions",
     "mega_evolutions",
     "evolution_from",

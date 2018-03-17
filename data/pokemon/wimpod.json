@@ -55,224 +55,6 @@
     "sp_def": 30,
     "speed": 80
   },
-  "learnset": [
-    {
-      "move": "Sand Attack",
-      "level": 1
-    },
-    {
-      "move": "Hail",
-      "tm": "TM07"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Leech Life",
-      "tm": "TM28"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Surf",
-      "tm": "TM94"
-    },
-    {
-      "move": "Waterfall",
-      "tm": "TM98"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Harden",
-      "parent": "Metapod"
-    },
-    {
-      "move": "Harden",
-      "parent": "Kakuna"
-    },
-    {
-      "move": "Harden",
-      "parent": "Krabby"
-    },
-    {
-      "move": "Harden",
-      "parent": "Kingler"
-    },
-    {
-      "move": "Harden",
-      "parent": "Pinsir"
-    },
-    {
-      "move": "Harden",
-      "parent": "Kabuto"
-    },
-    {
-      "move": "Harden",
-      "parent": "Kabutops"
-    },
-    {
-      "move": "Harden",
-      "parent": "Gligar"
-    },
-    {
-      "move": "Harden",
-      "parent": "Gliscor"
-    },
-    {
-      "move": "Harden",
-      "parent": "Corsola"
-    },
-    {
-      "move": "Harden",
-      "parent": "Silcoon"
-    },
-    {
-      "move": "Harden",
-      "parent": "Cascoon"
-    },
-    {
-      "move": "Harden",
-      "parent": "Nincada"
-    },
-    {
-      "move": "Harden",
-      "parent": "Ninjask"
-    },
-    {
-      "move": "Harden",
-      "parent": "Corphish"
-    },
-    {
-      "move": "Harden",
-      "parent": "Crawdaunt"
-    },
-    {
-      "move": "Harden",
-      "parent": "Anorith"
-    },
-    {
-      "move": "Harden",
-      "parent": "Armaldo"
-    },
-    {
-      "move": "Harden",
-      "parent": "Spewpa"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Krabby"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Kingler"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Scizor"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Nincada"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Anorith"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Armaldo"
-    },
-    {
-      "move": "Metal Claw",
-      "parent": "Durant"
-    },
-    {
-      "move": "Spikes",
-      "parent": "Cloyster"
-    },
-    {
-      "move": "Spikes",
-      "parent": "Pineco"
-    },
-    {
-      "move": "Spikes",
-      "parent": "Forretress"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Kingler"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Tirtouga"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Carracosta"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Araquanid"
-    }
-  ],
   "evolutions": [
     {
       "to": "Golisopod",
@@ -328,5 +110,247 @@
       0
     ]
   },
-  "ultra_alola_id": 83
+  "ultra_alola_id": 83,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 1
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 1
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Harden",
+          "egg_move": true
+        },
+        {
+          "move": "Metal Claw",
+          "egg_move": true
+        },
+        {
+          "move": "Spikes",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

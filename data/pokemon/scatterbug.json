@@ -54,100 +54,6 @@
     "sp_def": 25,
     "speed": 35
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "String Shot"
-    },
-    {
-      "level": 6,
-      "move": "Stun Spore"
-    },
-    {
-      "level": 15,
-      "move": "Bug Bite"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Paras",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Venonat",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Venomoth",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Mothim",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Vivillon",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Paras",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Volcarona",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Paras",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Venonat",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Venomoth",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Beautifly",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Masquerain",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Vivillon",
-      "move": "Stun Spore"
-    }
-  ],
   "evolutions": [
     {
       "to": "Spewpa",
@@ -212,5 +118,151 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Stun Spore",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Stun Spore",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Stun Spore",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Stun Spore",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        }
+      ]
+    }
+  ]
 }

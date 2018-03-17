@@ -50,204 +50,6 @@
     "sp_def": 100,
     "speed": 60
   },
-  "learnset": [
-    {
-      "move": "Defense Curl",
-      "level": 3
-    },
-    {
-      "move": "Rollout",
-      "level": 8
-    },
-    {
-      "move": "Confuse Ray",
-      "level": 10
-    },
-    {
-      "move": "Swift",
-      "level": 15
-    },
-    {
-      "move": "Ancient Power",
-      "level": 17
-    },
-    {
-      "move": "Self-Destruct",
-      "level": 22
-    },
-    {
-      "move": "Stealth Rock",
-      "level": 24
-    },
-    {
-      "move": "Take Down",
-      "level": 29
-    },
-    {
-      "move": "Autotomize",
-      "level": 31
-    },
-    {
-      "move": "Cosmic Power",
-      "level": 36
-    },
-    {
-      "move": "Power Gem",
-      "level": 38
-    },
-    {
-      "move": "Double-Edge",
-      "level": 43
-    },
-    {
-      "move": "Shell Smash",
-      "level": 45
-    },
-    {
-      "move": "Explosion",
-      "level": 50
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Sandstorm",
-      "tm": "TM37"
-    },
-    {
-      "move": "Rock Tomb",
-      "tm": "TM39"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Acrobatics",
-      "tm": "TM62"
-    },
-    {
-      "move": "Explosion",
-      "tm": "TM64"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Rock Polish",
-      "tm": "TM69"
-    },
-    {
-      "move": "Stone Edge",
-      "tm": "TM71"
-    },
-    {
-      "move": "Gyro Ball",
-      "tm": "TM74"
-    },
-    {
-      "move": "Psych Up",
-      "tm": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "U-turn",
-      "tm": "TM89"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Meteor Pokémon",
@@ -334,5 +136,431 @@
       0
     ]
   },
-  "ultra_alola_id": 98
+  "ultra_alola_id": 98,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Defense Curl",
+          "level": 3
+        },
+        {
+          "move": "Rollout",
+          "level": 8
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 10
+        },
+        {
+          "move": "Swift",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 22
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 24
+        },
+        {
+          "move": "Take Down",
+          "level": 29
+        },
+        {
+          "move": "Autotomize",
+          "level": 31
+        },
+        {
+          "move": "Cosmic Power",
+          "level": 36
+        },
+        {
+          "move": "Power Gem",
+          "level": 38
+        },
+        {
+          "move": "Double-Edge",
+          "level": 43
+        },
+        {
+          "move": "Shell Smash",
+          "level": 45
+        },
+        {
+          "move": "Explosion",
+          "level": 50
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Defense Curl",
+          "level": 3
+        },
+        {
+          "move": "Rollout",
+          "level": 8
+        },
+        {
+          "move": "Confuse Ray",
+          "level": 10
+        },
+        {
+          "move": "Swift",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 17
+        },
+        {
+          "move": "Self-Destruct",
+          "level": 22
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 24
+        },
+        {
+          "move": "Take Down",
+          "level": 29
+        },
+        {
+          "move": "Autotomize",
+          "level": 31
+        },
+        {
+          "move": "Cosmic Power",
+          "level": 36
+        },
+        {
+          "move": "Power Gem",
+          "level": 38
+        },
+        {
+          "move": "Double-Edge",
+          "level": 43
+        },
+        {
+          "move": "Shell Smash",
+          "level": 45
+        },
+        {
+          "move": "Explosion",
+          "level": 50
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

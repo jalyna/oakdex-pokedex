@@ -47,16 +47,6 @@
     "sp_def": 48,
     "speed": 48
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    }
-  ],
   "categories": {
     "en": "Symbol Pokémon",
     "de": "Symbol"
@@ -186,5 +176,188 @@
       5
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Hidden Power",
+          "level": 1
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        }
+      ]
+    }
+  ]
 }

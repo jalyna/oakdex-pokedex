@@ -54,32 +54,6 @@
     "sp_def": 45,
     "speed": 36
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Protect"
-    },
-    {
-      "level": 10,
-      "move": "Tackle"
-    },
-    {
-      "level": 15,
-      "move": "Bug Bite"
-    },
-    {
-      "level": 20,
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    }
-  ],
   "evolutions": [
     {
       "to": "Mothim",
@@ -276,5 +250,250 @@
       3
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 10
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        },
+        {
+          "move": "Hidden Power",
+          "level": 20
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    }
+  ]
 }

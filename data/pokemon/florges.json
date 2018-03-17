@@ -53,196 +53,6 @@
     "sp_def": 154,
     "speed": 75
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Disarming Voice"
-    },
-    {
-      "level": 0,
-      "move": "Lucky Chant"
-    },
-    {
-      "level": 0,
-      "move": "Wish"
-    },
-    {
-      "level": 0,
-      "move": "Magical Leaf"
-    },
-    {
-      "level": 0,
-      "move": "Flower Shield"
-    },
-    {
-      "level": 0,
-      "move": "Grass Knot"
-    },
-    {
-      "level": 0,
-      "move": "Grassy Terrain"
-    },
-    {
-      "level": 0,
-      "move": "Petal Blizzard"
-    },
-    {
-      "level": 0,
-      "move": "Misty Terrain"
-    },
-    {
-      "level": 0,
-      "move": "Moonblast"
-    },
-    {
-      "level": 0,
-      "move": "Petal Dance"
-    },
-    {
-      "level": 0,
-      "move": "Aromatherapy"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM99",
-      "move": "Dazzling Gleam"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "parent": "Marill",
-      "move": "Camouflage"
-    },
-    {
-      "parent": "Skitty",
-      "move": "Captivate"
-    },
-    {
-      "parent": "Skitty",
-      "move": "Copycat"
-    },
-    {
-      "parent": "Plusle",
-      "move": "Copycat"
-    },
-    {
-      "parent": "Minun",
-      "move": "Copycat"
-    }
-  ],
   "evolution_from": "Floette",
   "categories": {
     "en": "Garden Pokémon",
@@ -351,5 +161,743 @@
       0
     ]
   },
-  "ultra_alola_id": 46
+  "ultra_alola_id": 46,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 1
+        },
+        {
+          "move": "Flower Shield",
+          "level": 1
+        },
+        {
+          "move": "Grass Knot",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 1
+        },
+        {
+          "move": "Moonblast",
+          "level": 1
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Wish",
+          "level": 1
+        },
+        {
+          "move": "Camouflage",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 1
+        },
+        {
+          "move": "Flower Shield",
+          "level": 1
+        },
+        {
+          "move": "Grass Knot",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 1
+        },
+        {
+          "move": "Moonblast",
+          "level": 1
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Wish",
+          "level": 1
+        },
+        {
+          "move": "Camouflage",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 1
+        },
+        {
+          "move": "Flower Shield",
+          "level": 1
+        },
+        {
+          "move": "Grass Knot",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 1
+        },
+        {
+          "move": "Moonblast",
+          "level": 1
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Wish",
+          "level": 1
+        },
+        {
+          "move": "Camouflage",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Disarming Voice",
+          "level": 1
+        },
+        {
+          "move": "Flower Shield",
+          "level": 1
+        },
+        {
+          "move": "Grass Knot",
+          "level": 1
+        },
+        {
+          "move": "Grassy Terrain",
+          "level": 1
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 1
+        },
+        {
+          "move": "Moonblast",
+          "level": 1
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Wish",
+          "level": 1
+        },
+        {
+          "move": "Camouflage",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Copycat",
+          "egg_move": true
+        },
+        {
+          "move": "Tearful Look",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

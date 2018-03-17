@@ -50,156 +50,6 @@
     "sp_def": 31,
     "speed": 109
   },
-  "learnset": [
-    {
-      "move": "Defog",
-      "level": 1
-    },
-    {
-      "move": "Vacuum Wave",
-      "level": 1
-    },
-    {
-      "move": "Air Cutter",
-      "level": 1
-    },
-    {
-      "move": "Fury Cutter",
-      "level": 1
-    },
-    {
-      "move": "Cut",
-      "level": 1
-    },
-    {
-      "move": "False Swipe",
-      "level": 7
-    },
-    {
-      "move": "Razor Leaf",
-      "level": 13
-    },
-    {
-      "move": "Synthesis",
-      "level": 19
-    },
-    {
-      "move": "Aerial Ace",
-      "level": 23
-    },
-    {
-      "move": "Laser Focus",
-      "level": 29
-    },
-    {
-      "move": "Night Slash",
-      "level": 31
-    },
-    {
-      "move": "Swords Dance",
-      "level": 37
-    },
-    {
-      "move": "Leaf Blade",
-      "level": 43
-    },
-    {
-      "move": "X-Scissor",
-      "level": 47
-    },
-    {
-      "move": "Detect",
-      "level": 53
-    },
-    {
-      "move": "Air Slash",
-      "level": 59
-    },
-    {
-      "move": "Psycho Cut",
-      "level": 67
-    },
-    {
-      "move": "Guillotine",
-      "level": 73
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Aerial Ace",
-      "tm": "TM40"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "False Swipe",
-      "tm": "TM54"
-    },
-    {
-      "move": "Smart Strike",
-      "tm": "TM67"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Swords Dance",
-      "tm": "TM75"
-    },
-    {
-      "move": "X-Scissor",
-      "tm": "TM81"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Drawn Sword Pokémon",
@@ -253,5 +103,335 @@
       0
     ]
   },
-  "ultra_alola_id": 398
+  "ultra_alola_id": 398,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Air Cutter",
+          "level": 1
+        },
+        {
+          "move": "Cut",
+          "level": 1
+        },
+        {
+          "move": "Defog",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Vacuum Wave",
+          "level": 1
+        },
+        {
+          "move": "False Swipe",
+          "level": 7
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Synthesis",
+          "level": 19
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 23
+        },
+        {
+          "move": "Laser Focus",
+          "level": 29
+        },
+        {
+          "move": "Night Slash",
+          "level": 31
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 43
+        },
+        {
+          "move": "X-Scissor",
+          "level": 47
+        },
+        {
+          "move": "Detect",
+          "level": 53
+        },
+        {
+          "move": "Air Slash",
+          "level": 59
+        },
+        {
+          "move": "Psycho Cut",
+          "level": 67
+        },
+        {
+          "move": "Guillotine",
+          "level": 73
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Air Cutter",
+          "level": 1
+        },
+        {
+          "move": "Cut",
+          "level": 1
+        },
+        {
+          "move": "Defog",
+          "level": 1
+        },
+        {
+          "move": "Fury Cutter",
+          "level": 1
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 1
+        },
+        {
+          "move": "Vacuum Wave",
+          "level": 1
+        },
+        {
+          "move": "False Swipe",
+          "level": 7
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Synthesis",
+          "level": 19
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 23
+        },
+        {
+          "move": "Laser Focus",
+          "level": 29
+        },
+        {
+          "move": "Night Slash",
+          "level": 31
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 43
+        },
+        {
+          "move": "X-Scissor",
+          "level": 47
+        },
+        {
+          "move": "Detect",
+          "level": 53
+        },
+        {
+          "move": "Air Slash",
+          "level": 59
+        },
+        {
+          "move": "Psycho Cut",
+          "level": 67
+        },
+        {
+          "move": "Guillotine",
+          "level": 73
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

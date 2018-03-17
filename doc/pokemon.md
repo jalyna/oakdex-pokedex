@@ -202,10 +202,6 @@ Additional restrictions:
 
 ## `pokeathlon_stats` (pokeathlon_stats)
 
-## `learnset` (array, required)
-
-The object is an array with all elements of the type `move_learnset`.
-
 ## `mega_evolutions` (array, required)
 
 List of possible mega evolutions, if available. Charizard e.g. has two.
@@ -377,6 +373,26 @@ Additional restrictions:
 ### `image_suffix` (string)
 
 Suffix used in oakdex-pokedex-sprites
+
+## `move_learnsets` (array, required)
+
+List of movesets by generation
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+### `games` (array, required)
+
+The object is an array with all elements of the type `string`.
+
+Additional restrictions:
+
+* Minimum items: `1`
+
+### `learnset` (array, required)
+
+The object is an array with all elements of the type `move_learnset`.
 
 ---
 
@@ -566,8 +582,6 @@ The object is an array with all elements of the type `string`.
 
 Properties of the `move_learnset` object:
 
-### `parent` (pokemon)
-
 ### `move` (move, required)
 
 ### `level` (integer)
@@ -578,11 +592,7 @@ Additional restrictions:
 
 ### `tm` (string)
 
-### `item_on_parent` (string, enum)
-
-This element must be one of the following enum values:
-
-* `Light Ball`
+### `egg_move` (boolean)
 
 ### `variations` (array)
 

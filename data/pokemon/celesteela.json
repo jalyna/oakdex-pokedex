@@ -50,208 +50,6 @@
     "sp_def": 101,
     "speed": 61
   },
-  "learnset": [
-    {
-      "move": "Air Slash",
-      "level": 1
-    },
-    {
-      "move": "Ingrain",
-      "level": 1
-    },
-    {
-      "move": "Absorb",
-      "level": 1
-    },
-    {
-      "move": "Harden",
-      "level": 1
-    },
-    {
-      "move": "Tackle",
-      "level": 1
-    },
-    {
-      "move": "Smack Down",
-      "level": 7
-    },
-    {
-      "move": "Mega Drain",
-      "level": 13
-    },
-    {
-      "move": "Leech Seed",
-      "level": 19
-    },
-    {
-      "move": "Metal Sound",
-      "level": 23
-    },
-    {
-      "move": "Iron Head",
-      "level": 29
-    },
-    {
-      "move": "Giga Drain",
-      "level": 31
-    },
-    {
-      "move": "Flash Cannon",
-      "level": 37
-    },
-    {
-      "move": "Autotomize",
-      "level": 43
-    },
-    {
-      "move": "Seed Bomb",
-      "level": 47
-    },
-    {
-      "move": "Skull Bash",
-      "level": 53
-    },
-    {
-      "move": "Iron Defense",
-      "level": 59
-    },
-    {
-      "move": "Heavy Slam",
-      "level": 67
-    },
-    {
-      "move": "Double-Edge",
-      "level": 73
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Smack Down",
-      "tm": "TM23"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Flamethrower",
-      "tm": "TM35"
-    },
-    {
-      "move": "Fire Blast",
-      "tm": "TM38"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Flame Charge",
-      "tm": "TM43"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Acrobatics",
-      "tm": "TM62"
-    },
-    {
-      "move": "Explosion",
-      "tm": "TM64"
-    },
-    {
-      "move": "Smart Strike",
-      "tm": "TM67"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Stone Edge",
-      "tm": "TM71"
-    },
-    {
-      "move": "Gyro Ball",
-      "tm": "TM74"
-    },
-    {
-      "move": "Fly",
-      "tm": "TM76"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Flash Cannon",
-      "tm": "TM91"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Launch Pokémon",
@@ -305,5 +103,439 @@
       0
     ]
   },
-  "ultra_alola_id": 397
+  "ultra_alola_id": 397,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Air Slash",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Wide Guard",
+          "level": 1
+        },
+        {
+          "move": "Smack Down",
+          "level": 7
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 23
+        },
+        {
+          "move": "Iron Head",
+          "level": 29
+        },
+        {
+          "move": "Giga Drain",
+          "level": 31
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 37
+        },
+        {
+          "move": "Autotomize",
+          "level": 43
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 47
+        },
+        {
+          "move": "Skull Bash",
+          "level": 53
+        },
+        {
+          "move": "Iron Defense",
+          "level": 59
+        },
+        {
+          "move": "Heavy Slam",
+          "level": 67
+        },
+        {
+          "move": "Double-Edge",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Absorb",
+          "level": 1
+        },
+        {
+          "move": "Air Slash",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Wide Guard",
+          "level": 1
+        },
+        {
+          "move": "Smack Down",
+          "level": 7
+        },
+        {
+          "move": "Mega Drain",
+          "level": 13
+        },
+        {
+          "move": "Leech Seed",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 23
+        },
+        {
+          "move": "Iron Head",
+          "level": 29
+        },
+        {
+          "move": "Giga Drain",
+          "level": 31
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 37
+        },
+        {
+          "move": "Autotomize",
+          "level": 43
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 47
+        },
+        {
+          "move": "Skull Bash",
+          "level": 53
+        },
+        {
+          "move": "Iron Defense",
+          "level": 59
+        },
+        {
+          "move": "Heavy Slam",
+          "level": 67
+        },
+        {
+          "move": "Double-Edge",
+          "level": 73
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Smart Strike",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

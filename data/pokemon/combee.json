@@ -55,24 +55,6 @@
     "sp_def": 42,
     "speed": 70
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Sweet Scent"
-    },
-    {
-      "level": 0,
-      "move": "Gust"
-    },
-    {
-      "level": 13,
-      "move": "Bug Bite"
-    },
-    {
-      "level": 29,
-      "move": "Bug Buzz"
-    }
-  ],
   "evolutions": [
     {
       "to": "Vespiquen",
@@ -176,5 +158,202 @@
       5
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bug Buzz",
+          "level": 29
+        }
+      ]
+    }
+  ]
 }

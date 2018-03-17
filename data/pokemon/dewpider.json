@@ -59,168 +59,6 @@
     "sp_def": 72,
     "speed": 27
   },
-  "learnset": [
-    {
-      "move": "Bubble",
-      "level": 1
-    },
-    {
-      "move": "Infestation",
-      "level": 5
-    },
-    {
-      "move": "Spider Web",
-      "level": 8
-    },
-    {
-      "move": "Bug Bite",
-      "level": 13
-    },
-    {
-      "move": "Bubble Beam",
-      "level": 16
-    },
-    {
-      "move": "Bite",
-      "level": 21
-    },
-    {
-      "move": "Aqua Ring",
-      "level": 24
-    },
-    {
-      "move": "Leech Life",
-      "level": 29
-    },
-    {
-      "move": "Crunch",
-      "level": 32
-    },
-    {
-      "move": "Lunge",
-      "level": 37
-    },
-    {
-      "move": "Mirror Coat",
-      "level": 40
-    },
-    {
-      "move": "Liquidation",
-      "level": 45
-    },
-    {
-      "move": "Entrainment",
-      "level": 48
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Leech Life",
-      "tm": "TM28"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Frost Breath",
-      "tm": "TM79"
-    },
-    {
-      "move": "X-Scissor",
-      "tm": "TM81"
-    },
-    {
-      "move": "Infestation",
-      "tm": "TM83"
-    },
-    {
-      "move": "Poison Jab",
-      "tm": "TM84"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Surf",
-      "tm": "TM94"
-    },
-    {
-      "move": "Waterfall",
-      "tm": "TM98"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Power Split",
-      "parent": "Shuckle"
-    },
-    {
-      "move": "Spit Up",
-      "parent": "Pelipper"
-    },
-    {
-      "move": "Stockpile",
-      "parent": "Pelipper"
-    }
-  ],
   "evolutions": [
     {
       "to": "Araquanid",
@@ -276,5 +114,371 @@
       0
     ]
   },
-  "ultra_alola_id": 68
+  "ultra_alola_id": 68,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Water Sport",
+          "level": 1
+        },
+        {
+          "move": "Infestation",
+          "level": 5
+        },
+        {
+          "move": "Spider Web",
+          "level": 8
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 16
+        },
+        {
+          "move": "Bite",
+          "level": 21
+        },
+        {
+          "move": "Aqua Ring",
+          "level": 24
+        },
+        {
+          "move": "Leech Life",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 32
+        },
+        {
+          "move": "Lunge",
+          "level": 37
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 40
+        },
+        {
+          "move": "Liquidation",
+          "level": 45
+        },
+        {
+          "move": "Entrainment",
+          "level": 48
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Spit Up",
+          "egg_move": true
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Water Sport",
+          "level": 1
+        },
+        {
+          "move": "Infestation",
+          "level": 5
+        },
+        {
+          "move": "Spider Web",
+          "level": 8
+        },
+        {
+          "move": "Bug Bite",
+          "level": 13
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 16
+        },
+        {
+          "move": "Bite",
+          "level": 21
+        },
+        {
+          "move": "Aqua Ring",
+          "level": 24
+        },
+        {
+          "move": "Leech Life",
+          "level": 29
+        },
+        {
+          "move": "Crunch",
+          "level": 32
+        },
+        {
+          "move": "Lunge",
+          "level": 37
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 40
+        },
+        {
+          "move": "Liquidation",
+          "level": 45
+        },
+        {
+          "move": "Entrainment",
+          "level": 48
+        },
+        {
+          "move": "Aurora Beam",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Spit Up",
+          "egg_move": true
+        },
+        {
+          "move": "Sticky Web",
+          "egg_move": true
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Leech Life",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -55,660 +55,6 @@
     "sp_def": 65,
     "speed": 65
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Hammer Arm"
-    },
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "Tail Whip"
-    },
-    {
-      "level": 0,
-      "move": "Ember"
-    },
-    {
-      "level": 0,
-      "move": "Odor Sleuth"
-    },
-    {
-      "level": 3,
-      "move": "Tail Whip"
-    },
-    {
-      "level": 7,
-      "move": "Ember"
-    },
-    {
-      "level": 9,
-      "move": "Odor Sleuth"
-    },
-    {
-      "level": 13,
-      "move": "Defense Curl"
-    },
-    {
-      "level": 15,
-      "move": "Flame Charge"
-    },
-    {
-      "level": 17,
-      "move": "Arm Thrust"
-    },
-    {
-      "level": 20,
-      "move": "Smog"
-    },
-    {
-      "level": 23,
-      "move": "Rollout"
-    },
-    {
-      "level": 28,
-      "move": "Take Down"
-    },
-    {
-      "level": 31,
-      "move": "Heat Crash"
-    },
-    {
-      "level": 38,
-      "move": "Assurance"
-    },
-    {
-      "level": 43,
-      "move": "Flamethrower"
-    },
-    {
-      "level": 50,
-      "move": "Head Smash"
-    },
-    {
-      "level": 55,
-      "move": "Roar"
-    },
-    {
-      "level": 62,
-      "move": "Flare Blitz"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM08",
-      "move": "Bulk Up"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM23",
-      "move": "Smack Down"
-    },
-    {
-      "tm": "TM26",
-      "move": "Earthquake"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM31",
-      "move": "Brick Break"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM35",
-      "move": "Flamethrower"
-    },
-    {
-      "tm": "TM38",
-      "move": "Fire Blast"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM43",
-      "move": "Flame Charge"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM47",
-      "move": "Low Sweep"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM50",
-      "move": "Overheat"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM55",
-      "move": "Scald"
-    },
-    {
-      "tm": "TM56",
-      "move": "Fling"
-    },
-    {
-      "tm": "TM59",
-      "move": "Incinerate"
-    },
-    {
-      "tm": "TM61",
-      "move": "Will-O-Wisp"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM74",
-      "move": "Gyro Ball"
-    },
-    {
-      "tm": "TM78",
-      "move": "Bulldoze"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM84",
-      "move": "Poison Jab"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM93",
-      "move": "Wild Charge"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM98",
-      "move": "Power-Up Punch"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Torkoal",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Spheal",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Sealeo",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Walrein",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Purugly",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Chespin",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Quilladin",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Chesnaught",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Pancham",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Pangoro",
-      "move": "Body Slam"
-    },
-    {
-      "parent": "Mankey",
-      "move": "Covet"
-    },
-    {
-      "parent": "Eevee",
-      "move": "Covet"
-    },
-    {
-      "parent": "Teddiursa",
-      "move": "Covet"
-    },
-    {
-      "parent": "Ursaring",
-      "move": "Covet"
-    },
-    {
-      "parent": "Zigzagoon",
-      "move": "Covet"
-    },
-    {
-      "parent": "Linoone",
-      "move": "Covet"
-    },
-    {
-      "parent": "Slakoth",
-      "move": "Covet"
-    },
-    {
-      "parent": "Slaking",
-      "move": "Covet"
-    },
-    {
-      "parent": "Skitty",
-      "move": "Covet"
-    },
-    {
-      "parent": "Espurr",
-      "move": "Covet"
-    },
-    {
-      "parent": "Meowstic",
-      "move": "Covet"
-    },
-    {
-      "parent": "Numel",
-      "move": "Curse"
-    },
-    {
-      "parent": "Camerupt",
-      "move": "Curse"
-    },
-    {
-      "parent": "Torkoal",
-      "move": "Curse"
-    },
-    {
-      "parent": "Bidoof",
-      "move": "Curse"
-    },
-    {
-      "parent": "Bibarel",
-      "move": "Curse"
-    },
-    {
-      "parent": "Rattata",
-      "move": "Endeavor"
-    },
-    {
-      "parent": "Raticate",
-      "move": "Endeavor"
-    },
-    {
-      "parent": "Dunsparce",
-      "move": "Endeavor"
-    },
-    {
-      "parent": "Woobat",
-      "move": "Endeavor"
-    },
-    {
-      "parent": "Swoobat",
-      "move": "Endeavor"
-    },
-    {
-      "parent": "Wailmer",
-      "move": "Heavy Slam"
-    },
-    {
-      "parent": "Wailord",
-      "move": "Heavy Slam"
-    },
-    {
-      "parent": "Sandshrew",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Sandslash",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Diglett",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Dugtrio",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Donphan",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Numel",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Camerupt",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Whismur",
-      "move": "Sleep Talk"
-    },
-    {
-      "parent": "Loudred",
-      "move": "Sleep Talk"
-    },
-    {
-      "parent": "Exploud",
-      "move": "Sleep Talk"
-    },
-    {
-      "parent": "Rattata",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Raticate",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Diglett",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Dugtrio",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Sentret",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Furret",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Poochyena",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Mightyena",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Mawile",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Spinda",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Kecleon",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Absol",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Glameow",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Purrloin",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Liepard",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Furfrou",
-      "move": "Sucker Punch"
-    },
-    {
-      "parent": "Bidoof",
-      "move": "Superpower"
-    },
-    {
-      "parent": "Bibarel",
-      "move": "Superpower"
-    },
-    {
-      "parent": "Darumaka",
-      "move": "Superpower"
-    },
-    {
-      "parent": "Darmanitan",
-      "move": "Superpower"
-    },
-    {
-      "parent": "Beartic",
-      "move": "Superpower"
-    },
-    {
-      "parent": "Nidoking",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Mankey",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Primeape",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Tauros",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Teddiursa",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Ursaring",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Piloswine",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Mamoswine",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Spinda",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Blitzle",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Zebstrika",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Sandile",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Krokorok",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Darumaka",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Darmanitan",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Cubchoo",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Beartic",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Bouffalant",
-      "move": "Thrash"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Dunsparce",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Slakoth",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Slaking",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Numel",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Camerupt",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Bidoof",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Bibarel",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Hippopotas",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Hippowdon",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Pansear",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Munna",
-      "move": "Yawn"
-    }
-  ],
   "evolution_from": "Pignite",
   "categories": {
     "en": "Mega Fire Pig Pokémon",
@@ -786,5 +132,1863 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Arm Thrust",
+          "level": 17
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Arm Thrust",
+          "level": 17
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Arm Thrust",
+          "level": 17
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Sucker Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Arm Thrust",
+          "level": 17
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Sucker Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Arm Thrust",
+          "level": 1
+        },
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Sucker Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Arm Thrust",
+          "level": 1
+        },
+        {
+          "move": "Ember",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 3
+        },
+        {
+          "move": "Ember",
+          "level": 7
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 9
+        },
+        {
+          "move": "Defense Curl",
+          "level": 13
+        },
+        {
+          "move": "Flame Charge",
+          "level": 15
+        },
+        {
+          "move": "Smog",
+          "level": 20
+        },
+        {
+          "move": "Rollout",
+          "level": 23
+        },
+        {
+          "move": "Take Down",
+          "level": 28
+        },
+        {
+          "move": "Heat Crash",
+          "level": 31
+        },
+        {
+          "move": "Assurance",
+          "level": 38
+        },
+        {
+          "move": "Flamethrower",
+          "level": 43
+        },
+        {
+          "move": "Head Smash",
+          "level": 50
+        },
+        {
+          "move": "Roar",
+          "level": 55
+        },
+        {
+          "move": "Flare Blitz",
+          "level": 62
+        },
+        {
+          "move": "Body Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Burn Up",
+          "egg_move": true
+        },
+        {
+          "move": "Covet",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Sleep Talk",
+          "egg_move": true
+        },
+        {
+          "move": "Sucker Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Thrash",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

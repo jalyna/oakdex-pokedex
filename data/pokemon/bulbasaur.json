@@ -56,672 +56,6 @@
     "sp_def": 65,
     "speed": 45
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 3,
-      "move": "Growl"
-    },
-    {
-      "level": 7,
-      "move": "Leech Seed"
-    },
-    {
-      "level": 9,
-      "move": "Vine Whip"
-    },
-    {
-      "level": 13,
-      "move": "Poison Powder"
-    },
-    {
-      "level": 13,
-      "move": "Sleep Powder"
-    },
-    {
-      "level": 15,
-      "move": "Take Down"
-    },
-    {
-      "level": 19,
-      "move": "Razor Leaf"
-    },
-    {
-      "level": 21,
-      "move": "Sweet Scent"
-    },
-    {
-      "level": 25,
-      "move": "Growth"
-    },
-    {
-      "level": 27,
-      "move": "Double-Edge"
-    },
-    {
-      "level": 31,
-      "move": "Worry Seed"
-    },
-    {
-      "level": 33,
-      "move": "Synthesis"
-    },
-    {
-      "level": 37,
-      "move": "Seed Bomb"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM09",
-      "move": "Venoshock"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM36",
-      "move": "Sludge Bomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM75",
-      "move": "Swords Dance"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Slowpoke",
-      "move": "Amnesia"
-    },
-    {
-      "parent": "Slowbro",
-      "move": "Amnesia"
-    },
-    {
-      "parent": "Snorlax",
-      "move": "Amnesia"
-    },
-    {
-      "parent": "Cottonee",
-      "move": "Charm"
-    },
-    {
-      "parent": "Tyrunt",
-      "move": "Charm"
-    },
-    {
-      "parent": "Tyrantrum",
-      "move": "Charm"
-    },
-    {
-      "parent": "Slowpoke",
-      "move": "Curse"
-    },
-    {
-      "parent": "Slowbro",
-      "move": "Curse"
-    },
-    {
-      "parent": "Slowking",
-      "move": "Curse"
-    },
-    {
-      "parent": "Turtwig",
-      "move": "Curse"
-    },
-    {
-      "parent": "Grotle",
-      "move": "Curse"
-    },
-    {
-      "parent": "Torterra",
-      "move": "Curse"
-    },
-    {
-      "parent": "Ferroseed",
-      "move": "Curse"
-    },
-    {
-      "parent": "Ferrothorn",
-      "move": "Curse"
-    },
-    {
-      "parent": "Phantump",
-      "move": "Curse"
-    },
-    {
-      "parent": "Trevenant",
-      "move": "Curse"
-    },
-    {
-      "parent": "Bergmite",
-      "move": "Curse"
-    },
-    {
-      "parent": "Avalugg",
-      "move": "Curse"
-    },
-    {
-      "parent": "Shieldon",
-      "move": "Endure"
-    },
-    {
-      "parent": "Bastiodon",
-      "move": "Endure"
-    },
-    {
-      "parent": "Oddish",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Gloom",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Paras",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Tangela",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Tangrowth",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Hoppip",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Skiploom",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Jumpluff",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Treecko",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Shroomish",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Turtwig",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Grotle",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Torterra",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Snivy",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Servine",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Serperior",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Cottonee",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Maractus",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Foongus",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Amoonguss",
-      "move": "Giga Drain"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Snover",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Abomasnow",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Oddish",
-      "move": "Grassy Terrain"
-    },
-    {
-      "parent": "Gloom",
-      "move": "Grassy Terrain"
-    },
-    {
-      "parent": "Tangela",
-      "move": "Grassy Terrain"
-    },
-    {
-      "parent": "Tangrowth",
-      "move": "Grassy Terrain"
-    },
-    {
-      "parent": "Roserade",
-      "move": "Grassy Terrain"
-    },
-    {
-      "parent": "Tangela",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Tangrowth",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Cacnea",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Cacturne",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Carnivine",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Snover",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Abomasnow",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Maractus",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Foongus",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Amoonguss",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Ferroseed",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Ferrothorn",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Phantump",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Trevenant",
-      "move": "Ingrain"
-    },
-    {
-      "parent": "Victreebel",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Exeggutor",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Bellossom",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Grovyle",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Sceptile",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Shiftry",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Tropius",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Turtwig",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Grotle",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Torterra",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Snivy",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Servine",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Serperior",
-      "move": "Leaf Storm"
-    },
-    {
-      "parent": "Chikorita",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Bayleef",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Bellossom",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Roserade",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Tropius",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Cherubi",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Cherrim",
-      "move": "Magical Leaf"
-    },
-    {
-      "parent": "Lotad",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Lombre",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Ludicolo",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Seedot",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Nuzleaf",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Amaura",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Aurorus",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Venusaur",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Oddish",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Gloom",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Vileplume",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Cherrim",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Maractus",
-      "move": "Petal Dance"
-    },
-    {
-      "parent": "Lickitung",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Lickilicky",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Tangela",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Tangrowth",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Carnivine",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Ferrothorn",
-      "move": "Power Whip"
-    },
-    {
-      "parent": "Squirtle",
-      "move": "Skull Bash"
-    },
-    {
-      "parent": "Wartortle",
-      "move": "Skull Bash"
-    },
-    {
-      "parent": "Blastoise",
-      "move": "Skull Bash"
-    },
-    {
-      "parent": "Avalugg",
-      "move": "Skull Bash"
-    },
-    {
-      "parent": "Mudkip",
-      "move": "Sludge"
-    }
-  ],
   "evolutions": [
     {
       "to": "Ivysaur",
@@ -866,5 +200,3091 @@
       3
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 13
+        },
+        {
+          "move": "Poison Powder",
+          "level": 20
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 27
+        },
+        {
+          "move": "Growth",
+          "level": 34
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 41
+        },
+        {
+          "move": "Solar Beam",
+          "level": 48
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Body Slam",
+          "tm": "TM8"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Mega Drain",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 13
+        },
+        {
+          "move": "Poison Powder",
+          "level": 20
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 27
+        },
+        {
+          "move": "Growth",
+          "level": 34
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 41
+        },
+        {
+          "move": "Solar Beam",
+          "level": 48
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Body Slam",
+          "tm": "TM8"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Mega Drain",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 10
+        },
+        {
+          "move": "Poison Powder",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 20
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 25
+        },
+        {
+          "move": "Growth",
+          "level": 32
+        },
+        {
+          "move": "Synthesis",
+          "level": 39
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Sweet Scent",
+          "tm": "TM12"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Defense Curl",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Fury Cutter",
+          "tm": "TM49"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 10
+        },
+        {
+          "move": "Poison Powder",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 20
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 25
+        },
+        {
+          "move": "Growth",
+          "level": 32
+        },
+        {
+          "move": "Synthesis",
+          "level": 39
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Sweet Scent",
+          "tm": "TM12"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Defense Curl",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Fury Cutter",
+          "tm": "TM49"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 10
+        },
+        {
+          "move": "Poison Powder",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 20
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 25
+        },
+        {
+          "move": "Growth",
+          "level": 32
+        },
+        {
+          "move": "Synthesis",
+          "level": 39
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 10
+        },
+        {
+          "move": "Poison Powder",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 20
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 25
+        },
+        {
+          "move": "Growth",
+          "level": 32
+        },
+        {
+          "move": "Synthesis",
+          "level": 39
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 4
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 10
+        },
+        {
+          "move": "Poison Powder",
+          "level": 15
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 20
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 25
+        },
+        {
+          "move": "Growth",
+          "level": 32
+        },
+        {
+          "move": "Synthesis",
+          "level": 39
+        },
+        {
+          "move": "Solar Beam",
+          "level": 46
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Flash",
+          "tm": "HM5"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Light Screen",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Safeguard",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Vine Whip",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 3
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "level": 13
+        },
+        {
+          "move": "Sleep Powder",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 15
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 21
+        },
+        {
+          "move": "Growth",
+          "level": 25
+        },
+        {
+          "move": "Double-Edge",
+          "level": 27
+        },
+        {
+          "move": "Worry Seed",
+          "level": 31
+        },
+        {
+          "move": "Synthesis",
+          "level": 33
+        },
+        {
+          "move": "Seed Bomb",
+          "level": 37
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Giga Drain",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Ingrain",
+          "egg_move": true
+        },
+        {
+          "move": "Leaf Storm",
+          "egg_move": true
+        },
+        {
+          "move": "Magical Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Petal Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Power Whip",
+          "egg_move": true
+        },
+        {
+          "move": "Skull Bash",
+          "egg_move": true
+        },
+        {
+          "move": "Sludge",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

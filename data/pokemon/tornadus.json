@@ -53,260 +53,6 @@
     "sp_def": 80,
     "speed": 111
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Hammer Arm"
-    },
-    {
-      "level": 0,
-      "move": "Thrash"
-    },
-    {
-      "level": 0,
-      "move": "Hurricane"
-    },
-    {
-      "level": 0,
-      "move": "Tailwind"
-    },
-    {
-      "level": 0,
-      "move": "Uproar"
-    },
-    {
-      "level": 0,
-      "move": "Astonish"
-    },
-    {
-      "level": 0,
-      "move": "Gust"
-    },
-    {
-      "level": 7,
-      "move": "Swagger"
-    },
-    {
-      "level": 13,
-      "move": "Bite"
-    },
-    {
-      "level": 19,
-      "move": "Revenge"
-    },
-    {
-      "level": 25,
-      "move": "Air Cutter"
-    },
-    {
-      "level": 31,
-      "move": "Extrasensory"
-    },
-    {
-      "level": 37,
-      "move": "Agility"
-    },
-    {
-      "level": 43,
-      "move": "Air Slash"
-    },
-    {
-      "level": 49,
-      "move": "Crunch"
-    },
-    {
-      "level": 55,
-      "move": "Tailwind"
-    },
-    {
-      "level": 61,
-      "move": "Rain Dance"
-    },
-    {
-      "level": 67,
-      "move": "Hurricane"
-    },
-    {
-      "level": 73,
-      "move": "Dark Pulse"
-    },
-    {
-      "level": 79,
-      "move": "Hammer Arm"
-    },
-    {
-      "level": 85,
-      "move": "Thrash"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM08",
-      "move": "Bulk Up"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM23",
-      "move": "Smack Down"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM31",
-      "move": "Brick Break"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM34",
-      "move": "Sludge Wave"
-    },
-    {
-      "tm": "TM36",
-      "move": "Sludge Bomb"
-    },
-    {
-      "tm": "TM40",
-      "move": "Aerial Ace"
-    },
-    {
-      "tm": "TM41",
-      "move": "Torment"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM46",
-      "move": "Thief"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM56",
-      "move": "Fling"
-    },
-    {
-      "tm": "TM58",
-      "move": "Sky Drop"
-    },
-    {
-      "tm": "TM59",
-      "move": "Incinerate"
-    },
-    {
-      "tm": "TM62",
-      "move": "Acrobatics"
-    },
-    {
-      "tm": "TM63",
-      "move": "Embargo"
-    },
-    {
-      "tm": "TM66",
-      "move": "Payback"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM89",
-      "move": "U-turn"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM97",
-      "move": "Dark Pulse"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM02",
-      "move": "Fly"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    }
-  ],
   "categories": {
     "en": "Cyclone Pokémon",
     "de": "Wirbelsturm"
@@ -423,5 +169,1443 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 13
+        },
+        {
+          "move": "Revenge",
+          "level": 19
+        },
+        {
+          "move": "Air Cutter",
+          "level": 25
+        },
+        {
+          "move": "Extrasensory",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 43
+        },
+        {
+          "move": "Crunch",
+          "level": 49
+        },
+        {
+          "move": "Tailwind",
+          "level": 55
+        },
+        {
+          "move": "Rain Dance",
+          "level": 61
+        },
+        {
+          "move": "Hurricane",
+          "level": 67
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 73
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 79
+        },
+        {
+          "move": "Thrash",
+          "level": 85
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 13
+        },
+        {
+          "move": "Revenge",
+          "level": 19
+        },
+        {
+          "move": "Air Cutter",
+          "level": 25
+        },
+        {
+          "move": "Extrasensory",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 43
+        },
+        {
+          "move": "Crunch",
+          "level": 49
+        },
+        {
+          "move": "Tailwind",
+          "level": 55
+        },
+        {
+          "move": "Rain Dance",
+          "level": 61
+        },
+        {
+          "move": "Hurricane",
+          "level": 67
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 73
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 79
+        },
+        {
+          "move": "Thrash",
+          "level": 85
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Hurricane",
+          "level": 1
+        },
+        {
+          "move": "Tailwind",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 13
+        },
+        {
+          "move": "Revenge",
+          "level": 19
+        },
+        {
+          "move": "Air Cutter",
+          "level": 25
+        },
+        {
+          "move": "Extrasensory",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 43
+        },
+        {
+          "move": "Crunch",
+          "level": 49
+        },
+        {
+          "move": "Tailwind",
+          "level": 55
+        },
+        {
+          "move": "Rain Dance",
+          "level": 61
+        },
+        {
+          "move": "Hurricane",
+          "level": 67
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 73
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 79
+        },
+        {
+          "move": "Thrash",
+          "level": 85
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Hurricane",
+          "level": 1
+        },
+        {
+          "move": "Tailwind",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 7
+        },
+        {
+          "move": "Bite",
+          "level": 13
+        },
+        {
+          "move": "Revenge",
+          "level": 19
+        },
+        {
+          "move": "Air Cutter",
+          "level": 25
+        },
+        {
+          "move": "Extrasensory",
+          "level": 31
+        },
+        {
+          "move": "Agility",
+          "level": 37
+        },
+        {
+          "move": "Air Slash",
+          "level": 43
+        },
+        {
+          "move": "Crunch",
+          "level": 49
+        },
+        {
+          "move": "Tailwind",
+          "level": 55
+        },
+        {
+          "move": "Rain Dance",
+          "level": 61
+        },
+        {
+          "move": "Hurricane",
+          "level": 67
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 73
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 79
+        },
+        {
+          "move": "Thrash",
+          "level": 85
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Hurricane",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Bite",
+          "level": 7
+        },
+        {
+          "move": "Revenge",
+          "level": 13
+        },
+        {
+          "move": "Air Cutter",
+          "level": 19
+        },
+        {
+          "move": "Extrasensory",
+          "level": 25
+        },
+        {
+          "move": "Agility",
+          "level": 31
+        },
+        {
+          "move": "Air Slash",
+          "level": 37
+        },
+        {
+          "move": "Crunch",
+          "level": 43
+        },
+        {
+          "move": "Tailwind",
+          "level": 49
+        },
+        {
+          "move": "Rain Dance",
+          "level": 55
+        },
+        {
+          "move": "Hurricane",
+          "level": 61
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 67
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 73
+        },
+        {
+          "move": "Thrash",
+          "level": 79
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Astonish",
+          "level": 1
+        },
+        {
+          "move": "Gust",
+          "level": 1
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 1
+        },
+        {
+          "move": "Hurricane",
+          "level": 1
+        },
+        {
+          "move": "Swagger",
+          "level": 1
+        },
+        {
+          "move": "Thrash",
+          "level": 1
+        },
+        {
+          "move": "Uproar",
+          "level": 1
+        },
+        {
+          "move": "Bite",
+          "level": 7
+        },
+        {
+          "move": "Revenge",
+          "level": 13
+        },
+        {
+          "move": "Air Cutter",
+          "level": 19
+        },
+        {
+          "move": "Extrasensory",
+          "level": 25
+        },
+        {
+          "move": "Agility",
+          "level": 31
+        },
+        {
+          "move": "Air Slash",
+          "level": 37
+        },
+        {
+          "move": "Crunch",
+          "level": 43
+        },
+        {
+          "move": "Tailwind",
+          "level": 49
+        },
+        {
+          "move": "Rain Dance",
+          "level": 55
+        },
+        {
+          "move": "Hurricane",
+          "level": 61
+        },
+        {
+          "move": "Dark Pulse",
+          "level": 67
+        },
+        {
+          "move": "Hammer Arm",
+          "level": 73
+        },
+        {
+          "move": "Thrash",
+          "level": 79
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Sky Drop",
+          "tm": "TM58"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

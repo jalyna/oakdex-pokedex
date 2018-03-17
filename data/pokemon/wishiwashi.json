@@ -53,224 +53,6 @@
     "sp_def": 25,
     "speed": 40
   },
-  "learnset": [
-    {
-      "move": "Growl",
-      "level": 1
-    },
-    {
-      "move": "Helping Hand",
-      "level": 6
-    },
-    {
-      "move": "Feint Attack",
-      "level": 9
-    },
-    {
-      "move": "Brine",
-      "level": 14
-    },
-    {
-      "move": "Aqua Ring",
-      "level": 17
-    },
-    {
-      "move": "Tearful Look",
-      "level": 22
-    },
-    {
-      "move": "Take Down",
-      "level": 25
-    },
-    {
-      "move": "Dive",
-      "level": 30
-    },
-    {
-      "move": "Beat Up",
-      "level": 33
-    },
-    {
-      "move": "Aqua Tail",
-      "level": 38
-    },
-    {
-      "move": "Double-Edge",
-      "level": 41
-    },
-    {
-      "move": "Soak",
-      "level": 46
-    },
-    {
-      "move": "Endeavor",
-      "level": 49
-    },
-    {
-      "move": "Hydro Pump",
-      "level": 54
-    },
-    {
-      "move": "Hail",
-      "tm": "TM07"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "U-turn",
-      "tm": "TM89"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Surf",
-      "tm": "TM94"
-    },
-    {
-      "move": "Waterfall",
-      "tm": "TM98"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Muddy Water",
-      "parent": "Barboach"
-    },
-    {
-      "move": "Muddy Water",
-      "parent": "Whiscash"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Goldeen"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Seaking"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Wailmer"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Wailord"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Barboach"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Whiscash"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Alomomola"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Goldeen"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Seaking"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Remoraid"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Barboach"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Whiscash"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Luvdisc"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Finneon"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Lumineon"
-    },
-    {
-      "move": "Water Sport",
-      "parent": "Alomomola"
-    }
-  ],
   "categories": {
     "en": "Small Fry Pokémon",
     "de": "Kleinfisch"
@@ -349,5 +131,363 @@
       0
     ]
   },
-  "ultra_alola_id": 60
+  "ultra_alola_id": 60,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 6
+        },
+        {
+          "move": "Feint Attack",
+          "level": 9
+        },
+        {
+          "move": "Brine",
+          "level": 14
+        },
+        {
+          "move": "Aqua Ring",
+          "level": 17
+        },
+        {
+          "move": "Tearful Look",
+          "level": 22
+        },
+        {
+          "move": "Take Down",
+          "level": 25
+        },
+        {
+          "move": "Dive",
+          "level": 30
+        },
+        {
+          "move": "Beat Up",
+          "level": 33
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 38
+        },
+        {
+          "move": "Double-Edge",
+          "level": 41
+        },
+        {
+          "move": "Soak",
+          "level": 46
+        },
+        {
+          "move": "Endeavor",
+          "level": 49
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 54
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Water Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Helping Hand",
+          "level": 6
+        },
+        {
+          "move": "Feint Attack",
+          "level": 9
+        },
+        {
+          "move": "Brine",
+          "level": 14
+        },
+        {
+          "move": "Aqua Ring",
+          "level": 17
+        },
+        {
+          "move": "Tearful Look",
+          "level": 22
+        },
+        {
+          "move": "Take Down",
+          "level": 25
+        },
+        {
+          "move": "Dive",
+          "level": 30
+        },
+        {
+          "move": "Beat Up",
+          "level": 33
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 38
+        },
+        {
+          "move": "Double-Edge",
+          "level": 41
+        },
+        {
+          "move": "Soak",
+          "level": 46
+        },
+        {
+          "move": "Endeavor",
+          "level": 49
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 54
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Water Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlpool",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -56,968 +56,6 @@
     "sp_def": 70,
     "speed": 90
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Extreme Speed"
-    },
-    {
-      "level": 0,
-      "move": "Dragon Pulse"
-    },
-    {
-      "level": 0,
-      "move": "Close Combat"
-    },
-    {
-      "level": 0,
-      "move": "Aura Sphere"
-    },
-    {
-      "level": 0,
-      "move": "Foresight"
-    },
-    {
-      "level": 0,
-      "move": "Quick Attack"
-    },
-    {
-      "level": 0,
-      "move": "Detect"
-    },
-    {
-      "level": 0,
-      "move": "Metal Claw"
-    },
-    {
-      "level": 6,
-      "move": "Counter"
-    },
-    {
-      "level": 11,
-      "move": "Feint"
-    },
-    {
-      "level": 15,
-      "move": "Power-Up Punch"
-    },
-    {
-      "level": 19,
-      "move": "Swords Dance"
-    },
-    {
-      "level": 24,
-      "move": "Metal Sound"
-    },
-    {
-      "level": 29,
-      "move": "Bone Rush"
-    },
-    {
-      "level": 33,
-      "move": "Quick Guard"
-    },
-    {
-      "level": 37,
-      "move": "Me First"
-    },
-    {
-      "level": 42,
-      "move": "Aura Sphere"
-    },
-    {
-      "level": 47,
-      "move": "Calm Mind"
-    },
-    {
-      "level": 51,
-      "move": "Heal Pulse"
-    },
-    {
-      "level": 55,
-      "move": "Close Combat"
-    },
-    {
-      "level": 60,
-      "move": "Dragon Pulse"
-    },
-    {
-      "level": 65,
-      "move": "Extreme Speed"
-    },
-    {
-      "tm": "TM01",
-      "move": "Hone Claws"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM08",
-      "move": "Bulk Up"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM26",
-      "move": "Earthquake"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM28",
-      "move": "Dig"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM30",
-      "move": "Shadow Ball"
-    },
-    {
-      "tm": "TM31",
-      "move": "Brick Break"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM47",
-      "move": "Low Sweep"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM56",
-      "move": "Fling"
-    },
-    {
-      "tm": "TM65",
-      "move": "Shadow Claw"
-    },
-    {
-      "tm": "TM66",
-      "move": "Payback"
-    },
-    {
-      "tm": "TM67",
-      "move": "Retaliate"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM75",
-      "move": "Swords Dance"
-    },
-    {
-      "tm": "TM78",
-      "move": "Bulldoze"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM84",
-      "move": "Poison Jab"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM97",
-      "move": "Dark Pulse"
-    },
-    {
-      "tm": "TM98",
-      "move": "Power-Up Punch"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Pikachu",
-      "move": "Agility"
-    },
-    {
-      "parent": "Growlithe",
-      "move": "Agility"
-    },
-    {
-      "parent": "Ponyta",
-      "move": "Agility"
-    },
-    {
-      "parent": "Rapidash",
-      "move": "Agility"
-    },
-    {
-      "parent": "Farfetch'd",
-      "move": "Agility"
-    },
-    {
-      "parent": "Hitmonchan",
-      "move": "Agility"
-    },
-    {
-      "parent": "Hitmontop",
-      "move": "Agility"
-    },
-    {
-      "parent": "Jolteon",
-      "move": "Agility"
-    },
-    {
-      "parent": "Aipom",
-      "move": "Agility"
-    },
-    {
-      "parent": "Ambipom",
-      "move": "Agility"
-    },
-    {
-      "parent": "Girafarig",
-      "move": "Agility"
-    },
-    {
-      "parent": "Sneasel",
-      "move": "Agility"
-    },
-    {
-      "parent": "Buizel",
-      "move": "Agility"
-    },
-    {
-      "parent": "Floatzel",
-      "move": "Agility"
-    },
-    {
-      "parent": "Buneary",
-      "move": "Agility"
-    },
-    {
-      "parent": "Lopunny",
-      "move": "Agility"
-    },
-    {
-      "parent": "Blitzle",
-      "move": "Agility"
-    },
-    {
-      "parent": "Zebstrika",
-      "move": "Agility"
-    },
-    {
-      "parent": "Zorua",
-      "move": "Agility"
-    },
-    {
-      "parent": "Zoroark",
-      "move": "Agility"
-    },
-    {
-      "parent": "Emolga",
-      "move": "Agility"
-    },
-    {
-      "parent": "Bunnelby",
-      "move": "Agility"
-    },
-    {
-      "parent": "Diggersby",
-      "move": "Agility"
-    },
-    {
-      "parent": "Rattata",
-      "move": "Bite"
-    },
-    {
-      "parent": "Raticate",
-      "move": "Bite"
-    },
-    {
-      "parent": "Ekans",
-      "move": "Bite"
-    },
-    {
-      "parent": "Arbok",
-      "move": "Bite"
-    },
-    {
-      "parent": "Meowth",
-      "move": "Bite"
-    },
-    {
-      "parent": "Persian",
-      "move": "Bite"
-    },
-    {
-      "parent": "Growlithe",
-      "move": "Bite"
-    },
-    {
-      "parent": "Arcanine",
-      "move": "Bite"
-    },
-    {
-      "parent": "Eevee",
-      "move": "Bite"
-    },
-    {
-      "parent": "Vaporeon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Jolteon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Flareon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Espeon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Umbreon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Leafeon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Glaceon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Snubbull",
-      "move": "Bite"
-    },
-    {
-      "parent": "Granbull",
-      "move": "Bite"
-    },
-    {
-      "parent": "Houndour",
-      "move": "Bite"
-    },
-    {
-      "parent": "Houndoom",
-      "move": "Bite"
-    },
-    {
-      "parent": "Poochyena",
-      "move": "Bite"
-    },
-    {
-      "parent": "Mightyena",
-      "move": "Bite"
-    },
-    {
-      "parent": "Loudred",
-      "move": "Bite"
-    },
-    {
-      "parent": "Exploud",
-      "move": "Bite"
-    },
-    {
-      "parent": "Mawile",
-      "move": "Bite"
-    },
-    {
-      "parent": "Electrike",
-      "move": "Bite"
-    },
-    {
-      "parent": "Manectric",
-      "move": "Bite"
-    },
-    {
-      "parent": "Seviper",
-      "move": "Bite"
-    },
-    {
-      "parent": "Absol",
-      "move": "Bite"
-    },
-    {
-      "parent": "Shinx",
-      "move": "Bite"
-    },
-    {
-      "parent": "Luxio",
-      "move": "Bite"
-    },
-    {
-      "parent": "Luxray",
-      "move": "Bite"
-    },
-    {
-      "parent": "Hippopotas",
-      "move": "Bite"
-    },
-    {
-      "parent": "Hippowdon",
-      "move": "Bite"
-    },
-    {
-      "parent": "Patrat",
-      "move": "Bite"
-    },
-    {
-      "parent": "Watchog",
-      "move": "Bite"
-    },
-    {
-      "parent": "Lillipup",
-      "move": "Bite"
-    },
-    {
-      "parent": "Herdier",
-      "move": "Bite"
-    },
-    {
-      "parent": "Stoutland",
-      "move": "Bite"
-    },
-    {
-      "parent": "Pansage",
-      "move": "Bite"
-    },
-    {
-      "parent": "Pansear",
-      "move": "Bite"
-    },
-    {
-      "parent": "Panpour",
-      "move": "Bite"
-    },
-    {
-      "parent": "Sandile",
-      "move": "Bite"
-    },
-    {
-      "parent": "Krokorok",
-      "move": "Bite"
-    },
-    {
-      "parent": "Krookodile",
-      "move": "Bite"
-    },
-    {
-      "parent": "Chespin",
-      "move": "Bite"
-    },
-    {
-      "parent": "Quilladin",
-      "move": "Bite"
-    },
-    {
-      "parent": "Chesnaught",
-      "move": "Bite"
-    },
-    {
-      "parent": "Furfrou",
-      "move": "Bite"
-    },
-    {
-      "parent": "Hitmonlee",
-      "move": "Blaze Kick"
-    },
-    {
-      "parent": "Blaziken",
-      "move": "Blaze Kick"
-    },
-    {
-      "parent": "Hitmonchan",
-      "move": "Bullet Punch"
-    },
-    {
-      "parent": "Throh",
-      "move": "Circle Throw"
-    },
-    {
-      "parent": "Pancham",
-      "move": "Circle Throw"
-    },
-    {
-      "parent": "Pangoro",
-      "move": "Circle Throw"
-    },
-    {
-      "parent": "Mankey",
-      "move": "Cross Chop"
-    },
-    {
-      "parent": "Primeape",
-      "move": "Cross Chop"
-    },
-    {
-      "parent": "Machop",
-      "move": "Cross Chop"
-    },
-    {
-      "parent": "Machoke",
-      "move": "Cross Chop"
-    },
-    {
-      "parent": "Machamp",
-      "move": "Cross Chop"
-    },
-    {
-      "parent": "Rattata",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Raticate",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Arbok",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Growlithe",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Arcanine",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Girafarig",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Snubbull",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Granbull",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Houndour",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Houndoom",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Poochyena",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Mightyena",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Exploud",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Mawile",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Seviper",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Walrein",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Shinx",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Luxio",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Luxray",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Floatzel",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Hippopotas",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Hippowdon",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Patrat",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Watchog",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Lillipup",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Herdier",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Stoutland",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Pansage",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Pansear",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Panpour",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Sandile",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Krokorok",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Krookodile",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Scraggy",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Scrafty",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Litleo",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Pyroar",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Pancham",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Pangoro",
-      "move": "Crunch"
-    },
-    {
-      "parent": "Hitmonchan",
-      "move": "Detect"
-    },
-    {
-      "parent": "Hitmontop",
-      "move": "Detect"
-    },
-    {
-      "parent": "Sableye",
-      "move": "Detect"
-    },
-    {
-      "parent": "Meditite",
-      "move": "Detect"
-    },
-    {
-      "parent": "Medicham",
-      "move": "Detect"
-    },
-    {
-      "parent": "Zangoose",
-      "move": "Detect"
-    },
-    {
-      "parent": "Absol",
-      "move": "Detect"
-    },
-    {
-      "parent": "Lucario",
-      "move": "Detect"
-    },
-    {
-      "parent": "Patrat",
-      "move": "Detect"
-    },
-    {
-      "parent": "Watchog",
-      "move": "Detect"
-    },
-    {
-      "parent": "Mienfoo",
-      "move": "Detect"
-    },
-    {
-      "parent": "Mienshao",
-      "move": "Detect"
-    },
-    {
-      "parent": "Hawlucha",
-      "move": "Detect"
-    },
-    {
-      "parent": "Sentret",
-      "move": "Follow Me"
-    },
-    {
-      "parent": "Furret",
-      "move": "Follow Me"
-    },
-    {
-      "parent": "Hitmonlee",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Blaziken",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Meditite",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Medicham",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Scraggy",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Scrafty",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Mienfoo",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Mienshao",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Hawlucha",
-      "move": "High Jump Kick"
-    },
-    {
-      "parent": "Mawile",
-      "move": "Iron Defense"
-    },
-    {
-      "parent": "Torkoal",
-      "move": "Iron Defense"
-    },
-    {
-      "parent": "Pawniard",
-      "move": "Iron Defense"
-    },
-    {
-      "parent": "Bisharp",
-      "move": "Iron Defense"
-    },
-    {
-      "parent": "Mankey",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Primeape",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Machop",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Machoke",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Machamp",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Electabuzz",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Electivire",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Watchog",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Timburr",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Gurdurr",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Conkeldurr",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Scraggy",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Scrafty",
-      "move": "Low Kick"
-    },
-    {
-      "parent": "Hitmonlee",
-      "move": "Mind Reader"
-    },
-    {
-      "parent": "Meditite",
-      "move": "Mind Reader"
-    },
-    {
-      "parent": "Medicham",
-      "move": "Mind Reader"
-    },
-    {
-      "parent": "Hitmonchan",
-      "move": "Sky Uppercut"
-    },
-    {
-      "parent": "Combusken",
-      "move": "Sky Uppercut"
-    },
-    {
-      "parent": "Blaziken",
-      "move": "Sky Uppercut"
-    },
-    {
-      "parent": "Pancham",
-      "move": "Sky Uppercut"
-    },
-    {
-      "parent": "Pangoro",
-      "move": "Sky Uppercut"
-    },
-    {
-      "parent": "Hitmonchan",
-      "move": "Vacuum Wave"
-    }
-  ],
   "evolution_from": "Riolu",
   "alola_id": 280,
   "categories": {
@@ -1142,5 +180,2842 @@
       4
     ]
   },
-  "ultra_alola_id": 125
+  "ultra_alola_id": 125,
+  "move_learnsets": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Dark Pulse",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Force Palm",
+          "level": 11
+        },
+        {
+          "move": "Feint",
+          "level": 15
+        },
+        {
+          "move": "Bone Rush",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Me First",
+          "level": 29
+        },
+        {
+          "move": "Swords Dance",
+          "level": 33
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 37
+        },
+        {
+          "move": "Close Combat",
+          "level": 42
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 47
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 51
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Dragon Pulse",
+          "tm": "TM59"
+        },
+        {
+          "move": "Drain Punch",
+          "tm": "TM60"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Dark Pulse",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Force Palm",
+          "level": 11
+        },
+        {
+          "move": "Feint",
+          "level": 15
+        },
+        {
+          "move": "Bone Rush",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Me First",
+          "level": 29
+        },
+        {
+          "move": "Swords Dance",
+          "level": 33
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 37
+        },
+        {
+          "move": "Close Combat",
+          "level": 42
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 47
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 51
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Dragon Pulse",
+          "tm": "TM59"
+        },
+        {
+          "move": "Drain Punch",
+          "tm": "TM60"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Dark Pulse",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Force Palm",
+          "level": 11
+        },
+        {
+          "move": "Feint",
+          "level": 15
+        },
+        {
+          "move": "Bone Rush",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Me First",
+          "level": 29
+        },
+        {
+          "move": "Swords Dance",
+          "level": 33
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 37
+        },
+        {
+          "move": "Close Combat",
+          "level": 42
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 47
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 51
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Dragon Pulse",
+          "tm": "TM59"
+        },
+        {
+          "move": "Drain Punch",
+          "tm": "TM60"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Dark Pulse",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Force Palm",
+          "level": 11
+        },
+        {
+          "move": "Feint",
+          "level": 15
+        },
+        {
+          "move": "Bone Rush",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Me First",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Dark Pulse",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Feint",
+          "level": 11
+        },
+        {
+          "move": "Force Palm",
+          "level": 15
+        },
+        {
+          "move": "Me First",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Bone Rush",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Aura Sphere",
+          "level": 1
+        },
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 1
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Feint",
+          "level": 11
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 15
+        },
+        {
+          "move": "Swords Dance",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Bone Rush",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Me First",
+          "level": 37
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Aura Sphere",
+          "level": 1
+        },
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 1
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Feint",
+          "level": 11
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 15
+        },
+        {
+          "move": "Swords Dance",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Bone Rush",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Me First",
+          "level": 37
+        },
+        {
+          "move": "Aura Sphere",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aura Sphere",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Laser Focus",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Feint",
+          "level": 11
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 15
+        },
+        {
+          "move": "Swords Dance",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Bone Rush",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Me First",
+          "level": 37
+        },
+        {
+          "move": "Work Up",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aura Sphere",
+          "level": 1
+        },
+        {
+          "move": "Detect",
+          "level": 1
+        },
+        {
+          "move": "Foresight",
+          "level": 1
+        },
+        {
+          "move": "Laser Focus",
+          "level": 1
+        },
+        {
+          "move": "Metal Claw",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Counter",
+          "level": 6
+        },
+        {
+          "move": "Feint",
+          "level": 11
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 15
+        },
+        {
+          "move": "Swords Dance",
+          "level": 19
+        },
+        {
+          "move": "Metal Sound",
+          "level": 24
+        },
+        {
+          "move": "Bone Rush",
+          "level": 29
+        },
+        {
+          "move": "Quick Guard",
+          "level": 33
+        },
+        {
+          "move": "Me First",
+          "level": 37
+        },
+        {
+          "move": "Work Up",
+          "level": 42
+        },
+        {
+          "move": "Calm Mind",
+          "level": 47
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 51
+        },
+        {
+          "move": "Close Combat",
+          "level": 55
+        },
+        {
+          "move": "Dragon Pulse",
+          "level": 60
+        },
+        {
+          "move": "Extreme Speed",
+          "level": 65
+        },
+        {
+          "move": "Agility",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Blaze Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Bullet Punch",
+          "egg_move": true
+        },
+        {
+          "move": "Circle Throw",
+          "egg_move": true
+        },
+        {
+          "move": "Cross Chop",
+          "egg_move": true
+        },
+        {
+          "move": "Crunch",
+          "egg_move": true
+        },
+        {
+          "move": "Detect",
+          "egg_move": true
+        },
+        {
+          "move": "Follow Me",
+          "egg_move": true
+        },
+        {
+          "move": "High Jump Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Iron Defense",
+          "egg_move": true
+        },
+        {
+          "move": "Low Kick",
+          "egg_move": true
+        },
+        {
+          "move": "Meteor Mash",
+          "egg_move": true
+        },
+        {
+          "move": "Mind Reader",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Uppercut",
+          "egg_move": true
+        },
+        {
+          "move": "Vacuum Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Low Sweep",
+          "tm": "TM47"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

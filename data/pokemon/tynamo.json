@@ -50,32 +50,6 @@
     "sp_def": 40,
     "speed": 60
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "Thunder Wave"
-    },
-    {
-      "level": 0,
-      "move": "Spark"
-    },
-    {
-      "level": 0,
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM57",
-      "move": "Charge Beam"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    }
-  ],
   "evolutions": [
     {
       "to": "Eelektrik",
@@ -156,5 +130,183 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge Beam",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 1
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        }
+      ]
+    }
+  ]
 }
