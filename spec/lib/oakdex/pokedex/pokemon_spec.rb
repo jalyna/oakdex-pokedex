@@ -165,8 +165,8 @@ describe Oakdex::Pokedex::Pokemon do
 
   describe '#learnset' do
     it {
-      expect(subject.learnset).to
-      eq(attributes['move_learnsets'].last['learnset'])
+      expect(subject.learnset)
+      .to eq(attributes['move_learnsets'].last['learnset'])
     }
   end
 
