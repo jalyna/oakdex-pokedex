@@ -54,264 +54,6 @@
     "sp_def": 25,
     "speed": 15
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 4,
-      "move": "Harden"
-    },
-    {
-      "level": 7,
-      "move": "Sand Attack"
-    },
-    {
-      "level": 10,
-      "move": "Headbutt"
-    },
-    {
-      "level": 14,
-      "move": "Rock Blast"
-    },
-    {
-      "level": 17,
-      "move": "Mud-Slap"
-    },
-    {
-      "level": 20,
-      "move": "Iron Defense"
-    },
-    {
-      "level": 23,
-      "move": "Smack Down"
-    },
-    {
-      "level": 27,
-      "move": "Rock Slide"
-    },
-    {
-      "level": 30,
-      "move": "Stealth Rock"
-    },
-    {
-      "level": 33,
-      "move": "Sandstorm"
-    },
-    {
-      "level": 36,
-      "move": "Stone Edge"
-    },
-    {
-      "level": 40,
-      "move": "Explosion"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM23",
-      "move": "Smack Down"
-    },
-    {
-      "tm": "TM26",
-      "move": "Earthquake"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM37",
-      "move": "Sandstorm"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM64",
-      "move": "Explosion"
-    },
-    {
-      "tm": "TM69",
-      "move": "Rock Polish"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM78",
-      "move": "Bulldoze"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Steelix",
-      "move": "Autotomize"
-    },
-    {
-      "parent": "Honedge",
-      "move": "Autotomize"
-    },
-    {
-      "parent": "Doublade",
-      "move": "Autotomize"
-    },
-    {
-      "parent": "Aegislash",
-      "move": "Autotomize"
-    },
-    {
-      "parent": "Onix",
-      "move": "Curse"
-    },
-    {
-      "parent": "Steelix",
-      "move": "Curse"
-    },
-    {
-      "parent": "Yamask",
-      "move": "Curse"
-    },
-    {
-      "parent": "Cofagrigus",
-      "move": "Curse"
-    },
-    {
-      "parent": "Ferroseed",
-      "move": "Curse"
-    },
-    {
-      "parent": "Ferrothorn",
-      "move": "Curse"
-    },
-    {
-      "parent": "Probopass",
-      "move": "Gravity"
-    },
-    {
-      "parent": "Golem",
-      "move": "Heavy Slam"
-    },
-    {
-      "parent": "Nosepass",
-      "move": "Lock-On"
-    },
-    {
-      "parent": "Probopass",
-      "move": "Lock-On"
-    },
-    {
-      "parent": "Geodude",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Graveler",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Golem",
-      "move": "Magnitude"
-    },
-    {
-      "parent": "Onix",
-      "move": "Rock Tomb"
-    },
-    {
-      "parent": "Sudowoodo",
-      "move": "Rock Tomb"
-    },
-    {
-      "parent": "Steelix",
-      "move": "Rock Tomb"
-    },
-    {
-      "parent": "Trubbish",
-      "move": "Take Down"
-    },
-    {
-      "parent": "Dwebble",
-      "move": "Wide Guard"
-    }
-  ],
   "evolutions": [
     {
       "to": "Boldore",
@@ -400,5 +142,1187 @@
       0
     ]
   },
-  "ultra_alola_id": 60
+  "ultra_alola_id": 60,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 4
+        },
+        {
+          "move": "Sand Attack",
+          "level": 7
+        },
+        {
+          "move": "Headbutt",
+          "level": 10
+        },
+        {
+          "move": "Rock Blast",
+          "level": 14
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 17
+        },
+        {
+          "move": "Iron Defense",
+          "level": 20
+        },
+        {
+          "move": "Smack Down",
+          "level": 23
+        },
+        {
+          "move": "Rock Slide",
+          "level": 27
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 30
+        },
+        {
+          "move": "Sandstorm",
+          "level": 33
+        },
+        {
+          "move": "Stone Edge",
+          "level": 36
+        },
+        {
+          "move": "Explosion",
+          "level": 40
+        },
+        {
+          "move": "Autotomize",
+          "egg_move": true
+        },
+        {
+          "move": "Curse",
+          "egg_move": true
+        },
+        {
+          "move": "Gravity",
+          "egg_move": true
+        },
+        {
+          "move": "Heavy Slam",
+          "egg_move": true
+        },
+        {
+          "move": "Lock-On",
+          "egg_move": true
+        },
+        {
+          "move": "Magnitude",
+          "egg_move": true
+        },
+        {
+          "move": "Rock Tomb",
+          "egg_move": true
+        },
+        {
+          "move": "Take Down",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Explosion",
+          "tm": "TM64"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

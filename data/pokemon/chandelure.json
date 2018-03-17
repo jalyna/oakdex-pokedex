@@ -55,232 +55,6 @@
     "sp_def": 90,
     "speed": 80
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Pain Split"
-    },
-    {
-      "level": 0,
-      "move": "Smog"
-    },
-    {
-      "level": 0,
-      "move": "Confuse Ray"
-    },
-    {
-      "level": 0,
-      "move": "Flame Burst"
-    },
-    {
-      "level": 0,
-      "move": "Hex"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM30",
-      "move": "Shadow Ball"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM35",
-      "move": "Flamethrower"
-    },
-    {
-      "tm": "TM38",
-      "move": "Fire Blast"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM43",
-      "move": "Flame Charge"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM46",
-      "move": "Thief"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM50",
-      "move": "Overheat"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM59",
-      "move": "Incinerate"
-    },
-    {
-      "tm": "TM61",
-      "move": "Will-O-Wisp"
-    },
-    {
-      "tm": "TM63",
-      "move": "Embargo"
-    },
-    {
-      "tm": "TM66",
-      "move": "Payback"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM77",
-      "move": "Psych Up"
-    },
-    {
-      "tm": "TM85",
-      "move": "Dream Eater"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM92",
-      "move": "Trick Room"
-    },
-    {
-      "tm": "TM97",
-      "move": "Dark Pulse"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "parent": "Koffing",
-      "move": "Clear Smog"
-    },
-    {
-      "parent": "Weezing",
-      "move": "Clear Smog"
-    },
-    {
-      "parent": "Stunfisk",
-      "move": "Endure"
-    },
-    {
-      "parent": "Koffing",
-      "move": "Haze"
-    },
-    {
-      "parent": "Weezing",
-      "move": "Haze"
-    },
-    {
-      "parent": "Yamask",
-      "move": "Haze"
-    },
-    {
-      "parent": "Cofagrigus",
-      "move": "Haze"
-    },
-    {
-      "parent": "Slugma",
-      "move": "Heat Wave"
-    },
-    {
-      "parent": "Magcargo",
-      "move": "Heat Wave"
-    },
-    {
-      "parent": "Litwick",
-      "move": "Heat Wave"
-    },
-    {
-      "parent": "Lampent",
-      "move": "Heat Wave"
-    },
-    {
-      "parent": "Chandelure",
-      "move": "Heat Wave"
-    },
-    {
-      "parent": "Yamask",
-      "move": "Power Split"
-    },
-    {
-      "parent": "Cofagrigus",
-      "move": "Power Split"
-    }
-  ],
   "evolution_from": "Lampent",
   "categories": {
     "en": "Luring Pokémon",
@@ -358,5 +132,1235 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Telekinesis",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Telekinesis",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Pain Split",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Pain Split",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Incinerate",
+          "tm": "TM59"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Pain Split",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confuse Ray",
+          "level": 1
+        },
+        {
+          "move": "Flame Burst",
+          "level": 1
+        },
+        {
+          "move": "Hex",
+          "level": 1
+        },
+        {
+          "move": "Pain Split",
+          "level": 1
+        },
+        {
+          "move": "Smog",
+          "level": 1
+        },
+        {
+          "move": "Acid",
+          "egg_move": true
+        },
+        {
+          "move": "Acid Armor",
+          "egg_move": true
+        },
+        {
+          "move": "Captivate",
+          "egg_move": true
+        },
+        {
+          "move": "Clear Smog",
+          "egg_move": true
+        },
+        {
+          "move": "Endure",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Heat Wave",
+          "egg_move": true
+        },
+        {
+          "move": "Power Split",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Flamethrower",
+          "tm": "TM35"
+        },
+        {
+          "move": "Fire Blast",
+          "tm": "TM38"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Flame Charge",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Overheat",
+          "tm": "TM50"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Will-O-Wisp",
+          "tm": "TM61"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

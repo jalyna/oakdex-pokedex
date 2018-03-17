@@ -9,6 +9,10 @@ module Oakdex
       translate :categories, :category
       translate :variation_names, :variation_name
 
+      def learnset
+        move_learnsets.last['learnset']
+      end
+
       class << self
         def all_by_id
           @all_by_id ||= Hash[all.map do |_k, pokemon|

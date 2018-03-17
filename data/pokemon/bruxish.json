@@ -58,260 +58,6 @@
     "sp_def": 70,
     "speed": 92
   },
-  "learnset": [
-    {
-      "move": "Astonish",
-      "level": 4
-    },
-    {
-      "move": "Confusion",
-      "level": 9
-    },
-    {
-      "move": "Bite",
-      "level": 12
-    },
-    {
-      "move": "Aqua Jet",
-      "level": 17
-    },
-    {
-      "move": "Disable",
-      "level": 20
-    },
-    {
-      "move": "Psywave",
-      "level": 25
-    },
-    {
-      "move": "Crunch",
-      "level": 28
-    },
-    {
-      "move": "Aqua Tail",
-      "level": 33
-    },
-    {
-      "move": "Screech",
-      "level": 36
-    },
-    {
-      "move": "Psychic Fangs",
-      "level": 41
-    },
-    {
-      "move": "Synchronoise",
-      "level": 44
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Bulk Up",
-      "tm": "TM08"
-    },
-    {
-      "move": "Venoshock",
-      "tm": "TM09"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Aerial Ace",
-      "tm": "TM40"
-    },
-    {
-      "move": "Torment",
-      "tm": "TM41"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Embargo",
-      "tm": "TM63"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Swords Dance",
-      "tm": "TM75"
-    },
-    {
-      "move": "Frost Breath",
-      "tm": "TM79"
-    },
-    {
-      "move": "Dream Eater",
-      "tm": "TM85"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Surf",
-      "tm": "TM94"
-    },
-    {
-      "move": "Waterfall",
-      "tm": "TM98"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Poison Fang",
-      "parent": "Carvanha"
-    },
-    {
-      "move": "Poison Fang",
-      "parent": "Sharpedo"
-    },
-    {
-      "move": "Rage",
-      "parent": "Carvanha"
-    },
-    {
-      "move": "Rage",
-      "parent": "Sharpedo"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Goldeen"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Seaking"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Remoraid"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Wailmer"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Wailord"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Barboach"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Whiscash"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Luvdisc"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Finneon"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Lumineon"
-    },
-    {
-      "move": "Water Pulse",
-      "parent": "Alomomola"
-    }
-  ],
   "categories": {
     "en": "Gnash Teeth Pokémon",
     "de": "Knirschzahn"
@@ -364,5 +110,455 @@
       0
     ]
   },
-  "ultra_alola_id": 141
+  "ultra_alola_id": 141,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Confusion",
+          "level": 9
+        },
+        {
+          "move": "Bite",
+          "level": 12
+        },
+        {
+          "move": "Aqua Jet",
+          "level": 17
+        },
+        {
+          "move": "Disable",
+          "level": 20
+        },
+        {
+          "move": "Psywave",
+          "level": 25
+        },
+        {
+          "move": "Crunch",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 33
+        },
+        {
+          "move": "Screech",
+          "level": 36
+        },
+        {
+          "move": "Psychic Fangs",
+          "level": 41
+        },
+        {
+          "move": "Synchronoise",
+          "level": 44
+        },
+        {
+          "move": "Ice Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Poison Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Rage",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Astonish",
+          "level": 4
+        },
+        {
+          "move": "Confusion",
+          "level": 9
+        },
+        {
+          "move": "Bite",
+          "level": 12
+        },
+        {
+          "move": "Aqua Jet",
+          "level": 17
+        },
+        {
+          "move": "Disable",
+          "level": 20
+        },
+        {
+          "move": "Psywave",
+          "level": 25
+        },
+        {
+          "move": "Crunch",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 33
+        },
+        {
+          "move": "Screech",
+          "level": 36
+        },
+        {
+          "move": "Psychic Fangs",
+          "level": 41
+        },
+        {
+          "move": "Synchronoise",
+          "level": 44
+        },
+        {
+          "move": "Ice Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Poison Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Rage",
+          "egg_move": true
+        },
+        {
+          "move": "Water Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

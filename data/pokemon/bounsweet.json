@@ -56,248 +56,6 @@
     "sp_def": 38,
     "speed": 32
   },
-  "learnset": [
-    {
-      "move": "Play Nice",
-      "level": 5
-    },
-    {
-      "move": "Rapid Spin",
-      "level": 9
-    },
-    {
-      "move": "Razor Leaf",
-      "level": 13
-    },
-    {
-      "move": "Sweet Scent",
-      "level": 17
-    },
-    {
-      "move": "Magical Leaf",
-      "level": 21
-    },
-    {
-      "move": "Teeter Dance",
-      "level": 25
-    },
-    {
-      "move": "Flail",
-      "level": 29
-    },
-    {
-      "move": "Aromatic Mist",
-      "level": 33
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Nature Power",
-      "tm": "TM96"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Charm",
-      "parent": "Cottonee"
-    },
-    {
-      "move": "Feint",
-      "parent": "Breloom"
-    },
-    {
-      "move": "Grass Whistle",
-      "parent": "Sunkern"
-    },
-    {
-      "move": "Grass Whistle",
-      "parent": "Sunflora"
-    },
-    {
-      "move": "Grass Whistle",
-      "parent": "Roselia"
-    },
-    {
-      "move": "Grass Whistle",
-      "parent": "Snover"
-    },
-    {
-      "move": "Grass Whistle",
-      "parent": "Abomasnow"
-    },
-    {
-      "move": "Play Rough",
-      "parent": "Comfey"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Bulbasaur"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Ivysaur"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Venusaur"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Chikorita"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Bayleef"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Meganium"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Hoppip"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Skiploom"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Jumpluff"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Sunkern"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Seedot"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Roselia"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Tropius"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Turtwig"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Grotle"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Torterra"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Maractus"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Foongus"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Amoonguss"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Fomantis"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Lurantis"
-    },
-    {
-      "move": "Synthesis",
-      "parent": "Comfey"
-    }
-  ],
   "evolutions": [
     {
       "to": "Steenee",
@@ -353,5 +111,327 @@
       0
     ]
   },
-  "ultra_alola_id": 108
+  "ultra_alola_id": 108,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Play Nice",
+          "level": 5
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 17
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 21
+        },
+        {
+          "move": "Teeter Dance",
+          "level": 25
+        },
+        {
+          "move": "Flail",
+          "level": 29
+        },
+        {
+          "move": "Aromatic Mist",
+          "level": 33
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Feint",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Play Rough",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Splash",
+          "level": 1
+        },
+        {
+          "move": "Play Nice",
+          "level": 5
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 9
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 13
+        },
+        {
+          "move": "Sweet Scent",
+          "level": 17
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 21
+        },
+        {
+          "move": "Teeter Dance",
+          "level": 25
+        },
+        {
+          "move": "Flail",
+          "level": 29
+        },
+        {
+          "move": "Aromatic Mist",
+          "level": 33
+        },
+        {
+          "move": "Acupressure",
+          "egg_move": true
+        },
+        {
+          "move": "Charm",
+          "egg_move": true
+        },
+        {
+          "move": "Feint",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Play Rough",
+          "egg_move": true
+        },
+        {
+          "move": "Synthesis",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

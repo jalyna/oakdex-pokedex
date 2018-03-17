@@ -54,96 +54,6 @@
     "sp_def": 30,
     "speed": 29
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Harden"
-    },
-    {
-      "level": 9,
-      "move": "Protect"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Paras",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Venonat",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Venomoth",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Mothim",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Vivillon",
-      "move": "Poison Powder"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Paras",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Volcarona",
-      "move": "Rage Powder"
-    },
-    {
-      "parent": "Butterfree",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Paras",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Venonat",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Venomoth",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Beautifly",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Masquerain",
-      "move": "Stun Spore"
-    },
-    {
-      "parent": "Vivillon",
-      "move": "Stun Spore"
-    }
-  ],
   "evolution_from": "Scatterbug",
   "evolutions": [
     {
@@ -208,5 +118,135 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 9
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Protect",
+          "level": 1
+        },
+        {
+          "move": "Poison Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Rage Powder",
+          "egg_move": true
+        },
+        {
+          "move": "Stun Spore",
+          "egg_move": true
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        }
+      ]
+    }
+  ]
 }

@@ -61,26 +61,31 @@ describe Oakdex::Pokedex::Pokemon do
         'sp_def'  => 65,
         'speed'   => 45
       },
-      'learnset' => [
+      'move_learnsets' => [
         {
-          'level' => 0,
-          'move'  => 'Tackle'
-        },
-        {
-          'level' => 3,
-          'move'  => 'Growl'
-        },
-        {
-          'level' => 7,
-          'move'  => 'Leech Seed'
-        },
-        {
-          'tm'    => 'TM27',
-          'move'  => 'Return'
-        },
-        {
-          'parent'  => 'Trevenant',
-          'move'    => 'Curse'
+          'games' => ['Red', 'Blue'],
+          'learnset' => [
+            {
+              'level' => 0,
+              'move'  => 'Tackle'
+            },
+            {
+              'level' => 3,
+              'move'  => 'Growl'
+            },
+            {
+              'level' => 7,
+              'move'  => 'Leech Seed'
+            },
+            {
+              'tm'    => 'TM27',
+              'move'  => 'Return'
+            },
+            {
+              'parent'  => 'Trevenant',
+              'move'    => 'Curse'
+            }
+          ]
         }
       ],
       'evolution_from' => 'Pikachu',
@@ -151,12 +156,15 @@ describe Oakdex::Pokedex::Pokemon do
     color
     base_friendship
     base_stats
-    learnset
     evolution_from
     evolutions].each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
     end
+  end
+
+  describe '#learnset' do
+    it { expect(subject.learnset).to eq(attributes['move_learnsets'].last['learnset']) }
   end
 
   describe '.find' do

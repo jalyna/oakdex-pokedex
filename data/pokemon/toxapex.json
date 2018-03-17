@@ -58,204 +58,6 @@
     "sp_def": 142,
     "speed": 35
   },
-  "learnset": [
-    {
-      "move": "Poison Sting",
-      "level": 1
-    },
-    {
-      "move": "Peck",
-      "level": 1
-    },
-    {
-      "move": "Bite",
-      "level": 1
-    },
-    {
-      "move": "Toxic Spikes",
-      "level": 1
-    },
-    {
-      "move": "Baneful Bunker",
-      "level": 0
-    },
-    {
-      "move": "Peck",
-      "level": 5
-    },
-    {
-      "move": "Bite",
-      "level": 9
-    },
-    {
-      "move": "Toxic Spikes",
-      "level": 13
-    },
-    {
-      "move": "Wide Guard",
-      "level": 17
-    },
-    {
-      "move": "Toxic",
-      "level": 21
-    },
-    {
-      "move": "Venoshock",
-      "level": 25
-    },
-    {
-      "move": "Spike Cannon",
-      "level": 29
-    },
-    {
-      "move": "Recover",
-      "level": 33
-    },
-    {
-      "move": "Poison Jab",
-      "level": 37
-    },
-    {
-      "move": "Venom Drench",
-      "level": 44
-    },
-    {
-      "move": "Pin Missile",
-      "level": 51
-    },
-    {
-      "move": "Liquidation",
-      "level": 58
-    },
-    {
-      "move": "Hail",
-      "tm": "TM07"
-    },
-    {
-      "move": "Venoshock",
-      "tm": "TM09"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Smack Down",
-      "tm": "TM23"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Sludge Wave",
-      "tm": "TM34"
-    },
-    {
-      "move": "Sludge Bomb",
-      "tm": "TM36"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Frost Breath",
-      "tm": "TM79"
-    },
-    {
-      "move": "Infestation",
-      "tm": "TM83"
-    },
-    {
-      "move": "Poison Jab",
-      "tm": "TM84"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Surf",
-      "tm": "TM94"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Spit Up",
-      "parent": "Pelipper"
-    },
-    {
-      "move": "Stockpile",
-      "parent": "Pelipper"
-    },
-    {
-      "move": "Swallow",
-      "parent": "Pelipper"
-    }
-  ],
   "evolution_from": "Mareanie",
   "categories": {
     "en": "Brutal Star Pokémon",
@@ -308,5 +110,431 @@
       0
     ]
   },
-  "ultra_alola_id": 46
+  "ultra_alola_id": 46,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Baneful Bunker",
+          "level": 1
+        },
+        {
+          "move": "Bite",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 5
+        },
+        {
+          "move": "Bite",
+          "level": 9
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 13
+        },
+        {
+          "move": "Wide Guard",
+          "level": 17
+        },
+        {
+          "move": "Toxic",
+          "level": 21
+        },
+        {
+          "move": "Venoshock",
+          "level": 25
+        },
+        {
+          "move": "Spike Cannon",
+          "level": 29
+        },
+        {
+          "move": "Recover",
+          "level": 33
+        },
+        {
+          "move": "Poison Jab",
+          "level": 37
+        },
+        {
+          "move": "Venom Drench",
+          "level": 44
+        },
+        {
+          "move": "Pin Missile",
+          "level": 51
+        },
+        {
+          "move": "Liquidation",
+          "level": 58
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Spit Up",
+          "egg_move": true
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true
+        },
+        {
+          "move": "Swallow",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Baneful Bunker",
+          "level": 1
+        },
+        {
+          "move": "Bite",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 5
+        },
+        {
+          "move": "Bite",
+          "level": 9
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 13
+        },
+        {
+          "move": "Wide Guard",
+          "level": 17
+        },
+        {
+          "move": "Toxic",
+          "level": 21
+        },
+        {
+          "move": "Venoshock",
+          "level": 25
+        },
+        {
+          "move": "Spike Cannon",
+          "level": 29
+        },
+        {
+          "move": "Recover",
+          "level": 33
+        },
+        {
+          "move": "Poison Jab",
+          "level": 37
+        },
+        {
+          "move": "Venom Drench",
+          "level": 44
+        },
+        {
+          "move": "Pin Missile",
+          "level": 51
+        },
+        {
+          "move": "Liquidation",
+          "level": 58
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Spit Up",
+          "egg_move": true
+        },
+        {
+          "move": "Stockpile",
+          "egg_move": true
+        },
+        {
+          "move": "Swallow",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Infestation",
+          "tm": "TM83"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

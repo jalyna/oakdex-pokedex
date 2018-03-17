@@ -51,584 +51,6 @@
     "sp_def": 78,
     "speed": 85
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Morning Sun"
-    },
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "Growth"
-    },
-    {
-      "level": 7,
-      "move": "Growth"
-    },
-    {
-      "level": 10,
-      "move": "Leech Seed"
-    },
-    {
-      "level": 13,
-      "move": "Helping Hand"
-    },
-    {
-      "level": 19,
-      "move": "Magical Leaf"
-    },
-    {
-      "level": 22,
-      "move": "Sunny Day"
-    },
-    {
-      "level": 25,
-      "move": "Petal Dance"
-    },
-    {
-      "level": 30,
-      "move": "Worry Seed"
-    },
-    {
-      "level": 35,
-      "move": "Take Down"
-    },
-    {
-      "level": 43,
-      "move": "Solar Beam"
-    },
-    {
-      "level": 48,
-      "move": "Lucky Chant"
-    },
-    {
-      "level": 50,
-      "move": "Petal Blizzard"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM75",
-      "move": "Swords Dance"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM99",
-      "move": "Dazzling Gleam"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "parent": "Vileplume",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Paras",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Parasect",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Chikorita",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Bayleef",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Spritzee",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Aromatisse",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Swirlix",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Slurpuff",
-      "move": "Aromatherapy"
-    },
-    {
-      "parent": "Clefairy",
-      "move": "Defense Curl"
-    },
-    {
-      "parent": "Jigglypuff",
-      "move": "Defense Curl"
-    },
-    {
-      "parent": "Wigglytuff",
-      "move": "Defense Curl"
-    },
-    {
-      "parent": "Marill",
-      "move": "Defense Curl"
-    },
-    {
-      "parent": "Azumarill",
-      "move": "Defense Curl"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Flower Shield"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Snover",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Abomasnow",
-      "move": "Grass Whistle"
-    },
-    {
-      "parent": "Audino",
-      "move": "Heal Pulse"
-    },
-    {
-      "parent": "Aromatisse",
-      "move": "Heal Pulse"
-    },
-    {
-      "parent": "Clefairy",
-      "move": "Healing Wish"
-    },
-    {
-      "parent": "Oddish",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Gloom",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Exeggcute",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Tangela",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Tangrowth",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Chikorita",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Bayleef",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Lotad",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Tropius",
-      "move": "Natural Gift"
-    },
-    {
-      "parent": "Lotad",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Lombre",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Ludicolo",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Seedot",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Nuzleaf",
-      "move": "Nature Power"
-    },
-    {
-      "parent": "Bulbasaur",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Ivysaur",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Venusaur",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Bellsprout",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Weepinbell",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Victreebel",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Chikorita",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Bayleef",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Sunflora",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Nuzleaf",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Shiftry",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Tropius",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Turtwig",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Grotle",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Torterra",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Snover",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Abomasnow",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Cottonee",
-      "move": "Razor Leaf"
-    },
-    {
-      "parent": "Jigglypuff",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Wigglytuff",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Marill",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Azumarill",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Pachirisu",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Foongus",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Amoonguss",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Ferroseed",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Ferrothorn",
-      "move": "Rollout"
-    },
-    {
-      "parent": "Bulbasaur",
-      "move": "Seed Bomb"
-    },
-    {
-      "parent": "Exeggutor",
-      "move": "Seed Bomb"
-    },
-    {
-      "parent": "Sunkern",
-      "move": "Seed Bomb"
-    },
-    {
-      "parent": "Shroomish",
-      "move": "Seed Bomb"
-    },
-    {
-      "parent": "Breloom",
-      "move": "Seed Bomb"
-    },
-    {
-      "parent": "Bulbasaur",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Ivysaur",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Venusaur",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Oddish",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Gloom",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Bellossom",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Bellsprout",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Weepinbell",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Victreebel",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Chikorita",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Bayleef",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Meganium",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Mawile",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Roselia",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Roserade",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Tropius",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Maractus",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Foongus",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Amoonguss",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Spritzee",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Aromatisse",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Swirlix",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Slurpuff",
-      "move": "Sweet Scent"
-    },
-    {
-      "parent": "Bellsprout",
-      "move": "Weather Ball"
-    },
-    {
-      "parent": "Weepinbell",
-      "move": "Weather Ball"
-    },
-    {
-      "parent": "Victreebel",
-      "move": "Weather Ball"
-    },
-    {
-      "parent": "Castform",
-      "move": "Weather Ball"
-    },
-    {
-      "parent": "Roserade",
-      "move": "Weather Ball"
-    }
-  ],
   "evolution_from": "Cherubi",
   "categories": {
     "en": "Blossom Pokémon",
@@ -740,5 +162,1854 @@
       3
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Bullet Seed",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Giga Drain",
+          "tm": "TM19"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 50
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Petal Dance",
+          "level": 25
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 50
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Leech Seed",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 50
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Growth",
+          "level": 1
+        },
+        {
+          "move": "Leech Seed",
+          "level": 1
+        },
+        {
+          "move": "Morning Sun",
+          "level": 1
+        },
+        {
+          "move": "Petal Dance",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Growth",
+          "level": 7
+        },
+        {
+          "move": "Leech Seed",
+          "level": 10
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 19
+        },
+        {
+          "move": "Sunny Day",
+          "level": 22
+        },
+        {
+          "move": "Worry Seed",
+          "level": 30
+        },
+        {
+          "move": "Take Down",
+          "level": 35
+        },
+        {
+          "move": "Solar Beam",
+          "level": 43
+        },
+        {
+          "move": "Lucky Chant",
+          "level": 48
+        },
+        {
+          "move": "Petal Blizzard",
+          "level": 50
+        },
+        {
+          "move": "Aromatherapy",
+          "egg_move": true
+        },
+        {
+          "move": "Defense Curl",
+          "egg_move": true
+        },
+        {
+          "move": "Flower Shield",
+          "egg_move": true
+        },
+        {
+          "move": "Grass Whistle",
+          "egg_move": true
+        },
+        {
+          "move": "Grassy Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Heal Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Healing Wish",
+          "egg_move": true
+        },
+        {
+          "move": "Natural Gift",
+          "egg_move": true
+        },
+        {
+          "move": "Nature Power",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Leaf",
+          "egg_move": true
+        },
+        {
+          "move": "Rollout",
+          "egg_move": true
+        },
+        {
+          "move": "Seed Bomb",
+          "egg_move": true
+        },
+        {
+          "move": "Sweet Scent",
+          "egg_move": true
+        },
+        {
+          "move": "Tickle",
+          "egg_move": true
+        },
+        {
+          "move": "Weather Ball",
+          "egg_move": true
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

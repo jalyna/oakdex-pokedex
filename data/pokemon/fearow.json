@@ -55,488 +55,6 @@
     "sp_def": 61,
     "speed": 100
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Drill Run"
-    },
-    {
-      "level": 0,
-      "move": "Pluck"
-    },
-    {
-      "level": 0,
-      "move": "Peck"
-    },
-    {
-      "level": 0,
-      "move": "Growl"
-    },
-    {
-      "level": 0,
-      "move": "Leer"
-    },
-    {
-      "level": 0,
-      "move": "Fury Attack"
-    },
-    {
-      "level": 5,
-      "move": "Leer"
-    },
-    {
-      "level": 9,
-      "move": "Fury Attack"
-    },
-    {
-      "level": 13,
-      "move": "Pursuit"
-    },
-    {
-      "level": 17,
-      "move": "Aerial Ace"
-    },
-    {
-      "level": 23,
-      "move": "Mirror Move"
-    },
-    {
-      "level": 29,
-      "move": "Agility"
-    },
-    {
-      "level": 35,
-      "move": "Assurance"
-    },
-    {
-      "level": 41,
-      "move": "Roost"
-    },
-    {
-      "level": 47,
-      "move": "Drill Peck"
-    },
-    {
-      "level": 53,
-      "move": "Drill Run"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM19",
-      "move": "Roost"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM40",
-      "move": "Aerial Ace"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM46",
-      "move": "Thief"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM51",
-      "move": "Steel Wing"
-    },
-    {
-      "tm": "TM54",
-      "move": "False Swipe"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM89",
-      "move": "U-turn"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM02",
-      "move": "Fly"
-    },
-    {
-      "parent": "Zubat",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Golbat",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Crobat",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Murkrow",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Honchkrow",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Swablu",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Altaria",
-      "move": "Astonish"
-    },
-    {
-      "parent": "Pidgey",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Pidgeotto",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Pidgeot",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Chatot",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Pidove",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Tranquill",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Unfezant",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Ducklett",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Swanna",
-      "move": "Feather Dance"
-    },
-    {
-      "parent": "Murkrow",
-      "move": "Feint Attack"
-    },
-    {
-      "parent": "Pidgey",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Pidgeotto",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Pidgeot",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Doduo",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Dodrio",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Taillow",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Swellow",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Wingull",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Starly",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Staravia",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Staraptor",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Pidove",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Tranquill",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Unfezant",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Archen",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Archeops",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Fletchling",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Fletchinder",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Talonflame",
-      "move": "Quick Attack"
-    },
-    {
-      "parent": "Pidove",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Tranquill",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Unfezant",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Fletchling",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Fletchinder",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Talonflame",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Noibat",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Noivern",
-      "move": "Razor Wind"
-    },
-    {
-      "parent": "Aerodactyl",
-      "move": "Scary Face"
-    },
-    {
-      "parent": "Archen",
-      "move": "Scary Face"
-    },
-    {
-      "parent": "Archeops",
-      "move": "Scary Face"
-    },
-    {
-      "parent": "Rufflet",
-      "move": "Scary Face"
-    },
-    {
-      "parent": "Braviary",
-      "move": "Scary Face"
-    },
-    {
-      "parent": "Noctowl",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Altaria",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Togekiss",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Pidove",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Tranquill",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Unfezant",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Sigilyph",
-      "move": "Sky Attack"
-    },
-    {
-      "parent": "Skarmory",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Fletchling",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Fletchinder",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Talonflame",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Dodrio",
-      "move": "Tri Attack"
-    },
-    {
-      "parent": "Doduo",
-      "move": "Uproar"
-    },
-    {
-      "parent": "Dodrio",
-      "move": "Uproar"
-    },
-    {
-      "parent": "Hoothoot",
-      "move": "Uproar"
-    },
-    {
-      "parent": "Noctowl",
-      "move": "Uproar"
-    },
-    {
-      "parent": "Chatot",
-      "move": "Uproar"
-    },
-    {
-      "parent": "Pidgey",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Pidgeotto",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Pidgeot",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Starly",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Staravia",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Staraptor",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Sigilyph",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Rufflet",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Braviary",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Noibat",
-      "move": "Whirlwind"
-    },
-    {
-      "parent": "Noivern",
-      "move": "Whirlwind"
-    }
-  ],
   "evolution_from": "Spearow",
   "alola_id": 74,
   "categories": {
@@ -686,5 +204,2891 @@
       5
     ]
   },
-  "ultra_alola_id": 34
+  "ultra_alola_id": 34,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Fury Attack",
+          "level": 15
+        },
+        {
+          "move": "Mirror Move",
+          "level": 25
+        },
+        {
+          "move": "Drill Peck",
+          "level": 34
+        },
+        {
+          "move": "Agility",
+          "level": 43
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Razor Wind",
+          "tm": "TM2"
+        },
+        {
+          "move": "Whirlwind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Sky Attack",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Fury Attack",
+          "level": 15
+        },
+        {
+          "move": "Mirror Move",
+          "level": 25
+        },
+        {
+          "move": "Drill Peck",
+          "level": 34
+        },
+        {
+          "move": "Agility",
+          "level": 43
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Razor Wind",
+          "tm": "TM2"
+        },
+        {
+          "move": "Whirlwind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Sky Attack",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 7
+        },
+        {
+          "move": "Fury Attack",
+          "level": 13
+        },
+        {
+          "move": "Pursuit",
+          "level": 26
+        },
+        {
+          "move": "Mirror Move",
+          "level": 32
+        },
+        {
+          "move": "Drill Peck",
+          "level": 40
+        },
+        {
+          "move": "Agility",
+          "level": 47
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Detect",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 7
+        },
+        {
+          "move": "Fury Attack",
+          "level": 13
+        },
+        {
+          "move": "Pursuit",
+          "level": 26
+        },
+        {
+          "move": "Mirror Move",
+          "level": 32
+        },
+        {
+          "move": "Drill Peck",
+          "level": 40
+        },
+        {
+          "move": "Agility",
+          "level": 47
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Swift",
+          "tm": "TM39"
+        },
+        {
+          "move": "Detect",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 7
+        },
+        {
+          "move": "Fury Attack",
+          "level": 13
+        },
+        {
+          "move": "Pursuit",
+          "level": 26
+        },
+        {
+          "move": "Mirror Move",
+          "level": 32
+        },
+        {
+          "move": "Drill Peck",
+          "level": 40
+        },
+        {
+          "move": "Agility",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 7
+        },
+        {
+          "move": "Fury Attack",
+          "level": 13
+        },
+        {
+          "move": "Pursuit",
+          "level": 26
+        },
+        {
+          "move": "Mirror Move",
+          "level": 32
+        },
+        {
+          "move": "Drill Peck",
+          "level": 40
+        },
+        {
+          "move": "Agility",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 7
+        },
+        {
+          "move": "Fury Attack",
+          "level": 13
+        },
+        {
+          "move": "Pursuit",
+          "level": 26
+        },
+        {
+          "move": "Mirror Move",
+          "level": 32
+        },
+        {
+          "move": "Drill Peck",
+          "level": 40
+        },
+        {
+          "move": "Agility",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Defog",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM51"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Defog",
+          "tm": "HM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM51"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "False Swipe",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM47"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM51"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Drill Run",
+          "level": 53
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Drill Run",
+          "level": 53
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Drill Run",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Drill Run",
+          "level": 53
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Drill Run",
+          "level": 1
+        },
+        {
+          "move": "Fury Attack",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 5
+        },
+        {
+          "move": "Fury Attack",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 17
+        },
+        {
+          "move": "Mirror Move",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 29
+        },
+        {
+          "move": "Assurance",
+          "level": 35
+        },
+        {
+          "move": "Roost",
+          "level": 41
+        },
+        {
+          "move": "Drill Peck",
+          "level": 47
+        },
+        {
+          "move": "Drill Run",
+          "level": 53
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Drill Run",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 4
+        },
+        {
+          "move": "Pursuit",
+          "level": 8
+        },
+        {
+          "move": "Fury Attack",
+          "level": 11
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 15
+        },
+        {
+          "move": "Mirror Move",
+          "level": 18
+        },
+        {
+          "move": "Assurance",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 27
+        },
+        {
+          "move": "Focus Energy",
+          "level": 32
+        },
+        {
+          "move": "Roost",
+          "level": 36
+        },
+        {
+          "move": "Drill Peck",
+          "level": 41
+        },
+        {
+          "move": "Drill Run",
+          "level": 45
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Drill Run",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Peck",
+          "level": 1
+        },
+        {
+          "move": "Pluck",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 4
+        },
+        {
+          "move": "Pursuit",
+          "level": 8
+        },
+        {
+          "move": "Fury Attack",
+          "level": 11
+        },
+        {
+          "move": "Aerial Ace",
+          "level": 15
+        },
+        {
+          "move": "Mirror Move",
+          "level": 18
+        },
+        {
+          "move": "Assurance",
+          "level": 23
+        },
+        {
+          "move": "Agility",
+          "level": 27
+        },
+        {
+          "move": "Focus Energy",
+          "level": 32
+        },
+        {
+          "move": "Roost",
+          "level": 36
+        },
+        {
+          "move": "Drill Peck",
+          "level": 41
+        },
+        {
+          "move": "Drill Run",
+          "level": 45
+        },
+        {
+          "move": "Astonish",
+          "egg_move": true
+        },
+        {
+          "move": "Feather Dance",
+          "egg_move": true
+        },
+        {
+          "move": "Feint Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Quick Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Razor Wind",
+          "egg_move": true
+        },
+        {
+          "move": "Scary Face",
+          "egg_move": true
+        },
+        {
+          "move": "Sky Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Tri Attack",
+          "egg_move": true
+        },
+        {
+          "move": "Uproar",
+          "egg_move": true
+        },
+        {
+          "move": "Whirlwind",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

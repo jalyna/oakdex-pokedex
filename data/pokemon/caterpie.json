@@ -54,20 +54,6 @@
     "sp_def": 20,
     "speed": 45
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "String Shot"
-    },
-    {
-      "level": 15,
-      "move": "Bug Bite"
-    }
-  ],
   "evolutions": [
     {
       "to": "Metapod",
@@ -220,5 +206,291 @@
       2
     ]
   },
-  "ultra_alola_id": 8
+  "ultra_alola_id": 8,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 9
+        }
+      ]
+    }
+  ]
 }

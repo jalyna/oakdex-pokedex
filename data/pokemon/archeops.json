@@ -52,392 +52,6 @@
     "sp_def": 65,
     "speed": 110
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Quick Attack"
-    },
-    {
-      "level": 0,
-      "move": "Leer"
-    },
-    {
-      "level": 0,
-      "move": "Wing Attack"
-    },
-    {
-      "level": 0,
-      "move": "Rock Throw"
-    },
-    {
-      "level": 5,
-      "move": "Rock Throw"
-    },
-    {
-      "level": 8,
-      "move": "Double Team"
-    },
-    {
-      "level": 11,
-      "move": "Scary Face"
-    },
-    {
-      "level": 15,
-      "move": "Pluck"
-    },
-    {
-      "level": 18,
-      "move": "Ancient Power"
-    },
-    {
-      "level": 21,
-      "move": "Agility"
-    },
-    {
-      "level": 25,
-      "move": "Quick Guard"
-    },
-    {
-      "level": 28,
-      "move": "Acrobatics"
-    },
-    {
-      "level": 31,
-      "move": "Dragon Breath"
-    },
-    {
-      "level": 35,
-      "move": "Crunch"
-    },
-    {
-      "level": 40,
-      "move": "Endeavor"
-    },
-    {
-      "level": 45,
-      "move": "U-turn"
-    },
-    {
-      "level": 51,
-      "move": "Rock Slide"
-    },
-    {
-      "level": 56,
-      "move": "Dragon Claw"
-    },
-    {
-      "level": 61,
-      "move": "Thrash"
-    },
-    {
-      "tm": "TM01",
-      "move": "Hone Claws"
-    },
-    {
-      "tm": "TM02",
-      "move": "Dragon Claw"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM19",
-      "move": "Roost"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM23",
-      "move": "Smack Down"
-    },
-    {
-      "tm": "TM26",
-      "move": "Earthquake"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM28",
-      "move": "Dig"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM37",
-      "move": "Sandstorm"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM40",
-      "move": "Aerial Ace"
-    },
-    {
-      "tm": "TM41",
-      "move": "Torment"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM51",
-      "move": "Steel Wing"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM62",
-      "move": "Acrobatics"
-    },
-    {
-      "tm": "TM65",
-      "move": "Shadow Claw"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM69",
-      "move": "Rock Polish"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM78",
-      "move": "Bulldoze"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM82",
-      "move": "Dragon Tail"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM89",
-      "move": "U-turn"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    },
-    {
-      "tm": "HM02",
-      "move": "Fly"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Natu",
-      "move": "Ally Switch"
-    },
-    {
-      "parent": "Xatu",
-      "move": "Ally Switch"
-    },
-    {
-      "parent": "Zubat",
-      "move": "Bite"
-    },
-    {
-      "parent": "Golbat",
-      "move": "Bite"
-    },
-    {
-      "parent": "Crobat",
-      "move": "Bite"
-    },
-    {
-      "parent": "Omanyte",
-      "move": "Bite"
-    },
-    {
-      "parent": "Omastar",
-      "move": "Bite"
-    },
-    {
-      "parent": "Aerodactyl",
-      "move": "Bite"
-    },
-    {
-      "parent": "Skorupi",
-      "move": "Bite"
-    },
-    {
-      "parent": "Drapion",
-      "move": "Bite"
-    },
-    {
-      "parent": "Tirtouga",
-      "move": "Bite"
-    },
-    {
-      "parent": "Carracosta",
-      "move": "Bite"
-    },
-    {
-      "parent": "Noibat",
-      "move": "Bite"
-    },
-    {
-      "parent": "Noivern",
-      "move": "Bite"
-    },
-    {
-      "parent": "Ducklett",
-      "move": "Defog"
-    },
-    {
-      "parent": "Swanna",
-      "move": "Defog"
-    },
-    {
-      "parent": "Rufflet",
-      "move": "Defog"
-    },
-    {
-      "parent": "Braviary",
-      "move": "Defog"
-    },
-    {
-      "parent": "Swablu",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Altaria",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Noivern",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Earth Power"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Head Smash"
-    },
-    {
-      "parent": "Farfetch'd",
-      "move": "Knock Off"
-    },
-    {
-      "parent": "Corphish",
-      "move": "Knock Off"
-    },
-    {
-      "parent": "Crawdaunt",
-      "move": "Knock Off"
-    },
-    {
-      "parent": "Skorupi",
-      "move": "Knock Off"
-    },
-    {
-      "parent": "Drapion",
-      "move": "Knock Off"
-    },
-    {
-      "parent": "Skarmory",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Fletchling",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Fletchinder",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Talonflame",
-      "move": "Steel Wing"
-    },
-    {
-      "parent": "Corphish",
-      "move": "Switcheroo"
-    }
-  ],
   "evolution_from": "Archen",
   "alola_id": 193,
   "categories": {
@@ -523,5 +137,1643 @@
       0
     ]
   },
-  "ultra_alola_id": 141
+  "ultra_alola_id": 141,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Pluck",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Fly",
+          "tm": "HM2"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Hone Claws",
+          "tm": "TM1"
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 1
+        },
+        {
+          "move": "Wing Attack",
+          "level": 1
+        },
+        {
+          "move": "Rock Throw",
+          "level": 5
+        },
+        {
+          "move": "Double Team",
+          "level": 8
+        },
+        {
+          "move": "Scary Face",
+          "level": 11
+        },
+        {
+          "move": "Pluck",
+          "level": 15
+        },
+        {
+          "move": "Ancient Power",
+          "level": 18
+        },
+        {
+          "move": "Agility",
+          "level": 21
+        },
+        {
+          "move": "Quick Guard",
+          "level": 25
+        },
+        {
+          "move": "Acrobatics",
+          "level": 28
+        },
+        {
+          "move": "Dragon Breath",
+          "level": 31
+        },
+        {
+          "move": "Crunch",
+          "level": 35
+        },
+        {
+          "move": "Endeavor",
+          "level": 40
+        },
+        {
+          "move": "U-turn",
+          "level": 45
+        },
+        {
+          "move": "Rock Slide",
+          "level": 51
+        },
+        {
+          "move": "Dragon Claw",
+          "level": 56
+        },
+        {
+          "move": "Thrash",
+          "level": 61
+        },
+        {
+          "move": "Ally Switch",
+          "egg_move": true
+        },
+        {
+          "move": "Bite",
+          "egg_move": true
+        },
+        {
+          "move": "Defog",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Earth Power",
+          "egg_move": true
+        },
+        {
+          "move": "Head Smash",
+          "egg_move": true
+        },
+        {
+          "move": "Knock Off",
+          "egg_move": true
+        },
+        {
+          "move": "Steel Wing",
+          "egg_move": true
+        },
+        {
+          "move": "Switcheroo",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Claw",
+          "tm": "TM2"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Roost",
+          "tm": "TM19"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Steel Wing",
+          "tm": "TM51"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Shadow Claw",
+          "tm": "TM65"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Rock Polish",
+          "tm": "TM69"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Fly",
+          "tm": "TM76"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

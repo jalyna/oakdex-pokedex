@@ -50,204 +50,6 @@
     "sp_def": 131,
     "speed": 103
   },
-  "learnset": [
-    {
-      "move": "Guard Split",
-      "level": 1
-    },
-    {
-      "move": "Tickle",
-      "level": 1
-    },
-    {
-      "move": "Acid",
-      "level": 1
-    },
-    {
-      "move": "Constrict",
-      "level": 1
-    },
-    {
-      "move": "Pound",
-      "level": 1
-    },
-    {
-      "move": "Clear Smog",
-      "level": 7
-    },
-    {
-      "move": "Psywave",
-      "level": 13
-    },
-    {
-      "move": "Headbutt",
-      "level": 19
-    },
-    {
-      "move": "Venoshock",
-      "level": 23
-    },
-    {
-      "move": "Toxic Spikes",
-      "level": 29
-    },
-    {
-      "move": "Safeguard",
-      "level": 31
-    },
-    {
-      "move": "Power Gem",
-      "level": 37
-    },
-    {
-      "move": "Mirror Coat",
-      "level": 43
-    },
-    {
-      "move": "Acid Spray",
-      "level": 47
-    },
-    {
-      "move": "Venom Drench",
-      "level": 53
-    },
-    {
-      "move": "Stealth Rock",
-      "level": 59
-    },
-    {
-      "move": "Wonder Room",
-      "level": 67
-    },
-    {
-      "move": "Head Smash",
-      "level": 73
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Venoshock",
-      "tm": "TM09"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Thunder",
-      "tm": "TM25"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Sludge Wave",
-      "tm": "TM34"
-    },
-    {
-      "move": "Sludge Bomb",
-      "tm": "TM36"
-    },
-    {
-      "move": "Sandstorm",
-      "tm": "TM37"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Echoed Voice",
-      "tm": "TM49"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "Poison Jab",
-      "tm": "TM84"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Parasite Pokémon",
@@ -301,5 +103,431 @@
       0
     ]
   },
-  "ultra_alola_id": 393
+  "ultra_alola_id": 393,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Acid",
+          "level": 1
+        },
+        {
+          "move": "Constrict",
+          "level": 1
+        },
+        {
+          "move": "Guard Split",
+          "level": 1
+        },
+        {
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Power Split",
+          "level": 1
+        },
+        {
+          "move": "Tickle",
+          "level": 1
+        },
+        {
+          "move": "Clear Smog",
+          "level": 7
+        },
+        {
+          "move": "Psywave",
+          "level": 13
+        },
+        {
+          "move": "Headbutt",
+          "level": 19
+        },
+        {
+          "move": "Venoshock",
+          "level": 23
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 29
+        },
+        {
+          "move": "Safeguard",
+          "level": 31
+        },
+        {
+          "move": "Power Gem",
+          "level": 37
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 43
+        },
+        {
+          "move": "Acid Spray",
+          "level": 47
+        },
+        {
+          "move": "Venom Drench",
+          "level": 53
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 59
+        },
+        {
+          "move": "Wonder Room",
+          "level": 67
+        },
+        {
+          "move": "Head Smash",
+          "level": 73
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Acid",
+          "level": 1
+        },
+        {
+          "move": "Constrict",
+          "level": 1
+        },
+        {
+          "move": "Guard Split",
+          "level": 1
+        },
+        {
+          "move": "Pound",
+          "level": 1
+        },
+        {
+          "move": "Power Split",
+          "level": 1
+        },
+        {
+          "move": "Tickle",
+          "level": 1
+        },
+        {
+          "move": "Clear Smog",
+          "level": 7
+        },
+        {
+          "move": "Psywave",
+          "level": 13
+        },
+        {
+          "move": "Headbutt",
+          "level": 19
+        },
+        {
+          "move": "Venoshock",
+          "level": 23
+        },
+        {
+          "move": "Toxic Spikes",
+          "level": 29
+        },
+        {
+          "move": "Safeguard",
+          "level": 31
+        },
+        {
+          "move": "Power Gem",
+          "level": 37
+        },
+        {
+          "move": "Mirror Coat",
+          "level": 43
+        },
+        {
+          "move": "Acid Spray",
+          "level": 47
+        },
+        {
+          "move": "Venom Drench",
+          "level": 53
+        },
+        {
+          "move": "Stealth Rock",
+          "level": 59
+        },
+        {
+          "move": "Wonder Room",
+          "level": 67
+        },
+        {
+          "move": "Head Smash",
+          "level": 73
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Venoshock",
+          "tm": "TM9"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Sludge Wave",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sludge Bomb",
+          "tm": "TM36"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

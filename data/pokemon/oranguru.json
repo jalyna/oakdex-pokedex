@@ -58,244 +58,6 @@
     "sp_def": 110,
     "speed": 60
   },
-  "learnset": [
-    {
-      "move": "After You",
-      "level": 4
-    },
-    {
-      "move": "Taunt",
-      "level": 8
-    },
-    {
-      "move": "Quash",
-      "level": 11
-    },
-    {
-      "move": "Stored Power",
-      "level": 15
-    },
-    {
-      "move": "Psych Up",
-      "level": 18
-    },
-    {
-      "move": "Feint Attack",
-      "level": 22
-    },
-    {
-      "move": "Nasty Plot",
-      "level": 25
-    },
-    {
-      "move": "Zen Headbutt",
-      "level": 29
-    },
-    {
-      "move": "Instruct",
-      "level": 32
-    },
-    {
-      "move": "Foul Play",
-      "level": 36
-    },
-    {
-      "move": "Calm Mind",
-      "level": 39
-    },
-    {
-      "move": "Psychic",
-      "level": 43
-    },
-    {
-      "move": "Future Sight",
-      "level": 46
-    },
-    {
-      "move": "Trick Room",
-      "level": 50
-    },
-    {
-      "move": "Psyshock",
-      "tm": "TM03"
-    },
-    {
-      "move": "Calm Mind",
-      "tm": "TM04"
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Safeguard",
-      "tm": "TM20"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Thunder",
-      "tm": "TM25"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Psychic",
-      "tm": "TM29"
-    },
-    {
-      "move": "Shadow Ball",
-      "tm": "TM30"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Quash",
-      "tm": "TM60"
-    },
-    {
-      "move": "Embargo",
-      "tm": "TM63"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Psych Up",
-      "tm": "TM77"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "Dream Eater",
-      "tm": "TM85"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Trick Room",
-      "tm": "TM92"
-    },
-    {
-      "move": "Nature Power",
-      "tm": "TM96"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Psychic Terrain",
-      "parent": "Musharna"
-    },
-    {
-      "move": "Wonder Room",
-      "parent": "Psyduck"
-    },
-    {
-      "move": "Wonder Room",
-      "parent": "Golduck"
-    }
-  ],
   "categories": {
     "en": "Sage Pokémon",
     "de": "Weisheit"
@@ -348,5 +110,511 @@
       0
     ]
   },
-  "ultra_alola_id": 116
+  "ultra_alola_id": 116,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "After You",
+          "level": 4
+        },
+        {
+          "move": "Taunt",
+          "level": 8
+        },
+        {
+          "move": "Quash",
+          "level": 11
+        },
+        {
+          "move": "Stored Power",
+          "level": 15
+        },
+        {
+          "move": "Psych Up",
+          "level": 18
+        },
+        {
+          "move": "Feint Attack",
+          "level": 22
+        },
+        {
+          "move": "Nasty Plot",
+          "level": 25
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 29
+        },
+        {
+          "move": "Instruct",
+          "level": 32
+        },
+        {
+          "move": "Foul Play",
+          "level": 36
+        },
+        {
+          "move": "Calm Mind",
+          "level": 39
+        },
+        {
+          "move": "Psychic",
+          "level": 43
+        },
+        {
+          "move": "Future Sight",
+          "level": 46
+        },
+        {
+          "move": "Trick Room",
+          "level": 50
+        },
+        {
+          "move": "Extrasensory",
+          "egg_move": true
+        },
+        {
+          "move": "Psychic Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Wonder Room",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Quash",
+          "tm": "TM60"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Confusion",
+          "level": 1
+        },
+        {
+          "move": "After You",
+          "level": 4
+        },
+        {
+          "move": "Taunt",
+          "level": 8
+        },
+        {
+          "move": "Quash",
+          "level": 11
+        },
+        {
+          "move": "Stored Power",
+          "level": 15
+        },
+        {
+          "move": "Psych Up",
+          "level": 18
+        },
+        {
+          "move": "Feint Attack",
+          "level": 22
+        },
+        {
+          "move": "Nasty Plot",
+          "level": 25
+        },
+        {
+          "move": "Zen Headbutt",
+          "level": 29
+        },
+        {
+          "move": "Instruct",
+          "level": 32
+        },
+        {
+          "move": "Foul Play",
+          "level": 36
+        },
+        {
+          "move": "Calm Mind",
+          "level": 39
+        },
+        {
+          "move": "Psychic",
+          "level": 43
+        },
+        {
+          "move": "Future Sight",
+          "level": 46
+        },
+        {
+          "move": "Trick Room",
+          "level": 50
+        },
+        {
+          "move": "Extrasensory",
+          "egg_move": true
+        },
+        {
+          "move": "Psychic Terrain",
+          "egg_move": true
+        },
+        {
+          "move": "Wonder Room",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Shadow Ball",
+          "tm": "TM30"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Quash",
+          "tm": "TM60"
+        },
+        {
+          "move": "Embargo",
+          "tm": "TM63"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dream Eater",
+          "tm": "TM85"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Trick Room",
+          "tm": "TM92"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

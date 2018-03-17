@@ -48,240 +48,6 @@
     "sp_def": 129,
     "speed": 108
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Close Combat"
-    },
-    {
-      "level": 0,
-      "move": "Leaf Blade"
-    },
-    {
-      "level": 0,
-      "move": "Work Up"
-    },
-    {
-      "level": 0,
-      "move": "Quick Guard"
-    },
-    {
-      "level": 0,
-      "move": "Quick Attack"
-    },
-    {
-      "level": 0,
-      "move": "Leer"
-    },
-    {
-      "level": 7,
-      "move": "Double Kick"
-    },
-    {
-      "level": 13,
-      "move": "Magical Leaf"
-    },
-    {
-      "level": 19,
-      "move": "Take Down"
-    },
-    {
-      "level": 25,
-      "move": "Helping Hand"
-    },
-    {
-      "level": 31,
-      "move": "Retaliate"
-    },
-    {
-      "level": 37,
-      "move": "Giga Drain"
-    },
-    {
-      "level": 42,
-      "move": "Sacred Sword"
-    },
-    {
-      "level": 49,
-      "move": "Swords Dance"
-    },
-    {
-      "level": 55,
-      "move": "Quick Guard"
-    },
-    {
-      "level": 61,
-      "move": "Work Up"
-    },
-    {
-      "level": 67,
-      "move": "Leaf Blade"
-    },
-    {
-      "level": 73,
-      "move": "Close Combat"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM12",
-      "move": "Taunt"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM20",
-      "move": "Safeguard"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM22",
-      "move": "Solar Beam"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM33",
-      "move": "Reflect"
-    },
-    {
-      "tm": "TM40",
-      "move": "Aerial Ace"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM53",
-      "move": "Energy Ball"
-    },
-    {
-      "tm": "TM54",
-      "move": "False Swipe"
-    },
-    {
-      "tm": "TM67",
-      "move": "Retaliate"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM71",
-      "move": "Stone Edge"
-    },
-    {
-      "tm": "TM75",
-      "move": "Swords Dance"
-    },
-    {
-      "tm": "TM77",
-      "move": "Psych Up"
-    },
-    {
-      "tm": "TM81",
-      "move": "X-Scissor"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    }
-  ],
   "categories": {
     "en": "Grassland Pokémon",
     "de": "Wiese"
@@ -359,5 +125,1307 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 7
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 19
+        },
+        {
+          "move": "Helping Hand",
+          "level": 25
+        },
+        {
+          "move": "Retaliate",
+          "level": 31
+        },
+        {
+          "move": "Giga Drain",
+          "level": 37
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 42
+        },
+        {
+          "move": "Swords Dance",
+          "level": 49
+        },
+        {
+          "move": "Quick Guard",
+          "level": 55
+        },
+        {
+          "move": "Work Up",
+          "level": 61
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 67
+        },
+        {
+          "move": "Close Combat",
+          "level": 73
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 7
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 19
+        },
+        {
+          "move": "Helping Hand",
+          "level": 25
+        },
+        {
+          "move": "Retaliate",
+          "level": 31
+        },
+        {
+          "move": "Giga Drain",
+          "level": 37
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 42
+        },
+        {
+          "move": "Swords Dance",
+          "level": 49
+        },
+        {
+          "move": "Quick Guard",
+          "level": 55
+        },
+        {
+          "move": "Work Up",
+          "level": 61
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 67
+        },
+        {
+          "move": "Close Combat",
+          "level": 73
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM83"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Quick Guard",
+          "level": 1
+        },
+        {
+          "move": "Work Up",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 7
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 19
+        },
+        {
+          "move": "Helping Hand",
+          "level": 25
+        },
+        {
+          "move": "Retaliate",
+          "level": 31
+        },
+        {
+          "move": "Giga Drain",
+          "level": 37
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 42
+        },
+        {
+          "move": "Swords Dance",
+          "level": 49
+        },
+        {
+          "move": "Quick Guard",
+          "level": 55
+        },
+        {
+          "move": "Work Up",
+          "level": 61
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 67
+        },
+        {
+          "move": "Close Combat",
+          "level": 73
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Quick Guard",
+          "level": 1
+        },
+        {
+          "move": "Work Up",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 7
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 13
+        },
+        {
+          "move": "Take Down",
+          "level": 19
+        },
+        {
+          "move": "Helping Hand",
+          "level": 25
+        },
+        {
+          "move": "Retaliate",
+          "level": 31
+        },
+        {
+          "move": "Giga Drain",
+          "level": 37
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 42
+        },
+        {
+          "move": "Swords Dance",
+          "level": 49
+        },
+        {
+          "move": "Quick Guard",
+          "level": 55
+        },
+        {
+          "move": "Work Up",
+          "level": 61
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 67
+        },
+        {
+          "move": "Close Combat",
+          "level": 73
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Retaliate",
+          "tm": "TM67"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 1
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 7
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Retaliate",
+          "level": 19
+        },
+        {
+          "move": "Giga Drain",
+          "level": 25
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 31
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Quick Guard",
+          "level": 42
+        },
+        {
+          "move": "Work Up",
+          "level": 49
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 55
+        },
+        {
+          "move": "Close Combat",
+          "level": 61
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Close Combat",
+          "level": 1
+        },
+        {
+          "move": "Double Kick",
+          "level": 1
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Magical Leaf",
+          "level": 1
+        },
+        {
+          "move": "Quick Attack",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 7
+        },
+        {
+          "move": "Helping Hand",
+          "level": 13
+        },
+        {
+          "move": "Retaliate",
+          "level": 19
+        },
+        {
+          "move": "Giga Drain",
+          "level": 25
+        },
+        {
+          "move": "Sacred Sword",
+          "level": 31
+        },
+        {
+          "move": "Swords Dance",
+          "level": 37
+        },
+        {
+          "move": "Quick Guard",
+          "level": 42
+        },
+        {
+          "move": "Work Up",
+          "level": 49
+        },
+        {
+          "move": "Leaf Blade",
+          "level": 55
+        },
+        {
+          "move": "Close Combat",
+          "level": 61
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Safeguard",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Aerial Ace",
+          "tm": "TM40"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "False Swipe",
+          "tm": "TM54"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM75"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

@@ -47,232 +47,6 @@
     "sp_def": 98,
     "speed": 99
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Heal Pulse"
-    },
-    {
-      "level": 0,
-      "move": "Aromatherapy"
-    },
-    {
-      "level": 0,
-      "move": "Ingrain"
-    },
-    {
-      "level": 0,
-      "move": "Take Down"
-    },
-    {
-      "level": 5,
-      "move": "Light Screen"
-    },
-    {
-      "level": 10,
-      "move": "Aurora Beam"
-    },
-    {
-      "level": 18,
-      "move": "Gravity"
-    },
-    {
-      "level": 26,
-      "move": "Geomancy"
-    },
-    {
-      "level": 35,
-      "move": "Moonblast"
-    },
-    {
-      "level": 44,
-      "move": "Megahorn"
-    },
-    {
-      "level": 51,
-      "move": "Night Slash"
-    },
-    {
-      "level": 55,
-      "move": "Horn Leech"
-    },
-    {
-      "level": 59,
-      "move": "Psych Up"
-    },
-    {
-      "level": 63,
-      "move": "Misty Terrain"
-    },
-    {
-      "level": 72,
-      "move": "Nature Power"
-    },
-    {
-      "level": 80,
-      "move": "Close Combat"
-    },
-    {
-      "level": 88,
-      "move": "Giga Impact"
-    },
-    {
-      "level": 93,
-      "move": "Outrage"
-    },
-    {
-      "tm": "TM03",
-      "move": "Psyshock"
-    },
-    {
-      "tm": "TM04",
-      "move": "Calm Mind"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM07",
-      "move": "Hail"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM11",
-      "move": "Sunny Day"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM16",
-      "move": "Light Screen"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM24",
-      "move": "Thunderbolt"
-    },
-    {
-      "tm": "TM25",
-      "move": "Thunder"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM29",
-      "move": "Psychic"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM33",
-      "move": "Reflect"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM49",
-      "move": "Echoed Voice"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM70",
-      "move": "Flash"
-    },
-    {
-      "tm": "TM73",
-      "move": "Thunder Wave"
-    },
-    {
-      "tm": "TM77",
-      "move": "Psych Up"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM86",
-      "move": "Grass Knot"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM96",
-      "move": "Nature Power"
-    },
-    {
-      "tm": "TM99",
-      "move": "Dazzling Gleam"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM01",
-      "move": "Cut"
-    }
-  ],
   "categories": {
     "en": "Life Pokémon",
     "de": "Leben"
@@ -348,5 +122,907 @@
       0
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 1
+        },
+        {
+          "move": "Light Screen",
+          "level": 5
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 10
+        },
+        {
+          "move": "Gravity",
+          "level": 18
+        },
+        {
+          "move": "Geomancy",
+          "level": 26
+        },
+        {
+          "move": "Moonblast",
+          "level": 35
+        },
+        {
+          "move": "Megahorn",
+          "level": 44
+        },
+        {
+          "move": "Night Slash",
+          "level": 51
+        },
+        {
+          "move": "Horn Leech",
+          "level": 55
+        },
+        {
+          "move": "Psych Up",
+          "level": 59
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 63
+        },
+        {
+          "move": "Nature Power",
+          "level": 72
+        },
+        {
+          "move": "Close Combat",
+          "level": 80
+        },
+        {
+          "move": "Giga Impact",
+          "level": 88
+        },
+        {
+          "move": "Outrage",
+          "level": 93
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 1
+        },
+        {
+          "move": "Light Screen",
+          "level": 5
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 10
+        },
+        {
+          "move": "Gravity",
+          "level": 18
+        },
+        {
+          "move": "Geomancy",
+          "level": 26
+        },
+        {
+          "move": "Moonblast",
+          "level": 35
+        },
+        {
+          "move": "Megahorn",
+          "level": 44
+        },
+        {
+          "move": "Night Slash",
+          "level": 51
+        },
+        {
+          "move": "Horn Leech",
+          "level": 55
+        },
+        {
+          "move": "Psych Up",
+          "level": 59
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 63
+        },
+        {
+          "move": "Nature Power",
+          "level": 72
+        },
+        {
+          "move": "Close Combat",
+          "level": 80
+        },
+        {
+          "move": "Giga Impact",
+          "level": 88
+        },
+        {
+          "move": "Outrage",
+          "level": 93
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Flash",
+          "tm": "TM70"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 1
+        },
+        {
+          "move": "Light Screen",
+          "level": 5
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 10
+        },
+        {
+          "move": "Gravity",
+          "level": 18
+        },
+        {
+          "move": "Geomancy",
+          "level": 26
+        },
+        {
+          "move": "Moonblast",
+          "level": 35
+        },
+        {
+          "move": "Megahorn",
+          "level": 44
+        },
+        {
+          "move": "Night Slash",
+          "level": 51
+        },
+        {
+          "move": "Horn Leech",
+          "level": 55
+        },
+        {
+          "move": "Psych Up",
+          "level": 59
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 63
+        },
+        {
+          "move": "Nature Power",
+          "level": 72
+        },
+        {
+          "move": "Close Combat",
+          "level": 80
+        },
+        {
+          "move": "Giga Impact",
+          "level": 88
+        },
+        {
+          "move": "Outrage",
+          "level": 93
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Aromatherapy",
+          "level": 1
+        },
+        {
+          "move": "Heal Pulse",
+          "level": 1
+        },
+        {
+          "move": "Ingrain",
+          "level": 1
+        },
+        {
+          "move": "Take Down",
+          "level": 1
+        },
+        {
+          "move": "Light Screen",
+          "level": 5
+        },
+        {
+          "move": "Aurora Beam",
+          "level": 10
+        },
+        {
+          "move": "Gravity",
+          "level": 18
+        },
+        {
+          "move": "Geomancy",
+          "level": 26
+        },
+        {
+          "move": "Moonblast",
+          "level": 35
+        },
+        {
+          "move": "Megahorn",
+          "level": 44
+        },
+        {
+          "move": "Night Slash",
+          "level": 51
+        },
+        {
+          "move": "Horn Leech",
+          "level": 55
+        },
+        {
+          "move": "Psych Up",
+          "level": 59
+        },
+        {
+          "move": "Misty Terrain",
+          "level": 63
+        },
+        {
+          "move": "Nature Power",
+          "level": 72
+        },
+        {
+          "move": "Close Combat",
+          "level": 80
+        },
+        {
+          "move": "Giga Impact",
+          "level": 88
+        },
+        {
+          "move": "Outrage",
+          "level": 93
+        },
+        {
+          "move": "Psyshock",
+          "tm": "TM3"
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Psychic",
+          "tm": "TM29"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Psych Up",
+          "tm": "TM77"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

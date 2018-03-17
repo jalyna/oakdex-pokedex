@@ -54,28 +54,6 @@
     "sp_def": 41,
     "speed": 25
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Growl"
-    },
-    {
-      "level": 0,
-      "move": "Bide"
-    },
-    {
-      "level": 6,
-      "move": "Struggle Bug"
-    },
-    {
-      "level": 16,
-      "move": "Bug Bite"
-    },
-    {
-      "tm": "TM76",
-      "move": "Struggle Bug"
-    }
-  ],
   "evolutions": [
     {
       "to": "Kricketune",
@@ -176,5 +154,214 @@
       3
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        },
+        {
+          "move": "Struggle Bug",
+          "tm": "TM76"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        },
+        {
+          "move": "Struggle Bug",
+          "tm": "TM76"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bide",
+          "level": 1
+        },
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Struggle Bug",
+          "level": 6
+        },
+        {
+          "move": "Bug Bite",
+          "level": 16
+        }
+      ]
+    }
+  ]
 }

@@ -57,208 +57,6 @@
     "sp_def": 60,
     "speed": 45
   },
-  "learnset": [
-    {
-      "move": "Leer",
-      "level": 1
-    },
-    {
-      "move": "Pursuit",
-      "level": 1
-    },
-    {
-      "move": "Sand Attack",
-      "level": 1
-    },
-    {
-      "move": "Leer",
-      "level": 3
-    },
-    {
-      "move": "Pursuit",
-      "level": 7
-    },
-    {
-      "move": "Sand Attack",
-      "level": 10
-    },
-    {
-      "move": "Odor Sleuth",
-      "level": 13
-    },
-    {
-      "move": "Bide",
-      "level": 16
-    },
-    {
-      "move": "Bite",
-      "level": 19
-    },
-    {
-      "move": "Mud-Slap",
-      "level": 23
-    },
-    {
-      "move": "Super Fang",
-      "level": 27
-    },
-    {
-      "move": "Take Down",
-      "level": 31
-    },
-    {
-      "move": "Scary Face",
-      "level": 35
-    },
-    {
-      "move": "Crunch",
-      "level": 39
-    },
-    {
-      "move": "Hyper Fang",
-      "level": 43
-    },
-    {
-      "move": "Yawn",
-      "level": 47
-    },
-    {
-      "move": "Thrash",
-      "level": 51
-    },
-    {
-      "move": "Rest",
-      "level": 55
-    },
-    {
-      "move": "Roar",
-      "tm": "TM05"
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Taunt",
-      "tm": "TM12"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Sandstorm",
-      "tm": "TM37"
-    },
-    {
-      "move": "Rock Tomb",
-      "tm": "TM39"
-    },
-    {
-      "move": "Torment",
-      "tm": "TM41"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Thief",
-      "tm": "TM46"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Echoed Voice",
-      "tm": "TM49"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "U-turn",
-      "tm": "TM89"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Zangoose"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Weavile"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Oshawott"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Dewott"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Samurott"
-    },
-    {
-      "move": "Revenge",
-      "parent": "Bouffalant"
-    }
-  ],
   "evolution_from": "Yungoos",
   "categories": {
     "en": "Stakeout Pokémon",
@@ -311,5 +109,419 @@
       0
     ]
   },
-  "ultra_alola_id": 5
+  "ultra_alola_id": 5,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 3
+        },
+        {
+          "move": "Pursuit",
+          "level": 7
+        },
+        {
+          "move": "Sand Attack",
+          "level": 10
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 13
+        },
+        {
+          "move": "Bide",
+          "level": 16
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 23
+        },
+        {
+          "move": "Super Fang",
+          "level": 27
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Scary Face",
+          "level": 35
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Hyper Fang",
+          "level": 43
+        },
+        {
+          "move": "Yawn",
+          "level": 47
+        },
+        {
+          "move": "Thrash",
+          "level": 51
+        },
+        {
+          "move": "Rest",
+          "level": 55
+        },
+        {
+          "move": "Last Resort",
+          "egg_move": true
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Sand Attack",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 3
+        },
+        {
+          "move": "Pursuit",
+          "level": 7
+        },
+        {
+          "move": "Sand Attack",
+          "level": 10
+        },
+        {
+          "move": "Odor Sleuth",
+          "level": 13
+        },
+        {
+          "move": "Bide",
+          "level": 16
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Mud-Slap",
+          "level": 23
+        },
+        {
+          "move": "Super Fang",
+          "level": 27
+        },
+        {
+          "move": "Take Down",
+          "level": 31
+        },
+        {
+          "move": "Scary Face",
+          "level": 35
+        },
+        {
+          "move": "Crunch",
+          "level": 39
+        },
+        {
+          "move": "Hyper Fang",
+          "level": 43
+        },
+        {
+          "move": "Yawn",
+          "level": 47
+        },
+        {
+          "move": "Thrash",
+          "level": 51
+        },
+        {
+          "move": "Rest",
+          "level": 55
+        },
+        {
+          "move": "Fire Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Ice Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Last Resort",
+          "egg_move": true
+        },
+        {
+          "move": "Revenge",
+          "egg_move": true
+        },
+        {
+          "move": "Thunder Fang",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Taunt",
+          "tm": "TM12"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Sandstorm",
+          "tm": "TM37"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Torment",
+          "tm": "TM41"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "U-turn",
+          "tm": "TM89"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

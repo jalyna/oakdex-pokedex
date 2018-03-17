@@ -55,20 +55,6 @@
     "sp_def": 20,
     "speed": 50
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Poison Sting"
-    },
-    {
-      "level": 0,
-      "move": "String Shot"
-    },
-    {
-      "level": 15,
-      "move": "Bug Bite"
-    }
-  ],
   "evolutions": [
     {
       "to": "Kakuna",
@@ -213,5 +199,291 @@
       2
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 15
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Poison Sting",
+          "level": 1
+        },
+        {
+          "move": "String Shot",
+          "level": 1
+        },
+        {
+          "move": "Bug Bite",
+          "level": 9
+        }
+      ]
+    }
+  ]
 }

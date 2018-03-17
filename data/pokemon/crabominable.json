@@ -58,236 +58,6 @@
     "sp_def": 67,
     "speed": 43
   },
-  "learnset": [
-    {
-      "move": "Bubble",
-      "level": 1
-    },
-    {
-      "move": "Rock Smash",
-      "level": 1
-    },
-    {
-      "move": "Leer",
-      "level": 1
-    },
-    {
-      "move": "Pursuit",
-      "level": 1
-    },
-    {
-      "move": "Ice Punch",
-      "level": 0
-    },
-    {
-      "move": "Rock Smash",
-      "level": 5
-    },
-    {
-      "move": "Leer",
-      "level": 9
-    },
-    {
-      "move": "Pursuit",
-      "level": 13
-    },
-    {
-      "move": "Bubble Beam",
-      "level": 17
-    },
-    {
-      "move": "Power-Up Punch",
-      "level": 22
-    },
-    {
-      "move": "Dizzy Punch",
-      "level": 25
-    },
-    {
-      "move": "Avalanche",
-      "level": 29
-    },
-    {
-      "move": "Reversal",
-      "level": 33
-    },
-    {
-      "move": "Ice Hammer",
-      "level": 37
-    },
-    {
-      "move": "Iron Defense",
-      "level": 42
-    },
-    {
-      "move": "Dynamic Punch",
-      "level": 45
-    },
-    {
-      "move": "Close Combat",
-      "level": 49
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hail",
-      "tm": "TM07"
-    },
-    {
-      "move": "Bulk Up",
-      "tm": "TM08"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Ice Beam",
-      "tm": "TM13"
-    },
-    {
-      "move": "Blizzard",
-      "tm": "TM14"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Earthquake",
-      "tm": "TM26"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Brick Break",
-      "tm": "TM31"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Rock Tomb",
-      "tm": "TM39"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Attract",
-      "tm": "TM45"
-    },
-    {
-      "move": "Thief",
-      "tm": "TM46"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Focus Blast",
-      "tm": "TM52"
-    },
-    {
-      "move": "Scald",
-      "tm": "TM55"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Payback",
-      "tm": "TM66"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Stone Edge",
-      "tm": "TM71"
-    },
-    {
-      "move": "Bulldoze",
-      "tm": "TM78"
-    },
-    {
-      "move": "Frost Breath",
-      "tm": "TM79"
-    },
-    {
-      "move": "Rock Slide",
-      "tm": "TM80"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    },
-    {
-      "move": "Endeavor",
-      "parent": "Archen"
-    },
-    {
-      "move": "Endeavor",
-      "parent": "Archeops"
-    },
-    {
-      "move": "Superpower",
-      "parent": "Corphish"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Kingler"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Tirtouga"
-    },
-    {
-      "move": "Wide Guard",
-      "parent": "Carracosta"
-    }
-  ],
   "evolution_from": "Crabrawler",
   "categories": {
     "en": "Woolly Crab Pokémon",
@@ -340,5 +110,471 @@
       0
     ]
   },
-  "ultra_alola_id": 25
+  "ultra_alola_id": 25,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Ice Punch",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Rock Smash",
+          "level": 1
+        },
+        {
+          "move": "Rock Smash",
+          "level": 5
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 17
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 22
+        },
+        {
+          "move": "Dizzy Punch",
+          "level": 25
+        },
+        {
+          "move": "Avalanche",
+          "level": 29
+        },
+        {
+          "move": "Reversal",
+          "level": 33
+        },
+        {
+          "move": "Ice Hammer",
+          "level": 37
+        },
+        {
+          "move": "Iron Defense",
+          "level": 42
+        },
+        {
+          "move": "Dynamic Punch",
+          "level": 45
+        },
+        {
+          "move": "Close Combat",
+          "level": 49
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Ice Punch",
+          "level": 1
+        },
+        {
+          "move": "Leer",
+          "level": 1
+        },
+        {
+          "move": "Pursuit",
+          "level": 1
+        },
+        {
+          "move": "Rock Smash",
+          "level": 1
+        },
+        {
+          "move": "Rock Smash",
+          "level": 5
+        },
+        {
+          "move": "Leer",
+          "level": 9
+        },
+        {
+          "move": "Pursuit",
+          "level": 13
+        },
+        {
+          "move": "Bubble Beam",
+          "level": 17
+        },
+        {
+          "move": "Power-Up Punch",
+          "level": 22
+        },
+        {
+          "move": "Dizzy Punch",
+          "level": 25
+        },
+        {
+          "move": "Avalanche",
+          "level": 29
+        },
+        {
+          "move": "Reversal",
+          "level": 33
+        },
+        {
+          "move": "Ice Hammer",
+          "level": 37
+        },
+        {
+          "move": "Iron Defense",
+          "level": 42
+        },
+        {
+          "move": "Dynamic Punch",
+          "level": 45
+        },
+        {
+          "move": "Close Combat",
+          "level": 49
+        },
+        {
+          "move": "Amnesia",
+          "egg_move": true
+        },
+        {
+          "move": "Endeavor",
+          "egg_move": true
+        },
+        {
+          "move": "Superpower",
+          "egg_move": true
+        },
+        {
+          "move": "Wide Guard",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

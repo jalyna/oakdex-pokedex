@@ -49,204 +49,6 @@
     "sp_def": 71,
     "speed": 83
   },
-  "learnset": [
-    {
-      "move": "Spark",
-      "level": 1
-    },
-    {
-      "move": "Charge",
-      "level": 1
-    },
-    {
-      "move": "Wrap",
-      "level": 1
-    },
-    {
-      "move": "Thunder Shock",
-      "level": 1
-    },
-    {
-      "move": "Thunder Wave",
-      "level": 7
-    },
-    {
-      "move": "Shock Wave",
-      "level": 13
-    },
-    {
-      "move": "Ingrain",
-      "level": 19
-    },
-    {
-      "move": "Thunder Punch",
-      "level": 23
-    },
-    {
-      "move": "Eerie Impulse",
-      "level": 29
-    },
-    {
-      "move": "Signal Beam",
-      "level": 31
-    },
-    {
-      "move": "Thunderbolt",
-      "level": 37
-    },
-    {
-      "move": "Hypnosis",
-      "level": 43
-    },
-    {
-      "move": "Discharge",
-      "level": 47
-    },
-    {
-      "move": "Electric Terrain",
-      "level": 53
-    },
-    {
-      "move": "Power Whip",
-      "level": 59
-    },
-    {
-      "move": "Ion Deluge",
-      "level": 67
-    },
-    {
-      "move": "Zap Cannon",
-      "level": 73
-    },
-    {
-      "move": "Toxic",
-      "tm": "TM06"
-    },
-    {
-      "move": "Hidden Power",
-      "tm": "TM10"
-    },
-    {
-      "move": "Sunny Day",
-      "tm": "TM11"
-    },
-    {
-      "move": "Hyper Beam",
-      "tm": "TM15"
-    },
-    {
-      "move": "Light Screen",
-      "tm": "TM16"
-    },
-    {
-      "move": "Protect",
-      "tm": "TM17"
-    },
-    {
-      "move": "Rain Dance",
-      "tm": "TM18"
-    },
-    {
-      "move": "Frustration",
-      "tm": "TM21"
-    },
-    {
-      "move": "Solar Beam",
-      "tm": "TM22"
-    },
-    {
-      "move": "Thunderbolt",
-      "tm": "TM24"
-    },
-    {
-      "move": "Thunder",
-      "tm": "TM25"
-    },
-    {
-      "move": "Return",
-      "tm": "TM27"
-    },
-    {
-      "move": "Double Team",
-      "tm": "TM32"
-    },
-    {
-      "move": "Reflect",
-      "tm": "TM33"
-    },
-    {
-      "move": "Facade",
-      "tm": "TM42"
-    },
-    {
-      "move": "Rest",
-      "tm": "TM44"
-    },
-    {
-      "move": "Round",
-      "tm": "TM48"
-    },
-    {
-      "move": "Energy Ball",
-      "tm": "TM53"
-    },
-    {
-      "move": "Fling",
-      "tm": "TM56"
-    },
-    {
-      "move": "Charge Beam",
-      "tm": "TM57"
-    },
-    {
-      "move": "Brutal Swing",
-      "tm": "TM59"
-    },
-    {
-      "move": "Giga Impact",
-      "tm": "TM68"
-    },
-    {
-      "move": "Volt Switch",
-      "tm": "TM72"
-    },
-    {
-      "move": "Thunder Wave",
-      "tm": "TM73"
-    },
-    {
-      "move": "Grass Knot",
-      "tm": "TM86"
-    },
-    {
-      "move": "Swagger",
-      "tm": "TM87"
-    },
-    {
-      "move": "Sleep Talk",
-      "tm": "TM88"
-    },
-    {
-      "move": "Substitute",
-      "tm": "TM90"
-    },
-    {
-      "move": "Wild Charge",
-      "tm": "TM93"
-    },
-    {
-      "move": "Nature Power",
-      "tm": "TM96"
-    },
-    {
-      "move": "Dazzling Gleam",
-      "tm": "TM99"
-    },
-    {
-      "move": "Confide",
-      "tm": "TM100"
-    }
-  ],
   "gender_ratios": null,
   "categories": {
     "en": "Glowing Pokémon",
@@ -300,5 +102,431 @@
       0
     ]
   },
-  "ultra_alola_id": 396
+  "ultra_alola_id": 396,
+  "move_learnsets": [
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tail Glow",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Wrap",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 7
+        },
+        {
+          "move": "Shock Wave",
+          "level": 13
+        },
+        {
+          "move": "Ingrain",
+          "level": 19
+        },
+        {
+          "move": "Thunder Punch",
+          "level": 23
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 29
+        },
+        {
+          "move": "Signal Beam",
+          "level": 31
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 37
+        },
+        {
+          "move": "Hypnosis",
+          "level": 43
+        },
+        {
+          "move": "Discharge",
+          "level": 47
+        },
+        {
+          "move": "Electric Terrain",
+          "level": 53
+        },
+        {
+          "move": "Power Whip",
+          "level": 59
+        },
+        {
+          "move": "Ion Deluge",
+          "level": 67
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 73
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Charge",
+          "level": 1
+        },
+        {
+          "move": "Spark",
+          "level": 1
+        },
+        {
+          "move": "Tail Glow",
+          "level": 1
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 1
+        },
+        {
+          "move": "Wrap",
+          "level": 1
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 7
+        },
+        {
+          "move": "Shock Wave",
+          "level": 13
+        },
+        {
+          "move": "Ingrain",
+          "level": 19
+        },
+        {
+          "move": "Thunder Punch",
+          "level": 23
+        },
+        {
+          "move": "Eerie Impulse",
+          "level": 29
+        },
+        {
+          "move": "Signal Beam",
+          "level": 31
+        },
+        {
+          "move": "Thunderbolt",
+          "level": 37
+        },
+        {
+          "move": "Hypnosis",
+          "level": 43
+        },
+        {
+          "move": "Discharge",
+          "level": 47
+        },
+        {
+          "move": "Electric Terrain",
+          "level": 53
+        },
+        {
+          "move": "Power Whip",
+          "level": 59
+        },
+        {
+          "move": "Ion Deluge",
+          "level": 67
+        },
+        {
+          "move": "Zap Cannon",
+          "level": 73
+        },
+        {
+          "move": "Calm Mind",
+          "tm": "TM4"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Thunder",
+          "tm": "TM25"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Energy Ball",
+          "tm": "TM53"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "Grass Knot",
+          "tm": "TM86"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Nature Power",
+          "tm": "TM96"
+        },
+        {
+          "move": "Dazzling Gleam",
+          "tm": "TM99"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

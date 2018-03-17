@@ -55,736 +55,6 @@
     "sp_def": 105,
     "speed": 78
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Flash Cannon"
-    },
-    {
-      "level": 0,
-      "move": "Tackle"
-    },
-    {
-      "level": 0,
-      "move": "Tail Whip"
-    },
-    {
-      "level": 0,
-      "move": "Water Gun"
-    },
-    {
-      "level": 0,
-      "move": "Withdraw"
-    },
-    {
-      "level": 4,
-      "move": "Tail Whip"
-    },
-    {
-      "level": 7,
-      "move": "Water Gun"
-    },
-    {
-      "level": 10,
-      "move": "Withdraw"
-    },
-    {
-      "level": 13,
-      "move": "Bubble"
-    },
-    {
-      "level": 16,
-      "move": "Bite"
-    },
-    {
-      "level": 20,
-      "move": "Rapid Spin"
-    },
-    {
-      "level": 24,
-      "move": "Protect"
-    },
-    {
-      "level": 28,
-      "move": "Water Pulse"
-    },
-    {
-      "level": 32,
-      "move": "Aqua Tail"
-    },
-    {
-      "level": 39,
-      "move": "Skull Bash"
-    },
-    {
-      "level": 46,
-      "move": "Iron Defense"
-    },
-    {
-      "level": 53,
-      "move": "Rain Dance"
-    },
-    {
-      "level": 60,
-      "move": "Hydro Pump"
-    },
-    {
-      "tm": "TM05",
-      "move": "Roar"
-    },
-    {
-      "tm": "TM06",
-      "move": "Toxic"
-    },
-    {
-      "tm": "TM07",
-      "move": "Hail"
-    },
-    {
-      "tm": "TM10",
-      "move": "Hidden Power"
-    },
-    {
-      "tm": "TM13",
-      "move": "Ice Beam"
-    },
-    {
-      "tm": "TM14",
-      "move": "Blizzard"
-    },
-    {
-      "tm": "TM15",
-      "move": "Hyper Beam"
-    },
-    {
-      "tm": "TM17",
-      "move": "Protect"
-    },
-    {
-      "tm": "TM18",
-      "move": "Rain Dance"
-    },
-    {
-      "tm": "TM21",
-      "move": "Frustration"
-    },
-    {
-      "tm": "TM23",
-      "move": "Smack Down"
-    },
-    {
-      "tm": "TM26",
-      "move": "Earthquake"
-    },
-    {
-      "tm": "TM27",
-      "move": "Return"
-    },
-    {
-      "tm": "TM28",
-      "move": "Dig"
-    },
-    {
-      "tm": "TM31",
-      "move": "Brick Break"
-    },
-    {
-      "tm": "TM32",
-      "move": "Double Team"
-    },
-    {
-      "tm": "TM39",
-      "move": "Rock Tomb"
-    },
-    {
-      "tm": "TM42",
-      "move": "Facade"
-    },
-    {
-      "tm": "TM44",
-      "move": "Rest"
-    },
-    {
-      "tm": "TM45",
-      "move": "Attract"
-    },
-    {
-      "tm": "TM48",
-      "move": "Round"
-    },
-    {
-      "tm": "TM52",
-      "move": "Focus Blast"
-    },
-    {
-      "tm": "TM55",
-      "move": "Scald"
-    },
-    {
-      "tm": "TM56",
-      "move": "Fling"
-    },
-    {
-      "tm": "TM68",
-      "move": "Giga Impact"
-    },
-    {
-      "tm": "TM74",
-      "move": "Gyro Ball"
-    },
-    {
-      "tm": "TM78",
-      "move": "Bulldoze"
-    },
-    {
-      "tm": "TM80",
-      "move": "Rock Slide"
-    },
-    {
-      "tm": "TM82",
-      "move": "Dragon Tail"
-    },
-    {
-      "tm": "TM87",
-      "move": "Swagger"
-    },
-    {
-      "tm": "TM88",
-      "move": "Sleep Talk"
-    },
-    {
-      "tm": "TM90",
-      "move": "Substitute"
-    },
-    {
-      "tm": "TM91",
-      "move": "Flash Cannon"
-    },
-    {
-      "tm": "TM94",
-      "move": "Rock Smash"
-    },
-    {
-      "tm": "TM94",
-      "move": "Secret Power"
-    },
-    {
-      "tm": "TM97",
-      "move": "Dark Pulse"
-    },
-    {
-      "tm": "TM98",
-      "move": "Power-Up Punch"
-    },
-    {
-      "tm": "TM100",
-      "move": "Confide"
-    },
-    {
-      "tm": "HM03",
-      "move": "Surf"
-    },
-    {
-      "tm": "HM04",
-      "move": "Strength"
-    },
-    {
-      "tm": "HM05",
-      "move": "Waterfall"
-    },
-    {
-      "tm": "HM06",
-      "move": "Rock Smash"
-    },
-    {
-      "parent": "Golduck",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Seel",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Dewgong",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Kabuto",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Kabutops",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Empoleon",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Buizel",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Floatzel",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Tirtouga",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Carracosta",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Alomomola",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Clauncher",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Aqua Jet"
-    },
-    {
-      "parent": "Seel",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Dewgong",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Marill",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Azumarill",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Mantine",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Milotic",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Gorebyss",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Tympole",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Palpitoad",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Seismitoad",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Ducklett",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Swanna",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Alomomola",
-      "move": "Aqua Ring"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Aura Sphere"
-    },
-    {
-      "parent": "Seel",
-      "move": "Brine"
-    },
-    {
-      "parent": "Dewgong",
-      "move": "Brine"
-    },
-    {
-      "parent": "Horsea",
-      "move": "Brine"
-    },
-    {
-      "parent": "Seadra",
-      "move": "Brine"
-    },
-    {
-      "parent": "Kingdra",
-      "move": "Brine"
-    },
-    {
-      "parent": "Lapras",
-      "move": "Brine"
-    },
-    {
-      "parent": "Omanyte",
-      "move": "Brine"
-    },
-    {
-      "parent": "Omastar",
-      "move": "Brine"
-    },
-    {
-      "parent": "Pelipper",
-      "move": "Brine"
-    },
-    {
-      "parent": "Huntail",
-      "move": "Brine"
-    },
-    {
-      "parent": "Piplup",
-      "move": "Brine"
-    },
-    {
-      "parent": "Prinplup",
-      "move": "Brine"
-    },
-    {
-      "parent": "Empoleon",
-      "move": "Brine"
-    },
-    {
-      "parent": "Tirtouga",
-      "move": "Brine"
-    },
-    {
-      "parent": "Carracosta",
-      "move": "Brine"
-    },
-    {
-      "parent": "Alomomola",
-      "move": "Brine"
-    },
-    {
-      "parent": "Horsea",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Seadra",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Kingdra",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Ampharos",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Axew",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Fraxure",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Haxorus",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Skrelp",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Dragalge",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Dragon Pulse"
-    },
-    {
-      "parent": "Lombre",
-      "move": "Fake Out"
-    },
-    {
-      "parent": "Totodile",
-      "move": "Flail"
-    },
-    {
-      "parent": "Croconaw",
-      "move": "Flail"
-    },
-    {
-      "parent": "Feraligatr",
-      "move": "Flail"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Flail"
-    },
-    {
-      "parent": "Feebas",
-      "move": "Flail"
-    },
-    {
-      "parent": "Tympole",
-      "move": "Flail"
-    },
-    {
-      "parent": "Palpitoad",
-      "move": "Flail"
-    },
-    {
-      "parent": "Seismitoad",
-      "move": "Flail"
-    },
-    {
-      "parent": "Stunfisk",
-      "move": "Flail"
-    },
-    {
-      "parent": "Clauncher",
-      "move": "Flail"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Flail"
-    },
-    {
-      "parent": "Mudkip",
-      "move": "Foresight"
-    },
-    {
-      "parent": "Marshtomp",
-      "move": "Foresight"
-    },
-    {
-      "parent": "Swampert",
-      "move": "Foresight"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Haze"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Haze"
-    },
-    {
-      "parent": "Surskit",
-      "move": "Haze"
-    },
-    {
-      "parent": "Greninja",
-      "move": "Haze"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Mirror Coat"
-    },
-    {
-      "parent": "Lapras",
-      "move": "Mist"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Mist"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Mist"
-    },
-    {
-      "parent": "Lotad",
-      "move": "Mist"
-    },
-    {
-      "parent": "Wingull",
-      "move": "Mist"
-    },
-    {
-      "parent": "Pelipper",
-      "move": "Mist"
-    },
-    {
-      "parent": "Surskit",
-      "move": "Mist"
-    },
-    {
-      "parent": "Piplup",
-      "move": "Mist"
-    },
-    {
-      "parent": "Prinplup",
-      "move": "Mist"
-    },
-    {
-      "parent": "Empoleon",
-      "move": "Mist"
-    },
-    {
-      "parent": "Snover",
-      "move": "Mist"
-    },
-    {
-      "parent": "Abomasnow",
-      "move": "Mist"
-    },
-    {
-      "parent": "Amaura",
-      "move": "Mist"
-    },
-    {
-      "parent": "Aurorus",
-      "move": "Mist"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Mudkip",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Relicanth",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Shellos",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Gastrodon",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Stunfisk",
-      "move": "Mud Sport"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Marshtomp",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Swampert",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Shellos",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Gastrodon",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Tympole",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Palpitoad",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Seismitoad",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Stunfisk",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Clauncher",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Clawitzer",
-      "move": "Muddy Water"
-    },
-    {
-      "parent": "Lickitung",
-      "move": "Refresh"
-    },
-    {
-      "parent": "Lickilicky",
-      "move": "Refresh"
-    },
-    {
-      "parent": "Corsola",
-      "move": "Refresh"
-    },
-    {
-      "parent": "Milotic",
-      "move": "Refresh"
-    },
-    {
-      "parent": "Remoraid",
-      "move": "Water Spout"
-    },
-    {
-      "parent": "Slowpoke",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Slowbro",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Slowking",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Snorlax",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Wooper",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Quagsire",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Kingdra",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Relicanth",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Bidoof",
-      "move": "Yawn"
-    },
-    {
-      "parent": "Bibarel",
-      "move": "Yawn"
-    }
-  ],
   "evolution_from": "Wartortle",
   "categories": {
     "en": "Shellfish Pokémon",
@@ -944,5 +214,4019 @@
       3
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Bubble",
+          "level": 8
+        },
+        {
+          "move": "Water Gun",
+          "level": 15
+        },
+        {
+          "move": "Bite",
+          "level": 24
+        },
+        {
+          "move": "Withdraw",
+          "level": 31
+        },
+        {
+          "move": "Skull Bash",
+          "level": 42
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 52
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Mega Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Mega Kick",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Body Slam",
+          "tm": "TM8"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Bubble Beam",
+          "tm": "TM11"
+        },
+        {
+          "move": "Water Gun",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Submission",
+          "tm": "TM17"
+        },
+        {
+          "move": "Counter",
+          "tm": "TM18"
+        },
+        {
+          "move": "Seismic Toss",
+          "tm": "TM19"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Fissure",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Skull Bash",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Yellow"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Bubble",
+          "level": 8
+        },
+        {
+          "move": "Water Gun",
+          "level": 15
+        },
+        {
+          "move": "Bite",
+          "level": 24
+        },
+        {
+          "move": "Withdraw",
+          "level": 31
+        },
+        {
+          "move": "Skull Bash",
+          "level": 42
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 52
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Mega Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Mega Kick",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Body Slam",
+          "tm": "TM8"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Bubble Beam",
+          "tm": "TM11"
+        },
+        {
+          "move": "Water Gun",
+          "tm": "TM12"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Submission",
+          "tm": "TM17"
+        },
+        {
+          "move": "Counter",
+          "tm": "TM18"
+        },
+        {
+          "move": "Seismic Toss",
+          "tm": "TM19"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Fissure",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Skull Bash",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 25
+        },
+        {
+          "move": "Protect",
+          "level": 31
+        },
+        {
+          "move": "Rain Dance",
+          "level": 42
+        },
+        {
+          "move": "Skull Bash",
+          "level": 55
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 68
+        },
+        {
+          "move": "Confusion",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Whirlpool",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Dynamic Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Icy Wind",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Ice Punch",
+          "tm": "TM33"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Defense Curl",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 25
+        },
+        {
+          "move": "Protect",
+          "level": 31
+        },
+        {
+          "move": "Rain Dance",
+          "level": 42
+        },
+        {
+          "move": "Skull Bash",
+          "level": 55
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 68
+        },
+        {
+          "move": "Confusion",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Whirlpool",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Dynamic Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM2"
+        },
+        {
+          "move": "Curse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Rollout",
+          "tm": "TM4"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM8"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Snore",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Icy Wind",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM20"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Mud-Slap",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Ice Punch",
+          "tm": "TM33"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM34"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM35"
+        },
+        {
+          "move": "Defense Curl",
+          "tm": "TM40"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 25
+        },
+        {
+          "move": "Protect",
+          "level": 31
+        },
+        {
+          "move": "Rain Dance",
+          "level": 42
+        },
+        {
+          "move": "Skull Bash",
+          "level": 55
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 68
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 25
+        },
+        {
+          "move": "Protect",
+          "level": 31
+        },
+        {
+          "move": "Rain Dance",
+          "level": 42
+        },
+        {
+          "move": "Skull Bash",
+          "level": 55
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 68
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 19
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 25
+        },
+        {
+          "move": "Protect",
+          "level": 31
+        },
+        {
+          "move": "Rain Dance",
+          "level": 42
+        },
+        {
+          "move": "Skull Bash",
+          "level": 55
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 68
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Rain Dance",
+          "level": 46
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 53
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Brine",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Avalanche",
+          "tm": "TM72"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Brine",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Avalanche",
+          "tm": "TM72"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Whirlpool",
+          "tm": "HM5"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM7"
+        },
+        {
+          "move": "Rock Climb",
+          "tm": "HM8"
+        },
+        {
+          "move": "Focus Punch",
+          "tm": "TM1"
+        },
+        {
+          "move": "Water Pulse",
+          "tm": "TM3"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Iron Tail",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM43"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Brine",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Endure",
+          "tm": "TM58"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Avalanche",
+          "tm": "TM72"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Captivate",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM82"
+        },
+        {
+          "move": "Natural Gift",
+          "tm": "TM83"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM5"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM6"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Bubble",
+          "level": 1
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Bubble",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Water Gun",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM5"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM6"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aura Sphere",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM5"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 16
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 20
+        },
+        {
+          "move": "Protect",
+          "level": 24
+        },
+        {
+          "move": "Water Pulse",
+          "level": 28
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 32
+        },
+        {
+          "move": "Skull Bash",
+          "level": 39
+        },
+        {
+          "move": "Iron Defense",
+          "level": 46
+        },
+        {
+          "move": "Rain Dance",
+          "level": 53
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aura Sphere",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Surf",
+          "tm": "HM3"
+        },
+        {
+          "move": "Strength",
+          "tm": "HM4"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "HM5"
+        },
+        {
+          "move": "Rock Smash",
+          "tm": "HM6"
+        },
+        {
+          "move": "Dive",
+          "tm": "HM7"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Dig",
+          "tm": "TM28"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Secret Power",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Power-Up Punch",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 17
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 21
+        },
+        {
+          "move": "Protect",
+          "level": 25
+        },
+        {
+          "move": "Water Pulse",
+          "level": 29
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 33
+        },
+        {
+          "move": "Skull Bash",
+          "level": 40
+        },
+        {
+          "move": "Iron Defense",
+          "level": 47
+        },
+        {
+          "move": "Rain Dance",
+          "level": 54
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aura Sphere",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Flash Cannon",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 1
+        },
+        {
+          "move": "Water Gun",
+          "level": 1
+        },
+        {
+          "move": "Withdraw",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 4
+        },
+        {
+          "move": "Water Gun",
+          "level": 7
+        },
+        {
+          "move": "Withdraw",
+          "level": 10
+        },
+        {
+          "move": "Bubble",
+          "level": 13
+        },
+        {
+          "move": "Bite",
+          "level": 17
+        },
+        {
+          "move": "Rapid Spin",
+          "level": 21
+        },
+        {
+          "move": "Protect",
+          "level": 25
+        },
+        {
+          "move": "Water Pulse",
+          "level": 29
+        },
+        {
+          "move": "Aqua Tail",
+          "level": 33
+        },
+        {
+          "move": "Skull Bash",
+          "level": 40
+        },
+        {
+          "move": "Iron Defense",
+          "level": 47
+        },
+        {
+          "move": "Rain Dance",
+          "level": 54
+        },
+        {
+          "move": "Hydro Pump",
+          "level": 60
+        },
+        {
+          "move": "Aqua Jet",
+          "egg_move": true
+        },
+        {
+          "move": "Aqua Ring",
+          "egg_move": true
+        },
+        {
+          "move": "Aura Sphere",
+          "egg_move": true
+        },
+        {
+          "move": "Brine",
+          "egg_move": true
+        },
+        {
+          "move": "Dragon Pulse",
+          "egg_move": true
+        },
+        {
+          "move": "Fake Out",
+          "egg_move": true
+        },
+        {
+          "move": "Flail",
+          "egg_move": true
+        },
+        {
+          "move": "Foresight",
+          "egg_move": true
+        },
+        {
+          "move": "Haze",
+          "egg_move": true
+        },
+        {
+          "move": "Mirror Coat",
+          "egg_move": true
+        },
+        {
+          "move": "Mist",
+          "egg_move": true
+        },
+        {
+          "move": "Mud Sport",
+          "egg_move": true
+        },
+        {
+          "move": "Muddy Water",
+          "egg_move": true
+        },
+        {
+          "move": "Refresh",
+          "egg_move": true
+        },
+        {
+          "move": "Water Spout",
+          "egg_move": true
+        },
+        {
+          "move": "Yawn",
+          "egg_move": true
+        },
+        {
+          "move": "Work Up",
+          "tm": "TM1"
+        },
+        {
+          "move": "Roar",
+          "tm": "TM5"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM7"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Hyper Beam",
+          "tm": "TM15"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Smack Down",
+          "tm": "TM23"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Giga Impact",
+          "tm": "TM68"
+        },
+        {
+          "move": "Gyro Ball",
+          "tm": "TM74"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Dragon Tail",
+          "tm": "TM82"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM91"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Dark Pulse",
+          "tm": "TM97"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    }
+  ]
 }

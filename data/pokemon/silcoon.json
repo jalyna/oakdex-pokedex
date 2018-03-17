@@ -50,16 +50,6 @@
     "sp_def": 25,
     "speed": 15
   },
-  "learnset": [
-    {
-      "level": 0,
-      "move": "Harden"
-    },
-    {
-      "level": 7,
-      "move": "Harden"
-    }
-  ],
   "evolution_from": "Wurmple",
   "evolutions": [
     {
@@ -180,5 +170,189 @@
       2
     ]
   },
-  "ultra_alola_id": null
+  "ultra_alola_id": null,
+  "move_learnsets": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "games": [
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "learnset": [
+        {
+          "move": "Harden",
+          "level": 1
+        }
+      ]
+    }
+  ]
 }
