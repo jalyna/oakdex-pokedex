@@ -13,6 +13,20 @@ module Oakdex
         move_learnsets.last['learnset']
       end
 
+      def locations
+        Region.all.values.map do |region|
+          region.locations.map do |location|
+            location['pokemon'].map do |p|
+              next unless p['pokemon'] == name
+              p.merge(
+                'region' => region.name,
+                'location' => location['names']['en']
+              )
+            end.compact
+          end
+        end.flatten
+      end
+
       class << self
         def all_by_id
           @all_by_id ||= Hash[all.map do |_k, pokemon|

@@ -160,6 +160,7 @@ If you want to know what the structure of the given data is, checkout the follow
 - [Egg Group](doc/egg_group.md)
 - [Nature](doc/nature.md)
 - [Generation](doc/generation.md)
+- [Region](doc/region.md)
 
 
 ### Sprites

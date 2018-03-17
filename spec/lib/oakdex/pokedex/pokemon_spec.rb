@@ -63,7 +63,7 @@ describe Oakdex::Pokedex::Pokemon do
       },
       'move_learnsets' => [
         {
-          'games' => ['Red', 'Blue'],
+          'games' => %w[Red Blue],
           'learnset' => [
             {
               'level' => 0,
@@ -164,7 +164,16 @@ describe Oakdex::Pokedex::Pokemon do
   end
 
   describe '#learnset' do
-    it { expect(subject.learnset).to eq(attributes['move_learnsets'].last['learnset']) }
+    it {
+      expect(subject.learnset).to
+      eq(attributes['move_learnsets'].last['learnset'])
+    }
+  end
+
+  describe '#locations' do
+    it 'returns locations' do
+      expect(subject.locations.size).to eq(6)
+    end
   end
 
   describe '.find' do
