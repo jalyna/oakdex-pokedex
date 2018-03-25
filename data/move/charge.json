@@ -1,4 +1,10 @@
-{
+,
+  "stat_modifiers": [
+    {
+      "stat": "sp_def",
+      "change_by": 1
+    }
+  ]{
   "index_number": 268,
   "pp": 20,
   "max_pp": 32,
@@ -45,6 +51,12 @@
       "appeal": 1,
       "jam": 0,
       "condition": "Clever"
+    }
+  ],
+  "stat_modifiers": [
+    {
+      "stat": "sp_def",
+      "change_by": 1
     }
   ]
 }
