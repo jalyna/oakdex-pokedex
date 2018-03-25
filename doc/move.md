@@ -100,6 +100,7 @@ The array object has the following properties:
 
 This element must be one of the following enum values:
 
+* `random`
 * `atk`
 * `def`
 * `speed`
@@ -113,8 +114,10 @@ This element must be one of the following enum values:
 
 Additional restrictions:
 
-* Minimum: `-6`
-* Maximum: `6`
+* Minimum: `-12`
+* Maximum: `12`
+
+### `affects_user` (boolean)
 
 ## `contests` (array, required)
 

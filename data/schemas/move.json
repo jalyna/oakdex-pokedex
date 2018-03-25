@@ -175,6 +175,9 @@
             "type": "integer",
             "minimum": -12,
             "maximum": 12
+          },
+          "affects_user": {
+            "type": "boolean"
           }
         },
         "required": [
