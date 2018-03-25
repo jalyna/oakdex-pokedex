@@ -169,12 +169,12 @@
         "properties": {
           "stat": {
             "type": "string",
-            "enum": ["atk", "def", "speed", "sp_atk", "sp_def", "accuracy", "evasion", "critital_hit"]
+            "enum": ["random", "atk", "def", "speed", "sp_atk", "sp_def", "accuracy", "evasion", "critital_hit"]
           },
           "change_by": {
             "type": "integer",
-            "minimum": -6,
-            "maximum": 6
+            "minimum": -12,
+            "maximum": 12
           }
         },
         "required": [
