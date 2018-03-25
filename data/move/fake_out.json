@@ -22,10 +22,6 @@
     "pl": "Blef",
     "en": "Fake Out"
   },
-  "descriptions": {
-    "en": "A 1st-turn, 1st-strike move that causes flinching.",
-    "de": "Richtet Schaden an. Greift immer zuerst an (Schnelligkeitsstufe 1, Attacken wie Schutzschild gehen vor), lässt Gegner zurückschrecken. Funktioniert nur beim ersten Angriff des Anwenders (nach Wechsel wird Zähler auf 0 gesetzt)."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 3,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "A 1st-turn, 1st-strike move that causes flinching.",
+      "de": "Trifft schon mit dem ersten Schlag. Verjagt Gegner evtl."
+    },
+    "Sapphire": {
+      "en": "A 1st-turn, 1st-strike move that causes flinching.",
+      "de": "Trifft schon mit dem ersten Schlag. Verjagt Gegner evtl."
+    },
+    "Emerald": {
+      "en": "A 1st-turn, 1st-strike move that causes flinching.",
+      "de": "Trifft nur mit dem 1. Schlag. Gegner schreckt evtl. zurück."
+    },
+    "FireRed": {
+      "en": "An attack that hits first and causes flinching. Usable only on 1st turn.",
+      "de": "Trifft schon beim ersten Schlag. Gegner schreckt evtl. zurück."
+    },
+    "LeafGreen": {
+      "en": "An attack that hits first and causes flinching. Usable only on 1st turn.",
+      "de": "Trifft schon beim ersten Schlag. Gegner schreckt evtl. zurück."
+    },
+    "Diamond": {
+      "en": "An attack that hits first and makes the target flinch. This move works only on the first turn.",
+      "de": "Trifft schon beim ersten Schlag. Gegner schreckt zurück. Gelingt nur in der 1. Runde."
+    },
+    "Pearl": {
+      "en": "An attack that hits first and makes the target flinch. This move works only on the first turn.",
+      "de": "Trifft schon beim ersten Schlag. Gegner schreckt zurück. Gelingt nur in der 1. Runde."
+    },
+    "Platinum": {
+      "en": "An attack that hits first and makes the target flinch. This move works only on the first turn.",
+      "de": "Trifft schon beim ersten Schlag. Gegner schreckt zurück. Gelingt nur in der 1. Runde."
+    },
+    "HeartGold": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke trifft zuerst. Gegner schreckt zurück. Gelingt nur in der 1. Runde."
+    },
+    "SoulSilver": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke trifft zuerst. Gegner schreckt zurück. Gelingt nur in der 1. Runde."
+    },
+    "Black": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "White": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Black 2": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "White 2": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "X": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Y": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "O.Ruby": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "An attack that hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This attack hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke mit hoher Erstschlagquote. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Moon": {
+      "en": "This attack hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke mit hoher Erstschlagquote. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Ultra Sun": {
+      "en": "This attack hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke mit hoher Erstschlagquote. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Ultra Moon": {
+      "en": "This attack hits first and makes the target flinch. It only works the first turn the user is in battle.",
+      "de": "Attacke mit hoher Erstschlagquote. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes."
+    },
+    "Omega Ruby": {
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Diese Attacke trifft zuerst. Das Ziel schreckt zurück. Gelingt nur in der ersten Runde eines Kampfes.",
+      "en": "Unknown"
+    }
+  }
 }

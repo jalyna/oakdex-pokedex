@@ -20,10 +20,6 @@
     "pl": "Leczniczy Puls",
     "en": "Heal Pulse"
   },
-  "descriptions": {
-    "en": "The user emits a healing pulse which restores the target's HP by up to half of its max HP.",
-    "de": "Das Ziel wird bis zu 50% seiner maximalen KP geheilt. Sollten die KP des Zieles komplett gefüllt sein oder es sich hinter einem Delegator befinden, schlägt die Attacke fehl."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -44,5 +40,63 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "White": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "Black 2": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "White 2": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "X": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "Y": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte seiner maximalen KP."
+    },
+    "O.Ruby": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user emits a healing pulse which restores the target’s HP by up to half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user emits a healing pulse that restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte von dessen maximalen KP."
+    },
+    "Moon": {
+      "en": "The user emits a healing pulse that restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte von dessen maximalen KP."
+    },
+    "Ultra Sun": {
+      "en": "The user emits a healing pulse that restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte von dessen maximalen KP."
+    },
+    "Ultra Moon": {
+      "en": "The user emits a healing pulse that restores the target’s HP by up to half of its max HP.",
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte von dessen maximalen KP."
+    },
+    "Omega Ruby": {
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte seiner maximalen KP.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender löst eine Schmerzen lindernde Welle aus und heilt dabei das Ziel mit der Hälfte seiner maximalen KP.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -21,10 +21,6 @@
     "pl": "Wzmacniający cios",
     "en": "Power-Up Punch"
   },
-  "descriptions": {
-    "en": "Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.",
-    "de": "Steigerungshieb richtet Schaden an und erhöht den Angriffswert um eine Stufe (50%)."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -39,5 +35,47 @@
       "stat": "atk",
       "change_by": 1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert.* (Attacken-Beschreibung)Durch wiederholtes Zuschlagen werden die Fäuste des Anwenders allmählich härter. Trifft er den Gegner, steigt sein Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert.* (Attacken-Beschreibung)Durch wiederholtes Zuschlagen werden die Fäuste des Anwenders allmählich härter. Trifft er den Gegner, steigt sein Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert."
+    },
+    "Moon": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert."
+    },
+    "Ultra Sun": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert."
+    },
+    "Ultra Moon": {
+      "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert."
+    },
+    "Omega Ruby": {
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert.* (Attacken-Beschreibung)Durch wiederholtes Zuschlagen werden die Fäuste des Anwenders allmählich härter. Trifft er den Gegner, steigt sein Angriffs-Wert.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Die Fäuste des Anwenders härten durch wiederholtes Zuschlagen ab. Mit jedem Treffer steigt sein Angriffs-Wert.* (Attacken-Beschreibung)Durch wiederholtes Zuschlagen werden die Fäuste des Anwenders allmählich härter. Trifft er den Gegner, steigt sein Angriffs-Wert.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

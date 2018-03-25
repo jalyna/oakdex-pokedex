@@ -22,10 +22,6 @@
     "pl": "Centrocios",
     "en": "Focus Punch"
   },
-  "descriptions": {
-    "en": "A powerful loyalty attack. The user flinches if hit.*Powerful, but makes the user flinch if hit by foe.*",
-    "de": "Anwender lädt sich zu Beginn der Runde auf und greift dann als Zweites an. Richtet enormen Schaden an, wenn das eigene Pokémon dazwischen nicht getroffen wurde. Sollte daher nur von erfahrenen Trainern verwendet werden. Diese Attacke lässt sich gut mit Delegator kombinieren und ist im Competitive Play als \"SubPunch\" Taktik bekannt."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "A powerful loyalty attack. The user flinches if hit.",
+      "de": "Angriff, der später trifft. Ben. schreckt evtl. zurück.* (Attacken-Beschreibung)Stark. POKéMON erschrickt vielleicht bei gegn. Attacke.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "A powerful loyalty attack. The user flinches if hit.",
+      "de": "Angriff, der später trifft. Ben. schreckt evtl. zurück.* (Attacken-Beschreibung)Stark. POKéMON erschrickt vielleicht bei gegn. Attacke.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "A powerful loyalty attack. The user flinches if hit.",
+      "de": "Angriff, der später trifft. Ben. schreckt evtl. zurück.* (Attacken-Beschreibung)Stark. POKéMON erschrickt vielleicht bei gegn. Attacke.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that is executed last. The user flinches if hit beforehand.",
+      "de": "Angriff, der zuletzt erfolgt. Der Anwender schreckt evtl. zurück.* (Attacken-Beschreibung)Eine äußerst starke Attacke. Das POKéMON erschrickt vielleicht bei gegnerischer Attacke.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that is executed last. The user flinches if hit beforehand.",
+      "de": "Angriff, der zuletzt erfolgt. Der Anwender schreckt evtl. zurück.* (Attacken-Beschreibung)Eine äußerst starke Attacke. Das POKéMON erschrickt vielleicht bei gegnerischer Attacke.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Att. erfolglos.* (Attacken-Beschreibung)Der Anwender konzentriert sich vor dem Angriff. Wird er davor getroffen, ist die Attacke wirkungslos.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Att. erfolglos.* (Attacken-Beschreibung)Der Anwender konzentriert sich vor dem Angriff. Wird er davor getroffen, ist die Attacke wirkungslos.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Att. erfolglos.* (Attacken-Beschreibung)Der Anwender konzentriert sich vor dem Angriff. Wird er davor getroffen, ist die Attacke wirkungslos.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Att. erfolglos.* (Attacken-Beschreibung)Der Anwender konzentriert sich vor dem Angriff. Wird er davor getroffen, ist die Attacke wirkungslos.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Att. erfolglos.* (Attacken-Beschreibung)Der Anwender konzentriert sich vor dem Angriff. Wird er davor getroffen, ist die Attacke wirkungslos.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "White": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Black 2": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "White 2": {
+      "en": "The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "X": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Y": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "O.Ruby": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Moon": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Ultra Sun": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Ultra Moon": {
+      "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.",
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos."
+    },
+    "Omega Ruby": {
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender konzentriert sich, bevor er angreift. Wird er vorher getroffen, ist die Attacke erfolglos.",
+      "en": "Unknown"
+    }
+  }
 }

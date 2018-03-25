@@ -24,10 +24,6 @@
     "tr": "Saklı Güç",
     "en": "Hidden Power"
   },
-  "descriptions": {
-    "en": "A peculiar move that changes type and power depending on the Pokémon using it.",
-    "de": "Bis einschließlich zur 5. Generation wurde der Typ und die Stärke dieser Attacke von den DVs (am GameBoy / DS nicht sichtbare Werte eines Pokémon) bestimmt. Die Stärke der Attacke unterschreitet nie 30, wird jedoch auch nicht stärker als 70. Für eine ausführliche Erklärung dieses Zusammenhanges gibt es den Kraftreserve-Guide. Auch wird dort die Frage geklärt, ob Kraftreserve physisch oder speziell angreift."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "The power varies with the POKéMON.",
+      "de": "Effekt hängt vom Pokémon ab."
+    },
+    "Silver": {
+      "en": "The power varies with the POKéMON.",
+      "de": "Effekt hängt vom Pokémon ab."
+    },
+    "Crystal": {
+      "en": "The power varies with the POKéMON.",
+      "de": "Effekt hängt vom Pokémon ab."
+    },
+    "Ruby": {
+      "en": "The effectiveness varies with the user.",
+      "de": "Die Wirkung dieser Attacke hängt vom Benutzer ab.* (Attacken-Beschreibung)Die Stärke dieser Attacke hängt vom jew. POKéMON ab.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "The effectiveness varies with the user.",
+      "de": "Die Wirkung dieser Attacke hängt vom Benutzer ab.* (Attacken-Beschreibung)Die Stärke dieser Attacke hängt vom jew. POKéMON ab.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "The effectiveness varies with the user.",
+      "de": "Die Wirkung dieser Attacke hängt vom Benutzer ab.* (Attacken-Beschreibung)Die Stärke dieser Attacke hängt vom jew. POKéMON ab.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that varies in type and intensity depending on the user.",
+      "de": "Die Wirkung und Elementklasse der Attacke hängt vom Benutzer ab.* (Attacken-Beschreibung)Die Stärke und Elementklasse dieser Attacke hängt vom jeweiligen POKéMON ab.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that varies in type and intensity depending on the user.",
+      "de": "Die Wirkung und Elementklasse der Attacke hängt vom Benutzer ab.* (Attacken-Beschreibung)Die Stärke und Elementklasse dieser Attacke hängt vom jeweiligen POKéMON ab.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Die Wirkung und Typ der Attacke hängt vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Die Wirkung und Typ der Attacke hängt vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Die Wirkung und Typ der Attacke hängt vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Die Wirkung und Typ der Attacke hängt vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Die Wirkung und Typ der Attacke hängt vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "A unique attack that varies in type and intensity depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Die Stärke und der Typ dieser Attacke hängen vom jeweiligen Pokémon ab.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "A unique attack that varies in type depending on the Pokémon using it.",
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wirkung und Typ der Attacke hängen vom Anwender ab.* (Attacken-Beschreibung)Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

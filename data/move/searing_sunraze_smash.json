@@ -9,10 +9,6 @@
   "index_number": 724,
   "priority": 0,
   "critical_hit": 0,
-  "descriptions": {
-    "en": "After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target’s Ability.",
-    "de": "Solgaleo greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,15 @@
   "accuracy": 0,
   "pp": 1,
   "max_pp": 1,
-  "target": "target_adjacent_single"
+  "target": "target_adjacent_single",
+  "pokedex_entries": {
+    "Ultra Sun": {
+      "en": "After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target’s Ability.",
+      "de": "Solgaleo greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target’s Ability.",
+      "de": "Solgaleo greift das Ziel mithilfe von Z-Kraft mit voller Wucht an. Ignoriert die Fähigkeit des Zieles."
+    }
+  }
 }

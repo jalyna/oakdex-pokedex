@@ -23,10 +23,6 @@
     "pl": "Wodospad",
     "en": "Waterfall"
   },
-  "descriptions": {
-    "en": "The target is hit with a blow packing the power of fish traveling up waterfalls.",
-    "de": "Schädigt den Gegner und lässt diesen zu 20% (ab der 4. Generation) zurückschrecken; außerhalb eines Kampfes ist der Aufstieg an Wasserfällen damit seit der 2. Generation möglich. In Diamant, Perl und Platin wird Kaskade auch benötigt um Wasserfälle hinab schwimmen zu können."
-  },
   "type": "Water",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An aquatic charge attack.",
+      "de": "Wasser-Attacke."
+    },
+    "Silver": {
+      "en": "An aquatic charge attack.",
+      "de": "Wasser-Attacke."
+    },
+    "Crystal": {
+      "en": "An aquatic charge attack.",
+      "de": "Wasser-Attacke."
+    },
+    "Ruby": {
+      "en": "Charges the foe with speed to climb waterfalls.",
+      "de": "Attacke basiert auf Tempo. Erklimmt Wasserfälle.* (Attacken-Beschreibung)Mächtige Attacke, die Wasserfälle bezwingbar macht.* (VM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Charges the foe with speed to climb waterfalls.",
+      "de": "Attacke basiert auf Tempo. Erklimmt Wasserfälle.* (Attacken-Beschreibung)Mächtige Attacke, die Wasserfälle bezwingbar macht.* (VM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Charges the foe with speed to climb waterfalls.",
+      "de": "Attacke basiert auf Tempo. Erklimmt Wasserfälle.* (Attacken-Beschreibung)Mächtige Attacke, die Wasserfälle bezwingbar macht.* (VM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A powerful charge attack. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die Wasserfälle bezwingbar macht.* (VM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A powerful charge attack. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die Wasserfälle bezwingbar macht.* (VM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user charges the foe at an awesome speed. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die den Gegner mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user charges the foe at an awesome speed. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die den Gegner mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user charges the foe at an awesome speed. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die den Gegner mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die den Gegner mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user charges at the foe rapidly, and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die den Gegner mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user charges at the target and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel evtl. zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user charges at the target and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel evtl. zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user charges at the target and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel evtl. zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user charges at the target and may make it flinch. It can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel evtl. zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel mit rasender Geschwindigkeit angreift. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user charges at the target and may make it flinch. This can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user charges at the target and may make it flinch. This can also be used to climb a waterfall.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user charges at the target and may make it flinch. This can also be used to climb a waterfall.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user charges at the target and may make it flinch. This can also be used to climb a waterfall.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user charges at the target and may make it flinch.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt.* (Attacken- und TM-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Moon": {
+      "en": "The user charges at the target and may make it flinch.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt.* (Attacken- und TM-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Sun": {
+      "en": "The user charges at the target and may make it flinch.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt.* (Attacken- und TM-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Moon": {
+      "en": "The user charges at the target and may make it flinch.",
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt.* (Attacken- und TM-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Omega Ruby": {
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt. Wasserfälle können damit erklommen werden.* (Attacken-Beschreibung)Eine mächtige Attacke, die das Ziel eventuell zurückschrecken lässt. Sie macht Wasserfälle bezwingbar.* (VM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

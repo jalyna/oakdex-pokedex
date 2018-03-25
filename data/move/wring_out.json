@@ -21,10 +21,6 @@
     "it": "Strizzata",
     "en": "Wring Out"
   },
-  "descriptions": {
-    "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
-    "de": "Der Schaden hängt von den KP des Gegners ab. Die Schadenspunkte der Attacke berechnen sich nach der folgenden Formel: 110 * (aktuelle KP-Zahl : volle KP-Zahl). Daraus ergibt sich, dass die Stärke von Auswringen zwischen 1 und 110 SP liegt."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,83 @@
       "jam": 1,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+      "de": "Anwender presst seinen Gegner aus. Je höher die KP des Gegners, desto kraftvoller d. Att."
+    },
+    "Pearl": {
+      "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+      "de": "Anwender presst seinen Gegner aus. Je höher die KP des Gegners, desto kraftvoller d. Att."
+    },
+    "Platinum": {
+      "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+      "de": "Anwender presst seinen Gegner aus. Je höher die KP des Gegners, desto kraftvoller d. Att."
+    },
+    "HeartGold": {
+      "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+      "de": "Anwender presst seinen Gegner aus. Je höher die KP des Gegners, desto kraftvoller d. Att."
+    },
+    "SoulSilver": {
+      "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+      "de": "Anwender presst seinen Gegner aus. Je höher die KP des Gegners, desto kraftvoller d. Att."
+    },
+    "Black": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater this attack’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "White": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater this attack’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "Black 2": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater this attack’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "White 2": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater this attack’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "X": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "Y": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke."
+    },
+    "O.Ruby": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles sind, desto höher fällt die Stärke der Attacke aus."
+    },
+    "Moon": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles sind, desto höher fällt die Stärke der Attacke aus."
+    },
+    "Ultra Sun": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles sind, desto höher fällt die Stärke der Attacke aus."
+    },
+    "Ultra Moon": {
+      "en": "The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles sind, desto höher fällt die Stärke der Attacke aus."
+    },
+    "Omega Ruby": {
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender presst sein Ziel aus. Je höher die KP des Zieles, desto kraftvoller die Attacke.",
+      "en": "Unknown"
+    }
+  }
 }

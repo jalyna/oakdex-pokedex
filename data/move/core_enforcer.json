@@ -7,10 +7,6 @@
     "es": "Núcleo Castigo"
   },
   "index_number": 687,
-  "descriptions": {
-    "en": "Core Enforcer deals damage. If the target has already used a move or been healed by its Trainer in the same turn, its Ability will be suppressed when it is hit by Core Enforcer.",
-    "de": ""
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.",
+      "de": "Hat das Pokémon, das durch diese Attacke Schaden genommen hat, in dieser Runde bereits gehandelt, verliert es seine Fähigkeit."
+    },
+    "Moon": {
+      "en": "If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.",
+      "de": "Hat das Pokémon, das durch diese Attacke Schaden genommen hat, in dieser Runde bereits gehandelt, verliert es seine Fähigkeit."
+    },
+    "Ultra Sun": {
+      "en": "If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.",
+      "de": "Hat das Pokémon, das durch diese Attacke Schaden genommen hat, in dieser Runde bereits gehandelt, verliert es seine Fähigkeit."
+    },
+    "Ultra Moon": {
+      "en": "If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.",
+      "de": "Hat das Pokémon, das durch diese Attacke Schaden genommen hat, in dieser Runde bereits gehandelt, verliert es seine Fähigkeit."
+    }
+  }
 }

@@ -22,10 +22,6 @@
     "pl": "Odparowanie",
     "en": "Defog"
   },
-  "descriptions": {
-    "en": "Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.",
-    "de": "Gegnerischer Fluchtwert sinkt um eine Stufe (auf ca. 66,7% des Ausgangswertes). Außerhalb von Kämpfen wird das Auflösen von Nebel ermöglicht."
-  },
   "type": "Flying",
   "contests": [
     {
@@ -52,5 +48,83 @@
       "stat": "evasion",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.",
+      "de": "Fluchtwert des Gegners wird durch Hindernisse gesenkt. Löst zudem Nebel auf.* (Attacken-Beschreibung)Versetzt Hindernisse, senkt den Fluchtwert des Gegners und vertreibt Nebel.* (VM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.",
+      "de": "Fluchtwert des Gegners wird durch Hindernisse gesenkt. Löst zudem Nebel auf.* (Attacken-Beschreibung)Versetzt Hindernisse, senkt den Fluchtwert des Gegners und vertreibt Nebel.* (VM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.",
+      "de": "Fluchtwert des Gegners wird durch Hindernisse gesenkt. Löst zudem Nebel auf.* (Attacken-Beschreibung)Versetzt Hindernisse, senkt den Fluchtwert des Gegners und vertreibt Nebel.* (VM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "It reduces the foe’s evasion stat. It also removes spikes, light screens, etc.",
+      "de": "Fluchtwert des Gegners wird durch Hindernisse gesenkt. Hebt zudem Stachler und Lichtschild auf."
+    },
+    "SoulSilver": {
+      "en": "It reduces the foe’s evasion stat. It also removes spikes, light screens, etc.",
+      "de": "Fluchtwert des Gegners wird durch Hindernisse gesenkt. Hebt zudem Stachler und Lichtschild auf."
+    },
+    "Black": {
+      "en": "A strong wind blows away the target’s obstacles such as Reflect or Light Screen. It also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Gegners auf. Senkt außerdem den Fluchtwert."
+    },
+    "White": {
+      "en": "A strong wind blows away the target’s obstacles such as Reflect or Light Screen. It also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Gegners auf. Senkt außerdem den Fluchtwert."
+    },
+    "Black 2": {
+      "en": "A strong wind blows away the target’s obstacles such as Reflect or Light Screen. It also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Gegners auf. Senkt außerdem den Fluchtwert."
+    },
+    "White 2": {
+      "en": "A strong wind blows away the target’s obstacles such as Reflect or Light Screen. It also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Gegners auf. Senkt außerdem den Fluchtwert."
+    },
+    "X": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "Y": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "O.Ruby": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "Moon": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "Ultra Sun": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "Ultra Moon": {
+      "en": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert."
+    },
+    "Omega Ruby": {
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Starker Wind hebt Attacken wie Reflektor und Lichtschild des Zieles auf. Senkt außerdem den Fluchtwert.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -23,10 +23,6 @@
     "pl": "Zastępca",
     "en": "Substitute"
   },
-  "descriptions": {
-    "en": "Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks.",
-    "de": "Erzeugt aus 1/4 der KP des Anwenders einen Klon. Die Delegator KP des Delegators betragen hierbei 1/4 der maximalen KP des Anwenders plus 1 KP. Solange dieser Klon kämpft, kann der Gegner jedoch keinen Schaden anrichten, sondern nur den Delegator angreifen bis dieser zerstört ist. Der Delegator absorbiert Statusveränderungen von Attacken wie Donnerwelle, Konfustrahl, Irrlicht oder Schlafpuder, aber auch solche wie Silberblick und Charme. Attacken wie Angeberei steigern den Angriff jedoch trotzdem, aber man erleidet keine Verwirrung. Seit der 6. Generation absorbiert Delegator nicht mehr Klangbasierte Attacken, wie Metallsound."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Makes a decoy with 1/4 user's max HP.",
+      "de": "Macht DELEGATOR mit Viertel KP."
+    },
+    "Silver": {
+      "en": "Makes a decoy with 1/4 user's max HP.",
+      "de": "Macht DELEGATOR mit Viertel KP."
+    },
+    "Crystal": {
+      "en": "Makes a decoy with 1/4 user's max HP.",
+      "de": "Macht DELEGATOR mit Viertel KP."
+    },
+    "Ruby": {
+      "en": "Creates a decoy using 1/4 of the user’s maximum HP.",
+      "de": "Lockvogel, der 1/4 der max. KP des Anwenders besitzt."
+    },
+    "Sapphire": {
+      "en": "Creates a decoy using 1/4 of the user’s maximum HP.",
+      "de": "Lockvogel, der 1/4 der max. KP des Anwenders besitzt."
+    },
+    "Emerald": {
+      "en": "Creates a decoy using 1/4 of the user’s maximum HP.",
+      "de": "Lockvogel, der 1/4 der max. KP des Anwenders besitzt."
+    },
+    "FireRed": {
+      "en": "The user creates a decoy using one-quarter of its full HP.",
+      "de": "Lockvogel, der 1/4 der max. KP des Anwenders besitzt."
+    },
+    "LeafGreen": {
+      "en": "The user creates a decoy using one-quarter of its full HP.",
+      "de": "Lockvogel, der 1/4 der max. KP des Anwenders besitzt."
+    },
+    "Diamond": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Lockvogel, der eine gewisse Anzahl der max. KP des Anwenders besitzt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Lockvogel, der eine gewisse Anzahl der max. KP des Anwenders besitzt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Lockvogel, der eine gewisse Anzahl der max. KP des Anwenders besitzt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Lockvogel, der eine gewisse Anzahl der max. KP des Anwenders besitzt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Lockvogel, der eine gewisse Anzahl der max. KP des Anwenders besitzt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.",
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt.* (Attacken-Beschreibung)Der Angreifer erschafft aus ein paar eigenen KP einen Klon, der als Ablenkung dient.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

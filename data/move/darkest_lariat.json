@@ -7,10 +7,6 @@
     "es": "Lariat Oscuro"
   },
   "index_number": 663,
-  "descriptions": {
-    "en": "Darkest Lariat inflicts damage, ignoring any changes to the target's Defense and evasion stat stages. It does not ignore changes to stats that do not use stat stages, such as Reflect, Abilities such as Sand Veil, or items such as Eviolite. It also does not ignore changes to the user's Attack or accuracy.",
-    "de": "Richtet Schaden unabhängig der Statuswertveränderungen des Zieles an."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Der Anwender wirbelt mit beiden Armen und prallt so auf das Ziel. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Moon": {
+      "en": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Der Anwender wirbelt mit beiden Armen und prallt so auf das Ziel. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Ultra Sun": {
+      "en": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Der Anwender wirbelt mit beiden Armen und prallt so auf das Ziel. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Ultra Moon": {
+      "en": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Der Anwender wirbelt mit beiden Armen und prallt so auf das Ziel. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    }
+  }
 }

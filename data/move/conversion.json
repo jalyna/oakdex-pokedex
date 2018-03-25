@@ -22,10 +22,6 @@
     "it": "Conversione",
     "en": "Conversion"
   },
-  "descriptions": {
-    "en": "A special move that switches the user's elemental type to that of the target.",
-    "de": "Ändert den eigenen Pokémon Typ in einen seiner Attacken."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Change user's type to a move's type.",
+      "de": "Wechsel zu Attacken-Element."
+    },
+    "Silver": {
+      "en": "Change user's type to a move's type.",
+      "de": "Wechsel zu Attacken-Element."
+    },
+    "Crystal": {
+      "en": "Change user's type to a move's type.",
+      "de": "Wechsel zu Attacken-Element."
+    },
+    "Ruby": {
+      "en": "Changes the user’s type into an own move’s type.",
+      "de": "Wandelt Typ d. Anwenders in eigenen Attacken-Typ."
+    },
+    "Sapphire": {
+      "en": "Changes the user’s type into an own move’s type.",
+      "de": "Wandelt Typ d. Anwenders in eigenen Attacken-Typ."
+    },
+    "FireRed": {
+      "en": "The user changes its type to match the type of one of its moves.",
+      "de": "Wandelt Elementklasse d. Anwenders in Elementklasse einer Attacke."
+    },
+    "LeafGreen": {
+      "en": "The user changes its type to match the type of one of its moves.",
+      "de": "Wandelt Elementklasse d. Anwenders in Elementklasse einer Attacke."
+    },
+    "Emerald": {
+      "en": "Changes the user’s type into a known move’s type.",
+      "de": "Wandelt Typ d. Anwenders in bekannten Attacken-Typ."
+    },
+    "Diamond": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke."
+    },
+    "Pearl": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke."
+    },
+    "Platinum": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke."
+    },
+    "HeartGold": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders."
+    },
+    "SoulSilver": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders."
+    },
+    "Black": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders um."
+    },
+    "White": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders um."
+    },
+    "Black 2": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders um."
+    },
+    "White 2": {
+      "en": "The user changes its type to become the same type as one of its moves.",
+      "de": "Wandelt den Typ des Anwenders in den Typ einer Attacke des Anwenders um."
+    },
+    "X": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "Y": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "O.Ruby": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "Moon": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "Ultra Sun": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "Ultra Moon": {
+      "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows.",
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um."
+    },
+    "Omega Ruby": {
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wandelt den Typ des Anwenders in den Typ der ersten Attacke des Anwenders um.",
+      "en": "Unknown"
+    }
+  }
 }

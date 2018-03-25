@@ -22,10 +22,6 @@
     "pl": "Wrastanie",
     "en": "Ingrain"
   },
-  "descriptions": {
-    "en": "Lays roots that restore HP. The user can’t switch out.",
-    "de": "Stellt jede Runde 1/16 KP der maximalen KP wieder her. Mit Staffette kann der Effekt weitergegeben werden. Durch das Item Großwurzel wird die Attacke um 30% verstärkt. Jedoch kann der Anwender nicht mehr ausgetauscht werden. Selbst Rote Karte, Überkopfwurf, Brüller, Drachenrute oder Wirbelwind führen nicht zu einer Auswechslung. Nur wenn der Anwender Attacken wie Staffette, Voltwechsel oder Kehrtwende einsetzt, kann er auswechseln."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Lays roots that restore HP. The user can’t switch out.",
+      "de": "Verwurzelung füllt KP auf. Austausch unmöglich."
+    },
+    "Sapphire": {
+      "en": "Lays roots that restore HP. The user can’t switch out.",
+      "de": "Verwurzelung füllt KP auf. Austausch unmöglich."
+    },
+    "Emerald": {
+      "en": "Lays roots that restore HP. The user can’t switch out.",
+      "de": "Verwurzelung füllt KP auf. Austausch unmöglich."
+    },
+    "FireRed": {
+      "en": "The user lays roots that restore HP on every turn. It can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "LeafGreen": {
+      "en": "The user lays roots that restore HP on every turn. It can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Diamond": {
+      "en": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Pearl": {
+      "en": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Platinum": {
+      "en": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "HeartGold": {
+      "en": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "SoulSilver": {
+      "en": "The user lays roots that restore HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Black": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "White": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Black 2": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "White 2": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "X": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "Y": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch ist unmöglich."
+    },
+    "O.Ruby": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user lays roots that restore its HP on every turn. Because it is rooted, it can’t switch out.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich."
+    },
+    "Moon": {
+      "en": "The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich."
+    },
+    "Ultra Sun": {
+      "en": "The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich."
+    },
+    "Ultra Moon": {
+      "en": "The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.",
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich."
+    },
+    "Omega Ruby": {
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verwurzelung füllt jede Runde KP auf. Austausch und Flucht sind unmöglich.",
+      "en": "Unknown"
+    }
+  }
 }

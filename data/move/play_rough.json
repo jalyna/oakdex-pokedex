@@ -20,10 +20,6 @@
     "it": "Carineria",
     "en": "Play Rough"
   },
-  "descriptions": {
-    "en": "The user plays rough with the target and attacks it. This may also lower the target's Attack stat.",
-    "de": "Verursacht Schaden und mit einer Wahrscheinlichkeit von 10% wird der Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes) gesenkt."
-  },
   "type": "Fairy",
   "contests": [
     {
@@ -50,5 +46,47 @@
       "stat": "atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "Y": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "O.Ruby": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "Moon": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "Ultra Sun": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "Ultra Moon": {
+      "en": "The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.",
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert.",
+      "en": "Unknown"
+    }
+  }
 }

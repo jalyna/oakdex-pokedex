@@ -24,10 +24,6 @@
     "pl": "Słoneczny Promień",
     "en": "Solar Beam"
   },
-  "descriptions": {
-    "en": "The strongest Grass-type attack. Energy is absorbed in the first turn, then fired the next turn.",
-    "de": "Das ausführende Pokémon muss sich aufladen und attackiert in der nächsten Runde. Scheint die Sonne oder wird das Item Energiekraut getragen, muss diese Attacke nicht aufgeladen werden. Taktisch empfielt sich eine Kombination mit der Attacke Sonnentag oder der Fähigkeit Dürre."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "1st turn: Prepare 2nd turn: Attack",
+      "de": "1. Vorbereitung 2. Angriff"
+    },
+    "Silver": {
+      "en": "1st turn: Prepare 2nd turn: Attack",
+      "de": "1. Vorbereitung 2. Angriff"
+    },
+    "Crystal": {
+      "en": "1st turn: Prepare 2nd turn: Attack",
+      "de": "1. Vorbereitung 2. Angriff"
+    },
+    "Ruby": {
+      "en": "Absorbs light in one turn, then attacks next turn.",
+      "de": "Absorbiert Licht in der 1. Runde, 2. Runde Angriff.* (Attacken-Beschreibung)Erst wird Sonnenlicht absorbiert, dann erfolgt Angr.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Absorbs light in one turn, then attacks next turn.",
+      "de": "Absorbiert Licht in der 1. Runde, 2. Runde Angriff.* (Attacken-Beschreibung)Erst wird Sonnenlicht absorbiert, dann erfolgt Angr.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Absorbs light in one turn, then attacks next turn.",
+      "de": "Absorbiert Licht in der 1. Runde, 2. Runde Angriff.* (Attacken-Beschreibung)Erst wird Sonnenlicht absorbiert, dann erfolgt Angr.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A 2-turn move that blasts the foe with absorbed energy in the 2nd turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden! Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A 2-turn move that blasts the foe with absorbed energy in the 2nd turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden! Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in der 1. Runde. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

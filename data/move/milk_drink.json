@@ -21,10 +21,6 @@
     "it": "Buonlatte",
     "en": "Milk Drink"
   },
-  "descriptions": {
-    "en": "A move that restores HP by half of the user's max HP. This move may also be used in the field.",
-    "de": "Heilt 50% der KP des Anwenders. Ermöglicht Heilung der Team-Pokemon außerhalb des Kampfes: nimmt 1/5 der KP weg und gibt sie einem anderen Pokemon, ähnlich wie bei Weichei. Attacken mit ähnlicher Wirkung sind: Heilbefehl, Genesung, Ruheort, Tagedieb, Synthese, Morgengrauen, Mondschein, Wunschtraum und Weichei."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP um Hälfte auf."
+    },
+    "Silver": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP um Hälfte auf."
+    },
+    "Crystal": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP um Hälfte auf."
+    },
+    "Ruby": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Füllt bis zur Hälfte der max. KP des Benutzers auf."
+    },
+    "Sapphire": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Füllt bis zur Hälfte der max. KP des Benutzers auf."
+    },
+    "Emerald": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Füllt bis zur Hälfte der max. KP des Benutzers auf."
+    },
+    "FireRed": {
+      "en": "Heals the user by up to half its full HP. It can be used to heal an ally.",
+      "de": "Max. KP d. Anwenders werden halb aufgefüllt. Teamheilung möglich."
+    },
+    "LeafGreen": {
+      "en": "Heals the user by up to half its full HP. It can be used to heal an ally.",
+      "de": "Max. KP d. Anwenders werden halb aufgefüllt. Teamheilung möglich."
+    },
+    "Diamond": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "Pearl": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "Platinum": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "HeartGold": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "KP des Anwenders werden mit 50 % d. max. KP aufgefüllt. Heilung vom Team außerhalb v. Kämpfen."
+    },
+    "SoulSilver": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "KP des Anwenders werden mit 50 % d. max. KP aufgefüllt. Heilung vom Team außerhalb v. Kämpfen."
+    },
+    "Black": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "White": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "Black 2": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "White 2": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "X": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "Y": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "O.Ruby": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Moon": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Sun": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Moon": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Omega Ruby": {
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich.",
+      "en": "Unknown"
+    }
+  }
 }

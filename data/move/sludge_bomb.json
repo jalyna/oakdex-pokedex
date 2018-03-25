@@ -22,10 +22,6 @@
     "pl": "Bomba Błotna",
     "en": "Sludge Bomb"
   },
-  "descriptions": {
-    "en": "A Poison-type attack. Has a one-in-three chance of leaving the target poisoned.",
-    "de": "Schädigt, 30% Chance, den Gegner zu vergiften - eine sehr gute Giftattacke."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 1,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may poison the foe.",
+      "de": "Gegner wird evtl. vergiftet."
+    },
+    "Silver": {
+      "en": "An attack that may poison the foe.",
+      "de": "Gegner wird evtl. vergiftet."
+    },
+    "Crystal": {
+      "en": "An attack that may poison the foe.",
+      "de": "Gegner wird evtl. vergiftet."
+    },
+    "Ruby": {
+      "en": "Sludge is hurled to inflict damage. May also poison.",
+      "de": "Wirft Schlamm auf Gegner und vergiftet ihn evtl.* (Attacken-Beschreibung)Bewirft Gegner mit Matsch, der ihn vergiften kann.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Sludge is hurled to inflict damage. May also poison.",
+      "de": "Wirft Schlamm auf Gegner und vergiftet ihn evtl.* (Attacken-Beschreibung)Bewirft Gegner mit Matsch, der ihn vergiften kann.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Sludge is hurled to inflict damage. May also poison.",
+      "de": "Wirft Schlamm auf Gegner und vergiftet ihn evtl.* (Attacken-Beschreibung)Bewirft Gegner mit Matsch, der ihn vergiften kann.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "Filthy sludge is hurled at the foe. It may poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen, vergiftet ihn evtl.* (Attacken-Beschreibung)Der Gegner erstickt im Giftschlamm. Kann evtl. Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "Filthy sludge is hurled at the foe. It may poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen, vergiftet ihn evtl.* (Attacken-Beschreibung)Der Gegner erstickt im Giftschlamm. Kann evtl. Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen und dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Gegner versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen und dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Gegner versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen und dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Gegner versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen und dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Gegner versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user attacks by hurling filthy sludge at the foe. It may also poison the target.",
+      "de": "Gegner wird mit dreckigem Schlamm beworfen und dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Gegner versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "Unsanitary sludge is hurled at the target. It may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "Unsanitary sludge is hurled at the target. It may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "Unsanitary sludge is hurled at the target. It may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "Unsanitary sludge is hurled at the target. It may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

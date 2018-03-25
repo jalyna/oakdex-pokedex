@@ -24,10 +24,6 @@
     "pl": "Liczydło",
     "en": "Counter"
   },
-  "descriptions": {
-    "en": "A retaliation move that back double the damage of a physical attack. Highly accurate.",
-    "de": "Setzt der Gegner eine physische Attacke ein, so wird diese mit doppeltem Schaden gekontert. Attackenpriorität -5, daher fast immer langsamer als der Gegner. Bei Attacken, die mehrere Treffer landen wie z.B Kugelsaat, Kehrschelle und Duplexhieb wird nur der letzte Treffer gekontert."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Returns a physical blow double.",
+      "de": "Erwidert Körperattacken doppelt."
+    },
+    "Silver": {
+      "en": "Returns a physical blow double.",
+      "de": "Erwidert Körperattacken doppelt."
+    },
+    "Crystal": {
+      "en": "Returns a physical blow double.",
+      "de": "Erwidert Körperattacken doppelt."
+    },
+    "Ruby": {
+      "en": "Retaliates any physical hit with double the power.",
+      "de": "Kontert physische Treffer mit doppelter Kraft."
+    },
+    "Sapphire": {
+      "en": "Retaliates any physical hit with double the power.",
+      "de": "Kontert physische Treffer mit doppelter Kraft."
+    },
+    "Emerald": {
+      "en": "Retaliates any physical hit with double the power.",
+      "de": "Kontert physische Treffer mit doppelter Kraft."
+    },
+    "FireRed": {
+      "en": "A retaliation move that counters any physical hit with double the damage.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft."
+    },
+    "LeafGreen": {
+      "en": "A retaliation move that counters any physical hit with double the damage.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft."
+    },
+    "Diamond": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft, fügt doppelten Schaden zu."
+    },
+    "Pearl": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft, fügt doppelten Schaden zu."
+    },
+    "Platinum": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft, fügt doppelten Schaden zu."
+    },
+    "HeartGold": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft, fügt doppelten Schaden zu."
+    },
+    "SoulSilver": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer mit doppelter Kraft, fügt doppelten Schaden zu."
+    },
+    "Black": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer und fügt dem Gegner das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "White": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer und fügt dem Gegner das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Black 2": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer und fügt dem Gegner das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "White 2": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physischen Treffer und fügt dem Gegner das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "X": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Y": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "O.Ruby": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Moon": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Ultra Sun": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Ultra Moon": {
+      "en": "A retaliation move that counters any physical attack, inflicting double the damage taken.",
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat."
+    },
+    "Omega Ruby": {
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Kontert physische Treffer und fügt dem Ziel das Doppelte des Schadens zu, den der Anwender erlitten hat.",
+      "en": "Unknown"
+    }
+  }
 }

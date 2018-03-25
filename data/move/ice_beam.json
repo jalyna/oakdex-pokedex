@@ -23,10 +23,6 @@
     "pl": "Lodowy Promień",
     "en": "Ice Beam"
   },
-  "descriptions": {
-    "en": "An Ice-type attack. Has a one-in-ten chance of freezing the target solid.",
-    "de": "Eisstrahl zählt zu den besten und beliebtesten Attacken. Die Attacke richtet - in den Generationen 1 bis 5 - stets einen Schaden von 95 SP an, wobei sie eine Treffsicherheit von 99,6% hat. Zusätzlich besteht eine 10-prozentige Chance, dass der Gegner nach einem Angriff mit dieser Attacke einfriert."
-  },
   "type": "Ice",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 4,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may freeze the foe.",
+      "de": "Gegner wird evtl. eingefroren."
+    },
+    "Silver": {
+      "en": "An attack that may freeze the foe.",
+      "de": "Gegner wird evtl. eingefroren."
+    },
+    "Crystal": {
+      "en": "An attack that may freeze the foe.",
+      "de": "Gegner wird evtl. eingefroren."
+    },
+    "Ruby": {
+      "en": "Blasts the foe with an icy beam that may freeze it.",
+      "de": "Gegner wird von Eisstrahl getroffen, friert evtl. ein.* (Attacken-Beschreibung)Eisig kalter Strahl, der den Gegner einfrieren kann.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Blasts the foe with an icy beam that may freeze it.",
+      "de": "Gegner wird von Eisstrahl getroffen, friert evtl. ein.* (Attacken-Beschreibung)Eisig kalter Strahl, der den Gegner einfrieren kann.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Blasts the foe with an icy beam that may freeze it.",
+      "de": "Gegner wird von Eisstrahl getroffen, friert evtl. ein.* (Attacken-Beschreibung)Eisig kalter Strahl, der den Gegner einfrieren kann.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "The foe is struck with an icy beam. It may freeze the foe solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert evtl. ein.* (Attacken-Beschreibung)Ein eisiger, kalter Strahl, der den Gegner evtl. einfriert, wird verschossen.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "The foe is struck with an icy beam. It may freeze the foe solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert evtl. ein.* (Attacken-Beschreibung)Ein eisiger, kalter Strahl, der den Gegner evtl. einfriert, wird verschossen.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Der Gegner wird von einem eiskalten Energiestrahl getroffen. Dieser friert ihn eventuell ein.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Der Gegner wird von einem eiskalten Energiestrahl getroffen. Dieser friert ihn eventuell ein.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Der Gegner wird von einem eiskalten Energiestrahl getroffen. Dieser friert ihn eventuell ein.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Der Gegner wird von einem eiskalten Energiestrahl getroffen. Dieser friert ihn eventuell ein.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Der Gegner wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Der Gegner wird von einem eiskalten Energiestrahl getroffen. Dieser friert ihn eventuell ein.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen.",
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

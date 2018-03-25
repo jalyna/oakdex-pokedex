@@ -22,10 +22,6 @@
     "pl": "Kamienne Ostrze",
     "en": "Stone Edge"
   },
-  "descriptions": {
-    "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.*The user stabs the foe with a sharpened stone from below. It has a high critical-hit ratio.*",
-    "de": "Verursacht Schaden und besitzt eine erhöhte Chance auf einen kritischen Treffer."
-  },
   "type": "Rock",
   "contests": [
     {
@@ -49,5 +45,83 @@
   ],
   "in_battle_properties": {
     "increased_critical_hit_ratio": true
+  },
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+      "de": "Anwender sticht den Gegner mit scharfen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit einem spitzen Stein. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+      "de": "Anwender sticht den Gegner mit scharfen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit einem spitzen Stein. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+      "de": "Anwender sticht den Gegner mit scharfen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+      "de": "Anwender sticht den Gegner mit scharfen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user stabs the foe with a sharpened stone. It has a high critical-hit ratio.",
+      "de": "Anwender sticht den Gegner mit scharfen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user stabs the target with sharpened stones from below. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user stabs the target with sharpened stones from below. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user stabs the target with sharpened stones from below. Critical hits land more easily.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user stabs the target with sharpened stones from below. Critical hits land more easily.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user stabs the target from below with sharpened stones. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user stabs the target from below with sharpened stones. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user stabs the target from below with sharpened stones. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user stabs the target from below with sharpened stones. Critical hits land more easily.",
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender sticht das Ziel mit spitzen Steinen. Hohe Volltrefferquote.* (Attacken-Beschreibung)Angriff mit spitzen Steinen. Besitzt eine hohe Volltrefferquote.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
   }
 }

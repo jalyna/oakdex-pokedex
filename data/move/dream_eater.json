@@ -23,10 +23,6 @@
     "pl": "Połykacz Snów",
     "en": "Dream Eater"
   },
-  "descriptions": {
-    "en": "Works only on sleeping Pokémon. This technique steals the target's HP and adds it to the user's HP.",
-    "de": "Einem schlafenden Gegner werden KP abgezogen, das eigene Pokémon erhält davon die Hälfte (aufgerundet) des angerichteten Schadens. Bricht Traumfresser einen Delegator werden keine KP wiederhergestellt."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Steals HP from a sleeping victim.",
+      "de": "Zieht schlafendem Gegner KP ab."
+    },
+    "Silver": {
+      "en": "Steals HP from a sleeping victim.",
+      "de": "Zieht schlafendem Gegner KP ab."
+    },
+    "Crystal": {
+      "en": "Steals HP from a sleeping victim.",
+      "de": "Zieht schlafendem Gegner KP ab."
+    },
+    "Ruby": {
+      "en": "Takes one half the damage inflicted on a sleeping foe.",
+      "de": "Schlafendem Gegner wird halber Schaden abgezogen."
+    },
+    "Sapphire": {
+      "en": "Takes one half the damage inflicted on a sleeping foe.",
+      "de": "Schlafendem Gegner wird halber Schaden abgezogen."
+    },
+    "Emerald": {
+      "en": "Takes one half the damage inflicted on a sleeping foe.",
+      "de": "Schlafendem Gegner wird halber Schaden abgezogen."
+    },
+    "FireRed": {
+      "en": "Absorbs half the damage it inflicted on a sleeping foe to restore HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben."
+    },
+    "LeafGreen": {
+      "en": "Absorbs half the damage it inflicted on a sleeping foe to restore HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben."
+    },
+    "Diamond": {
+      "en": "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Gegner. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Gegner. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Gegner. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Gegner. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Schaden an schlafendem Gegner wird halb Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Gegner. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.",
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Attacke gegen schlafendes Ziel. Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben.* (Attacken-Beschreibung)Wirkt nur auf schlafende Ziele. Angreifer erhält 50 % des Schadens als KP.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -22,10 +22,6 @@
     "pl": "Czystka",
     "en": "Luster Purge"
   },
-  "descriptions": {
-    "en": "Attacks with a burst of light. May lower Sp. Def.",
-    "de": "Schädigt den Gegner und senkt dessen Spezialverteidigung mit einer Wahrscheinlichkeit von 50%."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -52,5 +48,103 @@
       "stat": "sp_def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Attacks with a burst of light. May lower SP. DEF.",
+      "de": "Angriff mit grellem Licht. Senkt evtl. SPEZ. VERT."
+    },
+    "Sapphire": {
+      "en": "Attacks with a burst of light. May lower SP. DEF.",
+      "de": "Angriff mit grellem Licht. Senkt evtl. SPEZ. VERT."
+    },
+    "Emerald": {
+      "en": "Attacks with a burst of light. May lower SP. DEF.",
+      "de": "Angriff mit grellem Licht. Senkt evtl. SPEZ. VERT."
+    },
+    "FireRed": {
+      "en": "A burst of light injures the foe. It may also lower the foe’s SP. DEF.",
+      "de": "Angriff mit grellem Licht, der die SP. VER. evtl. senkt."
+    },
+    "LeafGreen": {
+      "en": "A burst of light injures the foe. It may also lower the foe’s SP. DEF.",
+      "de": "Angriff mit grellem Licht, der die SP. VER. evtl. senkt."
+    },
+    "Diamond": {
+      "en": "The user looses a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung eventuell senkt."
+    },
+    "Pearl": {
+      "en": "The user looses a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung eventuell senkt."
+    },
+    "Platinum": {
+      "en": "The user looses a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung eventuell senkt."
+    },
+    "HeartGold": {
+      "en": "The user looses a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Gegners eventuell senkt."
+    },
+    "SoulSilver": {
+      "en": "The user looses a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Gegners eventuell senkt."
+    },
+    "Black": {
+      "en": "The user lets loose a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "White": {
+      "en": "The user lets loose a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Black 2": {
+      "en": "The user lets loose a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "White 2": {
+      "en": "The user lets loose a damaging burst of light. It may also reduce the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "X": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Y": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "O.Ruby": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Moon": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Ultra Sun": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Ultra Moon": {
+      "en": "The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.",
+      "de": "Angriff mit einem grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit grellem Licht, der die Spezial-Verteidigung des Zieles eventuell senkt.",
+      "en": "Unknown"
+    }
+  }
 }

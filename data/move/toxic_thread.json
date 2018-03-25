@@ -7,10 +7,6 @@
     "es": "Hilo Venenoso"
   },
   "index_number": 672,
-  "descriptions": {
-    "en": "Toxic Thread poisons the target and lowers its Speed stat by one stage. Both effects are independent from each other; the target's Speed is still lowered even if it already has a status condition or cannot be poisoned, and it is still poisoned even if its Speed cannot be lowered.",
-    "de": "Man vergiftet das Ziel und senkt zusätzlich seine Initiative um eine Stufe."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -34,5 +30,23 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat.",
+      "de": "Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative."
+    },
+    "Moon": {
+      "en": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat.",
+      "de": "Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative."
+    },
+    "Ultra Sun": {
+      "en": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat.",
+      "de": "Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative."
+    },
+    "Ultra Moon": {
+      "en": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat.",
+      "de": "Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative."
+    }
+  }
 }

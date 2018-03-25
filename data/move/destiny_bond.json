@@ -21,10 +21,6 @@
     "it": "Destinobbligato",
     "en": "Destiny Bond"
   },
-  "descriptions": {
-    "en": "A move that causes the opponent to faint if the user faints after using this move.",
-    "de": "Wenn dein Pokémon durch einen direkten Treffer besiegt wird, wird auch das gegnerische Pokémon kampfunfähig. Attacken wie Egelsamen und Sandsturm zählen nicht als direkte Treffer! Direkte Treffer richten immer in der Runde des Einsatzes sofort einen Schaden an, und nicht erst später."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "The foe faints if the user does.",
+      "de": "Beide werden besiegt."
+    },
+    "Silver": {
+      "en": "The foe faints if the user does.",
+      "de": "Beide werden besiegt."
+    },
+    "Crystal": {
+      "en": "The foe faints if the user does.",
+      "de": "Beide werden besiegt."
+    },
+    "Ruby": {
+      "en": "If the user faints, the foe is also made to faint.",
+      "de": "Wird der Angreifer besiegt, gilt das auch für d. Gegner."
+    },
+    "Sapphire": {
+      "en": "If the user faints, the foe is also made to faint.",
+      "de": "Wird der Angreifer besiegt, gilt das auch für d. Gegner."
+    },
+    "Emerald": {
+      "en": "If the user faints, the foe is also made to faint.",
+      "de": "Wird der Angreifer besiegt, gilt das auch für d. Gegner."
+    },
+    "FireRed": {
+      "en": "If the user faints, the foe delivering the final hit also faints.",
+      "de": "Wird der Angreifer besiegt, gilt das auch für den Gegner."
+    },
+    "LeafGreen": {
+      "en": "If the user faints, the foe delivering the final hit also faints.",
+      "de": "Wird der Angreifer besiegt, gilt das auch für den Gegner."
+    },
+    "Diamond": {
+      "en": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+      "de": "Wird der Anwender besiegt, gilt das auch für den Gegner."
+    },
+    "Pearl": {
+      "en": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+      "de": "Wird der Anwender besiegt, gilt das auch für den Gegner."
+    },
+    "Platinum": {
+      "en": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+      "de": "Wird der Anwender besiegt, gilt das auch für den Gegner."
+    },
+    "HeartGold": {
+      "en": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+      "de": "Wird der Anwender besiegt, gilt das auch für den Gegner."
+    },
+    "SoulSilver": {
+      "en": "When this move is used, if the user faints, the foe that landed the knockout hit also faints.",
+      "de": "Wird der Anwender besiegt, gilt das auch für den Gegner."
+    },
+    "Black": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Gegner zum K.O."
+    },
+    "White": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Gegner zum K.O."
+    },
+    "Black 2": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Gegner zum K.O."
+    },
+    "White 2": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Gegner zum K.O."
+    },
+    "X": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Ziel zum K.O."
+    },
+    "Y": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke besiegt, führt dies auch beim Ziel zum K.O."
+    },
+    "O.Ruby": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "When this move is used, if the user faints, the Pokémon that landed the knockout hit also faints.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung."
+    },
+    "Moon": {
+      "en": "After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung."
+    },
+    "Ultra Sun": {
+      "en": "After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung."
+    },
+    "Ultra Moon": {
+      "en": "After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.",
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung."
+    },
+    "Omega Ruby": {
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Gegner, der ihn besiegt hat, zum K.O.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Gegner, der ihn besiegt hat, zum K.O.",
+      "en": "Unknown"
+    }
+  }
 }

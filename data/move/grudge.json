@@ -21,10 +21,6 @@
     "it": "Rancore",
     "en": "Grudge"
   },
-  "descriptions": {
-    "en": "If the user faints, deletes the PP of the final move.",
-    "de": "Wenn dein Pokémon in dieser Runde besiegt wird, werden die AP der Attacke, mit der der Gegner dich besiegt hat, auf 0 gesetzt. Attacken mit ähnlicher Wirkung sind: Abgangsbund, Heilopfer, Lunartanz und Memento-Mori."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 4,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "If the user faints, deletes the PP of the final move.",
+      "de": "Wenn Anw. bes., werden AP der Finalattacke gelöscht."
+    },
+    "Sapphire": {
+      "en": "If the user faints, deletes the PP of the final move.",
+      "de": "Wenn Anw. bes., werden AP der Finalattacke gelöscht."
+    },
+    "FireRed": {
+      "en": "If the user faints, this move deletes the PP of the move that finished it.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "LeafGreen": {
+      "en": "If the user faints, this move deletes the PP of the move that finished it.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "Emerald": {
+      "en": "If the user faints, deletes all PP of foe’s last move.",
+      "de": "Wenn Anw. bes., werden AP der Finalattacke gelöscht."
+    },
+    "Diamond": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "Pearl": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "Platinum": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "HeartGold": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "SoulSilver": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.",
+      "de": "Wird der Anwender besiegt, werden AP der Finalattacke gelöscht."
+    },
+    "Black": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf null herabgesetzt."
+    },
+    "White": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf null herabgesetzt."
+    },
+    "Black 2": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf null herabgesetzt."
+    },
+    "White 2": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf null herabgesetzt."
+    },
+    "X": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "Y": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "O.Ruby": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "Moon": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "Ultra Sun": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "Ultra Moon": {
+      "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt."
+    },
+    "Omega Ruby": {
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Bei K.O. des Anwenders werden die AP der Attacke, durch die er besiegt wurde, auf 0 herabgesetzt.",
+      "en": "Unknown"
+    }
+  }
 }

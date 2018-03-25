@@ -22,10 +22,6 @@
     "pl": "Bryza",
     "en": "Brine"
   },
-  "descriptions": {
-    "en": "If the foe’s HP is down to about half, this attack will hit with double the power.*If the foe’s HP is down to under half, this attack will hit with double the power.*",
-    "de": "Der Schaden verdoppelt sich auf 130, wenn der Gegner weniger als die Hälfte seiner KP hat. Lake eignet sich daher gut, um einem Kampf ein Ende zu setzen und ist strategisch überlegenswert. Ansonsten ist Surfer besser."
-  },
   "type": "Water",
   "contests": [
     {
@@ -46,5 +42,83 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "If the foe’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat der Gegner weniger als die Hälfte seiner max. KP, trifft diese Att. mit doppelter Kraft.* (Attacken-Beschreibung)Trifft mit doppelter Wucht, wenn der Gegner weniger als die Hälfte seiner KP hat.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "If the foe’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat der Gegner weniger als die Hälfte seiner max. KP, trifft diese Att. mit doppelter Kraft.* (Attacken-Beschreibung)Trifft mit doppelter Wucht, wenn der Gegner weniger als die Hälfte seiner KP hat.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "If the foe’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat der Gegner weniger als die Hälfte seiner max. KP, trifft diese Att. mit doppelter Kraft.* (Attacken-Beschreibung)Trifft mit doppelter Wucht, wenn der Gegner weniger als die Hälfte seiner KP hat.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "If the foe’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat der Gegner die Hälfte oder weniger seiner max. KP, trifft diese Attacke mit doppelter Kraft.* (Attacken-Beschreibung)Trifft mit doppelter Wucht, wenn der Gegner weniger als die Hälfte seiner KP hat.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "If the foe’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat der Gegner die Hälfte oder weniger seiner max. KP, trifft diese Attacke mit doppelter Kraft.* (Attacken-Beschreibung)Trifft mit doppelter Wucht, wenn der Gegner weniger als die Hälfte seiner KP hat.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "If the target’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "White": {
+      "en": "If the target’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Black 2": {
+      "en": "If the target’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "White 2": {
+      "en": "If the target’s HP is down to about half, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "X": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Y": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "O.Ruby": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Moon": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Ultra Sun": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Ultra Moon": {
+      "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft."
+    },
+    "Omega Ruby": {
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Hat das Ziel die Hälfte oder weniger seiner maximalen KP, trifft diese Attacke mit doppelter Kraft.",
+      "en": "Unknown"
+    }
+  }
 }

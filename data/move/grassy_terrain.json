@@ -20,10 +20,6 @@
     "it": "Campo Erboso",
     "en": "Grassy Terrain"
   },
-  "descriptions": {
-    "en": "The user turns the ground under everyone's feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
-    "de": "Über 5 Runden werden von allen Pokémon, welche den Boden berühren, KP wiederhergestellt und Attacken des Types werden um 50% verstärkt. Folglich bleiben fliegende Pokémon, mit Schwebe oder wenn ein Luftballon gehalten wird, unbeinflusst von der Attacke."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -32,5 +28,47 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user turns the ground under everyone’s feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Grasfeld und heilt in jeder neuen Runde alle Pokémon, die den Boden berühren."
+    },
+    "Y": {
+      "en": "The user turns the ground under everyone’s feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Grasfeld und heilt in jeder neuen Runde alle Pokémon, die den Boden berühren."
+    },
+    "O.Ruby": {
+      "en": "The user turns the ground under everyone’s feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user turns the ground under everyone’s feet to grass for five turns. This restores the HP of Pokémon on the ground a little every turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.",
+      "de": "Regeneriert fünf Runden lang in jeder neuen Runde ein paar KP aller Pokémon, die den Boden berühren. Erhöht die Stärke von Pflanzen-Attacken."
+    },
+    "Moon": {
+      "en": "The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.",
+      "de": "Regeneriert fünf Runden lang in jeder neuen Runde ein paar KP aller Pokémon, die den Boden berühren. Erhöht die Stärke von Pflanzen-Attacken."
+    },
+    "Ultra Sun": {
+      "en": "The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.",
+      "de": "Regeneriert fünf Runden lang in jeder neuen Runde ein paar KP aller Pokémon, die den Boden berühren. Erhöht die Stärke von Pflanzen-Attacken."
+    },
+    "Ultra Moon": {
+      "en": "The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.",
+      "de": "Regeneriert fünf Runden lang in jeder neuen Runde ein paar KP aller Pokémon, die den Boden berühren. Erhöht die Stärke von Pflanzen-Attacken."
+    },
+    "Omega Ruby": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Grasfeld und heilt in jeder neuen Runde alle Pokémon, die den Boden berühren.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Grasfeld und heilt in jeder neuen Runde alle Pokémon, die den Boden berühren.",
+      "en": "Unknown"
+    }
+  }
 }

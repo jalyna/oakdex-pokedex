@@ -7,10 +7,6 @@
     "es": "Furia Natural"
   },
   "index_number": 717,
-  "descriptions": {
-    "en": "Nature's Madness deals damage equal to 50% of the opponent's remaining HP.",
-    "de": "Naturzorn ist die Spezialattacke von Alolas Schutzpatronen. Sie halbiert die KP des Zieles und hat somit den gleichen Effekt wie Superzahn. Die spezifische Z-Attacke der Kapus, \"Alolas Wächter\", stellt eine verstärkt Version von Naturzorn dar."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user hits the target with the force of nature. It halves the target’s HP.",
+      "de": "Das Ziel wird vom Zorn der Natur getroffen und verliert dadurch die Hälfte seiner KP."
+    },
+    "Moon": {
+      "en": "The user hits the target with the force of nature. It halves the target’s HP.",
+      "de": "Das Ziel wird vom Zorn der Natur getroffen und verliert dadurch die Hälfte seiner KP."
+    },
+    "Ultra Sun": {
+      "en": "The user hits the target with the force of nature. It halves the target’s HP.",
+      "de": "Das Ziel wird vom Zorn der Natur getroffen und verliert dadurch die Hälfte seiner KP."
+    },
+    "Ultra Moon": {
+      "en": "The user hits the target with the force of nature. It halves the target’s HP.",
+      "de": "Das Ziel wird vom Zorn der Natur getroffen und verliert dadurch die Hälfte seiner KP."
+    }
+  }
 }

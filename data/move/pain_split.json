@@ -21,10 +21,6 @@
     "it": "Malcomune",
     "en": "Pain Split"
   },
-  "descriptions": {
-    "en": "A move that adds the HPs of the user and the target, then divides the total between them.",
-    "de": "Kombiniert KP der kämpfenden Pokémon und teilt diese dann gleichmäßig auf. Hinweis: Setze diese Attacke nur ein, wenn dein Pokémon weniger KP hat als der Gegner!"
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Adds user & foe's HPs. Shares total.",
+      "de": "Addiert alle KP und halbiert sie."
+    },
+    "Silver": {
+      "en": "Adds user & foe's HPs. Shares total.",
+      "de": "Addiert alle KP und halbiert sie."
+    },
+    "Crystal": {
+      "en": "Adds user & foe's HPs. Shares total.",
+      "de": "Addiert alle KP und halbiert sie."
+    },
+    "Ruby": {
+      "en": "Adds the user and foe’s HP, then shares them equally.",
+      "de": "Addiert KP v. Anwender u. Gegner, teilt gerecht auf."
+    },
+    "Sapphire": {
+      "en": "Adds the user and foe’s HP, then shares them equally.",
+      "de": "Addiert KP v. Anwender u. Gegner, teilt gerecht auf."
+    },
+    "Emerald": {
+      "en": "Adds the user and foe’s HP, then shares them equally.",
+      "de": "Addiert KP v. Anwender u. Gegner, teilt gerecht auf."
+    },
+    "FireRed": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the total HP.",
+      "de": "Addiert KP von Anwender und Gegner. Teilt gerecht auf."
+    },
+    "LeafGreen": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the total HP.",
+      "de": "Addiert KP von Anwender und Gegner. Teilt gerecht auf."
+    },
+    "Diamond": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.",
+      "de": "Addiert KP von Anwender und Gegner. Teilt gerecht auf."
+    },
+    "Pearl": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.",
+      "de": "Addiert KP von Anwender und Gegner. Teilt gerecht auf."
+    },
+    "Platinum": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.",
+      "de": "Addiert KP von Anwender und Gegner. Teilt gerecht auf."
+    },
+    "HeartGold": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "SoulSilver": {
+      "en": "The user adds its HP to the foe’s HP, then equally shares the combined HP with the foe.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Black": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "White": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Black 2": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "White 2": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "X": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Y": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "O.Ruby": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Moon": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Ultra Sun": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Ultra Moon": {
+      "en": "The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf."
+    },
+    "Omega Ruby": {
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Addiert KP von Anwender und Ziel. Teilt sie gerecht auf.",
+      "en": "Unknown"
+    }
+  }
 }

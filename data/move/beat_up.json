@@ -21,10 +21,6 @@
     "it": "Picchiaduro",
     "en": "Beat Up"
   },
-  "descriptions": {
-    "en": "A Dark-type attack. The user's fellow party Pokémon appear to pummel the target.",
-    "de": "Attackiert den Gegner mehrmals entsprechend der Anzahl an gesunden (nicht besiegt + keine Statusveränderung) Pokémon im Team; die Stärke der einzelnen Angriffe hängt von den Base-Angriffs-Werten sowie EVs, DVs, Level und Wesen der Teampokémon ab."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Party POKéMON join in the attack.",
+      "de": "POKéMON vom Team greifen auch an."
+    },
+    "Silver": {
+      "en": "Party POKéMON join in the attack.",
+      "de": "POKéMON vom Team greifen auch an."
+    },
+    "Crystal": {
+      "en": "Party POKéMON join in the attack.",
+      "de": "POKéMON vom Team greifen auch an."
+    },
+    "Ruby": {
+      "en": "Summons party POKéMON to join in the attack.",
+      "de": "Ruft POKéMON hinzu, um an dem Angriff teilzuhaben."
+    },
+    "Sapphire": {
+      "en": "Summons party POKéMON to join in the attack.",
+      "de": "Ruft POKéMON hinzu, um an dem Angriff teilzuhaben."
+    },
+    "Emerald": {
+      "en": "Summons party POKéMON to join in the attack.",
+      "de": "Ruft POKéMON hinzu, um an dem Angriff teilzuhaben."
+    },
+    "FireRed": {
+      "en": "All party POKéMON join in the attack. The more allies, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr POKéMON, desto stärker."
+    },
+    "LeafGreen": {
+      "en": "All party POKéMON join in the attack. The more allies, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr POKéMON, desto stärker."
+    },
+    "Diamond": {
+      "en": "The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto stärker."
+    },
+    "Pearl": {
+      "en": "The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto stärker."
+    },
+    "Platinum": {
+      "en": "The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto stärker."
+    },
+    "HeartGold": {
+      "en": "The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto stärker."
+    },
+    "SoulSilver": {
+      "en": "The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.",
+      "de": "Das Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto stärker."
+    },
+    "Black": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "White": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Black 2": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "White 2": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "X": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Y": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "O.Ruby": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Moon": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Ultra Sun": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Ultra Moon": {
+      "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe."
+    },
+    "Omega Ruby": {
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das gesamte Team nimmt aktiv am Kampf teil. Je mehr Pokémon, desto höher die Anzahl der Angriffe.",
+      "en": "Unknown"
+    }
+  }
 }

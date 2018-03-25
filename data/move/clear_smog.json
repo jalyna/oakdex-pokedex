@@ -21,10 +21,6 @@
     "pl": "Biała Mgła",
     "en": "Clear Smog"
   },
-  "descriptions": {
-    "en": "The user attacks by throwing a clump of special mud. All status changes are returned to normal.",
-    "de": "Verursacht Schaden und setzt sämtliche Veränderungen der Statuswerte des Zieles zurück - ähnlich wie Dunkelnebel."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -33,5 +29,63 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user attacks by throwing a clump of special mud. All status changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "White": {
+      "en": "The user attacks by throwing a clump of special mud. All status changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "Black 2": {
+      "en": "The user attacks by throwing a clump of special mud. All status changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "White 2": {
+      "en": "The user attacks by throwing a clump of special mud. All status changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "X": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "Y": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigten Schlammklumpen an. Setzt Statusveränderungen zurück."
+    },
+    "O.Ruby": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück."
+    },
+    "Moon": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks by throwing a clump of special mud. All stat changes are returned to normal.",
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück."
+    },
+    "Omega Ruby": {
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender greift das Ziel mit spezialgefertigtem Smog an. Setzt dessen Statusveränderungen zurück.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -9,10 +9,6 @@
   "index_number": 721,
   "priority": 0,
   "critical_hit": 0,
-  "descriptions": {
-    "en": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.",
-    "de": "Ein Angriff mit elektrisch geladenen Fäusten, der bewirkt, dass Normal-Attacken den Typ Elektro annehmen."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,15 @@
   "accuracy": 100,
   "pp": 15,
   "max_pp": 24,
-  "target": "target_adjacent_single"
+  "target": "target_adjacent_single",
+  "pokedex_entries": {
+    "Ultra Sun": {
+      "en": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.",
+      "de": "Ein Angriff mit elektrisch geladenen Fäusten, der bewirkt, dass Normal-Attacken den Typ Elektro annehmen."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.",
+      "de": "Ein Angriff mit elektrisch geladenen Fäusten, der bewirkt, dass Normal-Attacken den Typ Elektro annehmen."
+    }
+  }
 }

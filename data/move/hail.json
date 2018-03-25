@@ -22,10 +22,6 @@
     "pl": "Grad",
     "en": "Hail"
   },
-  "descriptions": {
-    "en": "Summons a hailstorm that strikes every turn.*Summons a hailstorm that hurts all types except Ice.RS*Creates a hailstorm that damages all types except Ice.E*",
-    "de": "Anwender erzeugt einen Hagelsturm, der 5 Runden lang wütet. Ist der Gegner nicht vom Typ Eis, wird ihm jede Runde 1/16 seiner KP abgezogen. Hagelsturm wird auch durch die Fähigkeit Hagelalarm ausgelöst."
-  },
   "type": "Ice",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 1,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Summons a hailstorm that strikes every turn.",
+      "de": "Erzeugt Hagelsturm, der in jeder Runde trifft.* (Attacken-Beschreibung)Hagelsturm schadet allen POKéMON außer denen des Typs EIS.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Summons a hailstorm that strikes every turn.",
+      "de": "Erzeugt Hagelsturm, der in jeder Runde trifft.* (Attacken-Beschreibung)Hagelsturm schadet allen POKéMON außer denen des Typs EIS.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Summons a hailstorm that strikes every turn.",
+      "de": "Erzeugt Hagelsturm, der in jeder Runde trifft.* (Attacken-Beschreibung)Hagelsturm schadet allen PKMN außer denen des Typs EIS.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A hailstorm lasting five turns damages all POKéMON except the ICE-type.",
+      "de": "Hagelsturm für 5 Runden. Schadet allen, außer EIS-POKéMON.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen PKMN, außer denen der Elementklasse EIS.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A hailstorm lasting five turns damages all POKéMON except the ICE-type.",
+      "de": "Hagelsturm für 5 Runden. Schadet allen, außer EIS-POKéMON.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen PKMN, außer denen der Elementklasse EIS.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen des Typs Eis.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen des Typs Eis.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen des Typs Eis.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen des Typs Eis.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen des Typs Eis.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.",
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Hagelsturm für fünf Runden. Schadet allen, außer Eis-Pokémon.* (Attacken-Beschreibung)Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

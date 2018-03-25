@@ -21,10 +21,6 @@
     "pl": "Elektro Kula",
     "en": "Electro Ball"
   },
-  "descriptions": {
-    "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
-    "de": "Der verursachte Schaden ist abhängig vom Unterschied zwischen der Initiative des Anwenders und der des Zieles. Es gilt: Je schneller der Anwender im Vergleich zum Ziel ist, desto stärker ist Elektroball."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -45,5 +41,63 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "White": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Black 2": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "White 2": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the damage.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "X": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Y": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "O.Ruby": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Moon": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Ultra Sun": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Ultra Moon": {
+      "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom."
+    },
+    "Omega Ruby": {
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Je höher die Initiative des Anwenders im Vergleich zum Ziel ist, desto stärker trifft dieses eine geballte Ladung Strom.",
+      "en": "Unknown"
+    }
+  }
 }

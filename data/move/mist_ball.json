@@ -21,10 +21,6 @@
     "it": "Foschisfera",
     "en": "Mist Ball"
   },
-  "descriptions": {
-    "en": "Attacks with a flurry of down. May lower Sp. Atk.",
-    "de": "Richtet beim Gegner Schaden an und lässt dessen Spezialangriff mit einer Wahrscheinlichkeit von 50% sinken."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -51,5 +47,103 @@
       "stat": "sp_atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Attacks with a flurry of down. May lower SP. ATK.",
+      "de": "Angriff m. Daunengestöber, Senkt [sic!] evtl. SPEZ. ANGR."
+    },
+    "Sapphire": {
+      "en": "Attacks with a flurry of down. May lower SP. ATK.",
+      "de": "Angriff m. Daunengestöber, Senkt [sic!] evtl. SPEZ. ANGR."
+    },
+    "Emerald": {
+      "en": "Attacks with a flurry of down. May lower SP. ATK.",
+      "de": "Angriff m. Daunengestöber, senkt evtl. SPEZ. ANGR."
+    },
+    "FireRed": {
+      "en": "A flurry of down hits the foe. It may also lower the foe’s SP. ATK.",
+      "de": "Angriff mit Daunengestöber, der den SP. ANG. evtl. senkt."
+    },
+    "LeafGreen": {
+      "en": "A flurry of down hits the foe. It may also lower the foe’s SP. ATK.",
+      "de": "Angriff mit Daunengestöber, der den SP. ANG. evtl. senkt."
+    },
+    "Diamond": {
+      "en": "A mistlike flurry of down envelops and damages the foe. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt evtl. den Spezial-Angriff des Gegners."
+    },
+    "Pearl": {
+      "en": "A mistlike flurry of down envelops and damages the foe. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt evtl. den Spezial-Angriff des Gegners."
+    },
+    "Platinum": {
+      "en": "A mistlike flurry of down envelops and damages the foe. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt evtl. den Spezial-Angriff des Gegners."
+    },
+    "HeartGold": {
+      "en": "A mistlike flurry of down envelops and damages the foe. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt evtl. den Spezial-Angriff des Gegners."
+    },
+    "SoulSilver": {
+      "en": "A mistlike flurry of down envelops and damages the foe. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt evtl. den Spezial-Angriff des Gegners."
+    },
+    "Black": {
+      "en": "A mistlike flurry of down envelops and damages the target. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "White": {
+      "en": "A mistlike flurry of down envelops and damages the target. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Black 2": {
+      "en": "A mistlike flurry of down envelops and damages the target. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "White 2": {
+      "en": "A mistlike flurry of down envelops and damages the target. It may also lower the target’s Sp. Atk.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "X": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Y": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "O.Ruby": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Moon": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.",
+      "de": "Angriff mit einer Nebelwolke aus Daunen. Senkt eventuell den Spezial-Angriff des Zieles."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit einer Kugel aus Wasser, die Nebel enthält. Senkt eventuell den Spezial-Angriff des Zieles.",
+      "en": "Unknown"
+    }
+  }
 }

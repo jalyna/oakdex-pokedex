@@ -20,10 +20,6 @@
     "it": "Veicolaforza",
     "en": "Stored Power"
   },
-  "descriptions": {
-    "en": "The user attacks the target with stored power. The more the user's stats are raised, the greater the damage.",
-    "de": "Verursacht Schaden, der sich mit jeder Steigerung eines Statuswertes um eine Stärke von 20 erhöht, sich jedoch nicht senkt, wenn sich ein Statuswert verringert. Maximal kann diese Attacke eine Stärke von 860 erreichen."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -44,5 +40,63 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the damage.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "White": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the damage.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Black 2": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the damage.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "White 2": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the damage.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "X": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Y": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "O.Ruby": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Moon": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit angesparter Energie. Je höher die Statuswerte des Anwenders, desto stärker fällt die Attacke aus.",
+      "en": "Unknown"
+    }
+  }
 }

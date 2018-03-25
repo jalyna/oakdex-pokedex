@@ -21,10 +21,6 @@
     "pl": "Ładunek paraboliczny",
     "en": "Parabolic Charge"
   },
-  "descriptions": {
-    "en": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.",
-    "de": "Parabolladung richtet Schaden an und trifft dabei alle Pokémon, die direkt neben dem Anwender stehen. Die KP des Anwenders werden um die Hälfte des angerichteten Schadens wieder aufgeüllt."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -45,5 +41,47 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "Y": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "O.Ruby": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "Moon": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.",
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt."
+    },
+    "Omega Ruby": {
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Fügt allen Pokémon in der Umgebung Schaden zu. Der Anwender wird um die Hälfte des insgesamt angerichteten Schadens geheilt.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -23,10 +23,6 @@
     "pl": "Trzęsienie ziemi",
     "en": "Earthquake"
   },
-  "descriptions": {
-    "en": "An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pokémon.",
-    "de": "Starke Attacke und taktisch sehr wertvoll. Fügt doppelten Schaden zu, wenn der Gegner Schaufler eingesetzt hat."
-  },
   "type": "Ground",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 1,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Tough but useless vs. flying foes.",
+      "de": "Stark! Nutzlos bei Flug-Pokémon."
+    },
+    "Silver": {
+      "en": "Tough but useless vs. flying foes.",
+      "de": "Stark! Nutzlos bei Flug-Pokémon."
+    },
+    "Crystal": {
+      "en": "Tough but useless vs. flying foes.",
+      "de": "Stark! Nutzlos bei Flug-Pokémon."
+    },
+    "Ruby": {
+      "en": "A powerful quake, but has no effect on flying foes.",
+      "de": "Mächtiges Beben. Ist bei fliegenden Feinden nutzlos.* (Attacken-Beschreibung)Starkes Beben hat keinen Einfluss auf fliegende Gegner.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "A powerful quake, but has no effect on flying foes.",
+      "de": "Mächtiges Beben. Ist bei fliegenden Feinden nutzlos.* (Attacken-Beschreibung)Starkes Beben hat keinen Einfluss auf fliegende Gegner.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "A powerful quake, but has no effect on flying foes.",
+      "de": "Mächtiges Beben. Ist bei fliegenden Feinden nutzlos.* (Attacken-Beschreibung)Starkes Beben. Hat keinen Einfluss auf fliegende Gegner.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An earthquake that strikes all POKéMON in battle excluding the user.",
+      "de": "Ein mächtiges Beben, das außer fliegende Gegner alle trifft.* (Attacken-Beschreibung)Ein starkes Beben wird verursacht, das allen PKMN, außer Flug-PKMN und dem Angreifer, Schaden zufügt.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An earthquake that strikes all POKéMON in battle excluding the user.",
+      "de": "Ein mächtiges Beben, das außer fliegende Gegner alle trifft.* (Attacken-Beschreibung)Ein starkes Beben wird verursacht, das allen PKMN, außer Flug-PKMN und dem Angreifer, Schaden zufügt.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+      "de": "Ein starkes Beben wird verursacht, das allen Pokémon, außer Flug-Pokémon und dem Angreifer, Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das, abgesehen von fliegenden Pokémon, alle kämpfenden PKMN (außer Anw.) trifft.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+      "de": "Ein starkes Beben wird verursacht, das allen Pokémon, außer Flug-Pokémon und dem Angreifer, Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das, abgesehen von fliegenden Pokémon, alle kämpfenden PKMN (außer Anw.) trifft.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+      "de": "Ein starkes Beben wird verursacht, das allen Pokémon, außer Flug-Pokémon und dem Angreifer, Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das, abgesehen von fliegenden Pokémon, alle kämpfenden PKMN (außer Anw.) trifft.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+      "de": "Ein starkes Beben wird verursacht, das allen Pokémon, außer Flug-Pokémon und dem Angreifer, Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das, abgesehen von fliegenden Pokémon, alle kämpfenden PKMN (außer Anw.) trifft.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user sets off an earthquake that hits all the Pokémon in the battle.",
+      "de": "Ein starkes Beben wird verursacht, das allen Pokémon, außer Flug-Pokémon und dem Angreifer, Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das, abgesehen von fliegenden Pokémon, alle kämpfenden PKMN (außer Anw.) trifft.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user sets off an earthquake that strikes those around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft."
+    },
+    "White": {
+      "en": "The user sets off an earthquake that strikes those around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft."
+    },
+    "Black 2": {
+      "en": "The user sets off an earthquake that strikes those around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft."
+    },
+    "White 2": {
+      "en": "The user sets off an earthquake that strikes those around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft."
+    },
+    "X": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt.* (Attacken-Beschreibung)Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

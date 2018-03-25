@@ -20,10 +20,6 @@
     "it": "Pulviscoppio",
     "en": "Powder"
   },
-  "descriptions": {
-    "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
-    "de": "Pulverschleuder verursacht Schaden, wenn das Ziel versucht eine Feuerattacke einzusetzen. Ebenso endet die Runde ohne dass die Feuerattacke zu Ende ausgeführt wird."
-  },
   "type": "Bug",
   "contests": [
     {
@@ -32,5 +28,47 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "Y": {
+      "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "O.Ruby": {
+      "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user covers the target in a powder that explodes and damages the target if it uses a Fire-type move.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "Moon": {
+      "en": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "Ultra Sun": {
+      "en": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "Ultra Moon": {
+      "en": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.",
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet."
+    },
+    "Omega Ruby": {
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Setzt das Ziel nach Einsatz von Pulverschleuder in derselben Runde eine Feuer-Attacke ein, kommt es zu einer Explosion, die ihm schadet.",
+      "en": "Unknown"
+    }
+  }
 }

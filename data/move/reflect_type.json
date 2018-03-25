@@ -20,10 +20,6 @@
     "it": "Riflettipo",
     "en": "Reflect Type"
   },
-  "descriptions": {
-    "en": "The user reflects the target's type, making it the same type as the target.",
-    "de": "Der Anwender ersetzt seine eigene Typenkombination durch die des Zieles. Auch wenn Trugbild aktiviert ist, wird der Original-Typ des Zieles kopiert. Typenspiegel schlägt fehl, wenn das anvisierte Pokémon über Variabilität verfügt."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -32,5 +28,63 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "White": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Black 2": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "White 2": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "X": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Y": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "O.Ruby": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender ahmt das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Moon": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender ahmt das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Ultra Sun": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender ahmt das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Ultra Moon": {
+      "en": "The user reflects the target’s type, making it the same type as the target.",
+      "de": "Anwender ahmt das Ziel nach und nimmt dabei dessen Typ an."
+    },
+    "Omega Ruby": {
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender bildet das Ziel nach und nimmt dabei dessen Typ an.",
+      "en": "Unknown"
+    }
+  }
 }

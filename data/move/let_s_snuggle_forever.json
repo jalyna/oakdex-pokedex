@@ -9,10 +9,6 @@
   "index_number": 726,
   "priority": 0,
   "critical_hit": 0,
-  "descriptions": {
-    "en": "After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",
-    "de": "Mimigma greift das Ziel mithilfe von Z-Kraft mit voller Wucht und viel Liebe an."
-  },
   "makes_contact": true,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,15 @@
   "accuracy": 0,
   "pp": 1,
   "max_pp": 1,
-  "target": "target_adjacent_single"
+  "target": "target_adjacent_single",
+  "pokedex_entries": {
+    "Ultra Sun": {
+      "en": "After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",
+      "de": "Mimigma greift das Ziel mithilfe von Z-Kraft mit voller Wucht und viel Liebe an."
+    },
+    "Ultra Moon": {
+      "en": "After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",
+      "de": "Mimigma greift das Ziel mithilfe von Z-Kraft mit voller Wucht und viel Liebe an."
+    }
+  }
 }

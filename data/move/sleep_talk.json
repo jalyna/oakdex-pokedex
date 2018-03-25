@@ -22,10 +22,6 @@
     "pl": "Lunatykowanie",
     "en": "Sleep Talk"
   },
-  "descriptions": {
-    "en": "Randomly chooses one of the user's moves. Can be used only by a sleeping Pokémon.",
-    "de": "Kann nur eingesetzt werden, wenn das eigene Pokémon schläft. Greift zufällig mit einer anderen Attacke des Anwenders an. Hierbei werden nur die AP von Schlafrede verringert, jedoch nicht von der angewendeten Attacke. Ab der 5. Generation schlägt Schlafrede nicht mehr fehl, wenn die ausgewählte Attake keine AP mehr besitzt. Auch kann Schlafrede jetzt mehrmals hintereinander eingesetzt werden, wenn Wahlband gehalten wird."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Randomly attacks while asleep.",
+      "de": "Zufällige Angriffe im Schlaf."
+    },
+    "Silver": {
+      "en": "Randomly attacks while asleep.",
+      "de": "Zufällige Angriffe im Schlaf."
+    },
+    "Crystal": {
+      "en": "Randomly attacks while asleep.",
+      "de": "Zufällige Angriffe im Schlaf."
+    },
+    "Ruby": {
+      "en": "Uses an own move randomly while asleep.",
+      "de": "Benutzt per Zufall eine Attacke im Schlaf."
+    },
+    "Sapphire": {
+      "en": "Uses an own move randomly while asleep.",
+      "de": "Benutzt per Zufall eine Attacke im Schlaf."
+    },
+    "FireRed": {
+      "en": "While asleep, the user randomly uses one of the moves it knows.",
+      "de": "Benutzt per Zufall eine ihm bekannte Attacke im Schlaf."
+    },
+    "LeafGreen": {
+      "en": "While asleep, the user randomly uses one of the moves it knows.",
+      "de": "Benutzt per Zufall eine ihm bekannte Attacke im Schlaf."
+    },
+    "Emerald": {
+      "en": "Uses an available move randomly while asleep.",
+      "de": "Benutzt per Zufall eine Attacke im Schlaf."
+    },
+    "Diamond": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.* (Attacken-Beschreibung)Während der Angreifer schläft, verwendet er eine seiner zufällig ausgewählten Attacken.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.* (Attacken-Beschreibung)Während der Angreifer schläft, verwendet er eine seiner zufällig ausgewählten Attacken.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.* (Attacken-Beschreibung)Während der Angreifer schläft, verwendet er eine seiner zufällig ausgewählten Attacken.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.* (Attacken-Beschreibung)Während der Angreifer schläft, verwendet er eine seiner zufällig ausgewählten Attacken.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.* (Attacken-Beschreibung)Während der Angreifer schläft, verwendet er eine seiner zufällig ausgewählten Attacken.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "White": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "Black 2": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "White 2": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "X": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "Y": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein."
+    },
+    "O.Ruby": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (Attacken-Beschreibung)Der Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (Attacken-Beschreibung)Der Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (Attacken-Beschreibung)Der Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (Attacken-Beschreibung)Der Anwender setzt per Zufall eine ihm bekannte Attacke ein. Klappt nur, wenn der Anwender gerade schläft.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender setzt per Zufall eine ihm bekannte Attacke im Schlaf ein.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -21,10 +21,6 @@
     "pl": "Nieczysta gra",
     "en": "Foul Play"
   },
-  "descriptions": {
-    "en": "The user turns the target's power against it. The higher the target's Attack stat, the greater the damage.",
-    "de": "Verursacht Schaden. Hierbei wird zur Schadensberechnung der Angriffswert des Zieles - inklusive der Änderungen der Statuswerte - heran gezogen. Die restlichen Werte werden vom Anwender mit einbezogen, wie z.B. etwa eine Verbrennung, Wahlitems, STAB oder Fähigkeiten."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -45,5 +41,63 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "White": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Black 2": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "White 2": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the damage.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "X": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Y": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "O.Ruby": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Moon": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Ultra Sun": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Ultra Moon": {
+      "en": "The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an."
+    },
+    "Omega Ruby": {
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an.",
+      "en": "Unknown"
+    }
+  }
 }

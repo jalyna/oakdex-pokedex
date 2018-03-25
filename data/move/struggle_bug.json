@@ -21,10 +21,6 @@
     "pl": "Waleczny Insekt",
     "en": "Struggle Bug"
   },
-  "descriptions": {
-    "en": "While resisting, the user attacks the opposing Pokémon. The targets' Sp. Atk stat is reduced.",
-    "de": "Verursacht Schaden und verringert den Spezial-Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes). Trifft beide Gegner in Doppelkämpfen und in Dreierkämpfen alle erreichbaren Gegner."
-  },
   "type": "Bug",
   "contests": [
     {
@@ -51,5 +47,63 @@
       "stat": "sp_atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "While resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.* (Attacken-Beschreibung)Anwender leistet Widerstand und greift an. Der Spezial-Angriff des Zieles sinkt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "While resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.* (Attacken-Beschreibung)Anwender leistet Widerstand und greift an. Der Spezial-Angriff des Zieles sinkt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "While resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.* (Attacken-Beschreibung)Anwender leistet Widerstand und greift an. Der Spezial-Angriff des Zieles sinkt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "While resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.* (Attacken-Beschreibung)Anwender leistet Widerstand und greift an. Der Spezial-Angriff des Zieles sinkt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "Y": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "O.Ruby": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "Moon": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "Ultra Sun": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "Ultra Moon": {
+      "en": "While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt."
+    },
+    "Omega Ruby": {
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender leistet Widerstand und greift an. Der Spezial-Angriff der Ziele sinkt.",
+      "en": "Unknown"
+    }
+  }
 }

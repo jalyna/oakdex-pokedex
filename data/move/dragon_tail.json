@@ -22,10 +22,6 @@
     "pl": "Ogon smoka",
     "en": "Dragon Tail"
   },
-  "descriptions": {
-    "en": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",
-    "de": "Verursacht Schaden. In einem Trainerkampf wird das Ziel ausgewechselt, sofern der Trainer noch ein anderes kampffähiges Pokémon besitzt. Beendet Kämpfe gegen wilde Pokémon, sofern das Level des Anwenders über dem des Zieles liegt."
-  },
   "type": "Dragon",
   "contests": [
     {
@@ -34,5 +30,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is knocked away and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is knocked away and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (Attacken-Beschreibung)Fegt das Ziel vom Feld und wechselt es gegen ein anderes Pokémon aus. Beendet Kämpfe gegen wilde Pokémon.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

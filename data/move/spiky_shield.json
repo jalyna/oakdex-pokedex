@@ -20,10 +20,6 @@
     "it": "Agodifesa",
     "en": "Spiky Shield"
   },
-  "descriptions": {
-    "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
-    "de": "Diese Attacke schützt den Anwender vor sämtlichem Schaden von Attacken und deren Effekten, die gegen den Anwender in dieser Runde eingesetzt werden. Vor Wettereffekten oder bereits bestehenden Statusproblemen schützt diese Attacke jedoch nicht, da diese nicht während, sondern zwischen den Runden aktiv werden. Sollte der Anwender von einer physischen Attacke berührt werden, erhält der Angreifer stattdessen Schaden in Höhe 1/8 seiner maximalen KP und das verteidigende Pokémon bleibt unversehrt. Mit dem Item Beulenhelm oder der Fähigkeit Rauhaut lässt sich diese Attacke nicht kombinieren. Nach jedem erfolgreichen Einsatz, nimmt die Wahrscheinlichkeit um 50% ab, diese Attacke in der der nächsten Runde erneut ausführen zu können."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -32,5 +28,47 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender weicht gegnerischen Angriffen aus. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "Y": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender weicht gegnerischen Angriffen aus. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "O.Ruby": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "Moon": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "Ultra Sun": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "Ultra Moon": {
+      "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig nehmen alle Pokémon, die mit ihm in Berührung kommen, Schaden.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -21,10 +21,6 @@
     "it": "Rimonta",
     "en": "Endeavor"
   },
-  "descriptions": {
-    "en": "Gains power if the user’s HP is lower than the foe’s HP.",
-    "de": "Nach dem Einsatz dieser Attacke besitzt der Gegner gleich viele KP wie dein Pokémon vor dem Einsatz. Etwas unterschiedlich zu Leidteiler, jedoch taktisch brauchbar. Allerdings ist es nötig, dass dein Pokémon einen höhen Initiative-Wert hat, ansonsten hat diese Attacke wenig Sinn. Man kann diese Attacke mit Rattfratz Lvl.1 sehr gu ausnutzen: Rattfratz trägt das Item Fokusgurt, und kann die Attacken Notsituation und Ruchzuckhieb. Dank des Fokusgurts überlebt es den ersten Angriff des Gegners und durch die Attacke Notsituation besitzt der Gegner nur einen KP. Ruckzuckhieb besiegt ihn dann."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Gains power if the user’s HP is lower than the foe’s HP.",
+      "de": "Wird stärker, wenn Anw.-KP geringer als Gegner-KP ist."
+    },
+    "Sapphire": {
+      "en": "Gains power if the user’s HP is lower than the foe’s HP.",
+      "de": "Wird stärker, wenn Anw.-KP geringer als Gegner-KP ist."
+    },
+    "Emerald": {
+      "en": "Gains power if the user’s HP is lower than the foe’s HP.",
+      "de": "Wird stärker, wenn Anw.-KP geringer als Gegner-KP ist."
+    },
+    "FireRed": {
+      "en": "Gains power the fewer HP the user has compared with the foe.",
+      "de": "Wird stärker, wenn KP des Anwenders geringer als KP des Gegners sind."
+    },
+    "LeafGreen": {
+      "en": "Gains power the fewer HP the user has compared with the foe.",
+      "de": "Wird stärker, wenn KP des Anwenders geringer als KP des Gegners sind."
+    },
+    "Diamond": {
+      "en": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+      "de": "Wird stärker, wenn KP des Anwenders geringer als KP des Gegners sind."
+    },
+    "Pearl": {
+      "en": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+      "de": "Wird stärker, wenn KP des Anwenders geringer als KP des Gegners sind."
+    },
+    "Platinum": {
+      "en": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+      "de": "Wird stärker, wenn KP des Anwenders geringer als KP des Gegners sind."
+    },
+    "HeartGold": {
+      "en": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anw. geringer als KP des Gegn. sind. Senkt gegn. KP auf Niveau d. KP des Anw."
+    },
+    "SoulSilver": {
+      "en": "An attack move that cuts down the foe’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anw. geringer als KP des Gegn. sind. Senkt gegn. KP auf Niveau d. KP des Anw."
+    },
+    "Black": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf Niveau der KP des Anwenders."
+    },
+    "White": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf Niveau der KP des Anwenders."
+    },
+    "Black 2": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf Niveau der KP des Anwenders."
+    },
+    "White 2": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf Niveau der KP des Anwenders."
+    },
+    "X": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "Y": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "O.Ruby": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "An attack move that cuts down the target’s HP to equal the user’s HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This attack move cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "Moon": {
+      "en": "This attack move cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "Ultra Sun": {
+      "en": "This attack move cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "Ultra Moon": {
+      "en": "This attack move cuts down the target’s HP to equal the user’s HP.",
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders."
+    },
+    "Omega Ruby": {
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Trifft nur, wenn KP des Anwenders geringer als KP des Zieles sind. Senkt dessen KP auf die Höhe der KP des Anwenders.",
+      "en": "Unknown"
+    }
+  }
 }

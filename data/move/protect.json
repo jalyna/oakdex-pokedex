@@ -23,10 +23,6 @@
     "pl": "Ochrona",
     "en": "Protect"
   },
-  "descriptions": {
-    "en": "Completely foils an opponent's attack. If used consecutively, its success rate decreases.",
-    "de": "Verhindert gegnerischen Angriff, Erfolgsrate sinkt bei mehrmaliger Verwendung."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Foils attack that turn. It may fail.",
+      "de": "1 Runde Schutz. Wdh. fraglich."
+    },
+    "Silver": {
+      "en": "Foils attack that turn. It may fail.",
+      "de": "1 Runde Schutz. Wdh. fraglich."
+    },
+    "Crystal": {
+      "en": "Foils attack that turn. It may fail.",
+      "de": "1 Runde Schutz. Wdh. fraglich."
+    },
+    "Ruby": {
+      "en": "Evades attack, but may fail if used in succession.",
+      "de": "Weicht Angriff aus. Scheitert evtl. bei Wdh.* (Attacken-Beschreibung)Schützt, könnte aber bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Evades attack, but may fail if used in succession.",
+      "de": "Weicht Angriff aus. Scheitert evtl. bei Wdh.* (Attacken-Beschreibung)Schützt, könnte aber bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Evades attack, but may fail if used in succession.",
+      "de": "Weicht Angriff aus. Scheitert evtl. bei Wdh.* (Attacken-Beschreibung)Schützt, könnte aber bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "Enables the user to evade all attacks. It may fail if used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert evtl. bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der es eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "Enables the user to evade all attacks. It may fail if used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert evtl. bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der es eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.",
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender weicht jeder Attacke aus. Scheitert eventuell bei Wiederholung.* (Attacken-Beschreibung)Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -7,10 +7,6 @@
     "es": "Psicocolmillo"
   },
   "index_number": 706,
-  "descriptions": {
-    "en": "Psychic Fangs removes Light Screen, Reflect, and Aurora Veil from the target's side of the field, then inflicts damage. It will not remove Light Screen, Reflect, or Aurora Veil if Psychic Fangs misses or the target is immune to or protected from Psychic Fangs.",
-    "de": "Fügt dem Gegner Schaden zu und entfernt zusätzlich Lichtschild sowie Reflektor, was deren Effekte aufhebt."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+      "de": "Der Anwender beißt das Ziel mithilfe von Psycho-Kräften. Die Attacke durchbricht auch Barrieren wie Lichtschild und Reflektor."
+    },
+    "Moon": {
+      "en": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+      "de": "Der Anwender beißt das Ziel mithilfe von Psycho-Kräften. Die Attacke durchbricht auch Barrieren wie Lichtschild und Reflektor."
+    },
+    "Ultra Sun": {
+      "en": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+      "de": "Der Anwender beißt das Ziel mithilfe von Psycho-Kräften. Die Attacke durchbricht auch Barrieren wie Lichtschild und Reflektor."
+    },
+    "Ultra Moon": {
+      "en": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+      "de": "Der Anwender beißt das Ziel mithilfe von Psycho-Kräften. Die Attacke durchbricht auch Barrieren wie Lichtschild und Reflektor."
+    }
+  }
 }

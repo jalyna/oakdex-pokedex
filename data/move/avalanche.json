@@ -21,10 +21,6 @@
     "it": "Slavina",
     "en": "Avalanche"
   },
-  "descriptions": {
-    "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
-    "de": "Doppelter Schaden wenn der Anwender in dieser Runde vom Gegner geschädigt wurde. Reihenfolge der Attacke wird nicht vom Initiativewert bestimmt."
-  },
   "type": "Ice",
   "contests": [
     {
@@ -45,5 +41,83 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden.* (Attacken-Beschreibung)Wurde der Angreifer in dieser Runde verletzt, fügt diese Attacke dem Gegner doppelten Schaden zu.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden.* (Attacken-Beschreibung)Wurde der Angreifer in dieser Runde verletzt, fügt diese Attacke dem Gegner doppelten Schaden zu.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden.* (Attacken-Beschreibung)Wurde der Angreifer in dieser Runde verletzt, fügt diese Attacke dem Gegner doppelten Schaden zu.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden.* (Attacken-Beschreibung)Wurde der Angreifer in dieser Runde verletzt, fügt diese Attacke dem Gegner doppelten Schaden zu.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden.* (Attacken-Beschreibung)Wurde der Angreifer in dieser Runde verletzt, fügt diese Attacke dem Gegner doppelten Schaden zu.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden."
+    },
+    "White": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden."
+    },
+    "Black 2": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden."
+    },
+    "White 2": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender vom Gegner in dieser Runde getroffen, erzeugt diese Attacke doppelten Schaden."
+    },
+    "X": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, macht diese Attacke doppelten Schaden."
+    },
+    "Y": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, macht diese Attacke doppelten Schaden."
+    },
+    "O.Ruby": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "An attack move that inflicts double the damage if the user has been hurt by the target in the same turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The power of this attack move is doubled if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, verdoppelt sich die Stärke aller Attacken des Anwenders bei Angriffen auf dieses Ziel."
+    },
+    "Moon": {
+      "en": "The power of this attack move is doubled if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, verdoppelt sich die Stärke aller Attacken des Anwenders bei Angriffen auf dieses Ziel."
+    },
+    "Ultra Sun": {
+      "en": "The power of this attack move is doubled if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, verdoppelt sich die Stärke der Attacke bei Angriffen auf dieses Ziel."
+    },
+    "Ultra Moon": {
+      "en": "The power of this attack move is doubled if the user has been hurt by the target in the same turn.",
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, verdoppelt sich die Stärke der Attacke bei Angriffen auf dieses Ziel."
+    },
+    "Omega Ruby": {
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, macht diese Attacke doppelten Schaden.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wurde der Anwender in dieser Runde vom Ziel getroffen, macht diese Attacke doppelten Schaden.",
+      "en": "Unknown"
+    }
+  }
 }

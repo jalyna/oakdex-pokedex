@@ -7,10 +7,6 @@
     "es": "Hidroariete"
   },
   "index_number": 710,
-  "descriptions": {
-    "en": "Liquidation does damage and has a 20% chance of lowering the target's Defense stat by one stage.",
-    "de": "Richtet Schaden an und senkt die Verteidigung des Zieles mit 20%iger Wahrscheinlichkeit um eine Stufe."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -34,5 +30,23 @@
       "stat": "def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit der Kraft des Wassers an. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Moon": {
+      "en": "The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit der Kraft des Wassers an. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit der Kraft des Wassers an. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit der Kraft des Wassers an. Senkt eventuell die Verteidigung des Zieles."
+    }
+  }
 }

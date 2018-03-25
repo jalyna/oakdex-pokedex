@@ -23,10 +23,6 @@
     "pl": "Tunel",
     "en": "Dig"
   },
-  "descriptions": {
-    "en": "The attacker digs underground in the first turn, then pops up in the next turn to attack.",
-    "de": "Pokémon gräbt sich ein und ist gegen alle Attacken außer Erdbeben und Intensität immun (diese richten allerdings doppelten Schaden an). Ebenfalls wird der Anwender von Geofissur getroffen. Angriff erfolgt in der nächsten Runde."
-  },
   "type": "Ground",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "1st turn: Burrow 2nd turn: Attack",
+      "de": "1. Graben 2. Angriff"
+    },
+    "Silver": {
+      "en": "1st turn: Burrow 2nd turn: Attack",
+      "de": "1. Graben 2. Angriff"
+    },
+    "Crystal": {
+      "en": "1st turn: Burrow 2nd turn: Attack",
+      "de": "1. Graben 2. Angriff"
+    },
+    "Ruby": {
+      "en": "Digs underground the first turn and strikes next turn.",
+      "de": "Gräbt sich in der 1. Runde ein und trifft in der 2.* (Attacken-Beschreibung)Erst gräbt sich Angreifer ein, dann erfolgt Angriff.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Digs underground the first turn and strikes next turn.",
+      "de": "Gräbt sich in der 1. Runde ein und trifft in der 2.* (Attacken-Beschreibung)Erst gräbt sich Angreifer ein, dann erfolgt Angriff.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Digs underground the first turn and strikes next turn.",
+      "de": "Gräbt sich in der 1. Runde ein und trifft in der 2.* (Attacken-Beschreibung)Erst gräbt sich Angreifer ein, dann erfolgt Angriff.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that hits on the 2nd turn. Can also be used to exit dungeons.",
+      "de": "1. Runde eingraben und 2. angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that hits on the 2nd turn. Can also be used to exit dungeons.",
+      "de": "1. Runde eingraben und 2. angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 eingraben und in Runde 2 angreifen. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user burrows, then attacks on the next turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user burrows, then attacks on the next turn. It can also be used to exit dungeons.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. Macht Flucht aus Höhlen möglich.* (Attacken-Beschreibung)Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user burrows, then attacks on the next turn. It can also be used to exit dungeons.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user burrows, then attacks on the next turn. It can also be used to exit dungeons.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user burrows, then attacks on the next turn.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an."
+    },
+    "Moon": {
+      "en": "The user burrows, then attacks on the next turn.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an."
+    },
+    "Ultra Sun": {
+      "en": "The user burrows, then attacks on the next turn.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an."
+    },
+    "Ultra Moon": {
+      "en": "The user burrows, then attacks on the next turn.",
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an."
+    },
+    "Omega Ruby": {
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. Macht Flucht aus Höhlen möglich.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. Macht Flucht aus Höhlen möglich.",
+      "en": "Unknown"
+    }
+  }
 }

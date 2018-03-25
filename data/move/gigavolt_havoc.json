@@ -7,10 +7,6 @@
     "es": "Gigavoltio Destructor"
   },
   "index_number": 646,
-  "descriptions": {
-    "en": "Gigavolt Havoc inflicts damage. Its power and whether it is a special or physical move depends on the move it is based on.",
-    "de": "Gigavolt-Funkensalve ist eine Z-Attacke, die von jedem Pokémon genutzt werden kann, das eine Elektro-Attacke beherrscht und den Z-Kristall \"Voltium Z\" trägt. Die Stärke und Schadensklasse hängen von der Basisattacke des Typs Elektro ab, die Grundstärke der Z-Attacke ist hierbei um ca. 80 Punkte höher als die der Basisattacke."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",
+      "de": "Der Anwender greift das Ziel mit durch Z-Kraft gesammelter starker Elektrizität an. Die Stärke variiert je nach zugrunde liegender Attacke."
+    },
+    "Moon": {
+      "en": "The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",
+      "de": "Der Anwender greift das Ziel mit durch Z-Kraft gesammelter starker Elektrizität an. Die Stärke variiert je nach zugrunde liegender Attacke."
+    },
+    "Ultra Sun": {
+      "en": "The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",
+      "de": "Der Anwender greift das Ziel mit durch Z-Kraft gesammelter starker Elektrizität an. Die Stärke variiert je nach zugrunde liegender Attacke."
+    },
+    "Ultra Moon": {
+      "en": "The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",
+      "de": "Der Anwender greift das Ziel mit durch Z-Kraft gesammelter starker Elektrizität an. Die Stärke variiert je nach zugrunde liegender Attacke."
+    }
+  }
 }

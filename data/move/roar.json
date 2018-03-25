@@ -24,10 +24,6 @@
     "tr": "Kükreme",
     "en": "Roar"
   },
-  "descriptions": {
-    "en": "A terrifying roar that drives wild Pokémon away. It is useful only in the wild.",
-    "de": "Zwingt wilde Pokemon zur Flucht. In Trainerkämpfen eine der wichtigsten Attacken. Das gegnerische Pokemon wird zum Wechsel gezwungen und ein anderes Teammitglied des Gegners wird zufällig auf das Feld gerufen. Wenn der Gegner nur noch ein Pokemon hat, schlägt die Attacke fehl."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Scares wild foes to end battle.",
+      "de": "Ängstigt wilde Gegn. + Kampfende."
+    },
+    "Silver": {
+      "en": "Scares wild foes to end battle.",
+      "de": "Ängstigt wilde Gegn. + Kampfende."
+    },
+    "Crystal": {
+      "en": "Scares wild foes to end battle.",
+      "de": "Ängstigt wilde Gegn. + Kampfende."
+    },
+    "Ruby": {
+      "en": "Makes the foe flee to end the battle.",
+      "de": "Verjagt den Gegner und beendet Kämpfe in der Wildnis.* (Attacken-Beschreibung)Brüller schlägt Gegner in die Flucht und beendet Kampf.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Makes the foe flee to end the battle.",
+      "de": "Verjagt den Gegner und beendet Kämpfe in der Wildnis.* (Attacken-Beschreibung)Brüller schlägt Gegner in die Flucht und beendet Kampf.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Makes the foe flee to end the battle.",
+      "de": "Verjagt den Gegner und beendet Kämpfe in der Wildnis.* (Attacken-Beschreibung)Brüller schlägt Gegn. in die Flucht und beendet Kampf.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "The foe is made to switch out with an ally. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes POKéMON wird beendet.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "The foe is made to switch out with an ally. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes POKéMON wird beendet.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und ersetzt ihn durch anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und ersetzt ihn durch anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und ersetzt ihn durch anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und ersetzt ihn durch anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt den Gegner und ersetzt ihn durch anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt den Gegner in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is scared off and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is scared off and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verjagt das Ziel und ersetzt es durch ein anderes Pokémon. Beendet den Kampf in der Wildnis.* (Attacken-Beschreibung)Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -7,10 +7,6 @@
     "es": "Fragor Escamas"
   },
   "index_number": 691,
-  "descriptions": {
-    "en": "Clanging Scales inflicts damage and reduces the user's Defense by one stage. Pokémon with the Ability Soundproof are not affected by this move.",
-    "de": "Schuppenrasseln richtet Schaden an und senkt dann die Verteidigung des Angreifers."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -34,5 +30,23 @@
       "stat": "def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.",
+      "de": "Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift an. Anschließend sinkt seine Verteidigung."
+    },
+    "Moon": {
+      "en": "The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.",
+      "de": "Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift an. Anschließend sinkt seine Verteidigung."
+    },
+    "Ultra Sun": {
+      "en": "The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.",
+      "de": "Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift an. Anschließend sinkt seine Verteidigung."
+    },
+    "Ultra Moon": {
+      "en": "The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.",
+      "de": "Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift an. Anschließend sinkt seine Verteidigung."
+    }
+  }
 }

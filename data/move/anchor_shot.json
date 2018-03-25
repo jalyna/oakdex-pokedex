@@ -7,10 +7,6 @@
     "es": "Anclaje"
   },
   "index_number": 677,
-  "descriptions": {
-    "en": "Anchor Shot inflicts damage and prevents foes from fleeing or switching out as long as the user remains in battle. Wimp Out, Emergency Exit, the Red Card, the Shed Shell, and the Eject Button can bypass this effect.",
-    "de": "Richtet Schaden an und verhindert, dass das getroffene Ziel ausgetauscht wird oder aus dem Kampf flieht."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.",
+      "de": "Der Anwender greift das Ziel an, indem er es mit einer Ankerkette umwickelt. Dadurch wird das Ziel an der Flucht gehindert."
+    },
+    "Moon": {
+      "en": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.",
+      "de": "Der Anwender greift das Ziel an, indem er es mit einer Ankerkette umwickelt. Dadurch wird das Ziel an der Flucht gehindert."
+    },
+    "Ultra Sun": {
+      "en": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.",
+      "de": "Der Anwender greift das Ziel an, indem er es mit einer Ankerkette umwickelt. Dadurch wird das Ziel an der Flucht gehindert."
+    },
+    "Ultra Moon": {
+      "en": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.",
+      "de": "Der Anwender greift das Ziel an, indem er es mit einer Ankerkette umwickelt. Dadurch wird das Ziel an der Flucht gehindert."
+    }
+  }
 }

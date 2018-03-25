@@ -7,10 +7,6 @@
     "es": "Ojos Llorosos"
   },
   "index_number": 715,
-  "descriptions": {
-    "en": "Tearful Look lowers the target's Attack and Special Attack stats by one stage each. It bypasses accuracy checks to always hit, unless the opponent is in the semi-invulnerable turn of a move such as Dig or Fly. Tearful Look will hit the target even if it has used Protect, Detect, Spiky Shield, or Baneful Bunker, but will be blocked by Crafty Shield.",
-    "de": "Senkt vom Ziel den Angriff und Spezial-Angriff um jeweils eine Stufe. Die Attacke trifft immer, es sei denn der Gegner befindet sich gerade in einem teilweise unverletzlichen Zustand, wie es nach dem Einsatz der Attacken Fliegen oder Schaufler der Fall ist."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -38,5 +34,23 @@
       "stat": "sp_atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.",
+      "de": "Dem Anwender stehen Tränen in den Augen, wodurch das Ziel seinen Kampfeswillen verliert. Angriff und Spezial-Angriff des Zieles sinken."
+    },
+    "Moon": {
+      "en": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.",
+      "de": "Dem Anwender stehen Tränen in den Augen, wodurch das Ziel seinen Kampfeswillen verliert. Angriff und Spezial-Angriff des Zieles sinken."
+    },
+    "Ultra Sun": {
+      "en": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.",
+      "de": "Dem Anwender stehen Tränen in den Augen, wodurch das Ziel seinen Kampfeswillen verliert. Angriff und Spezial-Angriff des Zieles sinken."
+    },
+    "Ultra Moon": {
+      "en": "The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.",
+      "de": "Dem Anwender stehen Tränen in den Augen, wodurch das Ziel seinen Kampfeswillen verliert. Angriff und Spezial-Angriff des Zieles sinken."
+    }
+  }
 }

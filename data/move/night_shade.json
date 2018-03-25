@@ -23,10 +23,6 @@
     "pl": "Cień Nocy",
     "en": "Night Shade"
   },
-  "descriptions": {
-    "en": "A Ghost-type attack. Highly accurate, it inflicts damage regardless of the target's type.",
-    "de": "Schädigt den Gegner, abhängig vom Level, nicht von den Fähigkeiten und Werten des Pokémon. Das heißt, auf Level 50 macht diese Attacke 50 Schaden und z.B auf Level 100, 100 Schaden. Diese Attacke kann weder sehr, noch nicht effektiv sein, ist aber wirkungslos gegen Normaltypen."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "The user's level equals damage HP.",
+      "de": "Angreiferlevel ist Schaden."
+    },
+    "Silver": {
+      "en": "The user's level equals damage HP.",
+      "de": "Angreiferlevel ist Schaden."
+    },
+    "Crystal": {
+      "en": "The user's level equals damage HP.",
+      "de": "Angreiferlevel gleich Schaden."
+    },
+    "Ruby": {
+      "en": "Inflicts damage identical to the user’s level.",
+      "de": "Richtet Schaden gemäß Level. d. Angreifers an."
+    },
+    "Sapphire": {
+      "en": "Inflicts damage identical to the user’s level.",
+      "de": "Richtet Schaden gemäß Level. d. Angreifers an."
+    },
+    "Emerald": {
+      "en": "Inflicts damage identical to the user’s level.",
+      "de": "Richtet Schaden gemäß Level. d. Angreifers an."
+    },
+    "FireRed": {
+      "en": "An attack with a mirage that inflicts damage matching the user’s level.",
+      "de": "Richtet Schaden gemäß Level des Angreifers an."
+    },
+    "LeafGreen": {
+      "en": "An attack with a mirage that inflicts damage matching the user’s level.",
+      "de": "Richtet Schaden gemäß Level des Angreifers an."
+    },
+    "Diamond": {
+      "en": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+      "de": "Gegner sieht eine Illusion. Richtet Schaden gemäß Level des Anwenders an."
+    },
+    "Pearl": {
+      "en": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+      "de": "Gegner sieht eine Illusion. Richtet Schaden gemäß Level des Anwenders an."
+    },
+    "Platinum": {
+      "en": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+      "de": "Gegner sieht eine Illusion. Richtet Schaden gemäß Level des Anwenders an."
+    },
+    "HeartGold": {
+      "en": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+      "de": "Gegner sieht eine Illusion. Richtet Schaden gemäß Level des Anwenders an."
+    },
+    "SoulSilver": {
+      "en": "The user makes the foe see a mirage. It inflicts damage matching the user’s level.",
+      "de": "Gegner sieht eine Illusion. Richtet Schaden gemäß Level des Anwenders an."
+    },
+    "Black": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage matching the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "White": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage matching the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Black 2": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage matching the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "White 2": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage matching the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "X": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Y": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "O.Ruby": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Moon": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Ultra Sun": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Ultra Moon": {
+      "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an."
+    },
+    "Omega Ruby": {
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Ziel sieht eine Illusion. Richtet Schaden gemäß dem Level des Anwenders an.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -7,10 +7,6 @@
     "es": "Hueso Sombrío"
   },
   "index_number": 708,
-  "descriptions": {
-    "en": "Shadow Bone does damage and has a 20% chance of lowering the target's Defense stat by one stage.",
-    "de": "Fügt dem Gegner Schaden zu. Mit einer Wahrscheinlichkeit von 20% wird die gegnerische Verteidigung um eine Stufe gesenkt."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -34,5 +30,23 @@
       "stat": "def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit einem Knochen an, in dem eine Seele haust. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Moon": {
+      "en": "The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit einem Knochen an, in dem eine Seele haust. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit einem Knochen an, in dem eine Seele haust. Senkt eventuell die Verteidigung des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.",
+      "de": "Der Anwender greift das Ziel mit einem Knochen an, in dem eine Seele haust. Senkt eventuell die Verteidigung des Zieles."
+    }
+  }
 }

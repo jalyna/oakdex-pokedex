@@ -23,10 +23,6 @@
     "pl": "Toksyna",
     "en": "Toxic"
   },
-  "descriptions": {
-    "en": "A technique that badly poisons the target. The amount of damage from the poison increases every turn.",
-    "de": "Dem Gegner wird eine toxische Vergiftung zugefügt. (Erst 1/16 KP- Verlust, dann 2/16, 3/16, usw.) In GSK konnte eine toxische Vergiftung durch einen Tausch in eine normale Vergiftung umgewandelt werden. In RS ist dies nicht mehr möglich."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "A poison move with increasing damage.",
+      "de": "Gift-Attacke mit Schadenszuwachs."
+    },
+    "Silver": {
+      "en": "A poison move with increasing damage.",
+      "de": "Gift-Attacke mit Schadenszuwachs."
+    },
+    "Crystal": {
+      "en": "A poison move with increasing damage.",
+      "de": "Gift-Attacke mit Schadenszuwachs."
+    },
+    "Ruby": {
+      "en": "Poisons the foe with an intensifying toxin.",
+      "de": "Vergiftet den Gegner mit einem starken Toxin.* (Attacken-Beschreibung)Vergiftet den Gegner und schadet ihm zunehmend.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Poisons the foe with an intensifying toxin.",
+      "de": "Vergiftet den Gegner mit einem starken Toxin.* (Attacken-Beschreibung)Vergiftet den Gegner und schadet ihm zunehmend.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Poisons the foe with an intensifying toxin.",
+      "de": "Vergiftet den Gegner mit einem starken Toxin.* (Attacken-Beschreibung)Vergiftet den Gegner und schadet ihm zunehmend.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A move that badly poisons the foe. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A move that badly poisons the foe. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet den Gegner mit einem potenten Toxin. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Der Gegner wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn.",
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

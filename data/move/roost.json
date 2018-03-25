@@ -21,10 +21,6 @@
     "it": "Trespolo",
     "en": "Roost"
   },
-  "descriptions": {
-    "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.*The user lands and rests its body. It restores the user’s HP by up to half of its top HP.*",
-    "de": "Heilt das Pokémon. Bis zu 50% der KP werden wiederhergestellt. Anwender verliert bis zum Ende der Runde seine Flug-Fähigkeit. So können Flug-Pokémon auch von Bodenattacken getroffen werden."
-  },
   "type": "Flying",
   "contests": [
     {
@@ -45,5 +41,83 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. Max. die Hälfte der KP werden so regeneriert.* (Attacken-Beschreibung)Der Anwender landet und ruht sich aus. Dabei füllen sich bis zu 50 % der maximalen KP wieder auf.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. Max. die Hälfte der KP werden so regeneriert.* (Attacken-Beschreibung)Der Anwender landet und ruht sich aus. Dabei füllen sich bis zu 50 % der maximalen KP wieder auf.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. Max. die Hälfte der KP werden so regeneriert.* (Attacken-Beschreibung)Der Anwender landet und ruht sich aus. Dabei füllen sich bis zu 50 % der maximalen KP wieder auf.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt.* (Attacken-Beschreibung)Der Anwender landet und ruht sich aus. Dabei füllen sich bis zu 50 % der maximalen KP wieder auf.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt.* (Attacken-Beschreibung)Der Anwender landet und ruht sich aus. Dabei füllen sich bis zu 50 % der maximalen KP wieder auf.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "White": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Black 2": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "White 2": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "X": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Y": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "O.Ruby": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Moon": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Sun": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Moon": {
+      "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.",
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Omega Ruby": {
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.",
+      "en": "Unknown"
+    }
+  }
 }

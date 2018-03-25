@@ -20,10 +20,6 @@
     "it": "Azzardo",
     "en": "Final Gambit"
   },
-  "descriptions": {
-    "en": "The user risks everything to attack its target. The user faints but does damage equal to the user's HP.",
-    "de": "Besiegt den Anwender und zieht dem Ziel KP in der Anzahl ab, die der Anwender vor dem Einsatz der Attacke besaß. Sollte Wagemut fehl schlagen, weil sie daneben geht, das Ziel immun gegen die Attacke ist oder einen Schutzschild eingesetzt hat, wird der Anwender nicht besiegt."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -32,5 +28,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to the user’s HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "White": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to the user’s HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Black 2": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to the user’s HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "White 2": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to the user’s HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "X": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Y": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "O.Ruby": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Moon": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Ultra Sun": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Ultra Moon": {
+      "en": "The user risks everything to attack its target. The user faints but does damage equal to its HP.",
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt."
+    },
+    "Omega Ruby": {
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ein Angriff, der dem Ziel Schaden in Höhe der aktuellen KP des Anwenders zufügt. Letzterer wird dadurch selbst besiegt.",
+      "en": "Unknown"
+    }
+  }
 }

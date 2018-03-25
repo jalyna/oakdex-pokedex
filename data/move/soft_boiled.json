@@ -22,10 +22,6 @@
     "pl": "Terapia Ciepłem",
     "en": "Soft-Boiled"
   },
-  "descriptions": {
-    "en": "Restores HP by 1/2 of the user's maximum HP. May also be used in the field.",
-    "de": "Attacken mit ähnlicher Wirkung sind: Heilbefehl, Genesung, Ruheort, Tagedieb, Milchgetränk, Synthese, Mondschein, Morgengrauen und Wunschtraum."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Restores HP by 1/2 the user's max HP.",
+      "de": "Füllt die KP zur Hälfte auf."
+    },
+    "Silver": {
+      "en": "Restores HP by 1/2 the user's max HP.",
+      "de": "Füllt die KP zur Hälfte auf."
+    },
+    "Crystal": {
+      "en": "Restores HP by 1/2 the user's max HP.",
+      "de": "Füllt KP zur Hälfte auf."
+    },
+    "Ruby": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "Sapphire": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "Emerald": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "FireRed": {
+      "en": "Heals the user by up to half its full HP. It can be used to heal an ally.",
+      "de": "Max. KP d. Anwenders werden halb aufgefüllt. Teamheilung möglich."
+    },
+    "LeafGreen": {
+      "en": "Heals the user by up to half its full HP. It can be used to heal an ally.",
+      "de": "Max. KP d. Anwenders werden halb aufgefüllt. Teamheilung möglich."
+    },
+    "Diamond": {
+      "en": "The user restores its own HP by up to half of its max HP. May be used in the field to heal HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "Pearl": {
+      "en": "The user restores its own HP by up to half of its max HP. May be used in the field to heal HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "Platinum": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "Max. KP des Anwenders werden halb aufgefüllt. Heilung vom Team außerhalb von Kämpfen."
+    },
+    "HeartGold": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "KP des Anwenders werden mit 50 % d. max. KP aufgefüllt. Heilung des Teams außerhalb v. Kämpfen."
+    },
+    "SoulSilver": {
+      "en": "The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally’s HP.",
+      "de": "KP des Anwenders werden mit 50 % d. max. KP aufgefüllt. Heilung des Teams außerhalb v. Kämpfen."
+    },
+    "Black": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung des Teams außerhalb von Kämpfen."
+    },
+    "White": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung des Teams außerhalb von Kämpfen."
+    },
+    "Black 2": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung des Teams außerhalb von Kämpfen."
+    },
+    "White 2": {
+      "en": "The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung des Teams außerhalb von Kämpfen."
+    },
+    "X": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "Y": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich."
+    },
+    "O.Ruby": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Moon": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Sun": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Ultra Moon": {
+      "en": "The user restores its own HP by up to half of its max HP.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt."
+    },
+    "Omega Ruby": {
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Heilung eines Verbündeten außerhalb von Kämpfen möglich.",
+      "en": "Unknown"
+    }
+  }
 }

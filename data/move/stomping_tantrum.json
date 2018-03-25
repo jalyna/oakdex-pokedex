@@ -7,10 +7,6 @@
     "es": "Pataleta"
   },
   "index_number": 707,
-  "descriptions": {
-    "en": "Stomping Tantrum does damage. If the user's previous move triggers the message \"But it failed!\" or had no effect on any target, Stomping Tantrum's power is doubled to 150.",
-    "de": "Schädigt den Gegner. Sollte der letzte Angriff vom Verwender von Fruststampfer daneben gegangen sein, wird die Stärke dieser Attacke auf 150 verdoppelt."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.",
+      "de": "Von Frust getrieben greift der Anwender an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke."
+    },
+    "Moon": {
+      "en": "Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.",
+      "de": "Von Frust getrieben greift der Anwender an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke."
+    },
+    "Ultra Sun": {
+      "en": "Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.",
+      "de": "Von Frust getrieben greift der Anwender an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke."
+    },
+    "Ultra Moon": {
+      "en": "Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.",
+      "de": "Von Frust getrieben greift der Anwender an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke."
+    }
+  }
 }

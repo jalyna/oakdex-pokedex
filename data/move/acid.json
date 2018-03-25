@@ -23,10 +23,6 @@
     "pl": "Kwas",
     "en": "Acid"
   },
-  "descriptions": {
-    "en": "A Poison-type attack. Has a one-in-three chance of lowering the target's Defense.",
-    "de": "Richtet mäßigen Schaden an. Wurde Schaden angerichtet, das gegnerische Pokémon aber nicht besiegt, so besteht eine 10% Chance, das der Verteidigungs-Wert des gegnerischen Pokémon um einen Level sinkt. Die Attacke schädigt im Doppelkampf beide Gegner, jeder von ihnen erleidet aber nur halben Schaden. Die 10% Chance zum Herabsetzen der Verteidigung bleibt erhalten. Es gibt bessere Attacken vom Typ Gift wie Matschbombe."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -57,5 +53,115 @@
       "stat": "sp_def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert des Gegners."
+    },
+    "Silver": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert des Gegners."
+    },
+    "Crystal": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert des Gegners."
+    },
+    "Ruby": {
+      "en": "Sprays a hide-melting acid. May lower DEFENSE.",
+      "de": "Versprüht ätzende Flüßigkeit, senkt evtl. VERT."
+    },
+    "Sapphire": {
+      "en": "Sprays a hide-melting acid. May lower DEFENSE.",
+      "de": "Versprüht ätzende Flüßigkeit, senkt evtl. VERT."
+    },
+    "Emerald": {
+      "en": "Sprays a hide-melting acid. May lower DEFENSE.",
+      "de": "Versprüht ätzende Flüßigkeit, senkt evtl. VERT."
+    },
+    "FireRed": {
+      "en": "The foe is sprayed with a harsh, hide-melting acid that may lower DEFENSE.",
+      "de": "Versprüht ätzende Flüssigkeit, die evtl. die VERT. senkt."
+    },
+    "LeafGreen": {
+      "en": "The foe is sprayed with a harsh, hide-melting acid that may lower DEFENSE.",
+      "de": "Versprüht ätzende Flüssigkeit, die evtl. die VERT. senkt."
+    },
+    "Diamond": {
+      "en": "The foe is attacked with a spray of harsh acid. It may also lower the target’s Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spez.-Verteidigung des Gegners senkt."
+    },
+    "Pearl": {
+      "en": "The foe is attacked with a spray of harsh acid. It may also lower the target’s Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spez.-Verteidigung des Gegners senkt."
+    },
+    "Platinum": {
+      "en": "The foe is attacked with a spray of harsh acid. It may also lower the target’s Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spez.-Verteidigung des Gegners senkt."
+    },
+    "HeartGold": {
+      "en": "The foe is attacked with a spray of harsh acid. It may also lower the target’s Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spez.-Verteidigung des Gegners senkt."
+    },
+    "SoulSilver": {
+      "en": "The foe is attacked with a spray of harsh acid. It may also lower the target’s Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spez.-Verteidigung des Gegners senkt."
+    },
+    "Black": {
+      "en": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets’ Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung des Zieles senkt."
+    },
+    "White": {
+      "en": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets’ Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung des Zieles senkt."
+    },
+    "Black 2": {
+      "en": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets’ Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung des Zieles senkt."
+    },
+    "White 2": {
+      "en": "The opposing team is attacked with a spray of harsh acid. The acid may also lower the targets’ Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung des Zieles senkt."
+    },
+    "X": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "Y": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "O.Ruby": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "Moon": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "Ultra Sun": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "Ultra Moon": {
+      "en": "The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.",
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt."
+    },
+    "Omega Ruby": {
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Versprüht ätzende Flüssigkeit, die eventuell die Spezial-Verteidigung der Gegner in der Nähe des Anwenders senkt.",
+      "en": "Unknown"
+    }
+  }
 }

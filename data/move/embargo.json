@@ -21,10 +21,6 @@
     "it": "Divieto",
     "en": "Embargo"
   },
-  "descriptions": {
-    "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
-    "de": "Das getroffene Pokémon kann keine Items benutzen und der Trainer des Pokémon kann keine Items auf dieses Pokémon anwenden für 5 Runden. Unter dem Einfluss von Itemsperre kann Katapult nicht eingesetzt werden."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -45,5 +41,83 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass der Gegner oder Trainer des Gegners Items verwenden kann.* (Attacken-Beschreibung)Verhindert, dass der Gegner Items einsetzt. Dies wirkt sich auch auf den gegnerischen Trainer aus.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass der Gegner oder Trainer des Gegners Items verwenden kann.* (Attacken-Beschreibung)Verhindert, dass der Gegner Items einsetzt. Dies wirkt sich auch auf den gegnerischen Trainer aus.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass der Gegner oder Trainer des Gegners Items verwenden kann.* (Attacken-Beschreibung)Verhindert, dass der Gegner Items einsetzt. Dies wirkt sich auch auf den gegnerischen Trainer aus.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass der Gegner oder Trainer des Gegners Items verwenden kann.* (Attacken-Beschreibung)Verhindert, dass der Gegner Items einsetzt. Dies wirkt sich auch auf den gegnerischen Trainer aus.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass der Gegner oder Trainer des Gegners Items verwenden kann.* (Attacken-Beschreibung)Verhindert, dass der Gegner Items einsetzt. Dies wirkt sich auch auf den gegnerischen Trainer aus.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden.* (Attacken-Beschreibung)Verhindert, dass das Ziel Items einsetzt. Dies wirkt sich auch auf den Trainer des Zieles aus.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden.* (Attacken-Beschreibung)Verhindert, dass das Ziel Items einsetzt. Dies wirkt sich auch auf den Trainer des Zieles aus.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden.* (Attacken-Beschreibung)Verhindert, dass das Ziel Items einsetzt. Dies wirkt sich auch auf den Trainer des Zieles aus.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden.* (Attacken-Beschreibung)Verhindert, dass das Ziel Items einsetzt. Dies wirkt sich auch auf den Trainer des Zieles aus.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden."
+    },
+    "Y": {
+      "en": "This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Verhindert, dass auf das Ziel Items verwendet werden."
+    },
+    "O.Ruby": {
+      "en": "This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "This move prevents the target from using its held item. Its Trainer is also prevented from using items on it.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.",
+      "de": "Das Ziel kann fünf Runden lang weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Das Ziel kann 5 Runden lang sein getragenes Item nicht einsetzen und es können auch keine Items auf es angewendet werden.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.",
+      "de": "Das Ziel kann fünf Runden lang weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Das Ziel kann 5 Runden lang sein getragenes Item nicht einsetzen und es können auch keine Items auf es angewendet werden.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.",
+      "de": "Das Ziel kann fünf Runden lang weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Das Ziel kann 5 Runden lang sein getragenes Item nicht einsetzen und es können auch keine Items auf es angewendet werden.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.",
+      "de": "Das Ziel kann fünf Runden lang weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Das Ziel kann 5 Runden lang sein getragenes Item nicht einsetzen und es können auch keine Items auf es angewendet werden.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Das Ziel kann weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Verhindert, dass auf das Ziel Items verwendet werden.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Ziel kann weder getragene Items nutzen, noch kann sein Trainer Items auf es anwenden.* (Attacken-Beschreibung)Verhindert, dass auf das Ziel Items verwendet werden.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

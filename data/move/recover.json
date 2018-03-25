@@ -23,10 +23,6 @@
     "pl": "Leczenie",
     "en": "Recover"
   },
-  "descriptions": {
-    "en": "Restores HP by 1/2 of the user's maximum HP. Few Pokémon learn this technique on their own.",
-    "de": "Das Pokémon gewinnt bis zur Hälfte seiner maximalen KP zurück. Ein Pokémon, welches im unbeschadeten Zustand 404 KP besitzt, würde bis zu 202 KP zurück erhalten. Die Anzahl der KP wird dabei abgerundet. Ein Pokémon mit 403 KP würde also nur 201 und nicht 201,5 KP gewinnen. Ein Pokémon bekommt jedoch klarerweise maximal so viele KP zurück, dass die anfänglichen KP vollgefüllt sind. Diese Attacke ist im Kampf extrem wertvoll, wenn das Pokémon von vorne herein eine halbwegs hohe Zahl an KP und gute defensive Statuswerte (Verteidigung und Spezial Verteidigung) besitzt. Der Einsatz auf defensiv schwachen Pokémon lohnt sich nicht. Attacken mit ähnlicher Wirkung sind: Morgengrauen, Heilbefehl, Tagedieb, Ruheort, Milchgetränk, Synthese, Mondschein, Wunschtraum und Weichei."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP zur Hälfte auf."
+    },
+    "Silver": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP zur Hälfte auf."
+    },
+    "Crystal": {
+      "en": "Restores HP by 1/2 the max HP.",
+      "de": "Füllt KP zur Hälfte auf."
+    },
+    "Ruby": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "Sapphire": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "Emerald": {
+      "en": "Recovers up to half the user’s maximum HP.",
+      "de": "Max. KP des Anwenders w. bis zur Hälfte aufgefüllt."
+    },
+    "FireRed": {
+      "en": "A self-healing move that restores HP by up to half of the user’s maximum HP.",
+      "de": "Max. KP des Anwenders wird bis zur Hälfte aufgefüllt."
+    },
+    "LeafGreen": {
+      "en": "A self-healing move that restores HP by up to half of the user’s maximum HP.",
+      "de": "Max. KP des Anwenders wird bis zur Hälfte aufgefüllt."
+    },
+    "Diamond": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt."
+    },
+    "Pearl": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt."
+    },
+    "Platinum": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt."
+    },
+    "HeartGold": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt."
+    },
+    "SoulSilver": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden mit 50 % d. max. KP aufgefüllt."
+    },
+    "Black": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "White": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Black 2": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "White 2": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "X": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Y": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "O.Ruby": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Moon": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Ultra Sun": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Ultra Moon": {
+      "en": "Restoring its own cells, the user restores its own HP by half of its max HP.",
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt."
+    },
+    "Omega Ruby": {
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Eine Selbstheilung. KP des Anwenders werden um 50 % des maximalen Wertes aufgefüllt.",
+      "en": "Unknown"
+    }
+  }
 }

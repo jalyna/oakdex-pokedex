@@ -22,10 +22,6 @@
     "pl": "Kamienny Grom",
     "en": "Rock Smash"
   },
-  "descriptions": {
-    "en": "A Fighting-type attack. In the field, it can be used to shatter rocks and open new paths.",
-    "de": "Schädigt und senkt mit einer Wahrscheinlichkeit von 50% die gegnerische Verteidigung. Außerhalb des Kampfes können Felsen zerschmettert werden. Ist sehr unbrauchbar, da Zertrümmerer nur minimalen Schaden macht und so nicht viel bringt."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -52,5 +48,115 @@
       "stat": "def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert."
+    },
+    "Silver": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert."
+    },
+    "Crystal": {
+      "en": "An attack that may lower DEFENSE.",
+      "de": "Senkt evtl. VERT-Wert."
+    },
+    "Ruby": {
+      "en": "A rock-crushing attack that may lower DEFENSE.",
+      "de": "Zertrümmernder Angriff, der evtl. VERT.-Wert senkt.* (Attacken-Beschreibung)Steinbrecherische Attacke, die VERT.-Wert senken kann.* (VM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "A rock-crushing attack that may lower DEFENSE.",
+      "de": "Zertrümmernder Angriff, der evtl. VERT.-Wert senkt.* (Attacken-Beschreibung)Steinbrecherische Attacke, die VERT.-Wert senken kann.* (VM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "A rock-crushing attack that may lower DEFENSE.",
+      "de": "Zertrümmernder Angriff, der evtl. VERT.-Wert senkt.* (Attacken-Beschreibung)Steinbrecherische Attacke, die VERT.-Wert senken kann.* (VM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that may also cut DEFENSE. It can also smash cracked boulders.",
+      "de": "Zertrümmernder Angriff, auch bei Steinen. Senkt evtl. die VERT.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den VERT.-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that may also cut DEFENSE. It can also smash cracked boulders.",
+      "de": "Zertrümmernder Angriff, auch bei Steinen. Senkt evtl. die VERT.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den VERT.-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user slugs the foe with a shattering punch. It can also smash cracked boulders.",
+      "de": "Zertrümmernder Angriff auf den Gegner. Kann auch Steine zertrümmern.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den Verteidigungs-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user slugs the foe with a shattering punch. It can also smash cracked boulders.",
+      "de": "Zertrümmernder Angriff auf den Gegner. Kann auch Steine zertrümmern.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den Verteidigungs-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user slugs the foe with a shattering punch. It can also smash cracked boulders.",
+      "de": "Zertrümmernder Angriff auf den Gegner. Kann auch Steine zertrümmern.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den Verteidigungs-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user hits with a punch that may lower the target’s Defense. It can also smash cracked boulders.",
+      "de": "Angriff, der eventuell die Verteidigung des Gegners senkt. Kann auch Steine zertrümmern.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den Verteidigungs-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user hits with a punch that may lower the target’s Defense. It can also smash cracked boulders.",
+      "de": "Angriff, der eventuell die Verteidigung des Gegners senkt. Kann auch Steine zertrümmern.* (Attacken-Beschreibung)Steinbrecherische Attacke, die den Verteidigungs-Wert senken kann. Kleine Felsen können zerschmettert werden.* (VM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user attacks with a punch that can shatter a rock. It may also lower the target’s Defense stat.",
+      "de": "Steinbrechende Attacke, die den Verteidigungs-Wert des Zieles senken kann."
+    },
+    "White": {
+      "en": "The user attacks with a punch that can shatter a rock. It may also lower the target’s Defense stat.",
+      "de": "Steinbrechende Attacke, die den Verteidigungs-Wert des Zieles senken kann."
+    },
+    "Black 2": {
+      "en": "The user attacks with a punch that can shatter a rock. It may also lower the target’s Defense stat.",
+      "de": "Steinbrechende Attacke, die den Verteidigungs-Wert des Zieles senken kann."
+    },
+    "White 2": {
+      "en": "The user attacks with a punch that can shatter a rock. It may also lower the target’s Defense stat.",
+      "de": "Steinbrechende Attacke, die den Verteidigungs-Wert des Zieles senken kann."
+    },
+    "X": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat. This move can also shatter rocks in the field.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken und außerhalb von Kämpfen rissige Felsen zertrümmern.* (Attacken-Beschreibung)Der Anwender greift mit einem Hieb an, der den Verteidigungs-Wert des Zieles senken kann. Damit können auch Steine zerschlagen werden.* (TM/VM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat. This move can also shatter rocks in the field.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken und außerhalb von Kämpfen rissige Felsen zertrümmern.* (Attacken-Beschreibung)Der Anwender greift mit einem Hieb an, der den Verteidigungs-Wert des Zieles senken kann. Damit können auch Steine zerschlagen werden.* (TM/VM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat. This move can also shatter rocks in the field.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat. This move can also shatter rocks in the field.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken."
+    },
+    "Moon": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks with a punch. This may also lower the target’s Defense stat.",
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken."
+    },
+    "Omega Ruby": {
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken und außerhalb von Kämpfen rissige Felsen zertrümmern.* (Attacken-Beschreibung)Der Anwender greift mit einem Hieb an, der den Verteidigungs-Wert des Zieles senken kann. Damit können auch Steine zerschlagen werden.* (TM/VM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Diese steinbrechende Attacke kann den Verteidigungs-Wert des Zieles senken und außerhalb von Kämpfen rissige Felsen zertrümmern.* (Attacken-Beschreibung)Der Anwender greift mit einem Hieb an, der den Verteidigungs-Wert des Zieles senken kann. Damit können auch Steine zerschlagen werden.* (TM/VM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

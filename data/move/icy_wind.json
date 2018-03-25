@@ -22,10 +22,6 @@
     "pl": "Lodowy Wiatr",
     "en": "Icy Wind"
   },
-  "descriptions": {
-    "en": "An Ice-type attack. It is guaranteed to reduce the target's Speed if it hits.",
-    "de": "Schädigt den Gegner und senkt seinen Initiative-Wert um 1 Level (50%)."
-  },
   "type": "Ice",
   "contests": [
     {
@@ -52,5 +48,115 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An icy attack that lowers SPEED.",
+      "de": "Senkt INIT-Wert des Gegners."
+    },
+    "Silver": {
+      "en": "An icy attack that lowers SPEED.",
+      "de": "Senkt INIT-Wert des Gegners."
+    },
+    "Crystal": {
+      "en": "An icy attack that lowers SPEED.",
+      "de": "Senkt INIT-Wert des Gegners."
+    },
+    "Ruby": {
+      "en": "A chilling attack that lowers the foe’s SPEED.",
+      "de": "Eis-Attacke, die den INIT.-Wert des Gegners senkt."
+    },
+    "Sapphire": {
+      "en": "A chilling attack that lowers the foe’s SPEED.",
+      "de": "Eis-Attacke, die den INIT.-Wert des Gegners senkt."
+    },
+    "Emerald": {
+      "en": "A chilling attack that lowers the foe’s SPEED.",
+      "de": "Eis-Attacke, die den INIT.-Wert des Gegners senkt."
+    },
+    "FireRed": {
+      "en": "A chilling wind is used to attack. It also lowers the SPEED stat.",
+      "de": "Eis-Attacke, die den INIT.-Wert des Gegners senkt."
+    },
+    "LeafGreen": {
+      "en": "A chilling wind is used to attack. It also lowers the SPEED stat.",
+      "de": "Eis-Attacke, die den INIT.-Wert des Gegners senkt."
+    },
+    "Diamond": {
+      "en": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+      "de": "Eis-Attacke, die den Initiative-Wert des Gegners senkt."
+    },
+    "Pearl": {
+      "en": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+      "de": "Eis-Attacke, die den Initiative-Wert des Gegners senkt."
+    },
+    "Platinum": {
+      "en": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+      "de": "Eis-Attacke, die den Initiative-Wert des Gegners senkt."
+    },
+    "HeartGold": {
+      "en": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+      "de": "Eis-Attacke, die den Initiative-Wert des Gegners senkt."
+    },
+    "SoulSilver": {
+      "en": "The user attacks with a gust of chilled air. It also lowers the target’s Speed stat.",
+      "de": "Eis-Attacke, die den Initiative-Wert des Gegners senkt."
+    },
+    "Black": {
+      "en": "The user attacks with a gust of chilled air. It also reduces the targets’ Speed stat.",
+      "de": "Eis-Attacke, die dem Gegner Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "White": {
+      "en": "The user attacks with a gust of chilled air. It also reduces the targets’ Speed stat.",
+      "de": "Eis-Attacke, die dem Gegner Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Black 2": {
+      "en": "The user attacks with a gust of chilled air. It also reduces the targets’ Speed stat.",
+      "de": "Eis-Attacke, die dem Gegner Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "White 2": {
+      "en": "The user attacks with a gust of chilled air. It also reduces the targets’ Speed stat.",
+      "de": "Eis-Attacke, die dem Gegner Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "X": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Y": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "O.Ruby": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Moon": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.",
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt."
+    },
+    "Omega Ruby": {
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Eis-Attacke, die dem Ziel Schaden zufügt und seinen Initiative-Wert senkt.",
+      "en": "Unknown"
+    }
+  }
 }

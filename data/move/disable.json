@@ -22,10 +22,6 @@
     "it": "Inibitore",
     "en": "Disable"
   },
-  "descriptions": {
-    "en": "A technique that disables one of the target's moves. The disabled move can't be used until it wears off.",
-    "de": "Dem gegnerische Pokémon wird die zuletzt verwendete Attacke für 4-7 Runden blockiert und kann so in diesem Zeitraum nicht mehr benutzt werden. Es kann immer nur eine Attacke pro Pokémon gleichzeitig blockiert werden. Die Attacke schlägt fehl, wenn der Gegner keine Attacke einsetzte. Wird die Attacke blockiert, die der Gegner gerade einsetzen wollte, schlägt diese fehl."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Disables the foe's most recent move.",
+      "de": "Blockiert letzte Attacke des Gegners."
+    },
+    "Silver": {
+      "en": "Disables the foe's most recent move.",
+      "de": "Blockiert letzte Attacke des Gegners."
+    },
+    "Crystal": {
+      "en": "Disables the foe's most recent move.",
+      "de": "Blockiert letzte Attacke des Gegners."
+    },
+    "Ruby": {
+      "en": "Psychically disables one of the foe’s moves.",
+      "de": "Psycho-Attacke. Blockiert eine Attacke des Gegners."
+    },
+    "Sapphire": {
+      "en": "Psychically disables one of the foe’s moves.",
+      "de": "Psycho-Attacke. Blockiert eine Attacke des Gegners."
+    },
+    "Emerald": {
+      "en": "Psychically disables one of the foe’s moves.",
+      "de": "Psycho-Attacke. Blockiert eine Attacke des Gegners."
+    },
+    "FireRed": {
+      "en": "For a few turns, it prevents the foe from using the move it last used.",
+      "de": "Die zuletzt benutzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "LeafGreen": {
+      "en": "For a few turns, it prevents the foe from using the move it last used.",
+      "de": "Die zuletzt benutzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "Diamond": {
+      "en": "For several turns, this move prevents the foe from using the move it last used.",
+      "de": "Die zuletzt eingesetzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "Pearl": {
+      "en": "For several turns, this move prevents the foe from using the move it last used.",
+      "de": "Die zuletzt eingesetzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "Platinum": {
+      "en": "For several turns, this move prevents the foe from using the move it last used.",
+      "de": "Die zuletzt eingesetzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "HeartGold": {
+      "en": "For several turns, this move prevents the foe from using the move it last used.",
+      "de": "Die zuletzt eingesetzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "SoulSilver": {
+      "en": "For several turns, this move prevents the foe from using the move it last used.",
+      "de": "Die zuletzt eingesetzte gegn. Attacke wird für mehrere Runden blockiert."
+    },
+    "Black": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "White": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "Black 2": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "White 2": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "X": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "Y": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert."
+    },
+    "O.Ruby": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für vier Runden blockiert."
+    },
+    "Moon": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für vier Runden blockiert."
+    },
+    "Ultra Sun": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für vier Runden blockiert."
+    },
+    "Ultra Moon": {
+      "en": "For four turns, this move prevents the target from using the move it last used.",
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für vier Runden blockiert."
+    },
+    "Omega Ruby": {
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Die zuletzt eingesetzte Attacke des Zieles wird für mehrere Runden blockiert.",
+      "en": "Unknown"
+    }
+  }
 }

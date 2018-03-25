@@ -20,10 +20,6 @@
     "it": "Cediregalo",
     "en": "Bestow"
   },
-  "descriptions": {
-    "en": "The user passes its held item to the target when the target isn't holding an item.",
-    "de": "Der Anwender gibt dem Ziel das von ihm getragene Item. Die Attacke schlägt immer fehl, wenn der Anwender einen Brief, einen Megastein oder kein Item trägt. Führt das Ziel bereits ein Item mit sich oder befindet es sich hinter einem Delegator, schlägt Offerte ebenfalls fehl."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -32,5 +28,63 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "White": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Black 2": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "White 2": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "X": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Y": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "O.Ruby": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Moon": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Ultra Sun": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Ultra Moon": {
+      "en": "The user passes its held item to the target when the target isn’t holding an item.",
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet."
+    },
+    "Omega Ruby": {
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Trägt das Ziel gerade kein Item bei sich, erhält es das Item, das sich aktuell im Besitz des Anwenders befindet.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -24,10 +24,6 @@
     "pl": "Psychiczny Cios",
     "en": "Psychic"
   },
-  "descriptions": {
-    "en": "A Psychic-type attack. Has a one-in-three chance of lowering the target's Special rating.",
-    "de": "Gute Attacke, richtet Schaden an. Seit der zweiten Generation besteht eine Chance von 10% die (vorher 30%) Spezial-Verteidigung des Gegners um eine Stufe zu senken."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -54,5 +50,115 @@
       "stat": "sp_def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ-VER. des Gegners."
+    },
+    "Silver": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ-VER. des Gegners."
+    },
+    "Crystal": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ.-VER des Gegners."
+    },
+    "Ruby": {
+      "en": "A powerful psychic attack that may lower SP. DEF.",
+      "de": "Starke Psycho-Attacke, die evtl. SPEZ. VERT. senkt.* (Attacken-Beschreibung)Starke PSYCHO-Attacke, die SP. VERT. senken kann."
+    },
+    "Sapphire": {
+      "en": "A powerful psychic attack that may lower SP. DEF.",
+      "de": "Starke Psycho-Attacke, die evtl. SPEZ. VERT. senkt.* (Attacken-Beschreibung)Starke PSYCHO-Attacke, die SP. VERT. senken kann."
+    },
+    "Emerald": {
+      "en": "A powerful psychic attack that may lower SP. DEF.",
+      "de": "Starke Psycho-Attacke, die evtl. SPEZ. VERT. senkt.* (Attacken-Beschreibung)Starke PSYCHO-Attacke, die SP. VERT. senken kann."
+    },
+    "FireRed": {
+      "en": "A strong telekinetic attack. It may also lower the foe’s SP. DEF stat.",
+      "de": "Starke Psycho-Attacke, die evtl. die SP. VER. senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Der SP. VER.-Wert sinkt evtl.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A strong telekinetic attack. It may also lower the foe’s SP. DEF stat.",
+      "de": "Starke Psycho-Attacke, die evtl. die SP. VER. senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Der SP. VER.-Wert sinkt evtl.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die evtl. Spezial-Verteidigung senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Die Spezial-Verteidigung des Gegners sinkt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die evtl. Spezial-Verteidigung senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Die Spezial-Verteidigung des Gegners sinkt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die evtl. Spezial-Verteidigung senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Die Spezial-Verteidigung des Gegners sinkt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die evtl. Spezial-Verteidigung des Gegners senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Die Spezial-Verteidigung des Gegners sinkt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die evtl. Spezial-Verteidigung des Gegners senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft den Gegner. Die Spezial-Verteidigung des Gegners sinkt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt evtl.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt evtl.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt evtl.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt evtl.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt.* (Attacken-Beschreibung)Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

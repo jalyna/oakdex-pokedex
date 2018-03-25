@@ -21,10 +21,6 @@
     "it": "Maledizione",
     "en": "Curse"
   },
-  "descriptions": {
-    "en": "Raises Attack and Defense at the expense of Speed. It works differently for the Ghost type.",
-    "de": "Die Wirkung variiert je nachdem, ob der Anwender vom Typ Geist ist oder nicht. Geistpokémon verfluchen den Gegner, ziehen sich selbst 50% ihrer maximalen KP ab und dem gegnerischen Pokemon wird in jeder Runde 1/4 der KP abgezogen. Der Effekt hört nicht auf, wenn der Anwender besiegt wurde und kann nur durch Auswechseln beendet werden. Der Einsatz von Staffette gibt den Fluch-Status an das einwechselnde Pokemon weiter."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -59,5 +55,115 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Works differently for ghost-types.",
+      "de": "Bes. Funktion bei Geist-POKéMON."
+    },
+    "Silver": {
+      "en": "Works differently for ghost-types.",
+      "de": "Bes. Funktion bei Geist-POKéMON."
+    },
+    "Crystal": {
+      "en": "Works differently for ghost-types.",
+      "de": "Bes. Funktion bei Geist-POKéMON."
+    },
+    "Ruby": {
+      "en": "A move that functions differently for GHOSTS.",
+      "de": "Ein Angriff, der bei GEIST-PKMN anders funktioniert."
+    },
+    "Sapphire": {
+      "en": "A move that functions differently for GHOSTS.",
+      "de": "Ein Angriff, der bei GEIST-PKMN anders funktioniert."
+    },
+    "Emerald": {
+      "en": "A move that functions differently for GHOSTS.",
+      "de": "Ein Angriff, der bei GEIST-PKMN anders funktioniert."
+    },
+    "FireRed": {
+      "en": "A move that works differently for the GHOST-type and all the other types.",
+      "de": "Ein Angriff, der bei GEIST-PKMN anders funktioniert."
+    },
+    "LeafGreen": {
+      "en": "A move that works differently for the GHOST-type and all the other types.",
+      "de": "Ein Angriff, der bei GEIST-PKMN anders funktioniert."
+    },
+    "Diamond": {
+      "en": "A move that works differently for the Ghost type than for all the other types.",
+      "de": "Ein Angriff, der bei Geist-Pokémon anders funktioniert."
+    },
+    "Pearl": {
+      "en": "A move that works differently for the Ghost type than for all the other types.",
+      "de": "Ein Angriff, der bei Geist-Pokémon anders funktioniert."
+    },
+    "Platinum": {
+      "en": "A move that works differently for the Ghost type than for all the other types.",
+      "de": "Eine Attacke, die bei Geist-Pokémon anders funktioniert."
+    },
+    "HeartGold": {
+      "en": "A move that works differently for the Ghost type than for all the other types.",
+      "de": "Eine Attacke, die bei Geist-Pokémon anders funktioniert."
+    },
+    "SoulSilver": {
+      "en": "A move that works differently for the Ghost type than for all the other types.",
+      "de": "Eine Attacke, die bei Geist-Pokémon anders funktioniert."
+    },
+    "Black": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "White": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "Black 2": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "White 2": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "X": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "Y": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geist-Pokémon ist."
+    },
+    "O.Ruby": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist."
+    },
+    "Moon": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist."
+    },
+    "Ultra Sun": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist."
+    },
+    "Ultra Moon": {
+      "en": "A move that works differently for the Ghost type than for all other types.",
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist."
+    },
+    "Omega Ruby": {
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Attacke, deren Wirkung davon abhängt, ob der Anwender ein Geister-Pokémon ist.",
+      "en": "Unknown"
+    }
+  }
 }

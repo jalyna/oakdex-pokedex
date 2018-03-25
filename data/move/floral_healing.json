@@ -7,10 +7,6 @@
     "es": "Cura Floral"
   },
   "index_number": 666,
-  "descriptions": {
-    "en": "Floral Healing restores up to ½ of the target's maximum HP. If Grassy Terrain is in effect, Floral Healing will restore up to ⅔ of the target's maximum HP.",
-    "de": "Heilt das Ziel um 50% der maximalen KP. Wenn Grasfeld aktiv ist, werden die KP um 75% aufgefüllt."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.",
+      "de": "KP des Zieles werden um 50 % der maximalen KP aufgefüllt. Die Wirkung steigt, wenn der Untergrund in ein Grasfeld verwandelt wurde."
+    },
+    "Moon": {
+      "en": "The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.",
+      "de": "KP des Zieles werden um 50 % der maximalen KP aufgefüllt. Die Wirkung steigt, wenn der Untergrund in ein Grasfeld verwandelt wurde."
+    },
+    "Ultra Sun": {
+      "en": "The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.",
+      "de": "KP des Zieles werden um 50 % der maximalen KP aufgefüllt. Die Wirkung steigt, wenn der Untergrund in ein Grasfeld verwandelt wurde."
+    },
+    "Ultra Moon": {
+      "en": "The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.",
+      "de": "KP des Zieles werden um 50 % der maximalen KP aufgefüllt. Die Wirkung steigt, wenn der Untergrund in ein Grasfeld verwandelt wurde."
+    }
+  }
 }

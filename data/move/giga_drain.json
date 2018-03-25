@@ -22,10 +22,6 @@
     "pl": "Giga Odpływ",
     "en": "Giga Drain"
   },
-  "descriptions": {
-    "en": "Half of the HP drained from the target is added to the attacker's HP.",
-    "de": "Verursacht Schaden beim Gegner. Die Hälfte der abgezogenen KPs werden dem eigenem Pokémon wieder hinzugefügt."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 4,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Steals 1/2 of the damage inflicted.",
+      "de": "Erhält Hälfte des Schadens."
+    },
+    "Silver": {
+      "en": "Steals 1/2 of the damage inflicted.",
+      "de": "Erhält Hälfte des Schadens."
+    },
+    "Crystal": {
+      "en": "Steals 1/2 of the damage inflicted.",
+      "de": "Erhält Hälfte des Schadens."
+    },
+    "Ruby": {
+      "en": "An attack that steals half the damage inflicted.",
+      "de": "Absorbiert die Hälfte des angericheten Schadens.* (Attacken-Beschreibung)Füllt KP um die Hälfte der zugefügten Schadenspunkte.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "An attack that steals half the damage inflicted.",
+      "de": "Absorbiert die Hälfte des angericheten Schadens.* (Attacken-Beschreibung)Füllt KP um die Hälfte der zugefügten Schadenspunkte.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "An attack that steals half the damage inflicted.",
+      "de": "Absorbiert die Hälfte des angericheten Schadens.* (Attacken-Beschreibung)Füllt KP um die Hälfte der zugefügten SP auf.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A harsh attack that absorbs half the damage it inflicted to restore HP.",
+      "de": "Starke Attacke! Absorbiert die Hälfte des angerichteten Schadens.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A harsh attack that absorbs half the damage it inflicted to restore HP.",
+      "de": "Starke Attacke! Absorbiert die Hälfte des angerichteten Schadens.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Starke Attacke! Absorbiert die Hälfte des angerichteten Schadens.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Starke Attacke! Absorbiert die Hälfte des angerichteten Schadens.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Entzieht dem Gegner Nährstoffe. Die Hälfte des Schadens wird den KP des Anwenders zugerechnet.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Entzieht dem Gegner Nährstoffe. Die Hälfte des Schadens wird den KP des Anwenders zugerechnet.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Entzieht dem Gegner Nährstoffe. Die Hälfte des Schadens wird den KP des Anwenders zugerechnet.* (Attacken-Beschreibung)Der Gegner wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "White": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Black 2": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "White 2": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "X": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Y": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "O.Ruby": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Moon": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Ultra Sun": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Ultra Moon": {
+      "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben."
+    },
+    "Omega Ruby": {
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Angreifer als KP gutgeschrieben.",
+      "en": "Unknown"
+    }
+  }
 }

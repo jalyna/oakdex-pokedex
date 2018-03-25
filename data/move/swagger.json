@@ -21,10 +21,6 @@
     "it": "Bullo",
     "en": "Swagger"
   },
-  "descriptions": {
-    "en": "A move that infuriates and confuses the opponent, but it increases the target's Attack.",
-    "de": "Der Gegner wird durch diese Attacke verwirrt; gleichzeitig steigt sein Angriffswert um zwei Stufen (+100%). Der Schaden, den sich ein Pokémon durch Selbstangriff bei Verwirrung zufügt, ist umso höher, je höher der Angriffswert ist, wenn es eine physische Attacke benutzt. Angeberei sollte jedoch niemals gegen Pokémon mit physischen Attacken gerichtet werden, weil diese dadurch wesentlich stärker werden und die Verwirrung jederzeit aufhören kann. Angeberei schlägt immer fehl, wenn der Angriffswert bereits 6 Stufen über dem Ausgangswert ist. Das heißt: Sollte Angeberei bereits 3 mal gegen ein Pokémon gerichtet worden sein, und wurden die Statusveränderungen noch nicht (z.B. durch Tausch oder Dunkelnebel) wiederhergestellt, schlägt Angeberei fehl. Wenn das angegriffene Pokémon durch einen Delegator geschützt wird, steigt zwar der Angriff dieses Pokémons, es wird jedoch nicht verwirrt. Sollte das Ziel bereits verwirrt sein, steigt sein Angriff."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -51,5 +47,115 @@
       "stat": "atk",
       "change_by": 2
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Causes confusion and raises ATTACK.",
+      "de": "Verwirrt und hebt ANGR-Wert."
+    },
+    "Silver": {
+      "en": "Causes confusion and raises ATTACK.",
+      "de": "Verwirrt und hebt ANGR-Wert."
+    },
+    "Crystal": {
+      "en": "Causes confusion and raises ATTACK.",
+      "de": "Verwirrt und hebt ANGR-Wert."
+    },
+    "Ruby": {
+      "en": "Confuses the foe, but also sharply raises ATTACK.",
+      "de": "Verwirrt den Gegner und erhöht ANGR.-Wert deutlich."
+    },
+    "Sapphire": {
+      "en": "Confuses the foe, but also sharply raises ATTACK.",
+      "de": "Verwirrt den Gegner und erhöht ANGR.-Wert deutlich."
+    },
+    "Emerald": {
+      "en": "Confuses the foe, but also sharply raises ATTACK.",
+      "de": "Verwirrt den Gegner und erhöht ANGR.-Wert deutlich."
+    },
+    "FireRed": {
+      "en": "A move that makes the foe confused, but also sharply raises its ATTACK.",
+      "de": "Verwirrt den Gegner und erhöht den ANGR.-Wert deutlich."
+    },
+    "LeafGreen": {
+      "en": "A move that makes the foe confused, but also sharply raises its ATTACK.",
+      "de": "Verwirrt den Gegner und erhöht den ANGR.-Wert deutlich."
+    },
+    "Diamond": {
+      "en": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+      "de": "Verwirrt den Gegner und erhöht den gegnerischen Angriffs-Wert deutlich.* (Attacken-Beschreibung)Reizt den Gegner und verursacht Verwirrung. Erhöht jedoch den gegnerischen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+      "de": "Verwirrt den Gegner und erhöht den gegnerischen Angriffs-Wert deutlich.* (Attacken-Beschreibung)Reizt den Gegner und verursacht Verwirrung. Erhöht jedoch den gegnerischen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+      "de": "Verwirrt den Gegner und erhöht den gegnerischen Angriffs-Wert deutlich.* (Attacken-Beschreibung)Reizt den Gegner und verursacht Verwirrung. Erhöht jedoch den gegnerischen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+      "de": "Verwirrt den Gegner und erhöht den gegnerischen Angriffs-Wert deutlich.* (Attacken-Beschreibung)Reizt den Gegner und verursacht Verwirrung. Erhöht jedoch den gegnerischen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.",
+      "de": "Verwirrt den Gegner und erhöht den gegnerischen Angriffs-Wert deutlich.* (Attacken-Beschreibung)Reizt den Gegner und verursacht Verwirrung. Erhöht jedoch den gegnerischen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung. Dies erhöht jedoch dessen Angriffs-Wert.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verwirrt das Ziel und erhöht dessen Angriffs-Wert stark.* (Attacken-Beschreibung)Reizt das Ziel und verursacht Verwirrung, allerdings wird auch dessen Angriffs-Wert stark erhöht.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

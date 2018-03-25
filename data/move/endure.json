@@ -21,10 +21,6 @@
     "it": "Resistenza",
     "en": "Endure"
   },
-  "descriptions": {
-    "en": "Always leaves the user with at least one HP. Success rate decreases if used repeatedly.",
-    "de": "Nach einem Angriff auf das eigene Pokémon bleibt mindestens 1 KP übrig. Hauptsächlich verwendet, um werteerhöhende Beeren sicher zu aktivieren, oft auch mit Gegenschlag oder Dreschflegel kombiniert. Ausdauer bietet keinen Schutz vor Wettereffekten und Statusveränderungen."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Always leaves at least 1HP.",
+      "de": "Mindestens 1 KP bleibt übrig."
+    },
+    "Silver": {
+      "en": "Always leaves at least 1HP.",
+      "de": "Mindestens 1 KP bleibt übrig."
+    },
+    "Crystal": {
+      "en": "Always leaves at least 1HP.",
+      "de": "Mindestens 1 KP bleibt übrig."
+    },
+    "Ruby": {
+      "en": "Endures any attack for 1 turn, leaving at least 1HP.",
+      "de": "Hält jeder Attacke 1 Runde stand. 1KP bleibt stets."
+    },
+    "Sapphire": {
+      "en": "Endures any attack for 1 turn, leaving at least 1HP.",
+      "de": "Hält jeder Attacke 1 Runde stand. 1KP bleibt stets."
+    },
+    "Emerald": {
+      "en": "Endures any attack for 1 turn, leaving at least 1HP.",
+      "de": "Hält jeder Attacke 1 Runde stand. 1KP bleibt stets."
+    },
+    "FireRed": {
+      "en": "The user endures any hit with 1 HP left. It may fail if used in succession.",
+      "de": "1 KP bleibt stets übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "LeafGreen": {
+      "en": "The user endures any hit with 1 HP left. It may fail if used in succession.",
+      "de": "1 KP bleibt stets übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Diamond": {
+      "en": "The user endures any attack, leaving 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "1 KP bleibt nach gegn. Attacken stets übrig. Misserfolg bei Wiederholung möglich.* (Attacken-Beschreibung)Der Anwender übersteht auch starke Attacken mit mindestens 1 KP. Kann bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user endures any attack, leaving 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "1 KP bleibt nach gegn. Attacken stets übrig. Misserfolg bei Wiederholung möglich.* (Attacken-Beschreibung)Der Anwender übersteht auch starke Attacken mit mindestens 1 KP. Kann bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user endures any attack, leaving 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "1 KP bleibt nach gegn. Attacken stets übrig. Misserfolg bei Wiederholung möglich.* (Attacken-Beschreibung)Der Anwender übersteht auch starke Attacken mit mindestens 1 KP. Kann bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "1 KP bleibt nach gegn. Attacken stets übrig. Misserfolg bei Wiederholung möglich.* (Attacken-Beschreibung)Der Anwender übersteht auch starke Attacken mit mindestens 1 KP. Kann bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "1 KP bleibt nach gegn. Attacken stets übrig. Misserfolg bei Wiederholung möglich.* (Attacken-Beschreibung)Der Anwender übersteht auch starke Attacken mit mindestens 1 KP. Kann bei häufigem Einsatz versagen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "White": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Black 2": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "White 2": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "X": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Y": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "O.Ruby": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Moon": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Ultra Sun": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Ultra Moon": {
+      "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich."
+    },
+    "Omega Ruby": {
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Nach fatalen Attacken bleibt stets 1 KP übrig. Misserfolg bei Wiederholung möglich.",
+      "en": "Unknown"
+    }
+  }
 }

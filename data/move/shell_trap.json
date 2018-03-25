@@ -7,10 +7,6 @@
     "es": "Coraza Trampa"
   },
   "index_number": 704,
-  "descriptions": {
-    "en": "Shell Trap is a decreased priority move. The user sets up a trap at the beginning of the turn, then executes the move Shell Trap at -3 priority if has been hit by a physical move from an opponent this turn. If the user has not been hit by an opponent's physical move at the time it would execute Shell Trap, Shell Trap fails.",
-    "de": "Am Anfang einer Runde platziert der Anwender quasi eine Falle. Sollte er von einer physischen Attacke in der gleichen Runde getroffen werden, aktiviert sich die Panzerfalle mit einer Priorität von -3."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "critical_hit": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.",
+      "de": "Der Anwender legt eine Panzerfalle. Wird er von einer physischen Attacke getroffen, explodiert die Falle und fügt dem Angreifer Schaden zu."
+    },
+    "Moon": {
+      "en": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.",
+      "de": "Der Anwender legt eine Panzerfalle. Wird er von einer physischen Attacke getroffen, explodiert die Falle und fügt dem Angreifer Schaden zu."
+    },
+    "Ultra Sun": {
+      "en": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.",
+      "de": "Der Anwender legt eine Panzerfalle. Wird er von einer physischen Attacke getroffen, explodiert die Falle und fügt dem Angreifer Schaden zu."
+    },
+    "Ultra Moon": {
+      "en": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.",
+      "de": "Der Anwender legt eine Panzerfalle. Wird er von einer physischen Attacke getroffen, explodiert die Falle und fügt dem Angreifer Schaden zu."
+    }
+  }
 }
