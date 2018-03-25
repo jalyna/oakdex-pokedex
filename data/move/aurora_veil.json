@@ -7,10 +7,6 @@
     "es": "Velo Aurora"
   },
   "index_number": 694,
-  "descriptions": {
-    "en": "Aurora Veil reduces the damage done to the user by physical and special moves for five turns by half; in battles with allies, Aurora Veil protects the user and all allies, but only reduces damage by a third rather than half. It does not reduce damage done by moves that deal direct damage. Aurora Veil can only be used during hail, but the effect remains even after the hail ends; Cloud Nine and Air Lock will cause Aurora Veil to fail even if it is hailing. The damage reduction stacks with the effects of Reflect and Light Screen.",
-    "de": "Halbiert für alle verbündeten Pokémon 5 Runden lang den erlittenen Schaden durch physische und spezielle Attacken."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.",
+      "de": "Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Hagel eingesetzt werden.* (Attacken-Beschreibung)Schwächt fünf Runden lang den Schaden durch physische sowie Spezial-Attacken ab. Diese Attacke kann nur bei Hagel eingesetzt werden.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.",
+      "de": "Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Hagel eingesetzt werden.* (Attacken-Beschreibung)Schwächt fünf Runden lang den Schaden durch physische sowie Spezial-Attacken ab. Diese Attacke kann nur bei Hagel eingesetzt werden.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.",
+      "de": "Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Hagel eingesetzt werden.* (Attacken-Beschreibung)Schwächt fünf Runden lang den Schaden durch physische sowie Spezial-Attacken ab. Diese Attacke kann nur bei Hagel eingesetzt werden.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.",
+      "de": "Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Hagel eingesetzt werden.* (Attacken-Beschreibung)Schwächt fünf Runden lang den Schaden durch physische sowie Spezial-Attacken ab. Diese Attacke kann nur bei Hagel eingesetzt werden.* (TM-Beschreibung)"
+    }
+  }
 }

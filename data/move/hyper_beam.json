@@ -24,10 +24,6 @@
     "pl": "Hiper Promień",
     "en": "Hyper Beam"
   },
-  "descriptions": {
-    "en": "An extremely powerful attack. The attacker becomes so tired, it has to rest the next turn.",
-    "de": "Richtet großen Schaden an, bei Erfolg muss das eigene Pokémon jedoch in der folgenden Kampfrunde pausieren."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 4,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "1st turn: Attack 2nd turn: Rest",
+      "de": "1. Angriff 2. Ausruhen."
+    },
+    "Silver": {
+      "en": "1st turn: Attack 2nd turn: Rest",
+      "de": "1. Angriff 2. Ausruhen."
+    },
+    "Crystal": {
+      "en": "1st turn: Attack 2nd turn: Rest",
+      "de": "1. Angriff 2. Ausruhen."
+    },
+    "Ruby": {
+      "en": "Powerful, but leaves the user immobile the next turn.",
+      "de": "Starke Attacke. Angreifer setzt eine Runde aus.* (Attacken-Beschreibung)Stark, muss sich aber in der nächsten Runde aufladen.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Powerful, but leaves the user immobile the next turn.",
+      "de": "Starke Attacke. Angreifer setzt eine Runde aus.* (Attacken-Beschreibung)Stark, muss sich aber in der nächsten Runde aufladen.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Powerful, but leaves the user immobile the next turn.",
+      "de": "Starke Attacke. Angreifer setzt eine Runde aus.* (Attacken-Beschreibung)Stark, muss sich in der nächsten Runde aufladen.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A severely damaging attack that makes the user rest on the next turn.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Muss sich in der nächsten Runde aufladen.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A severely damaging attack that makes the user rest on the next turn.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Muss sich in der nächsten Runde aufladen.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in nächster Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in nächster Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in nächster Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in nächster Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in nächster Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy.",
+      "de": "Starke Attacke, die den Angreifer zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen.* (Attacken-Beschreibung)Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

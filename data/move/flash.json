@@ -22,10 +22,6 @@
     "pl": "Błysk",
     "en": "Flash"
   },
-  "descriptions": {
-    "en": "Creates a brilliant flash of light that blinds the target. This technique reduces the opponent's accuracy.",
-    "de": "Senkt die Genauigkeit des Gegners um eine Stufe (ca. 66,7% des Ausgangswertes). Versteckt sich das Ziel hinter einem Delegator oder ist nebel aktiv, schlägt die Attacke fehl. Außerhalb des Kampfes werden dunkle Höhlen erhellt bis der Spieler die Höhle wieder verlässt."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -52,5 +48,115 @@
       "stat": "accuracy",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Blinds the foe to reduce accuracy.",
+      "de": "Blendet Gegner + senkt Präzision."
+    },
+    "Silver": {
+      "en": "Blinds the foe to reduce accuracy.",
+      "de": "Blendet Gegner + senkt Präzision."
+    },
+    "Crystal": {
+      "en": "Blinds the foe to reduce accuracy.",
+      "de": "Blendet Gegner + senkt Präzision."
+    },
+    "Ruby": {
+      "en": "Looses a powerful blast of light that cuts accuracy.",
+      "de": "Erzeugt helles Licht, das gegn. Genauigkeit senkt.* (Attacken-Beschreibung)Ein gleißender Lichtstrahl, der Genau. senken kann.* (VM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Looses a powerful blast of light that cuts accuracy.",
+      "de": "Erzeugt helles Licht, das gegn. Genauigkeit senkt.* (Attacken-Beschreibung)Ein gleißender Lichtstrahl, der Genau. senken kann.* (VM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Looses a powerful blast of light that cuts accuracy.",
+      "de": "Erzeugt helles Licht, das gegn. Genauigkeit senkt.* (Attacken-Beschreibung)Ein gleißender Lichtstrahl, der Genau. senken kann.* (VM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A blast of light that cuts the foe’s accuracy. It also illuminates caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt.* (Attacken-Beschreibung)Gleißendes Licht, das die Genauigkeit senken kann, wird erzeugt. Hilfreich in dunklen Höhlen!* (VM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A blast of light that cuts the foe’s accuracy. It also illuminates caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt.* (Attacken-Beschreibung)Gleißendes Licht, das die Genauigkeit senken kann, wird erzeugt. Hilfreich in dunklen Höhlen!* (VM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Gegners. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Gegners. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Gegners. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Gegners. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die gegnerische Genauigkeit senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Gegners. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Zieles. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Zieles. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Zieles. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt und Höhlen ausleuchten kann.* (Attacken-Beschreibung)Ein flackerndes Licht reduziert die Genauigkeit des Zieles. Kann auch Höhlen erleuchten.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt.* (Attacken-Beschreibung)Ein blendendes Licht reduziert die Genauigkeit des Zieles.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt.* (Attacken-Beschreibung)Ein blendendes Licht reduziert die Genauigkeit des Zieles.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate dark caves.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate dark caves.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt."
+    },
+    "Moon": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt."
+    },
+    "Ultra Sun": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt."
+    },
+    "Ultra Moon": {
+      "en": "The user flashes a bright light that cuts the target’s accuracy.",
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt."
+    },
+    "Omega Ruby": {
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt. Erhellt dunkle Orte.* (Attacken-Beschreibung)Ein blendendes Licht reduziert die Genauigkeit des Zieles.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Erzeugt helles Licht, das die Genauigkeit des Zieles senkt. Erhellt dunkle Orte.* (Attacken-Beschreibung)Ein blendendes Licht reduziert die Genauigkeit des Zieles.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

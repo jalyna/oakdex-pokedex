@@ -20,10 +20,6 @@
     "it": "Halloween",
     "en": "Trick-or-Treat"
   },
-  "descriptions": {
-    "en": "The user takes the target trick-or-treating. This adds Ghost type to the target's type.",
-    "de": "Das Ziel erhält zusätzlich zu seinen anderen Typen . Ein Dualtyp-Pokémon bekommt diesen Typen zusätzlich zu seinen zwei bestehenden. Sollte das Ziel bereits durch Waldesfluch zum -Pokémon geworden sein, wird dieser Typ durch ersetzt."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -44,5 +40,47 @@
       "jam": 1,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "Y": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "O.Ruby": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "Moon": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "Ultra Sun": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "Ultra Moon": {
+      "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type.",
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender lehrt das Ziel das Fürchten. Dieses nimmt dadurch zusätzlich den Typ Geist an.",
+      "en": "Unknown"
+    }
+  }
 }

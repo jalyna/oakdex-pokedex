@@ -22,10 +22,6 @@
     "pl": "Skok",
     "en": "Bounce"
   },
-  "descriptions": {
-    "en": "Bounces up, then down the next turn. May paralyze.",
-    "de": "Das Pokémon verschwindet für eine Runde, in der es nicht getroffen werden kann. Danach greift es an. Ähnelt von der Funktionsweise her Fliegen, ist aber nicht so treffsicher. Es besteht ebenfalls eine Chance von 30% auf eine Paralyse des Gegners. Der Anwender von Sprungfeder kann von folgenden Attacken getroffen werden : Windhose*, Donner*, Orkan*, Himmelhieb. Mit \"*\" markierte Attacken richten doppelten Schaden an. Wenn der Anwender vor dem Einsatz von Sprungfeder von Willenleser getroffen wird, kann er in der nächsten Runde ebenfalls getroffen werden. Pokémon mit der Fähigkeit Schildlos treffen auch."
-  },
   "type": "Flying",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Bounces up, then down the next turn. May paralyze.",
+      "de": "Springt hoch u. landet in nächstem Zug. Evtl. Para."
+    },
+    "Sapphire": {
+      "en": "Bounces up, then down the next turn. May paralyze.",
+      "de": "Springt hoch u. landet in nächstem Zug. Evtl. Para."
+    },
+    "Emerald": {
+      "en": "Bounces up, then down the next turn. May paralyze.",
+      "de": "Springt hoch u. landet in nächstem Zug. Evtl. Para."
+    },
+    "FireRed": {
+      "en": "The user bounces on the foe on the 2nd turn. It may paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "LeafGreen": {
+      "en": "The user bounces on the foe on the 2nd turn. It may paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "Diamond": {
+      "en": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "Pearl": {
+      "en": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "Platinum": {
+      "en": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "HeartGold": {
+      "en": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "SoulSilver": {
+      "en": "The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.",
+      "de": "Angreifer bespringt den Gegner in Runde 2. Der Gegner wird evtl. paralysiert."
+    },
+    "Black": {
+      "en": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "White": {
+      "en": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Black 2": {
+      "en": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "White 2": {
+      "en": "The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "X": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Y": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "O.Ruby": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Moon": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Ultra Sun": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Ultra Moon": {
+      "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert."
+    },
+    "Omega Ruby": {
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angreifer springt und landet in der nächsten Runde auf dem Ziel. Das Ziel wird eventuell paralysiert.",
+      "en": "Unknown"
+    }
+  }
 }

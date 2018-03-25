@@ -23,10 +23,6 @@
     "pl": "Promień Jutrzenki (Master Quest)Promień Aurory (Black & White)",
     "en": "Aurora Beam"
   },
-  "descriptions": {
-    "en": "An Ice-type attack. Has a one-in-three chance of reducing the target's Attack power.",
-    "de": "Verletzt das gegnerische Pokémon, zusätzliche 10% Chance den gegnerischen Angriff um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken. Diese Attacke ist deutlich schlechter als Eisstrahl, daher sollte sie eher nicht verwendet werden."
-  },
   "type": "Ice",
   "contests": [
     {
@@ -53,5 +49,115 @@
       "stat": "atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower ATTACK.",
+      "de": "Senkt evtl. ANGR-Wert des Gegners."
+    },
+    "Silver": {
+      "en": "An attack that may lower ATTACK.",
+      "de": "Senkt evtl. ANGR-Wert des Gegners."
+    },
+    "Crystal": {
+      "en": "An attack that may lower ATTACK.",
+      "de": "Senkt evtl. ANGR-Wert des Gegners."
+    },
+    "Ruby": {
+      "en": "Fires a rainbow-colored beam that may lower ATTACK.",
+      "de": "Regenbogenfarbener Strahl, senkt evtl. ANGR.-Wert."
+    },
+    "Sapphire": {
+      "en": "Fires a rainbow-colored beam that may lower ATTACK.",
+      "de": "Regenbogenfarbener Strahl, senkt evtl. ANGR.-Wert."
+    },
+    "Emerald": {
+      "en": "Fires a rainbow-colored beam that may lower ATTACK.",
+      "de": "Regenbogenfarbener Strahl, senkt evtl. ANGR.-Wert."
+    },
+    "FireRed": {
+      "en": "A rainbow-colored attack beam. It may lower the foe’s ATTACK stat.",
+      "de": "Regenbogenfarbener Strahl, der evtl. den ANGR.-Wert senkt."
+    },
+    "LeafGreen": {
+      "en": "A rainbow-colored attack beam. It may lower the foe’s ATTACK stat.",
+      "de": "Regenbogenfarbener Strahl, der evtl. den ANGR.-Wert senkt."
+    },
+    "Diamond": {
+      "en": "The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Gegners senkt."
+    },
+    "Pearl": {
+      "en": "The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Gegners senkt."
+    },
+    "Platinum": {
+      "en": "The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Gegners senkt."
+    },
+    "HeartGold": {
+      "en": "The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Gegners senkt."
+    },
+    "SoulSilver": {
+      "en": "The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Gegners senkt."
+    },
+    "Black": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "White": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Black 2": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "White 2": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "X": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Y": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "O.Ruby": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Moon": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Ultra Sun": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Ultra Moon": {
+      "en": "The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.",
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt."
+    },
+    "Omega Ruby": {
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Regenbogenfarbener Strahl, der eventuell den Angriffs-Wert des Zieles senkt.",
+      "en": "Unknown"
+    }
+  }
 }

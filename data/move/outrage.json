@@ -22,10 +22,6 @@
     "pl": "Oburzenie",
     "en": "Outrage"
   },
-  "descriptions": {
-    "en": "An attack that lasts two to three turns. Afterwards, the attacker will become confused.",
-    "de": "Greift den Gegner 2-3 Runden lang an und verwirrt sich danach selbst. Der Anwender kann während dieser Zeit nicht ausgewechselt werden oder eine andere Attacke auswählen. Die Attacke bricht ab, wenn der Anwender aus irgendeinem Grund (Paralyse, Verwirrung oder Immunität des Gegners) nicht angreift."
-  },
   "type": "Dragon",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Works 2-3 turns and confuses user.",
+      "de": "Hält 2-3 Runden. Verw. Angreifer"
+    },
+    "Silver": {
+      "en": "Works 2-3 turns and confuses user.",
+      "de": "Hält 2-3 Runden. Verw. Angreifer"
+    },
+    "Crystal": {
+      "en": "Works 2-3 turns and confuses user.",
+      "de": "Wirkt 2-3 Runden. Verwir. Angreifer."
+    },
+    "Ruby": {
+      "en": "A rampage of 2 to 3 turns that confuses the user.",
+      "de": "Wiederholt Angriff 2-3 Runden lang. Verwirrt Anwender."
+    },
+    "Sapphire": {
+      "en": "A rampage of 2 to 3 turns that confuses the user.",
+      "de": "Wiederholt Angriff 2-3 Runden lang. Verwirrt Anwender."
+    },
+    "Emerald": {
+      "en": "A rampage of 2 to 3 turns that confuses the user.",
+      "de": "Wiederholt Angriff 2-3 Runden lang. Verwirrt Anwender."
+    },
+    "FireRed": {
+      "en": "The user thrashes about for two to three turns, then becomes confused.",
+      "de": "Wiederholt Angriff 2 - 3 Runden lang. Anschließend ist er verwirrt."
+    },
+    "LeafGreen": {
+      "en": "The user thrashes about for two to three turns, then becomes confused.",
+      "de": "Wiederholt Angriff 2 - 3 Runden lang. Anschließend ist er verwirrt."
+    },
+    "Diamond": {
+      "en": "The user rampages and attacks for two to three turns. However, it then becomes confused.",
+      "de": "Wiederholt Angriff zwei bis drei Runden lang. Anschließend ist er verwirrt."
+    },
+    "Pearl": {
+      "en": "The user rampages and attacks for two to three turns. However, it then becomes confused.",
+      "de": "Wiederholt Angriff zwei bis drei Runden lang. Anschließend ist er verwirrt."
+    },
+    "Platinum": {
+      "en": "The user rampages and attacks for two to three turns. However, it then becomes confused.",
+      "de": "Wiederholt Angriff zwei bis drei Runden lang. Anschließend ist er verwirrt."
+    },
+    "HeartGold": {
+      "en": "The user rampages and attacks for two to three turns. However, it then becomes confused.",
+      "de": "Anwender wiederholt Angriff zwei bis drei Runden lang. Anschließend ist er verwirrt."
+    },
+    "SoulSilver": {
+      "en": "The user rampages and attacks for two to three turns. However, it then becomes confused.",
+      "de": "Anwender wiederholt Angriff zwei bis drei Runden lang. Anschließend ist er verwirrt."
+    },
+    "Black": {
+      "en": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+      "de": "Attacke über 2 bis 3 Runden, die den Angreifer verwirrt."
+    },
+    "White": {
+      "en": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+      "de": "Attacke über 2 bis 3 Runden, die den Angreifer verwirrt."
+    },
+    "Black 2": {
+      "en": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+      "de": "Attacke über 2 bis 3 Runden, die den Angreifer verwirrt."
+    },
+    "White 2": {
+      "en": "The user rampages and attacks for two to three turns. It then becomes confused, however.",
+      "de": "Attacke über 2 bis 3 Runden, die den Angreifer verwirrt."
+    },
+    "X": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "Y": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "O.Ruby": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "Moon": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "Ultra Sun": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "Ultra Moon": {
+      "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt."
+    },
+    "Omega Ruby": {
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Attacke über zwei bis drei Runden, die den Anwender verwirrt.",
+      "en": "Unknown"
+    }
+  }
 }

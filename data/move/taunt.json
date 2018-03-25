@@ -23,10 +23,6 @@
     "tr": "Azarlama",
     "en": "Taunt"
   },
-  "descriptions": {
-    "en": "Taunts the foe into only using attack moves.*Enrages the foe so it can only use attack moves.*",
-    "de": "Zwingt den Gegner dazu, nur noch Schaden anrichtende Attacken einzusetzen. Unterbindet damit Attacken wie Genesung, Erholung, Drachentanz etc. Daher taktisch sehr wertvoll. Wie lange Verhöhner anhält ist von Generation zu Generation unterschiedlich."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -47,5 +43,103 @@
       "jam": 1,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Taunts the foe into only using attack moves.",
+      "de": "Legt den Gegner rein. Er benutzt nur noch Angriffe.* (Attacken-Beschreibung)Reizt Geg. so, dass er nur noch Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Taunts the foe into only using attack moves.",
+      "de": "Legt den Gegner rein. Er benutzt nur noch Angriffe.* (Attacken-Beschreibung)Reizt Geg. so, dass er nur noch Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Taunts the foe into only using attack moves.",
+      "de": "Legt den Gegner rein. Er benutzt nur noch Angriffe.* (Attacken-Beschreibung)Reizt Geg. so, dass er nur noch Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves.",
+      "de": "Legt den Gegner rein. Er benutzt nur noch Angriffe.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves.",
+      "de": "Legt den Gegner rein. Er benutzt nur noch Angriffe.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+      "de": "Legt den Gegner rein. Er kann zwei bis vier Runden nur noch angreifen.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er über 2 - 4 Runden nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+      "de": "Legt den Gegner rein. Er kann zwei bis vier Runden nur noch angreifen.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er über 2 - 4 Runden nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+      "de": "Legt den Gegner rein. Er kann zwei bis vier Runden nur noch angreifen.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er über 2 - 4 Runden nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+      "de": "Legt den Gegner rein. Er kann zwei bis vier Runden nur noch angreifen.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er über 2 - 4 Runden nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is taunted into a rage that allows it to use only attack moves for two to four turns.",
+      "de": "Legt den Gegner rein. Er kann zwei bis vier Runden nur noch angreifen.* (Attacken-Beschreibung)Der Gegner wird so gereizt, dass er über 2 - 4 Runden nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen.* (Attacken-Beschreibung)Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

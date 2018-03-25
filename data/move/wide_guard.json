@@ -21,10 +21,6 @@
     "it": "Bodyguard",
     "en": "Wide Guard"
   },
-  "descriptions": {
-    "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chances of failing rises.",
-    "de": "Schützt in Mehrfachkämpfen die eigenen Pokémon vor Attacken, welche mehrere Ziele treffen - nicht jedoch vor Attacken mit einem Pokémon als Ziel. So bewahrt es Mitstreiter auch vor Schaden, wenn von einem eigenen Pokémon Erdbeben eingesetzt wird."
-  },
   "type": "Rock",
   "contests": [
     {
@@ -45,5 +41,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen. Klappt nur selten mehrmals in Folge."
+    },
+    "White": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen. Klappt nur selten mehrmals in Folge."
+    },
+    "Black 2": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen. Klappt nur selten mehrmals in Folge."
+    },
+    "White 2": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn. If used in succession, its chance of failing rises.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen. Klappt nur selten mehrmals in Folge."
+    },
+    "X": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "Y": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "O.Ruby": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "Moon": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "Ultra Sun": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "Ultra Moon": {
+      "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen."
+    },
+    "Omega Ruby": {
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schützt eine Runde lang vor Angriffen, die alle Pokémon auf deiner Seite treffen.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -22,10 +22,6 @@
     "pl": "Czekanie",
     "en": "Bide"
   },
-  "descriptions": {
-    "en": "The user waits for several turns. At the end, it returns double the damage it received.",
-    "de": "Der durch einen Angriff erlittene Schaden wird verdoppelt und in 2-3 Runden wieder zurückgegeben. Bis dahin kann das Pokémon allerdings nicht angreifen."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Waits 2-3 turns & hits back double.",
+      "de": "Trifft nach 2-3 Runden doppelt."
+    },
+    "Silver": {
+      "en": "Waits 2-3 turns & hits back double.",
+      "de": "Trifft nach 2-3 Runden doppelt."
+    },
+    "Crystal": {
+      "en": "Waits 2-3 turns & hits back double.",
+      "de": "Trifft nach 2-3 Runden doppelt."
+    },
+    "Ruby": {
+      "en": "Endures attack for 2 turns to retaliate double.",
+      "de": "Erträgt 2 Runden Angriffe, schlägt doppelt zurück."
+    },
+    "Sapphire": {
+      "en": "Endures attack for 2 turns to retaliate double.",
+      "de": "Erträgt 2 Runden Angriffe, schlägt doppelt zurück."
+    },
+    "Emerald": {
+      "en": "Endures attack for 2 turns to retaliate double.",
+      "de": "Erträgt 2 Runden Angriffe, schlägt doppelt zurück."
+    },
+    "FireRed": {
+      "en": "The user endures attacks for two turns, then strikes back double.",
+      "de": "Erträgt 2 Runden Angriffe und schlägt dann doppelt zurück."
+    },
+    "LeafGreen": {
+      "en": "The user endures attacks for two turns, then strikes back double.",
+      "de": "Erträgt 2 Runden Angriffe und schlägt dann doppelt zurück."
+    },
+    "Diamond": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit doppelter Effektivität zurück."
+    },
+    "Pearl": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit doppelter Effektivität zurück."
+    },
+    "Platinum": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit doppelter Effektivität zurück."
+    },
+    "HeartGold": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit doppelter Effektivität zurück."
+    },
+    "SoulSilver": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit doppelter Effektivität zurück."
+    },
+    "Black": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "White": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Black 2": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "White 2": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "X": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Y": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "O.Ruby": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Moon": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Ultra Sun": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Ultra Moon": {
+      "en": "The user endures attacks for two turns, then strikes back to cause double the damage taken.",
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück."
+    },
+    "Omega Ruby": {
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Erträgt zwei Runden Angriffe und schlägt dann mit dem doppelten Wert des erlittenen Schadens zurück.",
+      "en": "Unknown"
+    }
+  }
 }

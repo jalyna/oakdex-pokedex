@@ -24,10 +24,6 @@
     "pl": "Pnącze Mocy",
     "en": "Leech Seed"
   },
-  "descriptions": {
-    "en": "Plants a seed on the target Pokémon. The seed slowly drains the target's HP for the attacker.",
-    "de": "Zieht dem Gegner jede Runde 1/8 der maximalen Kraftpunkte ab und gibt sie dem Anwender. Man löst sich wieder von Egelsamen indem man das betroffene Pokemon auswechselt, oder Turbodreher benutzt. Egelsamen hat keine Wirkung auf Pflanzenpokemon."
-  },
   "type": "Grass",
   "contests": [
     {
@@ -48,5 +44,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Steals HP from the foe on every turn.",
+      "de": "Zieht dem Gegner jede Runde KP ab."
+    },
+    "Silver": {
+      "en": "Steals HP from the foe on every turn.",
+      "de": "Zieht dem Gegner jede Runde KP ab."
+    },
+    "Crystal": {
+      "en": "Steals HP from the foe on every turn.",
+      "de": "Zieht dem Gegner jede Runde KP ab."
+    },
+    "Ruby": {
+      "en": "Plants a seed on the foe to steal HP on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP."
+    },
+    "Sapphire": {
+      "en": "Plants a seed on the foe to steal HP on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP."
+    },
+    "Emerald": {
+      "en": "Plants a seed on the foe to steal HP on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP."
+    },
+    "FireRed": {
+      "en": "A seed is planted on the foe to steal some HP for the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP."
+    },
+    "LeafGreen": {
+      "en": "A seed is planted on the foe to steal some HP for the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP."
+    },
+    "Diamond": {
+      "en": "A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP, die wiederum den Anwender heilen."
+    },
+    "Pearl": {
+      "en": "A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP, die wiederum den Anwender heilen."
+    },
+    "Platinum": {
+      "en": "A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP, die wiederum den Anwender heilen."
+    },
+    "HeartGold": {
+      "en": "A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP, die wiederum den Anwender heilen."
+    },
+    "SoulSilver": {
+      "en": "A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.",
+      "de": "Gegner wird bepflanzt und verliert jede Runde KP, die wiederum den Anwender heilen."
+    },
+    "Black": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "White": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Black 2": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "White 2": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "X": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Y": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "O.Ruby": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Moon": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Ultra Sun": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Ultra Moon": {
+      "en": "A seed is planted on the target. It steals some HP from the target every turn.",
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen."
+    },
+    "Omega Ruby": {
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ziel wird bepflanzt und verliert jede Runde KP, die ein Pokémon aus dem Team des Anwenders heilen.",
+      "en": "Unknown"
+    }
+  }
 }

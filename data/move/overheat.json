@@ -22,10 +22,6 @@
     "pl": "Przegrzanie",
     "en": "Overheat"
   },
-  "descriptions": {
-    "en": "Allows a full-power attack, but sharply lowers Sp.Atk.*Enables full-power attack, but sharply lowers the Sp.Atk.*",
-    "de": "Richtet enormen Schaden an. Der eigene Spezialangriff sinkt aber um 2 Stufen. Mit dem Item Schlohkraut kombinierbar. Ansonsten stellen Flammenwurf oder Feuersturm eine bessere Alternative dar."
-  },
   "type": "Fire",
   "contests": [
     {
@@ -53,5 +49,103 @@
       "change_by": -2,
       "affects_user": true
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Allows a full-power attack, but sharply lowers SP. ATK.",
+      "de": "Angriff mit voller Kraft. SPEZ. ANGR. sinkt deutlich.Höchste Kraft, aber senkt SPEZ. ANGR. enorm.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Allows a full-power attack, but sharply lowers SP. ATK.",
+      "de": "Angriff mit voller Kraft. SPEZ. ANGR. sinkt deutlich.Höchste Kraft, aber senkt SPEZ. ANGR. enorm.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Allows a full-power attack, but sharply lowers SP. ATK.",
+      "de": "Angriff mit voller Kraft. SPEZ. ANGR. sinkt deutlich.Höchste Kraft, aber senkt SPEZ. ANGR. enorm.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An intense attack that also sharply reduces the user’s SP. ATK stat.",
+      "de": "Angriff mit voller Kraft, der den SP. ANG. d. Anwenders deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und Rauheit, der gleichzeitig den SP. ANG.-Wert des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An intense attack that also sharply reduces the user’s SP. ATK stat.",
+      "de": "Angriff mit voller Kraft, der den SP. ANG. d. Anwenders deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und Rauheit, der gleichzeitig den SP. ANG.-Wert des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spez.-Angriff d. Anwenders durch den Rückstoß deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spez.-Angriff d. Anwenders durch den Rückstoß deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spez.-Angriff d. Anwenders durch den Rückstoß deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spez.-Angriff d. Anwenders durch den Rückstoß deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spez.-Angriff d. Anwenders durch den Rückstoß deutlich senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly reduces the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.* (Attacken-Beschreibung)Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

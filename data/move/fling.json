@@ -22,10 +22,6 @@
     "pl": "Rzut",
     "en": "Fling"
   },
-  "descriptions": {
-    "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
-    "de": "Anwender schleudert sein Item weg, der Schaden hängt vom gehaltenen Item ab. Eisenkugel schadet mit einer Stärke von 130 am meisten. Nach einem Wifi-Kampf erhält man das geworfene Item zurück. In allen anderen Fällen ist das Item verloren."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -46,5 +42,83 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf den Gegner. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf den Gegner. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf den Gegner. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf den Gegner. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf den Gegner. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf den Gegner. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf den Gegner. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf den Gegner. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user flings its held item at the foe to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf den Gegner. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf den Gegner. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user flings its held item at the target to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user flings its held item at the target to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user flings its held item at the target to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user flings its held item at the target to attack. Its power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Stärke und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Stärke und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Stärke und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+      "de": "Anwender schleudert sein Item auf das Ziel. Stärke und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

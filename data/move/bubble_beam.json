@@ -22,10 +22,6 @@
     "pl": "Bąbelkowy Promień",
     "en": "Bubble Beam"
   },
-  "descriptions": {
-    "en": "A Water-type attack. Stronger than Bubble. Many Water-type Pokémon learn this move.",
-    "de": "Verletzt, 10% Chance gegnerischen Initiativewert um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken."
-  },
   "type": "Water",
   "contests": [
     {
@@ -52,5 +48,115 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Silver": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Crystal": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Ruby": {
+      "en": "Forcefully sprays bubbles that may lower SPEED.",
+      "de": "Versprüht Blasen, die den INIT.-Wert evtl. senken."
+    },
+    "Sapphire": {
+      "en": "Forcefully sprays bubbles that may lower SPEED.",
+      "de": "Versprüht Blasen, die den INIT.-Wert evtl. senken."
+    },
+    "Emerald": {
+      "en": "Forcefully sprays bubbles that may lower SPEED.",
+      "de": "Versprüht Blasen, die den INIT.-Wert evtl. senken."
+    },
+    "FireRed": {
+      "en": "A spray of bubbles strikes the foe. It may lower the foe’s SPEED stat.",
+      "de": "Versprüht Blasen, die evtl. den INIT.-Wert des Gegners senken."
+    },
+    "LeafGreen": {
+      "en": "A spray of bubbles strikes the foe. It may lower the foe’s SPEED stat.",
+      "de": "Versprüht Blasen, die evtl. den INIT.-Wert des Gegners senken."
+    },
+    "Diamond": {
+      "en": "A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Gegners senken."
+    },
+    "Pearl": {
+      "en": "A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Gegners senken."
+    },
+    "Platinum": {
+      "en": "A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Gegners senken."
+    },
+    "HeartGold": {
+      "en": "A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Gegners senken."
+    },
+    "SoulSilver": {
+      "en": "A spray of bubbles is forcefully ejected at the foe. It may also lower the target’s Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Gegners senken."
+    },
+    "Black": {
+      "en": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "White": {
+      "en": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Black 2": {
+      "en": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "White 2": {
+      "en": "A spray of bubbles is forcefully ejected at the opposing team. It may also lower their Speed stats.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "X": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Y": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "O.Ruby": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Moon": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Ultra Sun": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Ultra Moon": {
+      "en": "A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.",
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken."
+    },
+    "Omega Ruby": {
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Versprüht Blasen, die eventuell den Initiative-Wert des Zieles senken.",
+      "en": "Unknown"
+    }
+  }
 }

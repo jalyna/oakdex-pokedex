@@ -20,10 +20,6 @@
     "it": "Campo Nebbioso",
     "en": "Misty Terrain"
   },
-  "descriptions": {
-    "en": "The user covers the ground under everyone's feet with mist for five turns. This protects Pokémon on the ground from status conditions.",
-    "de": "Nebelfeld hält für fünf Runden an und verhindert während dieser Zeit Statusveränderungen, allerdings keine Statuswertveränderungen. Während die Attacke wirkt, wird der Schaden von Drachen-Attacken auf Pokémon, die am Boden sind, um die Hälfte reduziert. Pokémon mit der Fähigkeit Schwebe oder mit dem Item Luftballon sind davon nicht betroffen."
-  },
   "type": "Fairy",
   "contests": [
     {
@@ -44,5 +40,47 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Nebelfeld und schützt alle Pokémon, die den Boden berühren, vor Statusproblemen."
+    },
+    "Y": {
+      "en": "The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Nebelfeld und schützt alle Pokémon, die den Boden berühren, vor Statusproblemen."
+    },
+    "O.Ruby": {
+      "en": "The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user covers the ground under everyone’s feet with mist for five turns. This protects Pokémon on the ground from status conditions.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+      "de": "Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statusproblemen. Der erlittene Schaden durch Drachen-Attacken wird halbiert."
+    },
+    "Moon": {
+      "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+      "de": "Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statusproblemen. Der erlittene Schaden durch Drachen-Attacken wird halbiert."
+    },
+    "Ultra Sun": {
+      "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+      "de": "Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statusproblemen. Der erlittene Schaden durch Drachen-Attacken wird halbiert."
+    },
+    "Ultra Moon": {
+      "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+      "de": "Schützt fünf Runden lang alle Pokémon, die den Boden berühren, vor Statusproblemen. Der erlittene Schaden durch Drachen-Attacken wird halbiert."
+    },
+    "Omega Ruby": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Nebelfeld und schützt alle Pokémon, die den Boden berühren, vor Statusproblemen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Nebelfeld und schützt alle Pokémon, die den Boden berühren, vor Statusproblemen.",
+      "en": "Unknown"
+    }
+  }
 }

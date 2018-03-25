@@ -7,10 +7,6 @@
     "es": "Foco"
   },
   "index_number": 671,
-  "descriptions": {
-    "en": "Spotlight causes the move's target to become the center of attention, forcing all attacks from the target's foes to target it instead of their intended target.",
-    "de": "Alle Attacken des ausgewählten Zieles werden auf den Anwender gezogen, und treffen nicht mehr das eigentliche Ziel"
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "critical_hit": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user shines a spotlight on the target so that only the target will be attacked during the turn.",
+      "de": "Der Anwender lenkt die Aufmerksamkeit auf das Ziel, sodass in dieser Runde nur noch dieses Pokémon angegriffen wird."
+    },
+    "Moon": {
+      "en": "The user shines a spotlight on the target so that only the target will be attacked during the turn.",
+      "de": "Der Anwender lenkt die Aufmerksamkeit auf das Ziel, sodass in dieser Runde nur noch dieses Pokémon angegriffen wird."
+    },
+    "Ultra Sun": {
+      "en": "The user shines a spotlight on the target so that only the target will be attacked during the turn.",
+      "de": "Der Anwender lenkt die Aufmerksamkeit auf das Ziel, sodass in dieser Runde nur noch dieses Pokémon angegriffen wird."
+    },
+    "Ultra Moon": {
+      "en": "The user shines a spotlight on the target so that only the target will be attacked during the turn.",
+      "de": "Der Anwender lenkt die Aufmerksamkeit auf das Ziel, sodass in dieser Runde nur noch dieses Pokémon angegriffen wird."
+    }
+  }
 }

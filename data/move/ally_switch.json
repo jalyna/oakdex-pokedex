@@ -20,10 +20,6 @@
     "it": "Cambiaposto",
     "en": "Ally Switch"
   },
-  "descriptions": {
-    "en": "The user teleports using a strange power and switches its place with one of its allies.",
-    "de": "In Mehrfachkämpfen tauscht der Anwender den Platz mit dem Teampartner. Steht der Anwender während eines Dreifachkampfes in der Mitte oder wird die Attacke in einem Einzelkampf eingesetzt, schlägt Seitentausch fehl. Der Effekt von Verfolgung wird durch den Wechsel nicht ausgelöst."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -32,5 +28,63 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user teleports using a strange power and switches its place with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.* (Attacken-Beschreibung)Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters und umgekehrt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user teleports using a strange power and switches its place with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.* (Attacken-Beschreibung)Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters und umgekehrt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user teleports using a strange power and switches its place with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.* (Attacken-Beschreibung)Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters und umgekehrt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user teleports using a strange power and switches its place with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.* (Attacken-Beschreibung)Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters und umgekehrt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "Y": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "O.Ruby": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "Moon": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "Ultra Sun": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "Ultra Moon": {
+      "en": "The user teleports using a strange power and switches places with one of its allies.",
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters."
+    },
+    "Omega Ruby": {
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Wundersame Kräfte teleportieren den Anwender an den Platz eines Mitstreiters.",
+      "en": "Unknown"
+    }
+  }
 }

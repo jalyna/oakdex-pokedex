@@ -4,7 +4,7 @@ The schema defines the following properties:
 
 ## `names` (translations, required)
 
-## `descriptions` (translations, required)
+## `pokedex_entries` (object, required)
 
 ## `index_number` (integer, required)
 

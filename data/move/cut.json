@@ -23,10 +23,6 @@
     "tr": "Kesme",
     "en": "Cut"
   },
-  "descriptions": {
-    "en": "A Normal-type attack. Also used for cutting small bushes to open new paths.",
-    "de": "Schädigt im Kampf den Gegner. Außerhalb des Kampfes dient es zum Abschneiden von Büschen, Bäumen & Gras."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Cuts using claws, scythes, etc.",
+      "de": "Setzt Klauen, Sicheln etc. ein."
+    },
+    "Silver": {
+      "en": "Cuts using claws, scythes, etc.",
+      "de": "Setzt Klauen, Sicheln etc. ein."
+    },
+    "Crystal": {
+      "en": "Cuts using claws, scythes, etc.",
+      "de": "Setzt Klauen, Sicheln etc. ein."
+    },
+    "Ruby": {
+      "en": "Cuts the foe with sharp scythes, claws, etc.",
+      "de": "Trifft den Gegner mit Klauen, Scheren o. ä.* (Attacken-Beschreibung)Gegner wird mit klingenscharfen Krallen attackiert.* (VM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Cuts the foe with sharp scythes, claws, etc.",
+      "de": "Trifft den Gegner mit Klauen, Scheren o. ä.* (Attacken-Beschreibung)Gegner wird mit klingenscharfen Krallen attackiert.* (VM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Cuts the foe with sharp scythes, claws, etc.",
+      "de": "Trifft den Gegner mit Klauen, Scheren o. ä.* (Attacken-Beschreibung)Gegner wird mit klingenscharfen Krallen attackiert.* (VM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A basic attack. It can be used to cut down thin trees and grass.",
+      "de": "Ein Basisangriff. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A basic attack. It can be used to cut down thin trees and grass.",
+      "de": "Ein Basisangriff. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Der Gegner wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is cut with a scythe or a claw. It can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is cut with a scythe or claw. This can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is cut with a scythe or claw. This can also be used to cut down thin trees.",
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is cut with a scythe or claw. This can also be used to cut down thin trees.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is cut with a scythe or claw. This can also be used to cut down thin trees.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is cut with a scythe or claw.",
+      "de": "Ein Basisangriff mit Schere oder Klaue.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Moon": {
+      "en": "The target is cut with a scythe or claw.",
+      "de": "Ein Basisangriff mit Schere oder Klaue.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Sun": {
+      "en": "The target is cut with a scythe or claw.",
+      "de": "Ein Basisangriff mit Schere oder Klaue.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Moon": {
+      "en": "The target is cut with a scythe or claw.",
+      "de": "Ein Basisangriff mit Schere oder Klaue.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Omega Ruby": {
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ein Basisangriff mit Schere oder Klaue. Damit können kleine Bäume gefällt werden.* (Attacken-Beschreibung)Das Ziel wird mit scharfen Klingen attackiert. Außerhalb des Kampfes werden damit kleine Bäume gefällt.* (VM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

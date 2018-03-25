@@ -21,10 +21,6 @@
     "pl": "Podcięcie",
     "en": "Low Sweep"
   },
-  "descriptions": {
-    "en": "The user attacks the target's legs swiftly, reducing the target's Speed stat.",
-    "de": "Die Attacke verursacht Schaden und verringert die Initiative des Zieles um eine Stufe (50%)."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -39,5 +35,63 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user attacks the target’s legs swiftly, reducing the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "White": {
+      "en": "The user attacks the target’s legs swiftly, reducing the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Black 2": {
+      "en": "The user attacks the target’s legs swiftly, reducing the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "White 2": {
+      "en": "The user attacks the target’s legs swiftly, reducing the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "X": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Y": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "O.Ruby": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Moon": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Ultra Sun": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Ultra Moon": {
+      "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative."
+    },
+    "Omega Ruby": {
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -7,10 +7,6 @@
     "es": "Plancha"
   },
   "index_number": 679,
-  "descriptions": {
-    "en": "Lunge does damage and lowers the target's Attack stat by one stage.",
-    "de": "Schädigt den Gegner und verringert dessen Angriffs-Wert um eine Stufe."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -34,5 +30,23 @@
       "stat": "atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.",
+      "de": "Der Anwender greift das Ziel mit ganzer Kraft an, wodurch auch der Angriffs-Wert des Zieles sinkt."
+    },
+    "Moon": {
+      "en": "The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.",
+      "de": "Der Anwender greift das Ziel mit ganzer Kraft an, wodurch auch der Angriffs-Wert des Zieles sinkt."
+    },
+    "Ultra Sun": {
+      "en": "The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.",
+      "de": "Der Anwender greift das Ziel mit ganzer Kraft an, wodurch auch der Angriffs-Wert des Zieles sinkt."
+    },
+    "Ultra Moon": {
+      "en": "The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.",
+      "de": "Der Anwender greift das Ziel mit ganzer Kraft an, wodurch auch der Angriffs-Wert des Zieles sinkt."
+    }
+  }
 }

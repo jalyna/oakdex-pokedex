@@ -22,10 +22,6 @@
     "pl": "Trujące Ukłucie",
     "en": "Poison Jab"
   },
-  "descriptions": {
-    "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.*The foe is stabbed with a tentacle or arm seeped with poison. It may also poison the foe.*",
-    "de": "Schädigt den Gegner und dieser wird mit einer Wahrscheinlichkeit von 30% vergiftet. Befindet sich das Ziel hinter einem Delegator, leidet bereits unter einer primären Statusveränderung, wirkt Immunität oder gehört das Ziel dem Typen bzw. , kann es nicht vergiftet werden."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -46,5 +42,83 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+      "de": "Gegner wird mit vergiftetem Arm oder Tentakel verletzt. Er wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Der Gegner wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+      "de": "Gegner wird mit vergiftetem Arm oder Tentakel verletzt. Er wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Der Gegner wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+      "de": "Gegner wird mit vergiftetem Arm oder Tentakel verletzt. Er wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Der Gegner wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+      "de": "Gegner wird mit vergiftetem Arm oder Tentakel verletzt. Er wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Der Gegner wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.",
+      "de": "Gegner wird mit vergiftetem Arm oder Tentakel verletzt. Er wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Der Gegner wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.",
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

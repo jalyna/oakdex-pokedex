@@ -20,10 +20,6 @@
     "it": "Elettrotela",
     "en": "Electroweb"
   },
-  "descriptions": {
-    "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets' Speed stat.",
-    "de": "Verursacht Schaden und senkt die Initiative des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes). In Doppelkämpfen werden beide Gegner getroffen und in Dreifachkämpfen die direkt gegenüber stehenden."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -38,5 +34,63 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets’ Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "White": {
+      "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets’ Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Black 2": {
+      "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets’ Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "White 2": {
+      "en": "The user captures and attacks opposing Pokémon by using an electric net. It reduces the targets’ Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "X": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Y": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "O.Ruby": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Moon": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.",
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative."
+    },
+    "Omega Ruby": {
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Fängt Ziele mit einem elektrischen Netz und senkt deren Initiative.",
+      "en": "Unknown"
+    }
+  }
 }

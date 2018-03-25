@@ -22,10 +22,6 @@
     "pl": "Burza Piaskowa",
     "en": "Sandstorm"
   },
-  "descriptions": {
-    "en": "An attack that creates a sandstorm. The effect causes damage to both combatants.",
-    "de": "Schädigt gegnerisches und eigenes Pokémon über mehrere Runden, ohne Effekt gegen Gestein-, Stahl- und Bodenpokémon. In der 2. Generation betrug der Schaden 1/8 der maximalen KP, seit der 3. Generation werden am Ende einer Runde 1/16 der maximalen KP abgezogen."
-  },
   "type": "Rock",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 1,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Inflicts damage every turn.",
+      "de": "Fügt in jeder Runde Schaden zu."
+    },
+    "Silver": {
+      "en": "Inflicts damage every turn.",
+      "de": "Fügt in jeder Runde Schaden zu."
+    },
+    "Crystal": {
+      "en": "Inflicts damage every turn.",
+      "de": "Fügt in jeder Runde Schaden zu."
+    },
+    "Ruby": {
+      "en": "Causes a sandstorm that rages for several turns.",
+      "de": "Erzeugt einen Sandsturm, der mehrere Runden wütet.* (Attacken-Beschreibungen)Sandsturm trifft etliche Runden lang die Kämpfenden.* (TM-Beschreibungen)"
+    },
+    "Sapphire": {
+      "en": "Causes a sandstorm that rages for several turns.",
+      "de": "Erzeugt einen Sandsturm, der mehrere Runden wütet.* (Attacken-Beschreibungen)Sandsturm trifft etliche Runden lang die Kämpfenden.* (TM-Beschreibungen)"
+    },
+    "Emerald": {
+      "en": "Causes a sandstorm that rages for several turns.",
+      "de": "Erzeugt einen Sandsturm, der mehrere Runden wütet.* (Attacken-Beschreibungen)Sandsturm trifft etliche Runden lang die Kämpfenden.* (TM-Beschreibungen)"
+    },
+    "FireRed": {
+      "en": "A 5-turn sandstorm that damages all types except ROCK, GROUND, and STEEL.",
+      "de": "Sandsturm für 5 Runden. Kein Effekt bei GESTEIN, BODEN und STAHL.* (Attacken-Beschreibung)Ein Sandsturm trifft für 5 Runden alle PKMN, außer die der Elementklassen BODEN, GESTEIN und STAHL.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A 5-turn sandstorm that damages all types except ROCK, GROUND, and STEEL.",
+      "de": "Sandsturm für 5 Runden. Kein Effekt bei GESTEIN, BODEN und STAHL.* (Attacken-Beschreibung)Ein Sandsturm trifft für 5 Runden alle PKMN, außer die der Elementklassen BODEN, GESTEIN und STAHL.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatant types except Rock, Ground, and Steel.",
+      "de": "Sandsturm für fünf Runden. Kein Effekt bei Gestein, Boden und Stahl* (Attacken-Beschreibungen).Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die des Typs Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "Pearl": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatant types except Rock, Ground, and Steel.",
+      "de": "Sandsturm für fünf Runden. Kein Effekt bei Gestein, Boden und Stahl* (Attacken-Beschreibungen).Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die des Typs Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "Platinum": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatant types except Rock, Ground, and Steel.",
+      "de": "Sandsturm für fünf Runden. Kein Effekt bei Gestein, Boden und Stahl* (Attacken-Beschreibungen).Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die des Typs Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "HeartGold": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatant types except Rock, Ground, and Steel.",
+      "de": "Sandsturm für fünf Runden. Kein Effekt bei Gestein, Boden und Stahl* (Attacken-Beschreibungen).Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die des Typs Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "SoulSilver": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatant types except Rock, Ground, and Steel.",
+      "de": "Sandsturm für fünf Runden. Kein Effekt bei Gestein, Boden und Stahl* (Attacken-Beschreibungen).Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die des Typs Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "Black": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer denen vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "White": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer denen vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "Black 2": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer denen vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "White 2": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer denen vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "X": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "Y": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)"
+    },
+    "O.Ruby": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",
+      "de": "Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon.* (TM-Beschreibungen)"
+    },
+    "Moon": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",
+      "de": "Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon.* (TM-Beschreibungen)"
+    },
+    "Ultra Sun": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",
+      "de": "Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon.* (TM-Beschreibungen)"
+    },
+    "Ultra Moon": {
+      "en": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",
+      "de": "Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon.* (TM-Beschreibungen)"
+    },
+    "Omega Ruby": {
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Sandsturm für fünf Runden. Fügt Pokémon von jedem Typ außer Gestein, Boden und Stahl Schaden zu.* (Attacken-Beschreibungen)Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die vom Typ Boden, Gestein und Stahl.* (TM-Beschreibungen)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -23,10 +23,6 @@
     "tr": "Çamur Atışı",
     "en": "Mud Shot"
   },
-  "descriptions": {
-    "en": "Hurls mud at the foe and reduces Speed.",
-    "de": "Schädigt den Gegner und lässt seine Initiative um einen Level senken."
-  },
   "type": "Ground",
   "contests": [
     {
@@ -53,5 +49,103 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Hurls mud at the foe and reduces SPEED.",
+      "de": "Bewirft den Gegner mit Lehm und senkt INIT.-Wert."
+    },
+    "Sapphire": {
+      "en": "Hurls mud at the foe and reduces SPEED.",
+      "de": "Bewirft den Gegner mit Lehm und senkt INIT.-Wert."
+    },
+    "Emerald": {
+      "en": "Hurls mud at the foe and reduces SPEED.",
+      "de": "Bewirft den Gegner mit Lehm und senkt INIT.-Wert."
+    },
+    "FireRed": {
+      "en": "The user attacks by hurling mud. It also reduces the foe’s SPEED.",
+      "de": "Angriff mit Lehm, der den INIT.-Wert des Gegners senkt."
+    },
+    "LeafGreen": {
+      "en": "The user attacks by hurling mud. It also reduces the foe’s SPEED.",
+      "de": "Angriff mit Lehm, der den INIT.-Wert des Gegners senkt."
+    },
+    "Diamond": {
+      "en": "The user attacks by hurling a blob of mud at the foe. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Gegners senkt."
+    },
+    "Pearl": {
+      "en": "The user attacks by hurling a blob of mud at the foe. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Gegners senkt."
+    },
+    "Platinum": {
+      "en": "The user attacks by hurling a blob of mud at the foe. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Gegners senkt."
+    },
+    "HeartGold": {
+      "en": "The user attacks by hurling a blob of mud at the foe. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Gegners senkt."
+    },
+    "SoulSilver": {
+      "en": "The user attacks by hurling a blob of mud at the foe. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Gegners senkt."
+    },
+    "Black": {
+      "en": "The user attacks by hurling a blob of mud at the target. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "White": {
+      "en": "The user attacks by hurling a blob of mud at the target. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Black 2": {
+      "en": "The user attacks by hurling a blob of mud at the target. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "White 2": {
+      "en": "The user attacks by hurling a blob of mud at the target. It also reduces the target’s Speed.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "X": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Y": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "O.Ruby": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Moon": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit Lehm, der den Initiative-Wert des Zieles senkt.",
+      "en": "Unknown"
+    }
+  }
 }

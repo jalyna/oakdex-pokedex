@@ -20,10 +20,6 @@
     "it": "Simpatia",
     "en": "Play Nice"
   },
-  "descriptions": {
-    "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat.",
-    "de": "Der Angriff des Zieles wird um eine Stufe (auf ca. 66,7% des Ausgangswertes) gesenkt und trifft immer. Selbst Attacken wie Schutzschild, Scanner, Schutzstacheln und Königsschild können einen Treffer von Kameradschaft nicht abwenden."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -38,5 +34,47 @@
       "stat": "atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "Y": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "O.Ruby": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "Moon": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "Ultra Sun": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "Ultra Moon": {
+      "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender schließt mit dem Ziel Freundschaft und nimmt ihm seine Angriffslust. Der Angriffs-Wert des Zieles sinkt.",
+      "en": "Unknown"
+    }
+  }
 }

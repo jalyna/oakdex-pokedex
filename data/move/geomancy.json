@@ -20,10 +20,6 @@
     "it": "Geocontrollo",
     "en": "Geomancy"
   },
-  "descriptions": {
-    "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
-    "de": "Spezial-Attacke von Xerneas, welche über zwei Runden ausgeführt wird. In der zweiten Runde werden Spezial-Verteidigung, Spezial-Angriff und Initiative des Anwenders um zwei Stufen (100% des Ausgangswertes) erhöht. Wird Energiekraut vom Anwender getragen, kann die Attacke binnen einer Runde ausgeführt werden."
-  },
   "type": "Fairy",
   "contests": [
     {
@@ -58,5 +54,47 @@
       "stat": "speed",
       "change_by": 2
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen folgende Statuswerte stark: Spezial-Angriff, Spezial-Verteidigung und Initiative."
+    },
+    "Y": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen folgende Statuswerte stark: Spezial-Angriff, Spezial-Verteidigung und Initiative."
+    },
+    "O.Ruby": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen der Spezial-Angriff, die Spezial-Verteidigung und die Initiative stark."
+    },
+    "Moon": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen der Spezial-Angriff, die Spezial-Verteidigung und die Initiative stark."
+    },
+    "Ultra Sun": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen der Spezial-Angriff, die Spezial-Verteidigung und die Initiative stark."
+    },
+    "Ultra Moon": {
+      "en": "The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen der Spezial-Angriff, die Spezial-Verteidigung und die Initiative stark."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen folgende Statuswerte stark: Spezial-Angriff, Spezial-Verteidigung und Initiative.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender saugt in Runde 1 Energie auf. In Runde 2 steigen folgende Statuswerte stark: Spezial-Angriff, Spezial-Verteidigung und Initiative.",
+      "en": "Unknown"
+    }
+  }
 }

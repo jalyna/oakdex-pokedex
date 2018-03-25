@@ -22,10 +22,6 @@
     "pl": "Psychofala",
     "en": "Psywave"
   },
-  "descriptions": {
-    "en": "A Psychic-type attack of varying intensity. It occasionally inflicts heavy damage.",
-    "de": "Diese Attacke richtet Schaden an und die Höhe des Schadens wird per Zufall bestimmt. Sie kann zwischen 1 KP und dem 1,5-fachen des Levels vom Angreifer liegen. Das heißt, ein Pokémon auf Level 100 kann einen maximalen Schaden von 150 KP anrichten. Sobald die Höhe des Schadens in einem Kampf bestimmt wurde, verändert sich diese nicht mehr. Der Schadensberechnung liegt folgender Formel zu Grunde, wobei X einen zufälligen Wert zwischen 0 und 1 annehmen kann: Verursachter Schaden = (0,5+X)*Level des Anwenders"
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack with variable power.",
+      "de": "Angriff mit variabler Kraft."
+    },
+    "Silver": {
+      "en": "An attack with variable power.",
+      "de": "Angriff mit variabler Kraft."
+    },
+    "Crystal": {
+      "en": "An attack with variable power.",
+      "de": "Angriff mit variabler Kraft."
+    },
+    "Ruby": {
+      "en": "Attacks with a psychic wave of varying intensity.",
+      "de": "Psycho-Welle mit unterschiedlicher Intensität."
+    },
+    "Sapphire": {
+      "en": "Attacks with a psychic wave of varying intensity.",
+      "de": "Psycho-Welle mit unterschiedlicher Intensität."
+    },
+    "Emerald": {
+      "en": "Attacks with a psychic wave of varying intensity.",
+      "de": "Psycho-Welle mit unterschiedlicher Intensität."
+    },
+    "FireRed": {
+      "en": "The foe is attacked with an odd, hot energy wave that varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "LeafGreen": {
+      "en": "The foe is attacked with an odd, hot energy wave that varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "Diamond": {
+      "en": "The foe is attacked with an odd, hot energy wave. The attack varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "Pearl": {
+      "en": "The foe is attacked with an odd, hot energy wave. The attack varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "Platinum": {
+      "en": "The foe is attacked with an odd, hot energy wave. The attack varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "HeartGold": {
+      "en": "The foe is attacked with an odd, hot energy wave. The attack varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "SoulSilver": {
+      "en": "The foe is attacked with an odd, hot energy wave. The attack varies in intensity.",
+      "de": "Heiße Energiewelle mit unterschiedlicher Intensität wird erzeugt."
+    },
+    "Black": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal unterschiedlich ausfällt."
+    },
+    "White": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal unterschiedlich ausfällt."
+    },
+    "Black 2": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal unterschiedlich ausfällt."
+    },
+    "White 2": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal unterschiedlich ausfällt."
+    },
+    "X": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "Y": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "O.Ruby": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "Moon": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "Ultra Sun": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "Ultra Moon": {
+      "en": "The target is attacked with an odd psychic wave. The attack varies in intensity.",
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt."
+    },
+    "Omega Ruby": {
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender erzeugt eine mysteriöse Energiewelle, deren Intensität von Mal zu Mal anders ausfällt.",
+      "en": "Unknown"
+    }
+  }
 }

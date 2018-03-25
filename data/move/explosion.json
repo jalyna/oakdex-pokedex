@@ -23,10 +23,6 @@
     "pl": "Eksplozja",
     "en": "Explosion"
   },
-  "descriptions": {
-    "en": "The most powerful attack of all. However, the attacker faints after using this move.",
-    "de": "Gegner erleidet hohen Schaden, eigenes Pokémon wird besiegt. Die Attacke schlägt fehl, wenn ein Pokémon mit Feuchtigkeit am Kampf teilnimmt. Auch wenn die Attacke aufgrund eines Delegators, Schultzschildes, Scanners oder weil das Ziel dem Typen angehört, nicht trifft, wird der Anwender dennoch besiegt."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Very powerful but makes user faint.",
+      "de": "Stark; Angreifer wird besiegt."
+    },
+    "Silver": {
+      "en": "Very powerful but makes user faint.",
+      "de": "Stark; Angreifer wird besiegt."
+    },
+    "Crystal": {
+      "en": "Very powerful but makes user faint.",
+      "de": "Stark; Angreifer wird besiegt."
+    },
+    "Ruby": {
+      "en": "Inflicts severe damage but makes the user faint.",
+      "de": "Richtet großen Schaden an. Anwender wird besiegt."
+    },
+    "Sapphire": {
+      "en": "Inflicts severe damage but makes the user faint.",
+      "de": "Richtet großen Schaden an. Anwender wird besiegt."
+    },
+    "Emerald": {
+      "en": "Inflicts severe damage but makes the user faint.",
+      "de": "Richtet großen Schaden an. Anwender wird besiegt."
+    },
+    "FireRed": {
+      "en": "The user explodes to inflict terrible damage even while fainting itself.",
+      "de": "Anwender explodiert, richtet großen Schaden an und wird besiegt."
+    },
+    "LeafGreen": {
+      "en": "The user explodes to inflict terrible damage even while fainting itself.",
+      "de": "Anwender explodiert, richtet großen Schaden an und wird besiegt."
+    },
+    "Diamond": {
+      "en": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt alle Pokémon im Kampf. Der Angreifer wird dabei allerdings kampfunfähig.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt alle Pokémon im Kampf. Der Angreifer wird dabei allerdings kampfunfähig.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt alle Pokémon im Kampf. Der Angreifer wird dabei allerdings kampfunfähig.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt alle Pokémon im Kampf. Der Angreifer wird dabei allerdings kampfunfähig.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user explodes to inflict damage on all Pokémon in battle. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt alle Pokémon im Kampf. Der Angreifer wird dabei allerdings kampfunfähig.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user explodes to inflict damage on those around it. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user explodes to inflict damage on those around it. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user explodes to inflict damage on those around it. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user explodes to inflict damage on those around it. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird selbst kampfunfähig.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird selbst kampfunfähig.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird selbst kampfunfähig.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird selbst kampfunfähig.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender explodiert, richtet bei allen Pokémon in seiner Umgebung großen Schaden an und wird besiegt.* (Attacken-Beschreibung)Diese besondere Attacke verletzt Pokémon in der Nähe des Anwenders, der dabei jedoch kampfunfähig wird.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

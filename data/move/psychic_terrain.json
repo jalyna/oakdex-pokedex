@@ -7,10 +7,6 @@
     "es": "Campo Psíquico"
   },
   "index_number": 678,
-  "descriptions": {
-    "en": "This move effect may be in need of research. Reason: Does it affect Pokémon that are in the semi-invulnerable turn of a move?You can discuss this on the talk page.",
-    "de": "Lässt für fünf Runden ein Psychofeld erscheinen. Berührt das Pokémon den Boden ist man gegen Attacken mit erhöhter Priorität immun. Attacken die durch Heilwandel, Strolch oder Orkanschwingen Priorität bekommen funktionieren ebenfalls nicht. Zudem werden die Psycho-Attacken um 50% gestärkt."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+      "de": "Verhindert für fünf Runden, dass Pokémon am Boden von Attacken mit hoher Erstschlagquote getroffen werden. Erhöht die Stärke von Psycho-Attacken."
+    },
+    "Moon": {
+      "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+      "de": "Verhindert für fünf Runden, dass Pokémon am Boden von Attacken mit hoher Erstschlagquote getroffen werden. Erhöht die Stärke von Psycho-Attacken."
+    },
+    "Ultra Sun": {
+      "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+      "de": "Verhindert für fünf Runden, dass Pokémon am Boden von Attacken mit hoher Erstschlagquote getroffen werden. Erhöht die Stärke von Psycho-Attacken."
+    },
+    "Ultra Moon": {
+      "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+      "de": "Verhindert für fünf Runden, dass Pokémon am Boden von Attacken mit hoher Erstschlagquote getroffen werden. Erhöht die Stärke von Psycho-Attacken."
+    }
+  }
 }

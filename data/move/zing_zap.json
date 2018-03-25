@@ -7,10 +7,6 @@
     "es": "Electropunzada"
   },
   "index_number": 716,
-  "descriptions": {
-    "en": "Zing Zap inflicts damage and has a 30% chance of making the target flinch.",
-    "de": "Schädigt den Gegner und lässt ihn mit einer 30%-Chance zurückschrecken."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.",
+      "de": "Der Anwender rammt das Ziel und schockt es mit starkem Strom. Das Ziel schreckt eventuell zurück."
+    },
+    "Moon": {
+      "en": "A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.",
+      "de": "Der Anwender rammt das Ziel und schockt es mit starkem Strom. Das Ziel schreckt eventuell zurück."
+    },
+    "Ultra Sun": {
+      "en": "A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.",
+      "de": "Der Anwender rammt das Ziel und schockt es mit starkem Strom. Das Ziel schreckt eventuell zurück."
+    },
+    "Ultra Moon": {
+      "en": "A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.",
+      "de": "Der Anwender rammt das Ziel und schockt es mit starkem Strom. Das Ziel schreckt eventuell zurück."
+    }
+  }
 }

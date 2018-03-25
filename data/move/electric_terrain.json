@@ -20,10 +20,6 @@
     "it": "Campo Elettrico",
     "en": "Electric Terrain"
   },
-  "descriptions": {
-    "en": "The user electrifies the ground under everyone's feet for five turns. Pokémon on the ground no longer fall asleep.",
-    "de": "Elektrofeld bewahrt alle Pokémon am Boden davor einzuschlafen - ebenfalls schlägt Gähner fehl - und ihre Elektro-Attacken verursachen 50% mehr Schaden für 5 Runden."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -44,5 +40,47 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Elektrofeld und hindert alle Pokémon, die den Boden berühren, am Einschlafen."
+    },
+    "Y": {
+      "en": "The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.",
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Elektrofeld und hindert alle Pokémon, die den Boden berühren, am Einschlafen."
+    },
+    "O.Ruby": {
+      "en": "The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user electrifies the ground under everyone’s feet for five turns. Pokémon on the ground no longer fall asleep.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",
+      "de": "Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken."
+    },
+    "Moon": {
+      "en": "The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",
+      "de": "Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken."
+    },
+    "Ultra Sun": {
+      "en": "The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",
+      "de": "Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken."
+    },
+    "Ultra Moon": {
+      "en": "The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",
+      "de": "Hindert fünf Runden lang alle Pokémon, die den Boden berühren, am Einschlafen. Erhöht die Stärke von Elektro-Attacken."
+    },
+    "Omega Ruby": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Elektrofeld und hindert alle Pokémon, die den Boden berühren, am Einschlafen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verwandelt den Untergrund fünf Runden lang in ein Elektrofeld und hindert alle Pokémon, die den Boden berühren, am Einschlafen.",
+      "en": "Unknown"
+    }
+  }
 }

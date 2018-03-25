@@ -23,10 +23,6 @@
     "pl": "Kula Cienia",
     "en": "Shadow Ball"
   },
-  "descriptions": {
-    "en": "A Ghost-type attack. Has a one-in-five chance of reducing the target Spcl.Def.",
-    "de": "Richtet Schaden an, 20% Chance die gegnerische Spezialverteidigung zu senken."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -53,5 +49,115 @@
       "stat": "sp_def",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ-VER."
+    },
+    "Silver": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ-VER."
+    },
+    "Crystal": {
+      "en": "An attack that may lower SPCL.DEF.",
+      "de": "Senkt evtl. SPEZ. VER."
+    },
+    "Ruby": {
+      "en": "Hurls a black blob that may lower the foe’s SP. DEF.",
+      "de": "Bewirft Gegner und senkt evtl. SPEZ. VERT.* (Attacken-Beschreibung)Dunkler Klumpen, der SP. VERT. senken kann.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Hurls a black blob that may lower the foe’s SP. DEF.",
+      "de": "Bewirft Gegner und senkt evtl. SPEZ. VERT.* (Attacken-Beschreibung)Dunkler Klumpen, der SP. VERT. senken kann.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Hurls a black blob that may lower the foe’s SP. DEF.",
+      "de": "Bewirft Gegner und senkt evtl. SPEZ. VERT.* (Attacken-Beschreibung)Dunkler Klumpen, der SP. VERT. senken kann.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A shadowy blob is hurled at the foe. May also lower the foe’s SP. DEF.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt evtl. die SP. VER.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der evtl. den SP. VER.-Wert senkt.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A shadowy blob is hurled at the foe. May also lower the foe’s SP. DEF.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt evtl. die SP. VER.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der evtl. den SP. VER.-Wert senkt.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.",
+      "de": "Bewirft Gegner mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Der Gegner wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung.* (Attacken-Beschreibung)Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

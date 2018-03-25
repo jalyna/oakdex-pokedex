@@ -22,10 +22,6 @@
     "pl": "Bis",
     "en": "Encore"
   },
-  "descriptions": {
-    "en": "Forces the target to continue to use the move it used last for the next two to six turns.",
-    "de": "Der Gegner wird gezwungen, die letzte Attacke noch 2-6 mal auszuführen. Ein Pokémon mit dieser Attacke sollte relativ schnell sein. Damit kannst du deinen Gegner z.B. zwingen, mehrmals Schutzschild zu verwenden. Entweder kann dein Pokémon dann ungestört z.B. seine Stats boosten oder du erzwingst dadurch einen Wechsel. Dies ist auch hilfreich um einen Gegner der seine Stats schon geboostet hat zum Wechsel zu zwingen, da er z.B bei 6 Flüchen dann noch weiter Fluch benutzen muss und man so noch ein paar freie Runden für einen Roarer oder Hazer schaffen kann."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Makes the foe repeat 2-6 times.",
+      "de": "Gegner greift max. 6 mal an."
+    },
+    "Silver": {
+      "en": "Makes the foe repeat 2-6 times.",
+      "de": "Gegner greift max. 6 mal an."
+    },
+    "Crystal": {
+      "en": "Makes the foe repeat 2-6 times.",
+      "de": "Gegner greift max. 6mal an."
+    },
+    "Ruby": {
+      "en": "Makes the foe repeat its last move over 2 to 6 turns.",
+      "de": "Gegner wiederholt letzten Angriff 2 - 6-mal."
+    },
+    "Sapphire": {
+      "en": "Makes the foe repeat its last move over 2 to 6 turns.",
+      "de": "Gegner wiederholt letzten Angriff 2 - 6-mal."
+    },
+    "Emerald": {
+      "en": "Makes the foe repeat its last move over 2 to 6 turns.",
+      "de": "Gegner wiederholt letzten Angriff 2 - 6-mal."
+    },
+    "FireRed": {
+      "en": "Makes the foe use the move it last used repeatedly for two to six turns.",
+      "de": "Gegner wiederholt letzten Angriff 2 - 6 Runden lang."
+    },
+    "LeafGreen": {
+      "en": "Makes the foe use the move it last used repeatedly for two to six turns.",
+      "de": "Gegner wiederholt letzten Angriff 2 - 6 Runden lang."
+    },
+    "Diamond": {
+      "en": "The user compels the foe to keep using only the move it last used for two to six turns.",
+      "de": "Gegner wiederholt letzten Angriff zwei bis sechs Runden lang."
+    },
+    "Pearl": {
+      "en": "The user compels the foe to keep using only the move it last used for two to six turns.",
+      "de": "Gegner wiederholt letzten Angriff zwei bis sechs Runden lang."
+    },
+    "Platinum": {
+      "en": "The user compels the foe to keep using only the move it last used for three to seven turns.",
+      "de": "Gegner wiederholt letzte Attacke drei bis sieben Runden lang."
+    },
+    "HeartGold": {
+      "en": "The user compels the foe to keep using only the move it last used for three to seven turns.",
+      "de": "Gegner wiederholt letzte Attacke drei bis sieben Runden lang."
+    },
+    "SoulSilver": {
+      "en": "The user compels the foe to keep using only the move it last used for three to seven turns.",
+      "de": "Gegner wiederholt letzte Attacke drei bis sieben Runden lang."
+    },
+    "Black": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt letzte Attacke drei Runden lang."
+    },
+    "White": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt letzte Attacke drei Runden lang."
+    },
+    "Black 2": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt letzte Attacke drei Runden lang."
+    },
+    "White 2": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt letzte Attacke drei Runden lang."
+    },
+    "X": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "Y": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "O.Ruby": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user compels the target to keep using only the move it last used for three turns.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user compels the target to keep using the move it encored for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "Moon": {
+      "en": "The user compels the target to keep using the move it encored for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "Ultra Sun": {
+      "en": "The user compels the target to keep using the move it encored for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "Ultra Moon": {
+      "en": "The user compels the target to keep using the move it encored for three turns.",
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang."
+    },
+    "Omega Ruby": {
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Ziel wiederholt die letzte Attacke drei Runden lang.",
+      "en": "Unknown"
+    }
+  }
 }

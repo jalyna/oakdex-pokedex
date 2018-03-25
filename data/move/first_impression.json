@@ -7,10 +7,6 @@
     "es": "Escaramuza"
   },
   "index_number": 660,
-  "descriptions": {
-    "en": "First Impression inflicts damage. It has a priority of +2, so is used even before other increased priority moves.",
-    "de": ""
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "critical_hit": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "Although this move has great power, it only works the first turn the user is in battle.",
+      "de": "Eine sehr starke Attacke, die jedoch nur erfolgreich ist, wenn sie sofort eingesetzt wird, nachdem der Anwender das Kampffeld betreten hat."
+    },
+    "Moon": {
+      "en": "Although this move has great power, it only works the first turn the user is in battle.",
+      "de": "Eine sehr starke Attacke, die jedoch nur erfolgreich ist, wenn sie sofort eingesetzt wird, nachdem der Anwender das Kampffeld betreten hat."
+    },
+    "Ultra Sun": {
+      "en": "Although this move has great power, it only works the first turn the user is in battle.",
+      "de": "Eine sehr starke Attacke, die jedoch nur erfolgreich ist, wenn sie sofort eingesetzt wird, nachdem der Anwender das Kampffeld betreten hat."
+    },
+    "Ultra Moon": {
+      "en": "Although this move has great power, it only works the first turn the user is in battle.",
+      "de": "Eine sehr starke Attacke, die jedoch nur erfolgreich ist, wenn sie sofort eingesetzt wird, nachdem der Anwender das Kampffeld betreten hat."
+    }
+  }
 }

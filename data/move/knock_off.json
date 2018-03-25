@@ -22,10 +22,6 @@
     "pl": "Nokaut",
     "en": "Knock Off"
   },
-  "descriptions": {
-    "en": "Knocks down the foe’s held item to prevent its use.",
-    "de": "Schädigt den Gegner und entreißt ein getragenes Item des Zieles, sodass es nicht mehr eingesetzt werden kann. Effekte von getragenen Items aktivieren sich vor der Schadensberechnung. Pokémon mit der Fähigkeit Wertehalter oder Variabilität können ihr Item nicht verlieren. Auch ein Delegator verhindern den Verlust eines Items. Der Platinum-Orb von Giratina kann nicht entfernt werden. Nach dem Kampf erhält das Ziel sein Item zurück."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 3,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Knocks down the foe’s held item to prevent its use.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch."
+    },
+    "Sapphire": {
+      "en": "Knocks down the foe’s held item to prevent its use.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch."
+    },
+    "Emerald": {
+      "en": "Knocks down the foe’s held item to prevent its use.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch."
+    },
+    "FireRed": {
+      "en": "Knocks down the foe’s held item to prevent its use during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch."
+    },
+    "LeafGreen": {
+      "en": "Knocks down the foe’s held item to prevent its use during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch."
+    },
+    "Diamond": {
+      "en": "The user slaps down the foe’s held item, preventing the item from being used during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch während d. Kampfes."
+    },
+    "Pearl": {
+      "en": "The user slaps down the foe’s held item, preventing the item from being used during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch während d. Kampfes."
+    },
+    "Platinum": {
+      "en": "The user slaps down the foe’s held item, preventing the item from being used during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch während d. Kampfes."
+    },
+    "HeartGold": {
+      "en": "The user slaps down the foe’s held item, preventing the item from being used during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch während d. Kampfes."
+    },
+    "SoulSilver": {
+      "en": "The user slaps down the foe’s held item, preventing the item from being used during the battle.",
+      "de": "Schlägt Gegner Item weg. Vereitelt so den Gebrauch während d. Kampfes."
+    },
+    "Black": {
+      "en": "The user slaps down the target’s held item, preventing that item from being used in the battle.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes."
+    },
+    "White": {
+      "en": "The user slaps down the target’s held item, preventing that item from being used in the battle.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes."
+    },
+    "Black 2": {
+      "en": "The user slaps down the target’s held item, preventing that item from being used in the battle.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes."
+    },
+    "White 2": {
+      "en": "The user slaps down the target’s held item, preventing that item from being used in the battle.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes."
+    },
+    "X": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "Y": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "O.Ruby": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "Moon": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "Ultra Sun": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "Ultra Moon": {
+      "en": "The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen."
+    },
+    "Omega Ruby": {
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schlägt das Item des Zieles weg und vereitelt so dessen Gebrauch während des Kampfes. Mehr Schaden gegen Ziele, die ein Item bei sich tragen.",
+      "en": "Unknown"
+    }
+  }
 }

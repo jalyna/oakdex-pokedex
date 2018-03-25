@@ -8,9 +8,11 @@ describe Oakdex::Pokedex::Move do
         'en' => 'Ally Switch',
         'de' => 'Seitentausch'
       },
-      'descriptions' => {
-        'en' => 'Description',
-        'de' => 'Beschreibung'
+      'pokedex_entries' => {
+        'Red' => {
+          'en' => 'Description',
+          'de' => 'Beschreibung'
+        }
       },
       'type'                    => 'Psychic',
       'index_number'            => 502,

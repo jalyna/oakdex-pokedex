@@ -20,10 +20,6 @@
     "it": "Cadutalibera",
     "en": "Sky Drop"
   },
-  "descriptions": {
-    "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
-    "de": "In dem Zug, in dem Freier Fall ausgewählt wurde, befördert sich der Anwender zusammen mit dem Ziel in die Luft. Beide sind in der Luft unfähig zu handeln und können nur von folgenden Attacken getroffen werden: Windsto&szlig, Donner, Himmelhieb, Orkan, Katapult oder wenn im Vorfeld Zielschuss bzw. Willensleser angewendet wurde. Aber auch ein Pokémon mit Schildlos kann die in der Luft befindlichen Pokémon treffen. Befindet sich ein Pokémon mit Schildlos in der Luft, kann es von allen Pokémon angegriffen werden."
-  },
   "type": "Flying",
   "contests": [
     {
@@ -44,5 +40,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Opfer kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Opfer kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Opfer kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Opfer kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Der Anwender entführt das Ziel in Runde 1 in Richtung Himmel und lässt es in Runde 2 fallen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Der Anwender entführt das Ziel in Runde 1 in Richtung Himmel und lässt es in Runde 2 fallen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Der Anwender entführt das Ziel in Runde 1 in Richtung Himmel und lässt es in Runde 2 fallen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Der Anwender entführt das Ziel in Runde 1 in Richtung Himmel und lässt es in Runde 2 fallen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Steigt in Runde 1 mit dem Ziel in die Luft auf und lässt es in Runde 2 fallen. Das Ziel kann dabei nicht angreifen.* (Attacken-Beschreibung)Das entführte Ziel wird in Runde 2 vom Himmel fallen gelassen. In der Luft kann das Ziel nicht attackieren.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

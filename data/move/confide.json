@@ -20,10 +20,6 @@
     "it": "Confidenza",
     "en": "Confide"
   },
-  "descriptions": {
-    "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk. stat.",
-    "de": "Verringert den Spezial-Angriff des Zieles um eine Stufe (auf ca. 66,7%). Sollte das Ziel Schutzschild, Scanner, Schutzstacheln oder Königsschild eingesetzt haben, wird es dennoch getroffen. Lediglich die Fähigkeit Lärmschutz kann die Attacke Vertrauenssache abwehren."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -50,5 +46,47 @@
       "stat": "sp_atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise seine Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise seine Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise dessen Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise dessen Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise dessen Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise dessen Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise seine Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender vertraut dem Ziel ein Geheimnis an und stört auf diese Weise seine Konzentration. Der Spezial-Angriff des Zieles sinkt.* (Attacken-Beschreibung)Der Anwender vertraut dem Ziel ein Geheimnis an. Dadurch stört er dessen Konzentration und senkt dessen Spezial-Angriff.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -6,7 +6,6 @@ module Oakdex
     class Move < Base
       json_folder 'move'
       translate :names, :name
-      translate :descriptions, :description
 
       def pp
         @attributes['pp']
@@ -18,6 +17,11 @@ module Oakdex
 
       def in_battle_properties
         @attributes['in_battle_properties'] || {}
+      end
+
+      def description(lang = 'en')
+        @attributes['pokedex_entries'].values.last[lang] ||
+          @attributes['pokedex_entries'].values.last['en']
       end
     end
   end

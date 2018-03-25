@@ -9,10 +9,6 @@
   "index_number": 728,
   "priority": 0,
   "critical_hit": 0,
-  "descriptions": {
-    "en": "After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user’s stats.",
-    "de": "Grandiras greift Gegner mithilfe von Z-Kraft mit voller Wucht an. Zusätzlich werden seine Statuswerte erhöht."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,15 @@
   "accuracy": 0,
   "pp": 1,
   "max_pp": 1,
-  "target": "adjacent_foes_all"
+  "target": "adjacent_foes_all",
+  "pokedex_entries": {
+    "Ultra Sun": {
+      "en": "After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user’s stats.",
+      "de": "Grandiras greift Gegner mithilfe von Z-Kraft mit voller Wucht an. Zusätzlich werden seine Statuswerte erhöht."
+    },
+    "Ultra Moon": {
+      "en": "After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user’s stats.",
+      "de": "Grandiras greift Gegner mithilfe von Z-Kraft mit voller Wucht an. Zusätzlich werden seine Statuswerte erhöht."
+    }
+  }
 }

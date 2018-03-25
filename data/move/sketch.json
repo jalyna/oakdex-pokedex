@@ -21,10 +21,6 @@
     "it": "Schizzo",
     "en": "Sketch"
   },
-  "descriptions": {
-    "en": "A move that allows the user to copy a move used by an opponent and learn that move.",
-    "de": "Die zuletzt vom Gegner eingesetzte Attacke wird dauerhaft erlernt."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Copies the foe's move permanently.",
+      "de": "Kopiert die Attacke des Gegners."
+    },
+    "Silver": {
+      "en": "Copies the foe's move permanently.",
+      "de": "Kopiert die Attacke des Gegners."
+    },
+    "Crystal": {
+      "en": "Copies the foe's move permanently.",
+      "de": "Kopiert die Attacke des Gegners."
+    },
+    "Ruby": {
+      "en": "Copies the foe’s last move permanently.",
+      "de": "Kopiert den zuletzt erlittenen Anrgiff."
+    },
+    "Sapphire": {
+      "en": "Copies the foe’s last move permanently.",
+      "de": "Kopiert den zuletzt erlittenen Anrgiff."
+    },
+    "Emerald": {
+      "en": "Copies the foe’s last move permanently.",
+      "de": "Kopiert den zuletzt erlittenen Anrgiff."
+    },
+    "FireRed": {
+      "en": "This move copies the move last used by the foe, then disappears.",
+      "de": "Kopiert stets den zuletzt erlittenen gegn. Angriff."
+    },
+    "LeafGreen": {
+      "en": "This move copies the move last used by the foe, then disappears.",
+      "de": "Kopiert stets den zuletzt erlittenen gegn. Angriff."
+    },
+    "Diamond": {
+      "en": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+      "de": "Kopiert stets den zuletzt erlittenen gegn. Angriff."
+    },
+    "Pearl": {
+      "en": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+      "de": "Kopiert stets den zuletzt erlittenen gegn. Angriff."
+    },
+    "Platinum": {
+      "en": "It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.",
+      "de": "Kopiert stets die letzte gegn. Attacke."
+    },
+    "HeartGold": {
+      "en": "It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears.",
+      "de": "Kopiert stets die letzte gegn. Attacke."
+    },
+    "SoulSilver": {
+      "en": "It enables the user to permanently learn the move last used by the foe. Once used, Sketch disappears.",
+      "de": "Kopiert stets die letzte gegn. Attacke."
+    },
+    "Black": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "White": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Black 2": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "White 2": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "X": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Y": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "O.Ruby": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender erlernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Moon": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender erlernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Ultra Sun": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender erlernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Ultra Moon": {
+      "en": "It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",
+      "de": "Anwender erlernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch."
+    },
+    "Omega Ruby": {
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender lernt die letzte Attacke des Zieles dauerhaft. Nachahmer verschwindet nach Gebrauch.",
+      "en": "Unknown"
+    }
+  }
 }

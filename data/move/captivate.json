@@ -22,10 +22,6 @@
     "pl": "Zniewolenie",
     "en": "Captivate"
   },
-  "descriptions": {
-    "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
-    "de": "Gegnerischer Spezial-Angriff wird um 2 Level gesenkt, wenn die gegenüberstehenden Pokémon nicht vom selben Geschlecht sind."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -52,5 +48,83 @@
       "stat": "sp_atk",
       "change_by": -2
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+      "de": "Charme-Angriff, der Spezial-Angriff senkt, falls Gegner dem anderen Geschlecht angehört.* (Attacken-Beschreibung)Gehört der Gegner dem anderen Geschlecht an, verfällt er dem Charme des Anwenders, sein Sp.-Angriff sinkt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+      "de": "Charme-Angriff, der Spezial-Angriff senkt, falls Gegner dem anderen Geschlecht angehört.* (Attacken-Beschreibung)Gehört der Gegner dem anderen Geschlecht an, verfällt er dem Charme des Anwenders, sein Sp.-Angriff sinkt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+      "de": "Charme-Angriff, der Spezial-Angriff senkt, falls Gegner dem anderen Geschlecht angehört.* (Attacken-Beschreibung)Gehört der Gegner dem anderen Geschlecht an, verfällt er dem Charme des Anwenders, sein Sp.-Angriff sinkt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls Gegner dem anderen Geschlecht angehört.* (Attacken-Beschreibung)Gehört der Gegner dem anderen Geschlecht an, verfällt er dem Charme des Anwenders, sein Sp.-Angriff sinkt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "If it is the opposite gender of the user, the foe is charmed into sharply lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls Gegner dem anderen Geschlecht angehört.* (Attacken-Beschreibung)Gehört der Gegner dem anderen Geschlecht an, verfällt er dem Charme des Anwenders, sein Sp.-Angriff sinkt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls das Ziel dem anderen Geschlecht angehört."
+    },
+    "White": {
+      "en": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls das Ziel dem anderen Geschlecht angehört."
+    },
+    "Black 2": {
+      "en": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls das Ziel dem anderen Geschlecht angehört."
+    },
+    "White 2": {
+      "en": "If it is the opposite gender of the user, the target is charmed into harshly lowering its Sp. Atk stat.",
+      "de": "Charme-Attacke, die Spezial-Angriff stark senkt, falls das Ziel dem anderen Geschlecht angehört."
+    },
+    "X": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "Y": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "O.Ruby": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "Moon": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "Ultra Sun": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "Ultra Moon": {
+      "en": "If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört."
+    },
+    "Omega Ruby": {
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Charme-Attacke, die den Spezial-Angriff des Zieles stark senkt, falls es dem anderen Geschlecht angehört.",
+      "en": "Unknown"
+    }
+  }
 }

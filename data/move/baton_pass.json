@@ -20,10 +20,6 @@
     "it": "Staffetta",
     "en": "Baton Pass"
   },
-  "descriptions": {
-    "en": "A move that transfers the user's status changes to the next Pokémon when switching.",
-    "de": "Mit Hilfe dieser Attacke können Wert-Steigerungen und andere nützliche Dinge, wie Delegatoren, weitergegeben werden. Als Beispiel: Ninjask verwendet zuerst Schwerttanz. Durch diese Attacke steigt der Angriff um zwei Stufen. Außerdem steigt durch die Charakteristik Temposchub seine Geschwindigkeit. Verwendet Ninjask die Attacke Staffette und wird gegen ein neu ausgewähltes Pokémon ausgetauscht, welches alle Wertesteigerungen (zwei Angriffsboosts, einen Intitiatveboost) von Ninjask erhält. Die Statusveränderungen gehen verloren, wenn das Pokémon ausgetauscht wird (erzwingt der Gegner mittels Brüller oder Wirbelwind einen Wechsel, gilt dies auch) oder der Gegner Dunkelnebel verwendet. Mit Staffette kann weitergegeben werden: ~ Jede Änderung an den Statuswerten, KP ausgenommen ~ Verwirrungen - sie werden auch weitergegeben. ~ Fluch: Achtung! Die Geist Variante von Fluch wird auch weitergegeben. Wird dein Pokémon verflucht und verwendet Stafette, wird das nächste Pokémon durch den Fluch Schaden erleiden. ~ Full-Trapping Moves: Rückentzug, Horrorblick und Spinnennetz bleiben erhalten, können aber durch Staffette umgangen werden. ~ Partial-Trapping Moves: Trapping, das nur zeitweilig andauert (Klammergriff, Whirlpool) wird durch Staffette aufgehoben ~ Energiefokus: Auch der Effekt dieser Attacke bleibt erhalten. ~ Verwurzler: Mit Hilfe von Staffette kann auch ein verwurzeltes Pokémon aus dem Kampf genommen werden. ~ Egelsamen: Wurde das Pokémon, das Staffette benutzt,bepflanzt, wird dieser Effekt auch auf das eingewechselte Pokémon übertragen. ~ Lehmsuhler, Nassmacher: Auch das eingewechselte Pokémon wird weniger Schaden durch Elektro- bzw. Feuer-Attacken nehmen. ~ Abgesang: Wurde Staffette verwendet, geht der Countdown trotzdem weiter. ~ Delegator: Auch Delegator wird durch Staffette weitergegeben."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -44,5 +40,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Switches while keeping effects.",
+      "de": "Tausch von Statusveränderungen."
+    },
+    "Silver": {
+      "en": "Switches while keeping effects.",
+      "de": "Tausch von Statusveränderungen."
+    },
+    "Crystal": {
+      "en": "Switches while keeping effects.",
+      "de": "Tausch ohne Statusveränderung."
+    },
+    "Ruby": {
+      "en": "Switches out the user while keeping effects in play.",
+      "de": "Tauscht PKMN aus. Alle Änderungen bleiben bestehen."
+    },
+    "Sapphire": {
+      "en": "Switches out the user while keeping effects in play.",
+      "de": "Tauscht PKMN aus. Alle Änderungen bleiben bestehen."
+    },
+    "Emerald": {
+      "en": "Switches out the user while keeping effects in play.",
+      "de": "Tauscht PKMN aus. Alle Änderungen bleiben bestehen."
+    },
+    "FireRed": {
+      "en": "The user switches out, passing along any stat changes to the new battler.",
+      "de": "Tauscht PKMN aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "LeafGreen": {
+      "en": "The user switches out, passing along any stat changes to the new battler.",
+      "de": "Tauscht PKMN aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "Diamond": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht PKMN aus. Alle Statuswertveränderungen bleiben bestehen."
+    },
+    "Pearl": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht PKMN aus. Alle Statuswertveränderungen bleiben bestehen."
+    },
+    "Platinum": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht PKMN aus. Alle Statuswertveränderungen bleiben bestehen."
+    },
+    "HeartGold": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht PKMN aus. Alle Statuswertveränderungen bleiben bestehen."
+    },
+    "SoulSilver": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht PKMN aus. Alle Statuswertveränderungen bleiben bestehen."
+    },
+    "Black": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "White": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "Black 2": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "White 2": {
+      "en": "The user switches places with a party Pokémon in waiting, passing along any stat changes.",
+      "de": "Tauscht Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "X": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht das eigene Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "Y": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht das eigene Pokémon aus. Alle Statusveränderungen bleiben bestehen."
+    },
+    "O.Ruby": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht den Anwender aus und überträgt alle Statusveränderungen auf das eingewechselte Pokémon."
+    },
+    "Moon": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht den Anwender aus und überträgt alle Statusveränderungen auf das eingewechselte Pokémon."
+    },
+    "Ultra Sun": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht den Anwender aus und überträgt alle Statusveränderungen auf das eingewechselte Pokémon."
+    },
+    "Ultra Moon": {
+      "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+      "de": "Tauscht den Anwender aus und überträgt alle Statusveränderungen auf das eingewechselte Pokémon."
+    },
+    "Omega Ruby": {
+      "de": "Tauscht das eigene Pokémon aus. Alle Statusveränderungen bleiben bestehen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Tauscht das eigene Pokémon aus. Alle Statusveränderungen bleiben bestehen.",
+      "en": "Unknown"
+    }
+  }
 }

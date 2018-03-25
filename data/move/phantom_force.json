@@ -20,10 +20,6 @@
     "it": "Spettrotuffo",
     "en": "Phantom Force"
   },
-  "descriptions": {
-    "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
-    "de": "Phantomkraft wird in zwei Runden ausgeführt: In der 1. verschwindet der Anwender und in der 2. wird Schaden verursacht. Selbst wenn das verteidigende Pokémon Schutz, Scanner, Schutzstacheln oder Königsschild eingesetzt hat, trifft Phantomkraft. Zusätzlich trifft diese Attacke immer und seine Stärke verdoppelt sich sogar, sofern das verteidigende Pokémon Komprimator eingesetzt hat."
-  },
   "type": "Ghost",
   "contests": [
     {
@@ -44,5 +40,47 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "Y": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "O.Ruby": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "Moon": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender verschwindet, um eine Runde lang seine Kraft zu sammeln und in der nächsten Runde anzugreifen. Durchbricht die Defensive des Zieles.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -23,10 +23,6 @@
     "pl": "Bąbelek",
     "en": "Bubble"
   },
-  "descriptions": {
-    "en": "A Water-type attack. Has a one-in-three chance of reducing the target's Speed.",
-    "de": "Verletzt den Gegner, 10% Chance und senkt dessen Initiative um eine Stufe (auf ca. 66,7% des Ausgangswertes). Im Doppelkampf werden beide Gegner von der Attacke getroffen. In Dreierkämpfen werden nur die direkt gegenüberstehenden Gegner getroffen. Diese Attacke richtet nicht viel Schaden an und ist deshalb nicht zu empfehlen, auch wenn in der 6. Generation die Stärke von 20 auf 40 angehoben wurde."
-  },
   "type": "Water",
   "contests": [
     {
@@ -53,5 +49,115 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may reduce SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Silver": {
+      "en": "An attack that may reduce SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Crystal": {
+      "en": "An attack that may reduce SPEED.",
+      "de": "Senkt evtl. INIT-Wert des Gegners."
+    },
+    "Ruby": {
+      "en": "An attack using bubbles. May lower the foe’s SPEED.",
+      "de": "Angriff mit Blasen. INIT.-Wert wird evtl gesenkt."
+    },
+    "Sapphire": {
+      "en": "An attack using bubbles. May lower the foe’s SPEED.",
+      "de": "Angriff mit Blasen. INIT.-Wert wird evtl gesenkt."
+    },
+    "Emerald": {
+      "en": "An attack using bubbles. May lower the foe’s SPEED.",
+      "de": "Angriff mit Blasen. INIT.-Wert wird evtl gesenkt."
+    },
+    "FireRed": {
+      "en": "A spray of bubbles hits the foe. It may lower the foe’s SPEED stat.",
+      "de": "Angriff mit Blasen. INIT.-Wert des Gegners wird evtl. gesenkt."
+    },
+    "LeafGreen": {
+      "en": "A spray of bubbles hits the foe. It may lower the foe’s SPEED stat.",
+      "de": "Angriff mit Blasen. INIT.-Wert des Gegners wird evtl. gesenkt."
+    },
+    "Diamond": {
+      "en": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "Pearl": {
+      "en": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "Platinum": {
+      "en": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "HeartGold": {
+      "en": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "SoulSilver": {
+      "en": "A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "Black": {
+      "en": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets’ Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "White": {
+      "en": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets’ Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "Black 2": {
+      "en": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets’ Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "White 2": {
+      "en": "A spray of countless bubbles is jetted at the opposing team. It may also lower the targets’ Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Gegners wird eventuell gesenkt."
+    },
+    "X": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "Y": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "O.Ruby": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stats.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "Moon": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "Ultra Sun": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "Ultra Moon": {
+      "en": "A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.",
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit Blasen. Initiative-Wert des Zieles wird eventuell gesenkt.",
+      "en": "Unknown"
+    }
+  }
 }

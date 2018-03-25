@@ -21,10 +21,6 @@
     "pl": "Brawura",
     "en": "Work Up"
   },
-  "descriptions": {
-    "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
-    "de": "Der Anwender erhöht seinen Angriff und Spezial-Angriff jeweils um eine Stufe (50% des Ausgangswertes)."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -36,14 +32,66 @@
   ],
   "stat_modifiers": [
     {
-      "stat": "atk",
-      "change_by": 1
-    }
-  ],
-  "stat_modifiers": [
-    {
       "stat": "sp_atk",
       "change_by": 1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spez.-Angr. erhöht.* (Attacken-Beschreibung)Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spez.-Angr. erhöht.* (Attacken-Beschreibung)Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spez.-Angr. erhöht.* (Attacken-Beschreibung)Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spez.-Angr. erhöht.* (Attacken-Beschreibung)Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "Y": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "O.Ruby": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "Moon": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "Ultra Sun": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "Ultra Moon": {
+      "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht."
+    },
+    "Omega Ruby": {
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht.",
+      "en": "Unknown"
+    }
+  }
 }

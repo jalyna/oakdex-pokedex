@@ -23,10 +23,6 @@
     "pl": "Frustracja",
     "en": "Frustration"
   },
-  "descriptions": {
-    "en": "A Normal-type attack. The more the user dislikes its trainer, the more powerful the move.",
-    "de": "Die Angriffkraft sinkt bei hoher Zuneigung zu dir bis auf eine minimale Stärke von eins. Wenn dich ein Pokémon gar nicht mag, erreicht diese Attacke eine Stärke von 102. Stärke = (255 - Freundschaftswert) / 2,5"
-  },
   "type": "Normal",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 3,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack based on lack of loyalty.",
+      "de": "Angriffsgrund: Keine Loyalität."
+    },
+    "Silver": {
+      "en": "An attack based on lack of loyalty.",
+      "de": "Angriffsgrund: Keine Loyalität."
+    },
+    "Crystal": {
+      "en": "An attack based on lack of loyalty.",
+      "de": "Angriffsgrund: Keine Loyalität."
+    },
+    "Ruby": {
+      "en": "An attack that is stronger if the TRAINER is disliked.",
+      "de": "Die Attacke ist stärker bei verhassten TRAINERn.* (Attacken-Beschreibung)Je unbeliebter der Trainer desto größer die Wirkung.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "An attack that is stronger if the TRAINER is disliked.",
+      "de": "Die Attacke ist stärker bei verhassten TRAINERn.* (Attacken-Beschreibung)Je unbeliebter der Trainer desto größer die Wirkung.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "An attack that is stronger if the TRAINER is disliked.",
+      "de": "Die Attacke ist stärker bei verhassten TRAINERn.* (Attacken-Beschreibung)Je unbeliebter der Trainer desto größer die Wirkung.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "This attack move grows more powerful the less the user likes its TRAINER.",
+      "de": "Die Attacke ist stärker bei verhassten TRAINERn.* (Attacken-Beschreibung)Je unbeliebter der TRAINER bei seinem POKéMON ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "This attack move grows more powerful the less the user likes its TRAINER.",
+      "de": "Die Attacke ist stärker bei verhassten TRAINERn.* (Attacken-Beschreibung)Je unbeliebter der TRAINER bei seinem POKéMON ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je mehr der Anwender seinen Trainer hasst.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je mehr der Anwender seinen Trainer hasst.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je mehr der Anwender seinen Trainer hasst.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je mehr der Anwender seinen Trainer hasst.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je mehr der Anwender seinen Trainer hasst.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A full-power attack that grows more powerful the less the user likes its Trainer.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This full-power attack grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "This full-power attack grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "This full-power attack grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "This full-power attack grows more powerful the less the user likes its Trainer.",
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Die Attacke wird stärker, je weniger der Anwender seinen Trainer mag.* (Attacken-Beschreibung)Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

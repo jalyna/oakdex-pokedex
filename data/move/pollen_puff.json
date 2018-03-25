@@ -7,10 +7,6 @@
     "es": "Bola de Polen"
   },
   "index_number": 676,
-  "descriptions": {
-    "en": "Pollen Puff varies depending on the target. If it targets an opponent, it deals damage. If it targets an ally, it restores up to 50% of the target's maximum HP. Pokémon with Bulletproof are immune to Pollen Puff.",
-    "de": ""
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+      "de": "Der Anwender greift mit einem Ball aus Pollen an, der beim Ziel explodiert. Mitstreiter werden von einem Ball getroffen, der ihre KP auffüllt."
+    },
+    "Moon": {
+      "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+      "de": "Der Anwender greift mit einem Ball aus Pollen an, der beim Ziel explodiert. Mitstreiter werden von einem Ball getroffen, der ihre KP auffüllt."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+      "de": "Der Anwender greift mit einem Ball aus Pollen an, der beim Ziel explodiert. Mitstreiter werden von einem Ball getroffen, der ihre KP auffüllt."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+      "de": "Der Anwender greift mit einem Ball aus Pollen an, der beim Ziel explodiert. Mitstreiter werden von einem Ball getroffen, der ihre KP auffüllt."
+    }
+  }
 }

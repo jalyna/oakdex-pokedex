@@ -23,10 +23,6 @@
     "pl": "Kwasozbroja",
     "en": "Acid Armor"
   },
-  "descriptions": {
-    "en": "Melts the user's body for protection. A move that sharply raises Defense.",
-    "de": "Steigert die eigene physische Defensive um zwei Stufen. Vor der 6. Generation besaß die Attacke 40 AP. Eine Stufe entspricht einer Steigung von 50% des Ausgangswertes. Insgesamt kann ein Wert eines Pokémon um 400% gesteigert werden. Entspricht der Verteidigungswert des Pokémon bereits 300% des Ausgangswertes (die Attacke wurde 3 mal eingesetzt, ohne dass das gegnerische Pokémon den Verteidigungs-Wert wieder herabsetzt), so schlägt die Attacke bei weiterer Verwendung immer fehl."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -53,5 +49,115 @@
       "stat": "def",
       "change_by": 2
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Sharply raises the user's DEFENSE.",
+      "de": "Hebt VERT-Wert des Angreifers enorm."
+    },
+    "Silver": {
+      "en": "Sharply raises the user's DEFENSE.",
+      "de": "Hebt VERT-Wert des Angreifers enorm."
+    },
+    "Crystal": {
+      "en": "Sharply raises the user's DEFENSE.",
+      "de": "Hebt VERT-Wert des Angreifers enorm."
+    },
+    "Ruby": {
+      "en": "Liquifies the user’s body to sharply raise DEFENSE.",
+      "de": "Verflüssigt Körper d. Anwenders. Erhöht VERT."
+    },
+    "Sapphire": {
+      "en": "Liquifies the user’s body to sharply raise DEFENSE.",
+      "de": "Verflüssigt Körper d. Anwenders. Erhöht VERT."
+    },
+    "Emerald": {
+      "en": "Liquifies the user’s body to sharply raise DEFENSE.",
+      "de": "Verflüssigt Körper d. Anwenders. Erhöht VERT."
+    },
+    "FireRed": {
+      "en": "The user alters its cells to liquefy itself and sharply raise DEFENSE.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht die VERT."
+    },
+    "LeafGreen": {
+      "en": "The user alters its cells to liquefy itself and sharply raise DEFENSE.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht die VERT."
+    },
+    "Diamond": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert."
+    },
+    "Pearl": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert."
+    },
+    "Platinum": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert."
+    },
+    "HeartGold": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "SoulSilver": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Black": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "White": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Black 2": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "White 2": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "X": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Y": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "O.Ruby": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Moon": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Ultra Sun": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Ultra Moon": {
+      "en": "The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark."
+    },
+    "Omega Ruby": {
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Verflüssigt Körperzellen des Anwenders. Erhöht den Verteidigungs-Wert stark.",
+      "en": "Unknown"
+    }
+  }
 }

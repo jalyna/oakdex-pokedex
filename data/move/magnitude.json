@@ -21,10 +21,6 @@
     "it": "Magnitudo",
     "en": "Magnitude"
   },
-  "descriptions": {
-    "en": "A Ground-type attack. The power of the attack will vary each time it is used.",
-    "de": "Die Stärke kann zwischen 10, 30, 70, 90, 110 und 150 Schadenspunkten variieren. Setzt der Gegner Schaufler ein wird der doppelte Schaden angerichtet. Da die Attacke vom Zufall abhängt, ist Erdbeben eher zu empfehlen."
-  },
   "type": "Ground",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "A ground attack with random power.",
+      "de": "Boden-Angriff, Intensität Zufall."
+    },
+    "Silver": {
+      "en": "A ground attack with random power.",
+      "de": "Boden-Angriff, Intensität Zufall."
+    },
+    "Crystal": {
+      "en": "A ground attack with random power.",
+      "de": "Boden-Angriff, Intensität Zufall."
+    },
+    "Ruby": {
+      "en": "A ground-shaking attack of random intensity.",
+      "de": "Ein erdbebenartiger Angriff von zufälliger Stärke."
+    },
+    "Sapphire": {
+      "en": "A ground-shaking attack of random intensity.",
+      "de": "Ein erdbebenartiger Angriff von zufälliger Stärke."
+    },
+    "Emerald": {
+      "en": "A ground-shaking attack of random intensity.",
+      "de": "Ein erdbebenartiger Angriff von zufälliger Stärke."
+    },
+    "FireRed": {
+      "en": "A ground-shaking attack against all standing POKéMON. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden Gegner."
+    },
+    "LeafGreen": {
+      "en": "A ground-shaking attack against all standing POKéMON. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden Gegner."
+    },
+    "Diamond": {
+      "en": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden PKMN (außer Anwender)."
+    },
+    "Pearl": {
+      "en": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden PKMN (außer Anwender)."
+    },
+    "Platinum": {
+      "en": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden PKMN (außer Anwender)."
+    },
+    "HeartGold": {
+      "en": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden PKMN (außer Anwender)."
+    },
+    "SoulSilver": {
+      "en": "The user looses a ground-shaking quake affecting everyone in battle. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen alle stehenden PKMN (außer Anwender)."
+    },
+    "Black": {
+      "en": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "White": {
+      "en": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Black 2": {
+      "en": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "White 2": {
+      "en": "The user looses a ground-shaking quake affecting everyone around the user. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "X": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Y": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "O.Ruby": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Moon": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks everything around it with a ground-shaking quake. Its power varies.",
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders."
+    },
+    "Omega Ruby": {
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Erdbebenartiger Angriff von zufälliger Stärke gegen andere Pokémon in der Umgebung des Anwenders.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -20,10 +20,6 @@
     "it": "Monito",
     "en": "Parting Shot"
   },
-  "descriptions": {
-    "en": "With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
-    "de": "Angriff und Spezial-Angriff des Gegners sinken um eine Stufe. Der Anwender wird in der gleichen Runde gegen ein anderes Pokémon ausgetauscht."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -54,5 +50,47 @@
       "stat": "sp_atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "Y": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "O.Ruby": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "Moon": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "Ultra Sun": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "Ultra Moon": {
+      "en": "With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt."
+    },
+    "Omega Ruby": {
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schüchtert das Ziel mit einer Abgangstirade ein, sodass dessen Angriffs- und Spezial-Angriffs-Wert sinken. Danach wird der Anwender ausgewechselt.",
+      "en": "Unknown"
+    }
+  }
 }

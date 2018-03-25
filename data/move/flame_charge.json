@@ -21,10 +21,6 @@
     "pl": "Nitroładunek",
     "en": "Flame Charge"
   },
-  "descriptions": {
-    "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat.",
-    "de": "Die Attacke verursacht Schaden und erhöht die Initiative des Anwenders um eine Stufe (50%)."
-  },
   "type": "Fire",
   "contests": [
     {
@@ -51,5 +47,63 @@
       "stat": "speed",
       "change_by": 1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen u. greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen u. greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen u. greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen u. greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender hüllt sich in Flammen und greift das Ziel an. Sammelt seine Energie und erhöht dadurch die eigene Initiative.* (Attacken-Beschreibung)Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

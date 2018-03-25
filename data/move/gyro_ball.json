@@ -22,10 +22,6 @@
     "pl": "Żyroskop",
     "en": "Gyro Ball"
   },
-  "descriptions": {
-    "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.*The user tackles the foe from a high-speed spin. The slower the user, the greater the damage.*",
-    "de": "Schaden hängt von den momentanen Initiativewerten des Angreifers und des Zielobjekts ab. Grundstärke = [abrunden(25 * InitiativeGegner / InitiativeAnwender)] +1"
-  },
   "type": "Steel",
   "contests": [
     {
@@ -46,5 +42,83 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Anwender führt Angriff mit hoher Geschwindigkeit aus. Je langsamer d. Anw., desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Anwender führt Angriff mit hoher Geschwindigkeit aus. Je langsamer d. Anw., desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Anwender führt Angriff mit hoher Geschwindigkeit aus. Je langsamer d. Anw., desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Anwender führt Angriff mit hoher Geschwindigkeit aus. Je langsamer d. Anw., desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user tackles the foe with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Anwender führt Angriff mit hoher Geschwindigkeit aus. Je langsamer d. Anw., desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto mehr Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je niedriger der Initiative-Wert des Anwenders im Vergleich zum Ziel ist, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je niedriger der Initiative-Wert des Anwenders im Vergleich zum Ziel ist, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je niedriger der Initiative-Wert des Anwenders im Vergleich zum Ziel ist, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je niedriger der Initiative-Wert des Anwenders im Vergleich zum Ziel ist, desto mehr Schaden fügt er zu.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders, desto höher der Schaden.* (Attacken-Beschreibung)Eine verzerrte Drehattacke. Je langsamer der Anwender, desto mehr Schaden fügt er zu.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

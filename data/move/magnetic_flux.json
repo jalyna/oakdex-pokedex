@@ -20,10 +20,6 @@
     "it": "Controllo Polare",
     "en": "Magnetic Flux"
   },
-  "descriptions": {
-    "en": "The user manipulates magnetic fields which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
-    "de": "Die Attacke erhöht die Verteidigung und die Spezial-Verteidigung aller eigenen Pokémon mit den Fähigkeiten Plus oder Minus."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -35,18 +31,50 @@
   ],
   "stat_modifiers": [
     {
-      "stat": "def",
-      "change_by": 1
-    },
-    {
       "stat": "sp_def",
       "change_by": 1
     }
   ],
-  "stat_modifiers": [
-    {
-      "stat": "sp_def",
-      "change_by": 1
+  "pokedex_entries": {
+    "X": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "Y": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "O.Ruby": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "Moon": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "Ultra Sun": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "Ultra Moon": {
+      "en": "The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen."
+    },
+    "Omega Ruby": {
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Das Magnetfeld wird so manipuliert, dass Spezial-Verteidigung und Verteidigung von Team-Pokémon mit der Fähigkeit Plus oder Minus steigen.",
+      "en": "Unknown"
     }
-  ]
+  }
 }

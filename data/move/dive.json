@@ -21,10 +21,6 @@
     "it": "Sub",
     "en": "Dive"
   },
-  "descriptions": {
-    "en": "Dives underwater the first turn and strikes next turn.*Dives underwater the 1st turn, then attacks next turn.*",
-    "de": "Richtet Schaden an. Vor dem Einsetzen der Attacke muss eine Runde gewartet werden, in der es nur von wenigen Attacken getroffen werden kann (Surfer, Whirlpool), ähnlich wie Schaufler oder Fliegen."
-  },
   "type": "Water",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Dives underwater the first turn and strikes next turn.",
+      "de": "Taucht in der 1. Runde unter u. trifft in der 2.* (Attacken-Beschreibung)PKMN taucht ab, dann erfolgt Angriff aus der Tiefe.* (VM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Dives underwater the first turn and strikes next turn.",
+      "de": "Taucht in der 1. Runde unter u. trifft in der 2.* (Attacken-Beschreibung)PKMN taucht ab, dann erfolgt Angriff aus der Tiefe.* (VM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Dives underwater the first turn and strikes next turn.",
+      "de": "Taucht in der 1. Runde unter u. trifft in der 2.* (Attacken-Beschreibung)PKMN taucht ab, dann erfolgt Angriff aus der Tiefe.* (VM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "The user dives underwater on the first turn and strikes next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2.* (Attacken-Beschreibung)In Runde 1 taucht das PKMN ab, um in Runde 2 aus der Tiefe anzugreifen.* (VM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "The user dives underwater on the first turn and strikes next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2.* (Attacken-Beschreibung)In Runde 1 taucht das PKMN ab, um in Runde 2 aus der Tiefe anzugreifen.* (VM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2."
+    },
+    "Pearl": {
+      "en": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2."
+    },
+    "Platinum": {
+      "en": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2."
+    },
+    "HeartGold": {
+      "en": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2."
+    },
+    "SoulSilver": {
+      "en": "A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.",
+      "de": "Der Anwender taucht in der 1. Runde unter und trifft in Runde 2."
+    },
+    "Black": {
+      "en": "Diving on the first turn, the user floats up and attacks on the second turn. It can be used to dive deep in the ocean.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund."
+    },
+    "White": {
+      "en": "Diving on the first turn, the user floats up and attacks on the second turn. It can be used to dive deep in the ocean.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund."
+    },
+    "Black 2": {
+      "en": "Diving on the first turn, the user floats up and attacks on the second turn. It can be used to dive deep in the ocean.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund."
+    },
+    "White 2": {
+      "en": "Diving on the first turn, the user floats up and attacks on the second turn. It can be used to dive deep in the ocean.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund."
+    },
+    "X": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an."
+    },
+    "Y": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an."
+    },
+    "O.Ruby": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn. It can be used to dive deep in the ocean.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Moon": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Sun": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Ultra Moon": {
+      "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an.* (VM-Beschreibung (unbenutzt))"
+    },
+    "Omega Ruby": {
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund.* (VM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund.* (Attacken-Beschreibung)Taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. Ermöglicht Tauchgänge zum Meeresgrund.* (VM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

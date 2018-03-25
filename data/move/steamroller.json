@@ -21,10 +21,6 @@
     "pl": "Ostrowalec",
     "en": "Steamroller"
   },
-  "descriptions": {
-    "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
-    "de": "Verursacht Schaden und lässt das Ziel mit einer Wahrscheinlichkeit von 30% zurückschrecken. Sollte das Ziel zuvor Komprimator angewandt haben, verdoppelt sich die Stärke von Quetschwalze."
-  },
   "type": "Bug",
   "contests": [
     {
@@ -33,5 +29,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "White": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Black 2": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "White 2": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This attack may make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "X": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Y": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "O.Ruby": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user crushes its targets by rolling over them with its rolled-up body. This may also make the target flinch.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Moon": {
+      "en": "The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Ultra Sun": {
+      "en": "The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Ultra Moon": {
+      "en": "The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.",
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück."
+    },
+    "Omega Ruby": {
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender rollt mit rundlichem Körper über das Ziel und drückt es platt. Ziel schreckt eventuell zurück.",
+      "en": "Unknown"
+    }
+  }
 }

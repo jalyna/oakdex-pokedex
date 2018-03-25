@@ -21,10 +21,6 @@
     "it": "Falsofinale",
     "en": "False Swipe"
   },
-  "descriptions": {
-    "en": "A move that adjusts Attack so that the foe has one HP left. Can't cause the foe to faint.",
-    "de": "Richet Schaden an, jedoch maximal so viel, dass dem Gegner 1 KP bleibt - der Gegner kann mit dieser Attacke nie besiegt werden. Sollte das Ziel noch 1 KP besitzen, trifft Trugschlag und lässt dem Ziel noch 1 KP. Ein Delegator kann mit einem Trugschlag zerstört werden."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Leaves the foe with at least 1HP.",
+      "de": "Mindestens 1 KP bleibt Gegner."
+    },
+    "Silver": {
+      "en": "Leaves the foe with at least 1HP.",
+      "de": "Mindestens 1 KP bleibt Gegner."
+    },
+    "Crystal": {
+      "en": "Leaves the foe with at least 1HP.",
+      "de": "Gegner behält mindestens 1 KP."
+    },
+    "Ruby": {
+      "en": "An attack that leaves the foe with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt."
+    },
+    "Sapphire": {
+      "en": "An attack that leaves the foe with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt."
+    },
+    "Emerald": {
+      "en": "An attack that leaves the foe with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt."
+    },
+    "FireRed": {
+      "en": "A restrained attack that always leaves the foe with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt."
+    },
+    "LeafGreen": {
+      "en": "A restrained attack that always leaves the foe with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt."
+    },
+    "Diamond": {
+      "en": "A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Gegners verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Gegners verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Gegners verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Gegners verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "A restrained attack that prevents the foe from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Gegner zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Gegners verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, dem mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ein Angriff, der dem Ziel zumindest 1 KP lässt.* (Attacken-Beschreibung)Eine zurückhaltende Attacke, die eine Kampfunfähigkeit des Zieles verhindert, da dem Ziel mindestens 1 KP bleibt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

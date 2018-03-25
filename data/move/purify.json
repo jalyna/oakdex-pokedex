@@ -7,10 +7,6 @@
     "es": "Purificación"
   },
   "index_number": 685,
-  "descriptions": {
-    "en": "If the target has a non-volatile status condition, Purify cures it and then restores the user's HP up to 50% of its own maximum HP. It has no effect if the target does not have a non-volatile status condition (even if it has the Ability Comatose).",
-    "de": "Falls der Gegner an einem Statusproblem leidet, wird es durch Läuterung entfernt. Der Anwender heilt sich dafür bis zu 50% auf."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.",
+      "de": "Der Anwender heilt das Statusproblem des Zieles und füllt dadurch seine eigenen KP auf."
+    },
+    "Moon": {
+      "en": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.",
+      "de": "Der Anwender heilt das Statusproblem des Zieles und füllt dadurch seine eigenen KP auf."
+    },
+    "Ultra Sun": {
+      "en": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.",
+      "de": "Der Anwender heilt das Statusproblem des Zieles und füllt dadurch seine eigenen KP auf."
+    },
+    "Ultra Moon": {
+      "en": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.",
+      "de": "Der Anwender heilt das Statusproblem des Zieles und füllt dadurch seine eigenen KP auf."
+    }
+  }
 }

@@ -74,8 +74,14 @@
     "names": {
       "$ref": "#/definitions/translations"
     },
-    "descriptions": {
-      "$ref": "#/definitions/translations"
+    "pokedex_entries": {
+      "type": "object",
+      "patternProperties": {
+        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon|Ultra Sun|Ultra Moon": {
+          "$ref": "#/definitions/translations"
+        }
+      },
+      "additionalProperties": false
     },
     "index_number": {
       "type": "integer",
@@ -240,7 +246,7 @@
     "affected_by_mirror_move",
     "affected_by_kings_rock",
     "names",
-    "descriptions",
+    "pokedex_entries",
     "contests"
   ],
   "additionalProperties": false

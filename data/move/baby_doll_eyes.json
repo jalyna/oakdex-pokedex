@@ -20,10 +20,6 @@
     "it": "Occhioni Teneri",
     "en": "Baby-Doll Eyes"
   },
-  "descriptions": {
-    "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
-    "de": "Mit erhöhter Priorität senkt es den Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangswertes)."
-  },
   "type": "Fairy",
   "contests": [
     {
@@ -38,5 +34,47 @@
       "stat": "atk",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert. Erstschlaggarantie."
+    },
+    "Y": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert. Erstschlaggarantie."
+    },
+    "O.Ruby": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert des Zieles. Hohe Erstschlagquote."
+    },
+    "Moon": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert des Zieles. Hohe Erstschlagquote."
+    },
+    "Ultra Sun": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert des Zieles. Hohe Erstschlagquote."
+    },
+    "Ultra Moon": {
+      "en": "The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert des Zieles. Hohe Erstschlagquote."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert. Erstschlaggarantie.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender erobert das Herz des Zieles, indem er es mit Kulleraugen ansieht. Senkt den Angriffs-Wert. Erstschlaggarantie.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -7,10 +7,6 @@
     "es": "Recogearena"
   },
   "index_number": 659,
-  "descriptions": {
-    "en": "Shore Up restores the user's current HP based on the weather in the battle. Normal conditions restore ½ total HP and sandstorm conditions restore ⅔ total.",
-    "de": "Gibt dem Anwender bis zu 50% an KP zurück. Ist der Sandsturm draußen bekommt man deutlich mehr KP."
-  },
   "makes_contact": false,
   "affected_by_protect": false,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Tobt ein Sandsturm, werden noch mehr KP aufgefüllt."
+    },
+    "Moon": {
+      "en": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Tobt ein Sandsturm, werden noch mehr KP aufgefüllt."
+    },
+    "Ultra Sun": {
+      "en": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Tobt ein Sandsturm, werden noch mehr KP aufgefüllt."
+    },
+    "Ultra Moon": {
+      "en": "The user regains up to half of its max HP. It restores more HP in a sandstorm.",
+      "de": "KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. Tobt ein Sandsturm, werden noch mehr KP aufgefüllt."
+    }
+  }
 }

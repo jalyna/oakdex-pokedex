@@ -7,10 +7,6 @@
     "es": "Pico Cañón"
   },
   "index_number": 690,
-  "descriptions": {
-    "en": "Beak Blast is a decreased priority move. The user charges up at the beginning of the turn and executes Beak Blast at -3 priority. All who make contact with the user during the charging phase are burned.",
-    "de": ""
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "critical_hit": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.",
+      "de": "Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen."
+    },
+    "Moon": {
+      "en": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.",
+      "de": "Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen."
+    },
+    "Ultra Sun": {
+      "en": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.",
+      "de": "Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen."
+    },
+    "Ultra Moon": {
+      "en": "The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.",
+      "de": "Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen."
+    }
+  }
 }

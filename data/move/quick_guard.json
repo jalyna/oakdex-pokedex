@@ -21,10 +21,6 @@
     "pl": "Szybka Obrona",
     "en": "Quick Guard"
   },
-  "descriptions": {
-    "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
-    "de": "Anwender und Mitstreiter werden vor Erstschlag-Attacken, wie z.B. Ruckzuhieb oder Eissplitter, geschützt. Offenlegung stellt hierbei eine Ausnahme dar."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -45,5 +41,63 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken. Geht bei wiederholtem Einsatz oft daneben."
+    },
+    "White": {
+      "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken. Geht bei wiederholtem Einsatz oft daneben."
+    },
+    "Black 2": {
+      "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken. Geht bei wiederholtem Einsatz oft daneben."
+    },
+    "White 2": {
+      "en": "The user protects itself and its allies from priority moves. If used in succession, its chance of failing rises.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken. Geht bei wiederholtem Einsatz oft daneben."
+    },
+    "X": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken."
+    },
+    "Y": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken."
+    },
+    "O.Ruby": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor Erstschlag-Attacken."
+    },
+    "Moon": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor Erstschlag-Attacken."
+    },
+    "Ultra Sun": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor Erstschlag-Attacken."
+    },
+    "Ultra Moon": {
+      "en": "The user protects itself and its allies from priority moves.",
+      "de": "Schützt Anwender und Mitstreiter vor Erstschlag-Attacken."
+    },
+    "Omega Ruby": {
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schützt Anwender und Mitstreiter vor gegnerischen Erstschlag-Attacken.",
+      "en": "Unknown"
+    }
+  }
 }

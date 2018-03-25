@@ -22,10 +22,6 @@
     "pl": "Kamienny Grób",
     "en": "Rock Tomb"
   },
-  "descriptions": {
-    "en": "Stops the foe from moving with rocks and cuts Speed.*Stops the foe from moving with rocks. May lower Speed.*",
-    "de": "Von der 3. bis zur 5. Generation: Schädigt den Gegner mit eienr Stärke von 50, hat 10 AP sowie eine Genauigkeit von 80%. Der Initiativewert wird um eine Stufe (auf ca. 66,7% des Ausgangswertes) gesenkt."
-  },
   "type": "Rock",
   "contests": [
     {
@@ -52,5 +48,103 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Stops the foe from moving with rocks and cuts SPEED.",
+      "de": "Hält den Feind mit Steinen auf u. senkt INIT.-Wert,* (Attacken-Beschreibung)Stoppt GESTEIN-Attacken. Kann INIT.-Wert senken.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Stops the foe from moving with rocks and cuts SPEED.",
+      "de": "Hält den Feind mit Steinen auf u. senkt INIT.-Wert,* (Attacken-Beschreibung)Stoppt GESTEIN-Attacken. Kann INIT.-Wert senken.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Stops the foe from moving with rocks and cuts SPEED.",
+      "de": "Hält den Feind mit Steinen auf u. senkt INIT.-Wert,* (Attacken-Beschreibung)Begräbt Gegner mit Steinen. Kann INIT.-Wert senken.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s SPEED if it hits.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der INIT.-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Felsbrocken werden auf den Gegner geschleudert. Bei Erfolg sinkt der INIT.-Wert.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s SPEED if it hits.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der INIT.-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Felsbrocken werden auf den Gegner geschleudert. Bei Erfolg sinkt der INIT.-Wert.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Der Gegner wird mit Felsen beworfen, die ihn blockieren und schnelle Angriffe verlangsamen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Der Gegner wird mit Felsen beworfen, die ihn blockieren und schnelle Angriffe verlangsamen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Der Gegner wird mit Felsen beworfen, die ihn blockieren und schnelle Angriffe verlangsamen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Der Gegner wird mit Felsen beworfen, die ihn blockieren und schnelle Angriffe verlangsamen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "Boulders are hurled at the foe. It also lowers the foe’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Gegners gesenkt.* (Attacken-Beschreibung)Der Gegner wird mit Felsen beworfen, die ihn blockieren und schnelle Angriffe verlangsamen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Kann Initiative-Wert senken.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Kann Initiative-Wert senken.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Kann Initiative-Wert senken.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Kann Initiative-Wert senken.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.* (Attacken-Beschreibung)Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

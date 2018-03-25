@@ -7,10 +7,6 @@
     "es": "Multiataque"
   },
   "index_number": 718,
-  "descriptions": {
-    "en": "This move effect may be in need of research. Reason: Is it affected by Magic Room/Klutz, Normalize, Pixilate/Refrigerate/Aerilate/Galvanize, Ion Deluge (if the move would be Normal-type), or Electrify?You can discuss this on the talk page.",
-    "de": "Multi-Angriff ist die Speziaattacke von Amigento. Der Typ von Multi-Angriff ist von dem getragenen メモリ Memory des Anwenders abhängig. Da Amigento durch Alpha-System seinen Typ ebenfalls an ein gehaltenes メモリ Memory anpasst, erhält es immer STAB auf diese Attacke."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.",
+      "de": "Der Anwender sammelt eine große Menge Energie und greift das Ziel damit an. Der Typ der Attacke hängt von dem der Disc ab."
+    },
+    "Moon": {
+      "en": "Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.",
+      "de": "Der Anwender sammelt eine große Menge Energie und greift das Ziel damit an. Der Typ der Attacke hängt von dem der Disc ab."
+    },
+    "Ultra Sun": {
+      "en": "Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.",
+      "de": "Der Anwender sammelt eine große Menge Energie und greift das Ziel damit an. Der Typ der Attacke hängt von dem der Disc ab."
+    },
+    "Ultra Moon": {
+      "en": "Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.",
+      "de": "Der Anwender sammelt eine große Menge Energie und greift das Ziel damit an. Der Typ der Attacke hängt von dem der Disc ab."
+    }
+  }
 }

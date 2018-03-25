@@ -22,10 +22,6 @@
     "pl": "Skubnięcie",
     "en": "Pluck"
   },
-  "descriptions": {
-    "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains the effect.",
-    "de": "Doppelter Schaden, wenn der Gegner eine Beere trägt und diese isst. Hält der Gegner eine Tanigabeere oder Jabocabeere, frisst dieser diese Beere bevor sie gestohlen werden kann. Wird ein Pokémon Opfer dieser Attacke und ist im Itemsperre-Zustand, wird die Beere zwar gefressen, hat aber keinen Effekt. Ebenso behält das Ziel seine Beere, wenn es über die Fähigkeit Wertehalter verfügt oder sich hinter einem Delegator verbirgt."
-  },
   "type": "Flying",
   "contests": [
     {
@@ -46,5 +42,83 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.",
+      "de": "Anwender pickt den Gegner, pflückt Beere, falls Gegner eine Beere hält und erhält ihren Effekt.* (Attacken-Beschreibung)Hält der Gegner eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.",
+      "de": "Anwender pickt den Gegner, pflückt Beere, falls Gegner eine Beere hält und erhält ihren Effekt.* (Attacken-Beschreibung)Hält der Gegner eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.",
+      "de": "Anwender pickt den Gegner, pflückt Beere, falls Gegner eine Beere hält und erhält ihren Effekt.* (Attacken-Beschreibung)Hält der Gegner eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.",
+      "de": "Anwender pickt den Gegner, pflückt Beere, falls Gegner eine Beere hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält der Gegner eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.",
+      "de": "Anwender pickt den Gegner, pflückt Beere, falls Gegner eine Beere hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält der Gegner eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält das Ziel eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält das Ziel eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält das Ziel eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine hält, und erhält ihren Effekt.* (Attacken-Beschreibung)Hält das Ziel eine Beere, stiehlt der Angreifer sie und genießt ihre Auswirkungen.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "Y": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "O.Ruby": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "Moon": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "Ultra Sun": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "Ultra Moon": {
+      "en": "The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt."
+    },
+    "Omega Ruby": {
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender pickt das Ziel, nimmt die Beere, falls das Ziel eine trägt, und erhält ihren Effekt.",
+      "en": "Unknown"
+    }
+  }
 }

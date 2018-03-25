@@ -20,10 +20,6 @@
     "it": "Scudo Reale",
     "en": "King's Shield"
   },
-  "descriptions": {
-    "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
-    "de": "Spezial-Attacke von Durengard, welche den Anwender vor fast allen (physischen) und (speziellen) Attacken schützt. Eventueller Schaden durch Wettereffekte oder bereits bestehende Statusprobleme wird dennoch nicht abgewendet. Sollte der Anwender von Königsschild mit einer Attacke angegriffen werden, welche Kontakt herstellt, wird der Angriff des Angreifers um zwei Level herabgesetzt."
-  },
   "type": "Steel",
   "contests": [
     {
@@ -38,5 +34,47 @@
       "stat": "atk",
       "change_by": -2
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender weicht dem gegnerischen Angriff aus und geht in die Defensive. Berührt ihn nun ein Pokémon, sinkt der Angriffs-Wert dieses Gegners."
+    },
+    "Y": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender weicht dem gegnerischen Angriff aus und geht in die Defensive. Berührt ihn nun ein Pokémon, sinkt der Angriffs-Wert dieses Gegners."
+    },
+    "O.Ruby": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark."
+    },
+    "Moon": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark."
+    },
+    "Ultra Sun": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark."
+    },
+    "Ultra Moon": {
+      "en": "The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.",
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark."
+    },
+    "Omega Ruby": {
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Der Anwender geht in die Defensive und wird vor Angriffen geschützt. Berührt ihn nun ein Pokémon, sinkt dessen Angriffs-Wert stark.",
+      "en": "Unknown"
+    }
+  }
 }

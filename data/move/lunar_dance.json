@@ -21,10 +21,6 @@
     "it": "Lunardanza",
     "en": "Lunar Dance"
   },
-  "descriptions": {
-    "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
-    "de": "Anwender wird besiegt; Das Pokémon, was als nächstes ausgesendet wird, wird komplett geheilt. Wirkt nicht auf bereits besiegte Pokémon. Deshalb schlägt die Attacke auch fehl, wenn es kein weiteres kampfbereites Pokémon im Team mehr gibt."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -45,5 +41,83 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Diamond": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat volle KP. Status-probl. werden geheilt."
+    },
+    "Pearl": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat volle KP. Status-probl. werden geheilt."
+    },
+    "Platinum": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat volle KP. Status-probl. werden geheilt."
+    },
+    "HeartGold": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende PKMN hat volle KP/AP. Status-probl. werden geheilt."
+    },
+    "SoulSilver": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende PKMN hat volle KP/AP. Status-probl. werden geheilt."
+    },
+    "Black": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP/AP. Statusprobleme werden geheilt."
+    },
+    "White": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP/AP. Statusprobleme werden geheilt."
+    },
+    "Black 2": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP/AP. Statusprobleme werden geheilt."
+    },
+    "White 2": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP/AP. Statusprobleme werden geheilt."
+    },
+    "X": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP und AP. Statusprobleme werden geheilt."
+    },
+    "Y": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP und AP. Statusprobleme werden geheilt."
+    },
+    "O.Ruby": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP sowie AP und wird von Statusproblemen geheilt."
+    },
+    "Moon": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP sowie AP und wird von Statusproblemen geheilt."
+    },
+    "Ultra Sun": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP sowie AP und wird von Statusproblemen geheilt."
+    },
+    "Ultra Moon": {
+      "en": "The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP sowie AP und wird von Statusproblemen geheilt."
+    },
+    "Omega Ruby": {
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP und AP. Statusprobleme werden geheilt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender geht K.O. Das an seine Stelle tretende Pokémon hat dafür volle KP und AP. Statusprobleme werden geheilt.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -20,10 +20,6 @@
     "it": "Elettrocontagio",
     "en": "Electrify"
   },
-  "descriptions": {
-    "en": "If the target is electrified before it uses a move during that turn, the target's move becomes Electric type.",
-    "de": "Elektrifizierung ist die Spezial-Attacke von Eguana und Elezard. Ist der Anwender schneller als das Ziel, wechselt die Attacke des Zieles für diese Runde zum Typen ."
-  },
   "type": "Electric",
   "contests": [
     {
@@ -32,5 +28,47 @@
       "jam": 1,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "Y": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "O.Ruby": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "Moon": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "Ultra Sun": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "Ultra Moon": {
+      "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an."
+    },
+    "Omega Ruby": {
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Kommt die Attacke zum Einsatz, bevor das Ziel seine Attacke ausführt, nimmt diese für die Dauer dieser Runde den Typ Elektro an.",
+      "en": "Unknown"
+    }
+  }
 }

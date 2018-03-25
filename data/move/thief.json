@@ -21,10 +21,6 @@
     "it": "Furto",
     "en": "Thief"
   },
-  "descriptions": {
-    "en": "A Dark-type attack. The attacking Pokémon may steal an item held by the target.",
-    "de": "Stiehlt wilden Pokémons das Item und behält es auch noch nach dem Kampf. Briefe können nicht gestohlen werden. Trägt der Anwender bereits ein Item, wird das gegnerische Item nicht gestohlen. Raub ist sehr nützlich, um Items wie Herzschuppen von wilden Pokémon zu farmen."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -45,5 +41,115 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may steal a held item.",
+      "de": "Stiehlt evtl. ein getragenes Item."
+    },
+    "Silver": {
+      "en": "An attack that may steal a held item.",
+      "de": "Stiehlt evtl. ein getragenes Item."
+    },
+    "Crystal": {
+      "en": "An attack that may steal a held item.",
+      "de": "Stiehlt evtl. ein getragenes Item."
+    },
+    "Ruby": {
+      "en": "While attacking, it may steal the foe’s held item.",
+      "de": "Kann das vom Gegner gehaltene Item stehlen.* (Attacken-Beschreibung)Beim Angriff wird Item des Gegners evtl. gestohlen.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "While attacking, it may steal the foe’s held item.",
+      "de": "Kann das vom Gegner gehaltene Item stehlen.* (Attacken-Beschreibung)Beim Angriff wird Item des Gegners evtl. gestohlen.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "While attacking, it may steal the foe’s held item.",
+      "de": "Kann das vom Gegner gehaltene Item stehlen.* (Attacken-Beschreibung)Beim Angriff wird Item des Gegners evtl. gestohlen.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that may take the foe’s held item if the user isn’t holding one.",
+      "de": "Das vom Gegner gehaltene Item kann gestohlen werden.* (Attacken-Beschreibung)Beim Angriff wird das Item des Gegners evtl. gestohlen.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that may take the foe’s held item if the user isn’t holding one.",
+      "de": "Das vom Gegner gehaltene Item kann gestohlen werden.* (Attacken-Beschreibung)Beim Angriff wird das Item des Gegners evtl. gestohlen.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Gegnerisches Item kann gestohlen werden, wenn Anwender kein Item hält.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Gegner gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Gegnerisches Item kann gestohlen werden, wenn Anwender kein Item hält.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Gegner gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Gegnerisches Item kann gestohlen werden, wenn Anwender kein Item hält.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Gegner gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Gegnerisches Item kann gestohlen werden, wenn Anwender kein Item hält.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Gegner gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Gegnerisches Item kann gestohlen werden, wenn Anwender kein Item hält.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Gegner gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.",
+      "de": "Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Erlaubt es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt.* (Attacken-Beschreibung)Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

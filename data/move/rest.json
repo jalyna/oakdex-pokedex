@@ -23,10 +23,6 @@
     "pl": "Odpoczynek",
     "en": "Rest"
   },
-  "descriptions": {
-    "en": "The user takes a nap to fully restore its HP and recover from any status abnormalities.",
-    "de": "Die KP des Anwenders werden vollständig aufgefüllt, alle Statusveränderungen beseitigt. Nach der Anwendung schläft das Pokémon drei Runden (zwei in der ersten Generation). Auswechseln setzt den Zähler der verbleibenden Runden im Schlaf nicht zurück. Ein Pokémon mit Frühwecker wacht bereits nach einer Runde wieder auf. Die Attacke schlägt fehl, wenn das Pokémon noch alle KP hat oder es die Fähigkeiten Insomnia oder Munterkeit besitzt. Erholung wird oft in Verbindung mit der Attacke Schlafrede verwendet, da man während der zwei Runden Schlaf noch Attacken einsetzen kann. Vor allem wichtig, weil man gegen gute Spieler keine Runden verschwenden darf, da sie das sofort mit einem eingetauschten Wahlitembenutzer oder Boostpokemon bestrafen würden."
-  },
   "type": "Psychic",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Sleep for 2 turns to fully recover.",
+      "de": "2 Runden pausieren für Erholung."
+    },
+    "Silver": {
+      "en": "Sleep for 2 turns to fully recover.",
+      "de": "2 Runden pausieren für Erholung."
+    },
+    "Crystal": {
+      "en": "Sleep for 2 turns to fully recover.",
+      "de": "2 Runden pausieren für Erholung."
+    },
+    "Ruby": {
+      "en": "The user sleeps for 2 turns, restoring HP and status.",
+      "de": "Anwender schläft 2 Runden, KP und Status erneuert.* (Attacken-Beschreibung)POKéMON schläft für 2 Runden. Füllt KP und heilt Status.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "The user sleeps for 2 turns, restoring HP and status.",
+      "de": "Anwender schläft 2 Runden, KP und Status erneuert.* (Attacken-Beschreibung)POKéMON schläft für 2 Runden. Füllt KP und heilt Status.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "The user sleeps for 2 turns, restoring HP and status.",
+      "de": "Anwender schläft 2 Runden, KP und Status erneuert.* (Attacken-Beschreibung)POKéMON schläft für 2 Runden. Füllt KP und heilt Status.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "The user sleeps for two turns to fully restore HP and heal any status problem.",
+      "de": "Anwender schläft 2 Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "The user sleeps for two turns to fully restore HP and heal any status problem.",
+      "de": "Anwender schläft 2 Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender schläft zwei Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender schläft zwei Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender schläft zwei Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender schläft zwei Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender schläft zwei Runden, um KP und Status voll zu erneuern.* (Attacken-Beschreibung)Der Angreifer schläft 2 Runden. Dabei werden die KP aufgefüllt und die Statusprobleme behoben.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden."
+    },
+    "White": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden."
+    },
+    "Black 2": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden."
+    },
+    "White 2": {
+      "en": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden."
+    },
+    "X": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.",
+      "de": "Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden.* (TM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden.* (TM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

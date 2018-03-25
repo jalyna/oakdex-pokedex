@@ -21,10 +21,6 @@
     "it": "Scippo",
     "en": "Snatch"
   },
-  "descriptions": {
-    "en": "Steals the effects of the move the foe uses next.*Steals the effects of the move the foe is trying to use.*",
-    "de": "Verwendet dein Gegner beim nächsten Angriff eine Statuswerte erhöhende oder das Pokemon unterstützende Attacke, wird der Effekt auf dein Pokémon übertragen. Greift immer zuerst an (Priorität von 5, Rechte Hand ist schneller). Beispiel 1: Du setzt Übernahme ein, dein Gegner Schwerttanz. Anstatt des Angriffs des gegnerischen Pokemon, steigt deiner. Beispiel 2: Du setzt Übernahme ein, dein Gegner einen Angriff mit dem er dir Schaden hinzufügt. Übernahme schlägt fehl und dein Pokémon erleidet Schaden. Folgende Attacken können neben Statuswerte-Erhöhenden Attacken \"übernommen\" werden: Weißnebel, Bodyguard, Reflektor, Lichtschild, Verwurzler, Aromakur, Psycho-Plus, Horter, Verzehrer, Tarnung und Ladevorgang."
-  },
   "type": "Dark",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Steals the effects of the move the foe uses next.",
+      "de": "Immunität geg. den Effekt d. nächsten geg. Angriffs.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Steals the effects of the move the foe uses next.",
+      "de": "Immunität geg. den Effekt d. nächsten geg. Angriffs.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "Steals the effects of the foe’s healing or status-changing move.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Status verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, egal, ob sie Status verändernder oder heil. Natur sind.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "Steals the effects of the foe’s healing or status-changing move.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Status verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, egal, ob sie Status verändernder oder heil. Natur sind.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Steals the effects of the move the target uses next.",
+      "de": "Immunität geg. den Effekt d. nächsten geg. Angriffs.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user steals the effects of any healing or status-changing move the foe attempts to use.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Werte verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, wenn diese heilender oder statusverändernder Natur sind.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user steals the effects of any healing or status-changing move the foe attempts to use.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Werte verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, wenn diese heilender oder statusverändernder Natur sind.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user steals the effects of any healing or stat-changing move the foe attempts to use.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Werte verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, wenn diese heilender oder statusverändernder Natur sind.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user steals the effects of any healing or stat-changing move the foe attempts to use.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Werte verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, wenn diese heilender oder statusverändernder Natur sind.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user steals the effects of any healing or stat-changing move the foe attempts to use.",
+      "de": "Raubt den Effekt der gegn. heilenden oder Werte verändernden Attacke.* (Attacken-Beschreibung)Stiehlt die Effekte der gegnerischen Attacke, wenn diese heilender oder statusverändernder Natur sind.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user steals the effects of any healing or stat-changing move the opponent attempts to use.",
+      "de": "Raubt den Effekt der heilenden oder Werte verändernden Attacke des Gegners."
+    },
+    "White": {
+      "en": "The user steals the effects of any healing or stat-changing move the opponent attempts to use.",
+      "de": "Raubt den Effekt der heilenden oder Werte verändernden Attacke des Gegners."
+    },
+    "Black 2": {
+      "en": "The user steals the effects of any healing or stat-changing move the opponent attempts to use.",
+      "de": "Raubt den Effekt der heilenden oder Werte verändernden Attacke des Gegners."
+    },
+    "White 2": {
+      "en": "The user steals the effects of any healing or stat-changing move the opponent attempts to use.",
+      "de": "Raubt den Effekt der heilenden oder Werte verändernden Attacke des Gegners."
+    },
+    "X": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt eingesetzter heilender oder Werte verändernder Attacken."
+    },
+    "Y": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt eingesetzter heilender oder Werte verändernder Attacken."
+    },
+    "O.Ruby": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt heilender oder Werte verändernder Attacken des Zieles."
+    },
+    "Moon": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt heilender oder Werte verändernder Attacken des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt heilender oder Werte verändernder Attacken des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "The user steals the effects of any attempts to use a healing or stat-changing move.",
+      "de": "Raubt den Effekt heilender oder Werte verändernder Attacken des Zieles."
+    },
+    "Omega Ruby": {
+      "de": "Raubt den Effekt eingesetzter heilender oder Werte verändernder Attacken.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Raubt den Effekt eingesetzter heilender oder Werte verändernder Attacken.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -21,10 +21,6 @@
     "pl": "Rzut Obrotowy",
     "en": "Circle Throw"
   },
-  "descriptions": {
-    "en": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends.",
-    "de": "Verursacht Schaden. In einem Trainerkampf wird das Ziel ausgewechselt, sofern der Trainer noch ein anderes kampffähiges Pokémon besitzt. Beendet Kämpfe gegen wilde Pokémon."
-  },
   "type": "Fighting",
   "contests": [
     {
@@ -33,5 +29,63 @@
       "jam": 0,
       "condition": "Cool"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Schleudert das Ziel davon und bewirkt, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "White": {
+      "en": "The user throws the target and drags out another Pokémon in its party. In the wild, the battle ends.",
+      "de": "Schleudert das Ziel davon und bewirkt, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Black 2": {
+      "en": "The target is thrown and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Schleudert das Ziel davon und bewirkt, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "White 2": {
+      "en": "The target is thrown and switched. In the wild, a battle against a single Pokémon ends.",
+      "de": "Schleudert das Ziel davon und bewirkt, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "X": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Y": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "O.Ruby": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Moon": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Ultra Sun": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Ultra Moon": {
+      "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon."
+    },
+    "Omega Ruby": {
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schleudert das Ziel davon und bewirkt damit, dass ein anderes Pokémon eingewechselt wird. Beendet Kämpfe gegen wilde Pokémon.",
+      "en": "Unknown"
+    }
+  }
 }

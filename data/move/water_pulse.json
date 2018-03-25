@@ -22,10 +22,6 @@
     "pl": "Wodny Puls",
     "en": "Water Pulse"
   },
-  "descriptions": {
-    "en": "Attacks with ultrasonic waves. May confuse the foe.*Generates an ultrasonic wave that may confuse.*",
-    "de": "Schädigt den Gegner und verwirrt diesen zu 20%. In Dreierkämpfen können sämtliche Pokémon getroffen werden."
-  },
   "type": "Water",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Attacks with ultrasonic waves. May confuse the foe",
+      "de": "Ultraschallwellen, die den Gegner verwirren können.* (Attacken-Beschreibung)Eine Ultraschallwelle, die den Gegner verwirren kann.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Attacks with ultrasonic waves. May confuse the foe",
+      "de": "Ultraschallwellen, die den Gegner verwirren können.* (Attacken-Beschreibung)Eine Ultraschallwelle, die den Gegner verwirren kann.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner evtl. verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einem kräftigen Wasserstrahl getroffen. Dieser kann ihn evtl. verwirren.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner evtl. verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einem kräftigen Wasserstrahl getroffen. Dieser kann ihn evtl. verwirren.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Attacks with ultrasonic waves. May confuse the foe.",
+      "de": "Ultraschallwellen, die den Gegner verwirren können.* (Attacken-Beschreibung)Eine Ultraschallwelle, die den Gegner verwirren kann.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner eventuell verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einer kräftigen Wasserwelle getroffen. Diese kann ihn eventuell verwirren.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner eventuell verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einer kräftigen Wasserwelle getroffen. Diese kann ihn eventuell verwirren.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner eventuell verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einer kräftigen Wasserwelle getroffen. Diese kann ihn eventuell verwirren.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner eventuell verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einer kräftigen Wasserwelle getroffen. Diese kann ihn eventuell verwirren.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user attacks the foe with a pulsing blast of water. It may also confuse the foe.",
+      "de": "Angriff mit Wasserwelle, die den Gegner eventuell verwirren kann.* (Attacken-Beschreibung)Der Gegner wird von einer kräftigen Wasserwelle getroffen. Diese kann ihn eventuell verwirren.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user attacks the target with a pulsing blast of water. It may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "White": {
+      "en": "The user attacks the target with a pulsing blast of water. It may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Black 2": {
+      "en": "The user attacks the target with a pulsing blast of water. It may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "White 2": {
+      "en": "The user attacks the target with a pulsing blast of water. It may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "X": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Y": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "O.Ruby": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Moon": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Ultra Sun": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.",
+      "en": "Unknown"
+    }
+  }
 }

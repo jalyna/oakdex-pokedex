@@ -20,10 +20,6 @@
     "it": "Velenotrappola",
     "en": "Venom Drench"
   },
-  "descriptions": {
-    "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
-    "de": "Wenn das Ziel vergiftet ist, verringern sich Angriff, Spezial-Angriff und Initiative des getroffenen Pokémon um eine Stufe (auf ca. 66,7% des Ausgangswertes)."
-  },
   "type": "Poison",
   "contests": [
     {
@@ -46,5 +42,47 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "X": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "Y": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "O.Ruby": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "Moon": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "Ultra Sun": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "Ultra Moon": {
+      "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen."
+    },
+    "Omega Ruby": {
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender bespritzt das Ziel mit einer speziellen Giftflüssigkeit. Senkt den Angriff, den Spezial-Angriff und die Initiative von vergifteten Zielen.",
+      "en": "Unknown"
+    }
+  }
 }

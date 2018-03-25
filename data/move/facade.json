@@ -22,10 +22,6 @@
     "pl": "Fasada",
     "en": "Facade"
   },
-  "descriptions": {
-    "en": "Boosts Attack when burned, paralyzed, or poisoned.*Raises Attack when poisoned, burned, or paralyzed.*",
-    "de": "Ist dein Pokémon vergiftet, verbrannt oder paralysiert, trifft die Attacke mit doppelter Kraft. Taktisch sinnvolle Attacke, die fast jedes Pokémon als TM lernen kann. Bis einschließlich zur 5. Generation verringerte eine Verbrennung die Kraft von physischen Attacken um 50%, sodass der Effekt der Fassade aufgehoben wird und immer noch nur eine Stärke von 70 inne hat - es sei denn das Pokémon verfügt über Adrenalin."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -46,5 +42,103 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Boosts ATTACK when burned, paralyzed, or poisoned.",
+      "de": "Erhöht ANGR. nach Verbrennung, Paralyse, o. Vergift.* (Attacken-Beschreibung)Stärkt ANGR.-Wert bei Gift, Brand oder Paralyse.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Boosts ATTACK when burned, paralyzed, or poisoned.",
+      "de": "Erhöht ANGR. nach Verbrennung, Paralyse, o. Vergift.* (Attacken-Beschreibung)Stärkt ANGR.-Wert bei Gift, Brand oder Paralyse.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Boosts ATTACK when burned, paralyzed, or poisoned.",
+      "de": "Erhöht ANGR. nach Verbrennung, Paralyse, o. Vergift.* (Attacken-Beschreibung)Stärkt ANGR.-Wert bei Gift, Brand oder Paralyse.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "An attack that is boosted if user is burned, poisoned, or paralyzed.",
+      "de": "Erhöht ANGR. nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Stärkt den ANGR.-Wert, wenn der Angreifer vergiftet, verbrannt oder paralysiert ist.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "An attack that is boosted if user is burned, poisoned, or paralyzed.",
+      "de": "Erhöht ANGR. nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Stärkt den ANGR.-Wert, wenn der Angreifer vergiftet, verbrannt oder paralysiert ist.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+      "de": "Erhöht Angriff nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralys. oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke. * (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+      "de": "Erhöht Angriff nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralys. oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke. * (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+      "de": "Erhöht Angriff nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralys. oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke. * (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+      "de": "Erhöht Angriff nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralys. oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke. * (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.",
+      "de": "Erhöht Angriff nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralys. oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke. * (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "White": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennung, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "X": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "Y": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Doppelte Stärke nach Verbrennung, Paralyse oder Vergiftung.* (Attacken-Beschreibung)Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke.* (TM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "An attack move that doubles its power if the user is poisoned, burned, or has paralysis.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "This attack move doubles its power if the user is poisoned, burned, or paralyzed.",
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke."
+    },
+    "Moon": {
+      "en": "This attack move doubles its power if the user is poisoned, burned, or paralyzed.",
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke."
+    },
+    "Ultra Sun": {
+      "en": "This attack move doubles its power if the user is poisoned, burned, or paralyzed.",
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke."
+    },
+    "Ultra Moon": {
+      "en": "This attack move doubles its power if the user is poisoned, burned, or paralyzed.",
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke."
+    },
+    "Omega Ruby": {
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke.",
+      "en": "Unknown"
+    }
+  }
 }

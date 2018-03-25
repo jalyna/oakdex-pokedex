@@ -9,10 +9,6 @@
   "index_number": 720,
   "priority": 0,
   "critical_hit": 0,
-  "descriptions": {
-    "en": "The user attacks everything around it by causing its own head to explode. This also damages the user.",
-    "de": "Der Anwender greift alle Pokémon in der Umgebung an, indem er seinen Kopf explodieren lässt. Dabei verletzt er sich auch selbst."
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,15 @@
   "accuracy": 100,
   "pp": 5,
   "max_pp": 8,
-  "target": "target_adjacent_single"
+  "target": "target_adjacent_single",
+  "pokedex_entries": {
+    "Ultra Sun": {
+      "en": "The user attacks everything around it by causing its own head to explode. This also damages the user.",
+      "de": "Der Anwender greift alle Pokémon in der Umgebung an, indem er seinen Kopf explodieren lässt. Dabei verletzt er sich auch selbst."
+    },
+    "Ultra Moon": {
+      "en": "The user attacks everything around it by causing its own head to explode. This also damages the user.",
+      "de": "Der Anwender greift alle Pokémon in der Umgebung an, indem er seinen Kopf explodieren lässt. Dabei verletzt er sich auch selbst."
+    }
+  }
 }

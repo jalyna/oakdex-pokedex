@@ -21,10 +21,6 @@
     "it": "Desiderio",
     "en": "Wish"
   },
-  "descriptions": {
-    "en": "A wish that restores HP. It takes time to work.",
-    "de": "Schutzschild"
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 0,
       "condition": "Cute"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "A wish that restores HP. It takes time to work.",
+      "de": "Ein Wunsch, der KP auffüllt. Die Erfüllung braucht Zeit."
+    },
+    "Sapphire": {
+      "en": "A wish that restores HP. It takes time to work.",
+      "de": "Ein Wunsch, der KP auffüllt. Die Erfüllung braucht Zeit."
+    },
+    "Emerald": {
+      "en": "A wish that restores HP. It takes time to work.",
+      "de": "Ein Wunsch, der KP auffüllt. Die Erfüllung braucht Zeit."
+    },
+    "FireRed": {
+      "en": "A self-healing move that restores half the full HP on the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. Die Erfüllung braucht Zeit."
+    },
+    "LeafGreen": {
+      "en": "A self-healing move that restores half the full HP on the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. Die Erfüllung braucht Zeit."
+    },
+    "Diamond": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. Maximal die Hälfte der KP werden in der nächsten Runde regeneriert."
+    },
+    "Pearl": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. Maximal die Hälfte der KP werden in der nächsten Runde regeneriert."
+    },
+    "Platinum": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. Maximal die Hälfte der KP werden in der nächsten Runde regeneriert."
+    },
+    "HeartGold": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. KP d. Anwenders werden mit 50 % d. max. KP in der nä. Runde aufgefüllt."
+    },
+    "SoulSilver": {
+      "en": "A self-healing move. The user restores its own HP by up to half of its maximum HP in the next turn.",
+      "de": "Ein Wunsch, der KP auffüllt. KP d. Anwenders werden mit 50 % d. max. KP in der nä. Runde aufgefüllt."
+    },
+    "Black": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s maximum HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "White": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s maximum HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Black 2": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s maximum HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "White 2": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s maximum HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "X": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Y": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "O.Ruby": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s max HP.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "One turn after this move is used, the target’s HP is restored by half the user’s max HP.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Moon": {
+      "en": "One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Ultra Sun": {
+      "en": "One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Ultra Moon": {
+      "en": "One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.",
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf."
+    },
+    "Omega Ruby": {
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Ein Wunsch füllt in der nächsten Runde 50 % der KP des Anwenders bei diesem oder einem eingewechselten Pokémon auf.",
+      "en": "Unknown"
+    }
+  }
 }

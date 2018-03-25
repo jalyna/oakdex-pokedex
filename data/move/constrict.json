@@ -23,10 +23,6 @@
     "pl": "Pułapka",
     "en": "Constrict"
   },
-  "descriptions": {
-    "en": "A Normal-type attack. Has a one-in-three chance of reducing the target's Speed.",
-    "de": "Schädigt geringfügig, die Initiative des Gegner sinkt mit einer Wahrscheinlichkeit von 10%."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -53,5 +49,115 @@
       "stat": "speed",
       "change_by": -1
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert."
+    },
+    "Silver": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert."
+    },
+    "Crystal": {
+      "en": "An attack that may lower SPEED.",
+      "de": "Senkt evtl. INIT-Wert."
+    },
+    "Ruby": {
+      "en": "Constricts to inflict pain. May lower SPEED.",
+      "de": "Schmerzvoller Klammergriff. Senkt evtl. INIT.-Wert."
+    },
+    "Sapphire": {
+      "en": "Constricts to inflict pain. May lower SPEED.",
+      "de": "Schmerzvoller Klammergriff. Senkt evtl. INIT.-Wert."
+    },
+    "Emerald": {
+      "en": "Constricts to inflict pain. May lower SPEED.",
+      "de": "Schmerzvoller Klammergriff. Senkt evtl. INIT.-Wert."
+    },
+    "FireRed": {
+      "en": "The foe is attacked with long tentacles or vines. It may lower SPEED.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt evtl. INIT.-Wert."
+    },
+    "LeafGreen": {
+      "en": "The foe is attacked with long tentacles or vines. It may lower SPEED.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt evtl. INIT.-Wert."
+    },
+    "Diamond": {
+      "en": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+      "de": "Angriff mit langen Tentakeln o. Ranken. Senkt eventuell Initiative-Wert."
+    },
+    "Pearl": {
+      "en": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+      "de": "Angriff mit langen Tentakeln o. Ranken. Senkt eventuell Initiative-Wert."
+    },
+    "Platinum": {
+      "en": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+      "de": "Angriff mit langen Tentakeln o. Ranken. Senkt eventuell Initiative-Wert."
+    },
+    "HeartGold": {
+      "en": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+      "de": "Angriff mit langen Tentakeln o. Ranken. Senkt eventuell Initiative-Wert."
+    },
+    "SoulSilver": {
+      "en": "The foe is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed.",
+      "de": "Angriff mit langen Tentakeln o. Ranken. Senkt eventuell Initiative-Wert."
+    },
+    "Black": {
+      "en": "The target is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "White": {
+      "en": "The target is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Black 2": {
+      "en": "The target is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "White 2": {
+      "en": "The target is attacked with long, creeping tentacles or vines. It may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "X": {
+      "en": "The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Y": {
+      "en": "The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "O.Ruby": {
+      "en": "The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The target is attacked with long, creeping tentacles or vines. This may also lower the target’s Speed stat.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Moon": {
+      "en": "The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Ultra Sun": {
+      "en": "The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Ultra Moon": {
+      "en": "The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.",
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert."
+    },
+    "Omega Ruby": {
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Angriff mit langen Tentakeln oder Ranken. Senkt eventuell den Initiative-Wert.",
+      "en": "Unknown"
+    }
+  }
 }

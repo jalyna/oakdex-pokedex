@@ -7,10 +7,6 @@
     "es": "Cambia Velocidad"
   },
   "index_number": 683,
-  "descriptions": {
-    "en": "Speed Swap exchanges the Speed stats of the user and the target.",
-    "de": "Vertauscht die Initiative des Zieles mit der Initiative des Anwenders"
-  },
   "makes_contact": false,
   "affected_by_protect": true,
   "affected_by_magic_coat": false,
@@ -28,5 +24,23 @@
   "priority": 0,
   "contests": [
 
-  ]
+  ],
+  "pokedex_entries": {
+    "Sun": {
+      "en": "The user exchanges Speed stats with the target.",
+      "de": "Der Anwender tauscht seinen Initiative-Wert mit dem des Zieles."
+    },
+    "Moon": {
+      "en": "The user exchanges Speed stats with the target.",
+      "de": "Der Anwender tauscht seinen Initiative-Wert mit dem des Zieles."
+    },
+    "Ultra Sun": {
+      "en": "The user exchanges Speed stats with the target.",
+      "de": "Der Anwender tauscht seinen Initiative-Wert mit dem des Zieles."
+    },
+    "Ultra Moon": {
+      "en": "The user exchanges Speed stats with the target.",
+      "de": "Der Anwender tauscht seinen Initiative-Wert mit dem des Zieles."
+    }
+  }
 }

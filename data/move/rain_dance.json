@@ -23,10 +23,6 @@
     "pl": "Taniec Deszczu",
     "en": "Rain Dance"
   },
-  "descriptions": {
-    "en": "Summons rain for five turns. While it is raining, the power of Water-type moves increases.",
-    "de": "Wirkt 5 Runden lang: Wasserattacken werden 50% stärker, Feuerattacken 50% schwächer, erhöht die Trefferquote von Donner auf 99,6%, Solarstrahl muss eine Runde länger aufladen und hat nur eine Stärke von 60, die Wirkung der Attacken Mondlicht, Morgengrauen und Synthese werden halbiert. Wird das Item Nassbrocken getragen hält der Regen 8 statt 5 Runden an."
-  },
   "type": "Water",
   "contests": [
     {
@@ -47,5 +43,115 @@
       "jam": 0,
       "condition": "Beautiful"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "Boosts water-type moves for 5 turns.",
+      "de": "Verstärkt Wasser-Attacken 5 Runden."
+    },
+    "Silver": {
+      "en": "Boosts water-type moves for 5 turns.",
+      "de": "Verstärkt Wasser-Attacken 5 Runden."
+    },
+    "Crystal": {
+      "en": "Boosts water-type moves for 5 turns.",
+      "de": "Verstärkt Wasser-Attacken 5 Runden."
+    },
+    "Ruby": {
+      "en": "Boosts the power of WATER-type moves for 5 turns.",
+      "de": "Erhöht Stärke von WASSER-Attacken 5 Runden lang.* (Attacken-Beschreibung)Verstärkt WASSER-Attacken über 5 Runden.* (TM-Beschreibung)"
+    },
+    "Sapphire": {
+      "en": "Boosts the power of WATER-type moves for 5 turns.",
+      "de": "Erhöht Stärke von WASSER-Attacken 5 Runden lang.* (Attacken-Beschreibung)Verstärkt WASSER-Attacken über 5 Runden.* (TM-Beschreibung)"
+    },
+    "Emerald": {
+      "en": "Boosts the power of WATER-type moves for 5 turns.",
+      "de": "Erhöht Stärke von WASSER-Attacken 5 Runden lang.* (Attacken-Beschreibung)Verstärkt WASSER-Attacken über 5 Runden.* (TM-Beschreibung)"
+    },
+    "FireRed": {
+      "en": "A heavy rain falls for five turns, powering up WATER-type moves.",
+      "de": "Erhöht Stärke von WASSER-Attacken 5 Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. WASSER-Attacken werden stärker.* (TM-Beschreibung)"
+    },
+    "LeafGreen": {
+      "en": "A heavy rain falls for five turns, powering up WATER-type moves.",
+      "de": "Erhöht Stärke von WASSER-Attacken 5 Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. WASSER-Attacken werden stärker.* (TM-Beschreibung)"
+    },
+    "Diamond": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "Pearl": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "Platinum": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "HeartGold": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "SoulSilver": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "Black": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "White": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "Black 2": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "White 2": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "X": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "Y": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt."
+    },
+    "O.Ruby": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt.* (TM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt.* (TM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt.* (TM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.",
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt.* (TM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang.* (Attacken-Beschreibung)Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt.",
+      "en": "Unknown"
+    }
+  }
 }

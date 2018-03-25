@@ -22,10 +22,6 @@
     "pl": "Kamienny Ślizg",
     "en": "Rock Slide"
   },
-  "descriptions": {
-    "en": "A Rock-type attack that hits the target with an avalanche of rocks and boulders.",
-    "de": "Schädigt den Gegner, 30% Chance (seit der 2. Generation) den Gegner zurückschrecken zu lassen. Das Ziel schreckt nicht zurück, wenn es sich hinter einem Delegator befindet oder Konzentrator besitzt. Auch fliegende Gegner werden getroffen. In Mehrfachkämpfen trifft diese Attacke alle gegnerischen Pokémon."
-  },
   "type": "Rock",
   "contests": [
     {
@@ -46,5 +42,115 @@
       "jam": 2,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Gold": {
+      "en": "An attack that may cause flinching.",
+      "de": "Gegner muss evtl. ausweichen."
+    },
+    "Silver": {
+      "en": "An attack that may cause flinching.",
+      "de": "Gegner muss evtl. ausweichen."
+    },
+    "Crystal": {
+      "en": "An attack that may cause flinching.",
+      "de": "Gegner schreckt evtl. zurück."
+    },
+    "Ruby": {
+      "en": "Large boulders are hurled. May cause flinching.",
+      "de": "Schleudert riesige Felsen. Verschreckt evtl. Gegner."
+    },
+    "Sapphire": {
+      "en": "Large boulders are hurled. May cause flinching.",
+      "de": "Schleudert riesige Felsen. Verschreckt evtl. Gegner."
+    },
+    "Emerald": {
+      "en": "Large boulders are hurled. May cause flinching.",
+      "de": "Schleudert riesige Felsen. Verschreckt evtl. Gegner."
+    },
+    "FireRed": {
+      "en": "Large boulders are hurled at the foe. It may make the foe flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt evtl. zurück."
+    },
+    "LeafGreen": {
+      "en": "Large boulders are hurled at the foe. It may make the foe flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt evtl. zurück."
+    },
+    "Diamond": {
+      "en": "Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt eventuell zurück.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf den Gegner. Dieser erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt eventuell zurück.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf den Gegner. Dieser erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt eventuell zurück.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf den Gegner. Dieser erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt eventuell zurück.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf den Gegner. Dieser erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.",
+      "de": "Schleudert riesige Felsen. Gegner schreckt eventuell zurück.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf den Gegner. Dieser erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "Black": {
+      "en": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch.",
+      "de": "Schleudert riesige Felsen auf Gegner in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "White": {
+      "en": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch.",
+      "de": "Schleudert riesige Felsen auf Gegner in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "Black 2": {
+      "en": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch.",
+      "de": "Schleudert riesige Felsen auf Gegner in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "White 2": {
+      "en": "Large boulders are hurled at the opposing team to inflict damage. It may also make the targets flinch.",
+      "de": "Schleudert riesige Felsen auf Gegner in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses erschrickt eventuell.* (VM-Beschreibung)"
+    },
+    "X": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "Y": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "O.Ruby": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "Moon": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "Ultra Sun": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "Ultra Moon": {
+      "en": "Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)"
+    },
+    "Omega Ruby": {
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken.* (Attacken-Beschreibung)Der Anwender schleudert große Felsbrocken auf das Ziel. Dieses schreckt eventuell zurück.* (VM-Beschreibung)",
+      "en": "Unknown"
+    }
+  }
 }

@@ -21,10 +21,6 @@
     "it": "Riciclo",
     "en": "Recycle"
   },
-  "descriptions": {
-    "en": "Recycles a used item for one more use.",
-    "de": "Das getragene Item kann erneut benutzt werden, sofern es schon einmal benutzt und unbrauchbar gemacht wurde. Die Attacke kann nach Gebrauch eines Items einmal eingesetzt werden, das nächste mal erst wieder nachdem das Item wieder benutzt worden ist. Man kann also nicht dreimal in Folge Aufbereitung einsetzten und das Item dannach dreimal benutzen, ohne zwischendurch wieder Aufbereitung zu benutzen. Besonders sinnvoll ist diese Attacke beim Tragen von bestimmten Beeren. Da man aber eine Runde benötigt, ohne schaden zu machen, eher sinnlos."
-  },
   "type": "Normal",
   "contests": [
     {
@@ -45,5 +41,103 @@
       "jam": 0,
       "condition": "Clever"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Ruby": {
+      "en": "Recycles a used item for one more use.",
+      "de": "Recycling eines verwendeten Items."
+    },
+    "Sapphire": {
+      "en": "Recycles a used item for one more use.",
+      "de": "Recycling eines verwendeten Items."
+    },
+    "Emerald": {
+      "en": "Recycles a used item for one more use.",
+      "de": "Recycling eines verwendeten Items."
+    },
+    "FireRed": {
+      "en": "A move that recycles a used item for use once more.",
+      "de": "Recycling eines verwendeten Items."
+    },
+    "LeafGreen": {
+      "en": "A move that recycles a used item for use once more.",
+      "de": "Recycling eines verwendeten Items."
+    },
+    "Diamond": {
+      "en": "The user recycles a single-use item that has been used in battle so it can be used again.",
+      "de": "Recycling eines verwendeten Items.* (Attacken-Beschreibung)Ein einmal einsetzbares Item, das in diesem Kampf verwendet wurde, erscheint wieder.* (TM-Beschreibung)"
+    },
+    "Pearl": {
+      "en": "The user recycles a single-use item that has been used in battle so it can be used again.",
+      "de": "Recycling eines verwendeten Items.* (Attacken-Beschreibung)Ein einmal einsetzbares Item, das in diesem Kampf verwendet wurde, erscheint wieder.* (TM-Beschreibung)"
+    },
+    "Platinum": {
+      "en": "The user recycles a single-use item that has been used in battle so it can be used again.",
+      "de": "Recycling eines verwendeten Items.* (Attacken-Beschreibung)Ein einmal einsetzbares Item, das in diesem Kampf verwendet wurde, erscheint wieder.* (TM-Beschreibung)"
+    },
+    "HeartGold": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde.* (Attacken-Beschreibung)Ein einmal einsetzbares Item, das in diesem Kampf verwendet wurde, erscheint wieder.* (TM-Beschreibung)"
+    },
+    "SoulSilver": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde.* (Attacken-Beschreibung)Ein einmal einsetzbares Item, das in diesem Kampf verwendet wurde, erscheint wieder.* (TM-Beschreibung)"
+    },
+    "Black": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "White": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Black 2": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "White 2": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "X": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Y": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "O.Ruby": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Moon": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Ultra Sun": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Ultra Moon": {
+      "en": "The user recycles a held item that has been used in battle so it can be used again.",
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde."
+    },
+    "Omega Ruby": {
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Recycling eines getragenen Items, das zuvor im Kampf verwendet wurde.",
+      "en": "Unknown"
+    }
+  }
 }

@@ -16,13 +16,9 @@
   "affected_by_kings_rock": true,
   "names": {
     "fr": "Attrition",
-    "de": "Weghauen",
+    "de": "Zermürben",
     "it": "Insidia",
     "en": "Chip Away"
-  },
-  "descriptions": {
-    "en": "Looking for an opening, the user strikes continually. The target's stat changes don't affect this attack's damage.",
-    "de": "Gibt 50% der maximalen KP zurück. Wenn in einem Kampf ein Sandsturm weht, Hagel fällt oder Regen prasselt, bewirkt diese Attacke nur die Hälfte der normalen Wirkung. Bei Sonne steigt die Heilungskraft auf 2/3 der maximalen KP."
   },
   "type": "Normal",
   "contests": [
@@ -44,5 +40,63 @@
       "jam": 0,
       "condition": "Tough"
     }
-  ]
+  ],
+  "pokedex_entries": {
+    "Black": {
+      "en": "Looking for an opening, the user strikes continually. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "White": {
+      "en": "Looking for an opening, the user strikes continually. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Black 2": {
+      "en": "Looking for an opening, the user strikes continually. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "White 2": {
+      "en": "Looking for an opening, the user strikes continually. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "X": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Y": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "O.Ruby": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Unbekannt"
+    },
+    "A.Sapphire": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Unbekannt"
+    },
+    "Sun": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zur rechten Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Moon": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zur rechten Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Ultra Sun": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zur rechten Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Ultra Moon": {
+      "en": "Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",
+      "de": "Eine durchdachte Attacke zur rechten Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an."
+    },
+    "Omega Ruby": {
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an.",
+      "en": "Unknown"
+    },
+    "Alpha Sapphire": {
+      "de": "Eine durchdachte Attacke zu rechter Zeit. Richtet unabhängig von den Statusveränderungen des Zieles Schaden an.",
+      "en": "Unknown"
+    }
+  }
 }
