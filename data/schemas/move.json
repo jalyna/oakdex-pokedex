@@ -152,6 +152,15 @@
     "affected_by_kings_rock": {
       "type": "boolean"
     },
+    "in_battle_properties": {
+      "type": "object",
+      "properties": {
+        "increased_critical_hit_ratio": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
     "stat_modifiers": {
       "type": "array",
       "maxItems": 5,

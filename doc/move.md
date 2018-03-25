@@ -84,6 +84,12 @@ Additional restrictions:
 
 ## `affected_by_kings_rock` (boolean, required)
 
+## `in_battle_properties` (object)
+
+Properties of the `in_battle_properties` object:
+
+### `increased_critical_hit_ratio` (boolean)
+
 ## `stat_modifiers` (array)
 
 The object is an array with all elements of the type `object`.

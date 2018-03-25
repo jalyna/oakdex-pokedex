@@ -58,6 +58,24 @@ describe Oakdex::Pokedex::Move do
     end
   end
 
+  describe '#in_battle_properties' do
+    it { expect(subject.in_battle_properties).to eq({}) }
+
+    context 'in_battle_properties given' do
+      let(:additional_attributes) do
+        {
+          'in_battle_properties' => {
+            'increased_critical_hit_ratio' => true
+          }
+        }
+      end
+      it {
+        expect(subject.in_battle_properties)
+        .to eq(additional_attributes['in_battle_properties'])
+      }
+    end
+  end
+
   describe '#description' do
     it { expect(subject.description).to eq('Description') }
     it { expect(subject.description('de')).to eq('Beschreibung') }
