@@ -152,6 +152,41 @@
     "affected_by_kings_rock": {
       "type": "boolean"
     },
+    "in_battle_properties": {
+      "type": "object",
+      "properties": {
+        "increased_critical_hit_ratio": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    },
+    "stat_modifiers": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "properties": {
+          "stat": {
+            "type": "string",
+            "enum": ["random", "atk", "def", "speed", "sp_atk", "sp_def", "accuracy", "evasion", "critital_hit"]
+          },
+          "change_by": {
+            "type": "integer",
+            "minimum": -12,
+            "maximum": 12
+          },
+          "affects_user": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "stat",
+          "change_by"
+        ],
+        "additionalProperties": false
+      }
+    },
     "contests": {
       "type": "array",
       "maxItems": 3,

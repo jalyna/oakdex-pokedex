@@ -43,6 +43,8 @@ This element must be one of the following enum values:
 * `Pom-Pom Style`
 * `Sensu Style`
 * `Midnight Form`
+* `Black Kyurem`
+* `White Kyurem`
 
 #### `location` (string, enum, required)
 
@@ -55,8 +57,13 @@ This element must be one of the following enum values:
 * `Interact`
 * `Super Rod`
 * `Headbutt`
+* `Headbutt (Special)`
 * `Honey Tree`
 * `Berry Piles`
+* `PokeRadar`
+* `Good Rod`
+* `Old Rod`
+* `Rock Smash`
 
 #### `min_level` (integer, required)
 

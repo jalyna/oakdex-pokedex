@@ -28,5 +28,15 @@
   "priority": 0,
   "contests": [
 
+  ],
+  "stat_modifiers": [
+    {
+      "stat": "atk",
+      "change_by": 1
+    },
+    {
+      "stat": "sp_atk",
+      "change_by": 1
+    }
   ]
 }

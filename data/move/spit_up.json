@@ -46,5 +46,15 @@
       "jam": 0,
       "condition": "Tough"
     }
+  ],
+  "stat_modifiers": [
+    {
+      "stat": "def",
+      "change_by": -1
+    },
+    {
+      "stat": "sp_def",
+      "change_by": -1
+    }
   ]
 }

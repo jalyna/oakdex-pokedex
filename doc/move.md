@@ -84,6 +84,41 @@ Additional restrictions:
 
 ## `affected_by_kings_rock` (boolean, required)
 
+## `in_battle_properties` (object)
+
+Properties of the `in_battle_properties` object:
+
+### `increased_critical_hit_ratio` (boolean)
+
+## `stat_modifiers` (array)
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+### `stat` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `random`
+* `atk`
+* `def`
+* `speed`
+* `sp_atk`
+* `sp_def`
+* `accuracy`
+* `evasion`
+* `critital_hit`
+
+### `change_by` (integer, required)
+
+Additional restrictions:
+
+* Minimum: `-12`
+* Maximum: `12`
+
+### `affects_user` (boolean)
+
 ## `contests` (array, required)
 
 The object is an array with all elements of the type `object`.

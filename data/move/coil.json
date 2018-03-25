@@ -32,5 +32,19 @@
       "jam": 0,
       "condition": "Tough"
     }
+  ],
+  "stat_modifiers": [
+    {
+      "stat": "atk",
+      "change_by": 1
+    },
+    {
+      "stat": "def",
+      "change_by": 1
+    },
+    {
+      "stat": "accuracy",
+      "change_by": 1
+    }
   ]
 }

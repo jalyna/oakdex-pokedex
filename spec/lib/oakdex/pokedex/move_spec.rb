@@ -1,6 +1,7 @@
 require 'spec_helper'
 
 describe Oakdex::Pokedex::Move do
+  let(:additional_attributes) { {} }
   let(:attributes) do
     {
       'names' => {
@@ -27,7 +28,7 @@ describe Oakdex::Pokedex::Move do
       'affected_by_snatch'      => false,
       'affected_by_mirror_move' => false,
       'affected_by_kings_rock'  => false
-    }
+    }.merge(additional_attributes)
   end
 
   subject { described_class.new(attributes) }
@@ -36,6 +37,43 @@ describe Oakdex::Pokedex::Move do
     it { expect(subject.name).to eq('Ally Switch') }
     it { expect(subject.name('de')).to eq('Seitentausch') }
     it { expect(subject.name('nope')).to eq('Ally Switch') }
+  end
+
+  describe '#stat_modifiers' do
+    it { expect(subject.stat_modifiers).to eq([]) }
+
+    context 'modifiers given' do
+      let(:additional_attributes) do
+        {
+          'stat_modifiers' => [{
+            'stat' => 'atk',
+            'change_by' => '1'
+          }]
+        }
+      end
+      it {
+        expect(subject.stat_modifiers)
+        .to eq(additional_attributes['stat_modifiers'])
+      }
+    end
+  end
+
+  describe '#in_battle_properties' do
+    it { expect(subject.in_battle_properties).to eq({}) }
+
+    context 'in_battle_properties given' do
+      let(:additional_attributes) do
+        {
+          'in_battle_properties' => {
+            'increased_critical_hit_ratio' => true
+          }
+        }
+      end
+      it {
+        expect(subject.in_battle_properties)
+        .to eq(additional_attributes['in_battle_properties'])
+      }
+    end
   end
 
   describe '#description' do

@@ -44,5 +44,15 @@
       "jam": 0,
       "condition": "Tough"
     }
+  ],
+  "stat_modifiers": [
+    {
+      "stat": "atk",
+      "change_by": 1
+    },
+    {
+      "stat": "sp_atk",
+      "change_by": 1
+    }
   ]
 }
