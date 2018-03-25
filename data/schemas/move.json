@@ -152,6 +152,29 @@
     "affected_by_kings_rock": {
       "type": "boolean"
     },
+    "stat_modifiers": {
+      "type": "array",
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "properties": {
+          "stat": {
+            "type": "string",
+            "enum": ["atk", "def", "speed", "sp_atk", "sp_def", "accuracy", "evasion", "critital_hit"]
+          },
+          "change_by": {
+            "type": "integer",
+            "minimum": -6,
+            "maximum": 6
+          }
+        },
+        "required": [
+          "stat",
+          "change_by"
+        ],
+        "additionalProperties": false
+      }
+    },
     "contests": {
       "type": "array",
       "maxItems": 3,

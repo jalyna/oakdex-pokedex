@@ -11,6 +11,10 @@ module Oakdex
       def pp
         @attributes['pp']
       end
+
+      def stat_modifiers
+        @attributes['stat_modifiers'] || []
+      end
     end
   end
 end

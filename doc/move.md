@@ -84,6 +84,32 @@ Additional restrictions:
 
 ## `affected_by_kings_rock` (boolean, required)
 
+## `stat_modifiers` (array)
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+### `stat` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `atk`
+* `def`
+* `speed`
+* `sp_atk`
+* `sp_def`
+* `accuracy`
+* `evasion`
+* `critital_hit`
+
+### `change_by` (integer, required)
+
+Additional restrictions:
+
+* Minimum: `-6`
+* Maximum: `6`
+
 ## `contests` (array, required)
 
 The object is an array with all elements of the type `object`.
