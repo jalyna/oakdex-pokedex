@@ -98,5 +98,13 @@
       "de": "Umgibt das Ziel in der nächsten Runde mit heftigen, alles gefrierenden Eisböen. Fügt dem Ziel eventuell Verbrennungen zu.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 30
+      }
+    ]
   }
 }

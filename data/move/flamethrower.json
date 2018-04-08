@@ -155,5 +155,13 @@
       "de": "Starke Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.* (Attacken-Beschreibung)Das Ziel wird in ein Flammenmeer gehüllt. Verursacht eventuell Verbrennungen.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 10
+      }
+    ]
   }
 }

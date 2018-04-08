@@ -153,5 +153,13 @@
       "de": "Feuert drei Strahlen ab. Verursacht eventuell Paralyse, Verbrennung oder Einfrieren.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 7
+      }
+    ]
   }
 }

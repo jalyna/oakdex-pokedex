@@ -90,6 +90,29 @@ Properties of the `in_battle_properties` object:
 
 ### `increased_critical_hit_ratio` (boolean)
 
+### `status_conditions` (array)
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+#### `condition` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `burn`
+* `freeze`
+* `paralysis`
+* `poison`
+* `badly_poisoned`
+* `sleep`
+
+#### `probability` (integer, required)
+
+Additional restrictions:
+
+* Maximum: `100`
+
 ## `stat_modifiers` (array)
 
 The object is an array with all elements of the type `object`.

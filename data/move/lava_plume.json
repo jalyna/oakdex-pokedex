@@ -120,5 +120,13 @@
       "de": "Greift alles in seiner Umgebung mit tiefroten Flammen an. Ziel kann Verbrennungen erleiden.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 30
+      }
+    ]
   }
 }

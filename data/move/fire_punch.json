@@ -154,5 +154,13 @@
       "de": "Feuriger Schlag, der dem Ziel eventuell Verbrennungen zufügt.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 10
+      }
+    ]
   }
 }

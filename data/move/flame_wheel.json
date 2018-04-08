@@ -153,5 +153,13 @@
       "de": "Feuer-Attacke, die das Ziel eventuell verbrennt.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 10
+      }
+    ]
   }
 }
