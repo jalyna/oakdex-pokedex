@@ -163,6 +163,36 @@
       "properties": {
         "increased_critical_hit_ratio": {
           "type": "boolean"
+        },
+        "status_conditions": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "properties": {
+              "condition": {
+                "type": "string",
+                "enum": [
+                  "burn",
+                  "freeze",
+                  "paralysis",
+                  "poison",
+                  "badly_poisoned",
+                  "sleep"
+                ]
+              },
+              "probability": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 100
+              }
+            },
+            "required": [
+              "condition",
+              "probability"
+            ],
+            "additionalProperties": false
+          }
         }
       },
       "additionalProperties": false

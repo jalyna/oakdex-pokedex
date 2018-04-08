@@ -120,5 +120,13 @@
       "de": "Anwender hüllt sich in Flammen und stürmt auf das Ziel zu, das sich eventuell verbrennt. Anwender nimmt selbst großen Schaden.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 10
+      }
+    ]
   }
 }

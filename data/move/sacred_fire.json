@@ -151,5 +151,13 @@
       "de": "Mystische Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 50
+      }
+    ]
   }
 }

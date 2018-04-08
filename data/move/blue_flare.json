@@ -86,5 +86,13 @@
       "de": "Anwender greift an, indem er das Ziel in wunderschöne, intensivblaue Flammen hüllt, die es eventuell verbrennen.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 20
+      }
+    ]
   }
 }

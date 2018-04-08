@@ -140,5 +140,13 @@
       "de": "Angriff mit unheimlicher Flamme, die das Ziel verbrennt.* (Attacken-Beschreibung)Feuert eine fiese, blauweiße Flamme auf das Ziel ab, um Verbrennungen zu verursachen.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 100
+      }
+    ]
   }
 }

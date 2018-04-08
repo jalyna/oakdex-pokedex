@@ -139,5 +139,13 @@
       "de": "Ziele werden von Sturm aus heißer Luft getroffen und verbrennen sich eventuell.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 10
+      }
+    ]
   }
 }

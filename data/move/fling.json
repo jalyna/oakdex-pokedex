@@ -120,5 +120,13 @@
       "de": "Anwender schleudert sein Item auf das Ziel. Kraft und Effekt der Attacke hängen vom Item ab.* (Attacken-Beschreibung)Der Anwender wirft sein Item auf das Ziel. Die Kraft und die Wirkung hängen vom jeweiligen Item ab.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 100
+      }
+    ]
   }
 }

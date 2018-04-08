@@ -87,5 +87,13 @@
       "de": "Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Das Ziel erleidet dabei eventuell Verbrennungen.* (Attacken-Beschreibung)Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Dieses erleidet eventuell Verbrennungen.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "burn",
+        "probability": 30
+      }
+    ]
   }
 }
