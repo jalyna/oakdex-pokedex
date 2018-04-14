@@ -120,5 +120,13 @@
       "de": "Das Ziel wird mit einer Schockwelle angegriffen, die es eventuell paralysiert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

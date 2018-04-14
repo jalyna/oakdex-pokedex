@@ -154,5 +154,13 @@
       "de": "Ein elektrischer Schlag, der das Ziel eventuell paralysiert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 10
+      }
+    ]
   }
 }

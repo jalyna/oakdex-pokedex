@@ -152,5 +152,13 @@
       "de": "Elektro-Hieb, der das Ziel paralysieren kann.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

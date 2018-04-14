@@ -153,5 +153,13 @@
       "de": "Eine verheerende Elektro-Attacke, die das Ziel eventuell paralysiert.* (Attacken-Beschreibung)Das Ziel wird von einem mächtigen Donnerschlag, der Paralyse bewirken kann, heimgesucht.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

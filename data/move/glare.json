@@ -152,5 +152,13 @@
       "de": "Schüchtert Ziel mit dem Muster auf seinem Bauch ein, sodass dieses paralysiert wird.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 100
+      }
+    ]
   }
 }

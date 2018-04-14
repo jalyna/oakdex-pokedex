@@ -154,5 +154,13 @@
       "de": "Ein schwacher Stromstoß, der das Ziel paralysiert.* (Attacken-Beschreibung)Das Ziel wird mit einem schwachen elektrischen Schlag angegriffen. Wird es getroffen, wird es paralysiert.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 100
+      }
+    ]
   }
 }

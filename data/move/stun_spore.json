@@ -154,5 +154,13 @@
       "de": "Verstreut lähmenden Puder.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 100
+      }
+    ]
   }
 }
