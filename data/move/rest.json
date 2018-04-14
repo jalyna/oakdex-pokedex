@@ -153,5 +153,13 @@
       "de": "Anwender wird vollkommen geheilt und schläft die folgenden zwei Runden.* (Attacken-Beschreibung)Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

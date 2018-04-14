@@ -152,5 +152,13 @@
       "de": "Anwender zwingt dem Ziel einen Kuss auf, der Schlaf verursacht.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

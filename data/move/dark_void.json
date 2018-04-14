@@ -120,5 +120,13 @@
       "de": "Das Ziel wird in eine Welt der Dunkelheit gezogen und in Schlaf versetzt.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

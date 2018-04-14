@@ -98,5 +98,13 @@
       "de": "Anwender greift mit Urgesang an, der Ziele in der Nähe im tiefsten Inneren anspricht. Diese schlafen eventuell ein.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 10
+      }
+    ]
   }
 }

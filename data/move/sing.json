@@ -153,5 +153,13 @@
       "de": "Ein Lied, das das Ziel in tiefen Schlaf versetzt.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

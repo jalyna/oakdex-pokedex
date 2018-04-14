@@ -140,5 +140,13 @@
       "de": "Versetzt das Ziel durch eine schöne Melodie in Tiefschlaf.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

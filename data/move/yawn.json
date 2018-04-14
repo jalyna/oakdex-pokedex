@@ -140,5 +140,13 @@
       "de": "Angreifer gähnt und das Ziel schläft in der nächsten Runde ein.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }

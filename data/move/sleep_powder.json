@@ -153,5 +153,13 @@
       "de": "Verstreut Schlafpuder, der das Ziel eventuell in Schlaf versetzt.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "sleep",
+        "probability": 100
+      }
+    ]
   }
 }
