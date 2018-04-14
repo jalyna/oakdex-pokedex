@@ -152,5 +152,13 @@
       "de": "Ein Schneesturm wütet, der das Ziel einfrieren kann.* (Attacken-Beschreibung)Eine ungnädige Eis-und-Schnee-Attacke, die Pokémon in der Nähe des Anwenders trifft und eventuell einfrieren kann.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "freeze",
+        "probability": 10
+      }
+    ]
   }
 }
