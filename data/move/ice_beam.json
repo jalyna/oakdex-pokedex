@@ -153,5 +153,13 @@
       "de": "Das Ziel wird von einem Eisstrahl getroffen und friert eventuell ein.* (Attacken-Beschreibung)Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "freeze",
+        "probability": 10
+      }
+    ]
   }
 }

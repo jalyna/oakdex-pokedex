@@ -152,5 +152,13 @@
       "de": "Angriff mit Schnee. Das Ziel wird eventuell eingefroren.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "freeze",
+        "probability": 10
+      }
+    ]
   }
 }

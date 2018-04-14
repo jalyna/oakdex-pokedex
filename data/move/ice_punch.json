@@ -154,5 +154,13 @@
       "de": "Ein eisiger Schlag, der das Ziel eventuell einfriert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "freeze",
+        "probability": 10
+      }
+    ]
   }
 }
