@@ -153,5 +153,13 @@
       "de": "Vergiftet das Ziel mit einem potenten Toxin schwer. Vergiftung wird von Runde zu Runde stärker.* (Attacken-Beschreibung)Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "badly_poisoned",
+        "probability": 100
+      }
+    ]
   }
 }

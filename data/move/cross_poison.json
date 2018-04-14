@@ -124,5 +124,13 @@
       "de": "Ein schneidender Hieb, der das Ziel eventuell vergiftet. Hat eine hohe Volltrefferquote.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 10
+      }
+    ]
   }
 }
