@@ -42,5 +42,13 @@
       "en": "After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.",
       "de": "Das Alola-Raichu greift das Ziel mithilfe von Z-Kraft mit voller Wucht an und paralysiert es."
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 100
+      }
+    ]
   }
 }

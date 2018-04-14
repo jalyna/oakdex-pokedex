@@ -120,5 +120,13 @@
       "de": "Anwender greift die Pokémon in seiner Umgebung mit Elektrizität an. Paralysiert eventuell.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

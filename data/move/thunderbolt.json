@@ -152,5 +152,13 @@
       "de": "Eine starke Elektro-Attacke, die das Ziel eventuell paralysiert.* (Attacken-Beschreibung)Das Ziel wird von einem verheerenden Stromschlag getroffen. Kann eventuell Paralyse bewirken.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 10
+      }
+    ]
   }
 }

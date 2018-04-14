@@ -152,5 +152,13 @@
       "de": "Trifft das Ziel mit vollem Körpereinsatz. Bewirkt eventuell Paralyse.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

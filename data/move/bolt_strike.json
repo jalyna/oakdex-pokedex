@@ -86,5 +86,13 @@
       "de": "Lädt seinen Körper mit einer gewaltigen Menge an Elektrizität auf und rammt damit das Ziel. Ziel wird eventuell paralysiert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 20
+      }
+    ]
   }
 }

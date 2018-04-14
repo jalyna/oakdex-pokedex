@@ -152,5 +152,13 @@
       "de": "Fegt das Ziel mit zerstörerisch heißem Atem weg. Paralysiert das Ziel eventuell.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

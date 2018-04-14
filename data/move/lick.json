@@ -153,5 +153,13 @@
       "de": "Leck-Attacke mit langer Zunge. Das Ziel wird eventuell paralysiert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 30
+      }
+    ]
   }
 }

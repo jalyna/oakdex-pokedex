@@ -140,5 +140,13 @@
       "de": "Angriff mit Elektro-Tackle. Der Anwender verletzt sich dabei. Das Ziel wird eventuell paralysiert.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "paralysis",
+        "probability": 10
+      }
+    ]
   }
 }
