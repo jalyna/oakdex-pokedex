@@ -152,5 +152,13 @@
       "de": "Stacheln treffen das Ziel zweimal. Das Ziel wird eventuell vergiftet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 20
+      }
+    ]
   }
 }

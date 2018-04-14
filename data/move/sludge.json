@@ -153,5 +153,13 @@
       "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 30
+      }
+    ]
   }
 }

@@ -153,5 +153,13 @@
       "de": "Verstreut giftigen Puder auf das Ziel.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 100
+      }
+    ]
   }
 }

@@ -120,5 +120,13 @@
       "de": "Ziel wird mit vergiftetem Arm oder Tentakel verletzt. Es wird dabei eventuell vergiftet.* (Attacken-Beschreibung)Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 30
+      }
+    ]
   }
 }

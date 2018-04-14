@@ -48,5 +48,13 @@
       "en": "The user shoots poisonous threads to poison the target and lower the target’s Speed stat.",
       "de": "Der Anwender schießt giftige Fäden auf das Ziel, das dadurch vergiftet wird. Außerdem sinkt seine Initiative."
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 100
+      }
+    ]
   }
 }

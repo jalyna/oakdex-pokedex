@@ -152,5 +152,13 @@
       "de": "Wirft Schlamm auf das Ziel. Dieses wird eventuell vergiftet.* (Attacken-Beschreibung)Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen.* (TM-Beschreibung)",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 30
+      }
+    ]
   }
 }

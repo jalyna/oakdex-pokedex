@@ -99,5 +99,13 @@
       "de": "Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 10
+      }
+    ]
   }
 }

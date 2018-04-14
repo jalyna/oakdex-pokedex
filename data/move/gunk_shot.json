@@ -120,5 +120,13 @@
       "de": "Anwender schießt mit Müll auf das Ziel. Vergiftet dieses eventuell.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 30
+      }
+    ]
   }
 }

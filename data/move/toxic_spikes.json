@@ -120,5 +120,13 @@
       "de": "Anwender legt eine Falle mit Giftdornen aus. In den Kampf eingewechselte gegnerische Pokémon werden vergiftet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 100
+      }
+    ]
   }
 }

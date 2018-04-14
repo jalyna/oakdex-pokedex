@@ -153,5 +153,13 @@
       "de": "Hüllt Gegner in der Umgebung in Gas ein, das sie vergiftet.",
       "en": "Unknown"
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 100
+      }
+    ]
   }
 }

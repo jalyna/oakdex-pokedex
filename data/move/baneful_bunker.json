@@ -42,5 +42,13 @@
       "en": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.",
       "de": "Der Anwender wird vor Angriffen geschützt. Gleichzeitig werden alle Pokémon, die mit ihm in Berührung kommen, vergiftet."
     }
+  },
+  "in_battle_properties": {
+    "status_conditions": [
+      {
+        "condition": "poison",
+        "probability": 100
+      }
+    ]
   }
 }
