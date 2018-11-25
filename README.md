@@ -86,66 +86,52 @@ Then you can use the library:
 ```js
 oakdexPokedex = require('oakdex-pokedex');
 
-oakdexPokedex.findPokemon('Eevee', function(p) {
-  // returns data/pokemon/eevee.json
-  console.log(p.names.en); // Eeevee
-});
+const eevee = oakdexPokedex.findPokemon('Eevee')
+// returns data/pokemon/eevee.json
+console.log(eevee.names.en); // Eeevee
 
-oakdexPokedex.findPokemon(4, function(p) {
-  // returns data/pokemon/charmander.json
-  console.log(p.names.en); // Charmander
-});
+const charmander = oakdexPokedex.findPokemon(4)
+// returns data/pokemon/charmander.json
+console.log(charmander.names.en); // Charmander
 
-oakdexPokedex.findMove('Tackle', function(m) {
-  // returns data/move/tackle.json
-  console.log(m.names.en); // Tackle
-});
+const tackle = oakdexPokedex.findMove('Tackle')
+// returns data/move/tackle.json
+console.log(m.names.en); // Tackle
 
-oakdexPokedex.findAbility('Contrary', function(a) {
-  // returns data/ability/contrary.json
-  console.log(a.names.en); // Contrary
-});
+const contrary = oakdexPokedex.findAbility('Contrary')
+// returns data/ability/contrary.json
+console.log(a.names.en); // Contrary
 
-oakdexPokedex.findType('Fairy', function(t) {
-  // returns data/type/fairy.json
-  console.log(t.names.en); // Fairy
-});
+const fairy = oakdexPokedex.findType('Fairy')
+// returns data/type/fairy.json
+console.log(fairy.names.en); // Fairy
 
-oakdexPokedex.findEggGroup('Water 1', function(e) {
-  // returns data/egg_group/water_1.json
-  console.log(e.names.en); // Water 1
-});
+const water1 = oakdexPokedex.findEggGroup('Water 1')
+// returns data/egg_group/water_1.json
+console.log(water1.names.en); // Water 1
 
-oakdexPokedex.findGeneration('Generation VI', function(g) {
-  // returns data/generation/6.json
-  console.log(g.names.en); // Generation VI
-});
+const genVI = oakdexPokedex.findGeneration('Generation VI')
+// returns data/generation/6.json
+console.log(genVI.names.en); // Generation VI
 
-oakdexPokedex.findNature('Bold', function(n) {
-  // returns data/nature/bold.json
-  console.log(n.names.en); // Bold
-});
+const bold = oakdexPokedex.findNature('Bold')
+// returns data/nature/bold.json
+console.log(bold.names.en); // Bold
 
+const allPokemon = oakdexPokedex.allPokemon()
+console.log(allPokemon.length); // 802
 
-oakdexPokedex.allPokemon(function(pokemon) {
-  console.log(pokemon.length); // 802
-});
+const darkPokemon = oakdexPokedex.allPokemon({ type: 'Dark' })
+console.log(darkPokemon.length); // 46
 
-oakdexPokedex.allPokemon({ type: 'Dark' }, function(pokemon) {
-  console.log(pokemon.length); // 46
-});
+const humanLike = oakdexPokedex.allPokemon({ egg_group: 'Human-Like' })
+console.log(humanLike.length); // 52
 
-oakdexPokedex.allPokemon({ egg_group: 'Human-Like' }, function(pokemon) {
-  console.log(pokemon.length); // 52
-});
+const alola = oakdexPokedex.allPokemon({ dex: 'alola' })
+console.log(alola.length); // 302
 
-oakdexPokedex.allPokemon({ dex: 'alola' }, function(pokemon) {
-  console.log(pokemon.length); // 302
-});
-
-oakdexPokedex.allMoves({ type: 'Ground' }, function(moves) {
-  console.log(moves.length); // 26
-});
+const moves = oakdexPokedex.allMoves({ type: 'Ground' })
+console.log(moves.length); // 26
 ```
 
 

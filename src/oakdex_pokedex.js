@@ -1,170 +1,113 @@
-var fs = require('fs');
-var path = require('path');
+'use strict';
+const POKEMON_BY_NAME = require('../data/pokemon.json')
+const POKEMON_BY_ID = Object.values(POKEMON_BY_NAME).reduce((map, data) => {
+  map[data.national_id] = data;
+  return map
+})
 
-var allByName = function(type, cb) {
-  if(!this.byName) {
-    this.byName = {};
-  }
-  if(this.byName[type]) {
-    cb(this.byName[type]);
-    return;
-  }
-  var _this = this;
-  _this.byName[type] = {};
-  fs.readFile(path.join(__dirname, '../data/' + type + '.json'), function (err, data) {
-    if(err) {
-      throw err;
-    }
-    _this.byName[type] = JSON.parse(data)
-    return cb(_this.byName[type]);
-  });
-};
+const MOVES = require('../data/move.json')
+const ABILITIES = require('../data/ability.json')
+const EGG_GROUPS = require('../data/egg_group.json')
+const TYPES = require('../data/type.json')
+const REGIONS = require('../data/region.json')
+const GENERATIONS = require('../data/generation.json')
+const NATURES = require('../data/nature.json')
 
-var pokemonById = function(cb) {
-  var _this = this;
-  if(_this.pokemonByIdList) {
-    cb(_this.pokemonByIdList);
-    return;
+var filterBy = function(list, conditions = {}) {
+  if (Object.keys(conditions).length === 0) {
+    return Object.values(list)
   }
-  _this.pokemonByIdList = {};
-  allByName('pokemon', function(list) {
-    Object.keys(list).map(function(key, _index) {
-      _this.pokemonByIdList[list[key].national_id] = list[key];
-    });
-    cb(_this.pokemonByIdList);
-  });
-};
-
-var findByType = function(type, name, cb) {
-  allByName(type, function(list) {
-    var obj = list[name];
-    if(!obj) {
-      cb(null);
-      return;
-    }
-    cb(obj);
-  });
-};
-
-var allByType = function(type, conditions, cb) {
-  if (typeof conditions === 'function') {
-    cb = conditions;
-    conditions = {};
-  }
-  allByName(type, function(list) {
-    var objects = [];
-    Object.keys(list).map(function(key) {
-      var item = list[key];
-      if(Object.keys(conditions).length === 0) {
-        objects.push(item);
-      } else {
-        var exists = false;
-        Object.keys(conditions).map(function(attr) {
-          var value = conditions[attr];
-          if(attr === 'dex') {
-            if(item[value + '_id']) {
-              objects.push(item);
-            }
-          } else if(item[attr] && item[attr].constructor === Array) {
-            if(item[attr].indexOf(value) > -1) {
-              objects.push(item);
-            }
-          } else {
-            if(item[attr] === value) {
-              objects.push(item);
-            }
-          }
-        });
+  return Object.values(list).filter(function(item) {
+    return Object.entries(conditions).find(function(pair) {
+      const [attr, value] = pair
+      if(attr === 'dex') {
+        if(item[value + '_id']) {
+          return true
+        }
+        return
       }
-    });
-    cb(objects);
+      if(item[attr] && Array.isArray(item[attr])) {
+        if(item[attr].indexOf(value) > -1) {
+          return true
+        }
+        return
+      }
+      if(item[attr] === value) {
+        return true
+      }
+    })
   });
 };
 
 module.exports = {
 
-  findPokemon: function(idOrName, cb) {
-    allByName('pokemon', function(list) {
-      var obj = list[idOrName];
-      if(!obj) {
-        pokemonById(function(listId) {
-          obj = listId[idOrName];
-          if(!obj) {
-            cb(null);
-            return;
-          }
-          cb(obj);
-        });
-        return;
-      }
-      cb(obj);
-    });
+  findPokemon(idOrName) {
+    return POKEMON_BY_ID[idOrName] || POKEMON_BY_NAME[idOrName] || null
   },
 
-  findMove: function(name, cb) {
-    findByType('move', name, cb);
+  findMove: function(name) {
+    return MOVES[name] || null;
   },
 
-  findAbility: function(name, cb) {
-    findByType('ability', name, cb);
+  findAbility: function(name) {
+    return ABILITIES[name] || null;
   },
 
-  findType: function(name, cb) {
-    findByType('type', name, cb);
+  findType: function(name) {
+    return TYPES[name] || null;
   },
 
-  findRegion: function(name, cb) {
-    findByType('region', name, cb);
+  findRegion: function(name) {
+    return REGIONS[name] || null;
   },
 
-  findEggGroup: function(name, cb) {
-    findByType('egg_group', name, cb);
+  findEggGroup: function(name) {
+    return EGG_GROUPS[name] || null;
   },
 
-  findGeneration: function(name, cb) {
-    findByType('generation', name, cb);
+  findGeneration: function(name) {
+    return GENERATIONS[name] || null;
   },
 
-  findNature: function(name, cb) {
-    findByType('nature', name, cb);
+  findNature: function(name) {
+    return NATURES[name] || null;
   },
 
-  allPokemon: function(conditions, cb) {
+  allPokemon: function(conditions = {}) {
     if(conditions.type) {
       conditions.types = conditions.type;
     }
     if(conditions.egg_group) {
       conditions.egg_groups = conditions.egg_group;
     }
-    allByType('pokemon', conditions, cb);
+    return filterBy(POKEMON_BY_NAME, conditions);
   },
 
-  allMoves: function(conditions, cb) {
-    allByType('move', conditions, cb);
+  allMoves: function(conditions) {
+    return filterBy(MOVES, conditions);
   },
 
-  allAbilities: function(conditions, cb) {
-    allByType('ability', conditions, cb);
+  allAbilities: function(conditions) {
+    return filterBy(ABILITIES, conditions);
   },
 
-  allTypes: function(conditions, cb) {
-    allByType('type', conditions, cb);
+  allTypes: function(conditions) {
+    return filterBy(TYPES, conditions);
   },
 
-  allRegions: function(conditions, cb) {
-    allByType('region', conditions, cb);
+  allRegions: function(conditions) {
+    return filterBy(REGIONS, conditions);
   },
 
-  allEggGroups: function(conditions, cb) {
-    allByType('egg_group', conditions, cb);
+  allEggGroups: function(conditions) {
+    return filterBy(EGG_GROUPS, conditions);
   },
 
-  allGenerations: function(conditions, cb) {
-    allByType('generation', conditions, cb);
+  allGenerations: function(conditions) {
+    return filterBy(GENERATIONS, conditions);
   },
 
-  allNatures: function(conditions, cb) {
-    allByType('nature', conditions, cb);
+  allNatures: function(conditions) {
+    return filterBy(NATURES, conditions);
   }
-
 };
