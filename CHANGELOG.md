@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## [Unreleased]
+## [0.3.0] - 2019-01-06
 
 ### Changed
 - Changed signature of all javascript functions: instead of `findPokemon('Eevee', fn)` it is now just `findPokemon('Eevee')` as it is now sync instead of async. More in #81
