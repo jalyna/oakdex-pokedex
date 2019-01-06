@@ -157,6 +157,8 @@ If you want also to include sprites in your pokedex, check out [oakdex-pokedex-s
 
 I would be happy if you want to add your contribution to the project. In order to contribute, you just have to fork this repository.
 
+Please respect the [Code of Conduct](//github.com/jalyna/oakdex-pokedex/blob/master/CODE_OF_CONDUCT.md).
+
 ### Minify json files before releasing new version:
 
 ```
