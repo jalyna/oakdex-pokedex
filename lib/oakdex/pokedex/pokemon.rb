@@ -1,4 +1,5 @@
 require 'oakdex/pokedex/base'
+require 'oakdex/pokedex/pokemon_importer'
 
 module Oakdex
   module Pokedex
@@ -28,10 +29,19 @@ module Oakdex
       end
 
       class << self
+        def import!(custom_pokemon)
+          PokemonImporter.new(custom_pokemon).import!
+        end
+
         def all_by_id
           @all_by_id ||= Hash[all.map do |_k, pokemon|
             [pokemon.national_id, pokemon]
           end]
+        end
+
+        def add_to_all(custom_entries)
+          @all_by_id = nil
+          super(custom_entries)
         end
 
         def find(name)

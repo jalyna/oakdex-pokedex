@@ -10,7 +10,9 @@ Gem::Specification.new do |s|
   s.email       = 'jalyna.schroeder@gmail.com'
   s.files       = Dir.glob('lib/**/**') +
                   Dir.glob('data/*.json') +
+                  Dir.glob('data/schemas/*.json') +
                   %w[README.md]
   s.homepage    = 'http://github.com/jalyna/oakdex-pokedex'
   s.license     = 'MIT'
+  s.add_runtime_dependency 'json-schema'
 end

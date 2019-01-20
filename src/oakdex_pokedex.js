@@ -1,10 +1,7 @@
 'use strict';
-const POKEMON_BY_NAME = require('../data/pokemon.json')
-const POKEMON_BY_ID = Object.values(POKEMON_BY_NAME).reduce((map, data) => {
-  map[data.national_id] = data;
-  return map
-})
+const jsonValidate = require('jsonschema').validate
 
+const POKEMON = require('../data/pokemon.json')
 const MOVES = require('../data/move.json')
 const ABILITIES = require('../data/ability.json')
 const EGG_GROUPS = require('../data/egg_group.json')
@@ -12,6 +9,20 @@ const TYPES = require('../data/type.json')
 const REGIONS = require('../data/region.json')
 const GENERATIONS = require('../data/generation.json')
 const NATURES = require('../data/nature.json')
+
+const POKEMON_SCHEMA = require('../data/schemas/pokemon.json')
+
+let allPokemonByName = JSON.parse(JSON.stringify(POKEMON))
+let allPokemonById = {}
+
+const updateAllPokemonById = function() {
+  allPokemonById = Object.values(allPokemonByName).reduce((map, data) => {
+    map[data.national_id] = data;
+    return map
+  })
+};
+
+updateAllPokemonById();
 
 var filterBy = function(list, conditions = {}) {
   if (Object.keys(conditions).length === 0) {
@@ -39,10 +50,48 @@ var filterBy = function(list, conditions = {}) {
   });
 };
 
+const customSchemaFor = function(pokemon) {
+  let customSchema = Object.assign({}, POKEMON_SCHEMA)
+  customSchema.properties.national_id.minimum = 10001
+  delete customSchema.properties.national_id.maximum
+
+  const availablePokemon = Object.keys(allPokemonByName).concat([null]).concat(pokemon.map(function(p) {
+    return p.names && p.names.en ? p.names.en : null
+  }))
+
+  customSchema.definitions.pokemon.enum = availablePokemon
+  return customSchema
+};
+
+const validatePokemon = function(pokemon) {
+  const schema = customSchemaFor(pokemon)
+  pokemon.map(function(p) {
+    jsonValidate(p, schema, { throwError: true })
+  })
+};
+
 module.exports = {
 
+  importPokemon(customPokemon) {
+    const pokemonList = Array.isArray(customPokemon) ? customPokemon : JSON.parse(customPokemon)
+    const pokemon = pokemonList.map(function(p) {
+      return (typeof p === 'string' ? JSON.parse(p) : p)
+    })
+    validatePokemon(pokemon)
+    pokemon.map(function(p) {
+      allPokemonByName[p.names.en] = p
+    })
+    updateAllPokemonById()
+  },
+
+  resetPokemon() {
+    allPokemonByName = JSON.parse(JSON.stringify(POKEMON))
+    allPokemonById = {}
+    updateAllPokemonById()
+  },
+
   findPokemon(idOrName) {
-    return POKEMON_BY_ID[idOrName] || POKEMON_BY_NAME[idOrName] || null
+    return allPokemonById[idOrName] || allPokemonByName[idOrName] || null
   },
 
   findMove: function(name) {
@@ -80,7 +129,7 @@ module.exports = {
     if(conditions.egg_group) {
       conditions.egg_groups = conditions.egg_group;
     }
-    return filterBy(POKEMON_BY_NAME, conditions);
+    return filterBy(allPokemonByName, conditions);
   },
 
   allMoves: function(conditions) {
