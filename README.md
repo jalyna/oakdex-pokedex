@@ -135,6 +135,33 @@ console.log(moves.length); // 26
 ```
 
 
+### Add custom Pokemon / Fakemon
+
+You can add your own Pokémon and it will be checked if it is valid. You can and should add them as a batch as evolutions need to present at the same time.
+
+Fakemon need to have a national_id that is greater than 10000.
+
+Checkout [the fakemon examples](fixtures).
+
+```rb
+fakemon_stage1 = File.read('my_fakemon1.json')
+fakemon_stage2 = File.read('my_fakemon2.json')
+
+Oakdex::Pokedex::Pokemon.import!([fakemon_stage1, fakemon_stage2])
+
+Oakdex::Pokedex::Pokemon.find('My Fakemon')
+```
+
+```js
+fakemonStage1 = fs.readFileSync('./fixtures/my_fakemon1.json', 'utf8')
+fakemonStage2 = fs.readFileSync('./fixtures/my_fakemon2.json', 'utf8')
+
+oakdexPokedex.importPokemon([fakemonStage1, fakemonStage2])
+
+oakdexPokedex.findPokemon('My Fakemon')
+```
+
+
 ### Schemas
 
 If you want to know what the structure of the given data is, checkout the following documentations:

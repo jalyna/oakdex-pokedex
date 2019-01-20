@@ -21,6 +21,12 @@ module Oakdex
           @all ||= map_json_data(json_folder, self)
         end
 
+        def add_to_all(custom_entries)
+          @all = @all.merge(custom_entries.map do |data|
+            [data['names']['en'], new(data)]
+          end.to_h)
+        end
+
         def find(name)
           all[name]
         end
@@ -28,6 +34,10 @@ module Oakdex
         def find!(name)
           find(name) ||
             (raise NotFound, "#{name} (#{json_folder}) could not be found")
+        end
+
+        def reset!
+          @all = nil
         end
 
         def where(conditions = {})

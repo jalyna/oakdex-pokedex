@@ -1,0 +1,204 @@
+{
+  "names": {
+    "de": "Fakemon1",
+    "en": "Fakemon1"
+  },
+  "national_id": 10001,
+  "types": [
+    "Fairy",
+    "Poison"
+  ],
+  "abilities": [
+    {
+      "name": "Overgrow"
+    },
+    {
+      "name": "Chlorophyll",
+      "hidden": true
+    }
+  ],
+  "gender_ratios": {
+    "male": 30.0,
+    "female": 70.0
+  },
+  "catch_rate": 45,
+  "egg_groups": [
+    "Monster",
+    "Grass"
+  ],
+  "hatch_time": [
+    5355,
+    5609
+  ],
+  "height_us": "2'04\"",
+  "height_eu": "0.7 m",
+  "weight_us": "15.2 lbs.",
+  "weight_eu": "6.9 kg",
+  "base_exp_yield": 64,
+  "leveling_rate": "Medium Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 0,
+    "def": 0,
+    "sp_atk": 1,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Green",
+  "base_friendship": 70,
+  "base_stats": {
+    "hp": 120,
+    "atk": 183,
+    "def": 49,
+    "sp_atk": 65,
+    "sp_def": 65,
+    "speed": 65
+  },
+  "evolutions": [
+    {
+      "to": "Fakemon2",
+      "level": 20
+    }
+  ],
+  "categories": {
+    "en": "Super Awesome Pokémon",
+    "de": "Super Tolles Pokemon"
+  },
+  "kanto_id": null,
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "ultra_alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Alpha Sapphire": {
+      "en": "This is a special Pokemon I love.",
+      "de": "Ein ganz tolles Pokemon."
+    }
+  },
+  "pokeathlon_stats": {
+    "speed": [
+      2,
+      3
+    ],
+    "power": [
+      2,
+      3
+    ],
+    "stamina": [
+      3,
+      4
+    ],
+    "skill": [
+      3,
+      4
+    ],
+    "jump": [
+      3,
+      3
+    ]
+  },
+  "move_learnsets": [
+    {
+      "games": [
+        "Red",
+        "Blue"
+      ],
+      "learnset": [
+        {
+          "move": "Growl",
+          "level": 1
+        },
+        {
+          "move": "Tackle",
+          "level": 1
+        },
+        {
+          "move": "Leech Seed",
+          "level": 7
+        },
+        {
+          "move": "Vine Whip",
+          "level": 13
+        },
+        {
+          "move": "Poison Powder",
+          "level": 20
+        },
+        {
+          "move": "Razor Leaf",
+          "level": 27
+        },
+        {
+          "move": "Cut",
+          "tm": "HM1"
+        },
+        {
+          "move": "Swords Dance",
+          "tm": "TM3"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM6"
+        },
+        {
+          "move": "Body Slam",
+          "tm": "TM8"
+        },
+        {
+          "move": "Take Down",
+          "tm": "TM9"
+        },
+        {
+          "move": "Double-Edge",
+          "tm": "TM10"
+        },
+        {
+          "move": "Rage",
+          "tm": "TM20"
+        },
+        {
+          "move": "Mega Drain",
+          "tm": "TM21"
+        },
+        {
+          "move": "Solar Beam",
+          "tm": "TM22"
+        },
+        {
+          "move": "Mimic",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Reflect",
+          "tm": "TM33"
+        },
+        {
+          "move": "Bide",
+          "tm": "TM34"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM50"
+        }
+      ]
+    }
+  ]
+}

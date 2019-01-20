@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'json-schema'
 
 describe 'schemas' do
   Dir['data/schemas/*.json'].each do |schema_path|
