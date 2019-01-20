@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## [Unreleased]
+## [0.4.0] - 2019-01-20
 
 ### Added
 - Added `Oakdex::Pokedex::Pokemon.import!([json1, json2])` to ruby gem in order to add custom pokemon.
