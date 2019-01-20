@@ -228,4 +228,14 @@ describe Oakdex::Pokedex::Pokemon do
       expect(collection.last.unova_id).to eq(155)
     end
   end
+
+  describe '.import' do
+    let(:fakemon) { double(:fakemon) }
+    let(:importer) { double(:importer) }
+    it 'calls PokemonImporter' do
+      allow(Oakdex::Pokedex::PokemonImporter).to receive(:new).and_return(importer)
+      expect(importer).to receive(:import!)
+      described_class.import!([fakemon])
+    end
+  end
 end

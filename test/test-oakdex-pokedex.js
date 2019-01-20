@@ -2,8 +2,49 @@
 const oakdexPokedex = require('../src/oakdex_pokedex');
 const expect = require('expect.js');
 const fs = require('fs');
+const jsonschema = require('jsonschema');
 
 describe('OakdexPokedex', function() {
+  beforeEach(function() {
+    oakdexPokedex.resetPokemon()
+  })
+
+  describe('#importPokemon', function() {
+    it('imports custom pokemon', function() {
+      const fakemon1 = fs.readFileSync('./fixtures/fakemon1.json', 'utf8')
+      const fakemon2 = fs.readFileSync('./fixtures/fakemon2.json', 'utf8')
+      expect(oakdexPokedex.findPokemon('Fakemon1')).to.equal(null)
+      expect(oakdexPokedex.findPokemon('Fakemon2')).to.equal(null)
+      oakdexPokedex.importPokemon([fakemon1, fakemon2])
+      expect(oakdexPokedex.findPokemon('Fakemon1')).not.to.equal(null)
+      expect(oakdexPokedex.findPokemon('Fakemon2')).not.to.equal(null)
+      expect(oakdexPokedex.allPokemon().length).to.equal(809)
+    })
+
+    it('imports custom pokemon by object', function() {
+      const fakemon1 = JSON.parse(fs.readFileSync('./fixtures/fakemon1.json', 'utf8'))
+      const fakemon2 = JSON.parse(fs.readFileSync('./fixtures/fakemon2.json', 'utf8'))
+      expect(oakdexPokedex.findPokemon('Fakemon1')).to.equal(null)
+      expect(oakdexPokedex.findPokemon('Fakemon2')).to.equal(null)
+      oakdexPokedex.importPokemon([fakemon1, fakemon2])
+      expect(oakdexPokedex.findPokemon('Fakemon1')).not.to.equal(null)
+      expect(oakdexPokedex.findPokemon('Fakemon2')).not.to.equal(null)
+      expect(oakdexPokedex.allPokemon().length).to.equal(809)
+    })
+
+    it('throws error when national id is lower than 10001', function() {
+      const fakemon1 = JSON.parse(fs.readFileSync('./fixtures/fakemon1.json', 'utf8'))
+      const fakemon2 = JSON.parse(fs.readFileSync('./fixtures/fakemon2.json', 'utf8'))
+      fakemon1.national_id = 150
+      expect(oakdexPokedex.importPokemon).withArgs([fakemon1, fakemon2]).to.throwException(function (e) { // get the exception object
+        expect(e.message).to.equal('must have a minimum value of 10001');
+      });
+      expect(oakdexPokedex.findPokemon('Fakemon1')).to.equal(null)
+      expect(oakdexPokedex.findPokemon('Fakemon2')).to.equal(null)
+      expect(oakdexPokedex.allPokemon().length).to.equal(807)
+    })
+  })
+
   describe('#findPokemon', function() {
     it('finds eevee by name', function(done) {
       const pkmn = oakdexPokedex.findPokemon('Eevee')
