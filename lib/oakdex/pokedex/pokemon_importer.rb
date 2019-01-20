@@ -5,8 +5,11 @@ module Oakdex
     # Handles Pokemon Import
     class PokemonImporter
       def initialize(custom_pokemon)
-        pokemon_list = custom_pokemon.is_a?(Array) ?
-          custom_pokemon : JSON.parse(custom_pokemon)
+        pokemon_list = if custom_pokemon.is_a?(Array)
+                         custom_pokemon
+                       else
+                         JSON.parse(custom_pokemon)
+                       end
         @pokemon = pokemon_list.map do |p|
           p.is_a?(Hash) ? p : JSON.parse(p)
         end
@@ -32,7 +35,7 @@ module Oakdex
 
       def schema
         @schema ||= JSON.parse(File.read(schema_path)).tap do |schema|
-          schema['properties']['national_id']['minimum'] = 10001
+          schema['properties']['national_id']['minimum'] = 10_001
           schema['properties']['national_id'].delete('maximum')
           schema['definitions']['pokemon']['enum'] = [nil] + available_pokemon
         end
