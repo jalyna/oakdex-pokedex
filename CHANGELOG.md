@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
+## [Unreleased]
+
+### Added
+- Added Item schema and type for gem and npm package. Added item Full Restore.
+
+
 ## [0.4.0] - 2019-01-20
 
 ### Added
