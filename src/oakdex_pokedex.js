@@ -9,6 +9,7 @@ const TYPES = require('../data/type.json')
 const REGIONS = require('../data/region.json')
 const GENERATIONS = require('../data/generation.json')
 const NATURES = require('../data/nature.json')
+const ITEMS = require('../data/item.json')
 
 const POKEMON_SCHEMA = require('../data/schemas/pokemon.json')
 
@@ -122,6 +123,10 @@ module.exports = {
     return NATURES[name] || null;
   },
 
+  findItem: function(name) {
+    return ITEMS[name] || null;
+  },
+
   allPokemon: function(conditions = {}) {
     if(conditions.type) {
       conditions.types = conditions.type;
@@ -134,6 +139,10 @@ module.exports = {
 
   allMoves: function(conditions) {
     return filterBy(MOVES, conditions);
+  },
+
+  allItems: function(conditions) {
+    return filterBy(ITEMS, conditions);
   },
 
   allAbilities: function(conditions) {

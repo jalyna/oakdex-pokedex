@@ -9,6 +9,7 @@ require 'oakdex/pokedex/pokemon'
 require 'oakdex/pokedex/egg_group'
 require 'oakdex/pokedex/generation'
 require 'oakdex/pokedex/region'
+require 'oakdex/pokedex/item'
 
 module Oakdex
   # Class that handles Pokedex Requests

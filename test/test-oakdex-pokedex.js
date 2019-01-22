@@ -212,6 +212,25 @@ describe('OakdexPokedex', function() {
     });
   });
 
+  describe('#findItem', function() {
+    it('finds Full Restore by name', function(done) {
+      const found = oakdexPokedex.findItem('Full Restore')
+      fs.readFile('./data/item/full_restore.json', 'utf8', function (err, data) {
+        if(err) {
+          throw err;
+        }
+        const obj = JSON.parse(data);
+        expect(found).to.eql(obj);
+        done();
+      });
+    });
+
+    it('returns null if entry does not exist', function(done) {
+      expect(oakdexPokedex.findItem('NotKnownByMe')).to.equal(null);
+      done();
+    });
+  });
+
   describe('#allPokemon', function() {
     it('finds all pokemon', function(done) {
       const list = oakdexPokedex.allPokemon()
@@ -296,6 +315,20 @@ describe('OakdexPokedex', function() {
     it('finds all natures', function(done) {
       const list = oakdexPokedex.allNatures()
       expect(list.length).to.equal(25);
+      done();
+    });
+  });
+
+  describe('#allItems', function() {
+    it('finds all items', function(done) {
+      const list = oakdexPokedex.allItems()
+      expect(list.length).to.equal(1);
+      done();
+    });
+
+    it('finds Potions', function(done) {
+      const list = oakdexPokedex.allItems({ category: 'Potions' })
+      expect(list.length).to.equal(1);
       done();
     });
   });
