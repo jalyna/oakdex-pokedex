@@ -131,7 +131,7 @@ This element must be one of the following enum values:
 
 This element must be one of the following enum values:
 
-* `Single Pokémon`
+* `Single Pokemon`
 * `Team`
 * `Trainer`
 

@@ -1,47 +1,47 @@
 {
   "names": {
-    "en": "Full Restore",
-    "de": "Top-Genesung",
-    "fr": "Guérison",
-    "es": "Restaurar Todo",
-    "it": "Ricarica Totale"
+    "en": "Max Potion",
+    "de": "Top-Trank",
+    "fr": "Potion Max",
+    "es": "Máxima Poción",
+    "it": "Pozione Max"
   },
   "category": "Potions",
   "descriptions": [
     {
       "games": ["Gold", "Silver", "Crystal"],
       "translations": {
-        "en": "Fully restores HP & status.",
-        "de": "Stellt KP und Status wieder her."
+        "en": "Fully restores Pokémon HP.",
+        "de": "Füllt KP vollständig auf."
       }
     },
     {
       "games": ["Ruby", "Sapphire", "Emerald"],
       "translations": {
-        "en": "Fully restores the HP and status of a Pokémon.",
-        "de": "Stellt KP und Status eines POKéMON wieder her."
+        "en": "Fully restores the HP of a Pokémon.",
+        "de": "Füllt die KP vollständig auf."
       }
     },
     {
       "games": ["FireRed", "LeafGreen"],
       "translations": {
-        "en": "A medicine that fully restores the HP and heals any status problems of one Pokémon.",
-        "de": "Stellt gesamte KP und Status eines POKéMON wieder her."
+        "en": "A spray-type wound medicine. It fully restores the HP of one Pokémon.",
+        "de": "Füllt die KP eines POKéMON vollständig auf."
       }
     },
     {
       "games": ["Diamond", "Pearl", "Platinum", "HeartGold",
         "SoulSilver", "Black", "White", "Black 2", "White 2"],
       "translations": {
-        "en": "A medicine that fully restores the HP and heals any status problems of a single Pokémon.",
-        "de": "Dieses Item stellt alle KP eines Pokémon wieder her und behebt alle Statusprobleme des Pokémon."
+        "en": "A spray-type medicine for wounds. It completely restores the HP of a single Pokémon.",
+        "de": "Hilft bei Wunden. Füllt die KP eines Pokémon vollständig wieder auf."
       }
     },
     {
       "games": ["X", "Y", "Omega Ruby", "Alpha Sapphire", "Sun", "Moon", "Ultra Sun", "Ultra Moon"],
       "translations": {
-        "en": "A medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.",
-        "de": "Dieses Item stellt alle KP eines Pokémon wieder her und behebt alle Statusprobleme."
+        "en": "A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokémon.",
+        "de": "Hilft bei Wunden. Füllt die KP eines Pokémon wieder vollständig auf."
       }
     }
   ],
@@ -53,8 +53,8 @@
         "SoulSilver", "Black", "White", "Black 2", "White 2", "X", "Y", "Omega Ruby",
         "Alpha Sapphire", "Sun", "Moon", "Ultra Sun", "Ultra Moon"
       ],
-      "buying": 3000,
-      "selling": 1500
+      "buying": 2500,
+      "selling": 1250
     }
   ],
   "pockets": [
@@ -76,19 +76,6 @@
         {
           "field": "current_hp",
           "change_by_percent": 100
-        },
-        {
-          "field": "status_condition",
-          "change": "remove",
-          "conditions": [
-            "poison",
-            "bad_poison",
-            "paralysis",
-            "sleep",
-            "burn",
-            "freeze",
-            "confusion"
-          ]
         }
       ]
     }
