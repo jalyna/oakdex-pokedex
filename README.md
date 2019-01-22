@@ -167,6 +167,7 @@ oakdexPokedex.findPokemon('My Fakemon')
 If you want to know what the structure of the given data is, checkout the following documentations:
 
 - [Pokemon](doc/pokemon.md)
+- [Item](doc/item.md)
 - [Move](doc/move.md)
 - [Ability](doc/ability.md)
 - [Type](doc/type.md)
