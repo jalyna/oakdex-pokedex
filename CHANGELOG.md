@@ -5,7 +5,8 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 ## [Unreleased]
 
 ### Added
-- Added Item schema and type for gem and npm package. Added item Full Restore.
+- Added Item schema and type for gem and npm package
+- Added all 5 potion items
 
 
 ## [0.4.0] - 2019-01-20

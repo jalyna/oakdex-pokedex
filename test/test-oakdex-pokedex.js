@@ -322,13 +322,13 @@ describe('OakdexPokedex', function() {
   describe('#allItems', function() {
     it('finds all items', function(done) {
       const list = oakdexPokedex.allItems()
-      expect(list.length).to.equal(1);
+      expect(list.length).to.equal(5);
       done();
     });
 
     it('finds Potions', function(done) {
       const list = oakdexPokedex.allItems({ category: 'Potions' })
-      expect(list.length).to.equal(1);
+      expect(list.length).to.equal(5);
       done();
     });
   });

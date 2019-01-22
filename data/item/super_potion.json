@@ -1,0 +1,91 @@
+{
+  "names": {
+    "en": "Super Potion",
+    "de": "Supertrank",
+    "fr": "Super Potion",
+    "es": "Súper Poción",
+    "it": "Superpozione"
+  },
+  "category": "Potions",
+  "descriptions": [
+    {
+      "games": ["Gold", "Silver", "Crystal"],
+      "translations": {
+        "en": "Restores Pokémon HP by 50.",
+        "de": "Füllt die KP um 50 auf. Bitter."
+      }
+    },
+    {
+      "games": ["Ruby", "Sapphire", "Emerald"],
+      "translations": {
+        "en": "Restores the HP of a Pokémon by 50 points.",
+        "de": "Füllt KP eines POKéMON um 50 Punkte auf."
+      }
+    },
+    {
+      "games": ["FireRed", "LeafGreen"],
+      "translations": {
+        "en": "A spray-type wound medicine. It restores the HP of one Pokémon by 50 points.",
+        "de": "Füllt die KP eines POKéMON um 50 Punkte auf."
+      }
+    },
+    {
+      "games": ["Diamond", "Pearl", "Platinum", "HeartGold",
+        "SoulSilver", "Black", "White", "Black 2", "White 2"],
+      "translations": {
+        "en": "A spray-type medicine for wounds. It restores the HP of one Pokémon by 50 points.",
+        "de": "Hilft bei Wunden. Es füllt die KP eines Pokémon um 50 Punkte wieder auf."
+      }
+    },
+    {
+      "games": ["X", "Y", "Omega Ruby", "Alpha Sapphire"],
+      "translations": {
+        "en": "A spray-type medicine for treating wounds. It can be used to restore 50 HP to an injured Pokémon.",
+        "de": " Hilft bei Wunden. Füllt die KP eines Pokémon um 50 Punkte auf."
+      }
+    },
+    {
+      "games": ["Sun", "Moon", "Ultra Sun", "Ultra Moon"],
+      "translations": {
+        "en": "A spray-type medicine for treating wounds. It can be used to restore 60 HP to an injured Pokémon.",
+        "de": "Hilft bei Wunden. Füllt die KP eines Pokémon um 60 Punkte auf."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Red", "Blue", "Yellow",
+        "Gold", "Silver", "Crystal", "Ruby", "Sapphire",
+        "Emerald", "FireRed", "LeafGreen", "Diamond", "Pearl", "Platinum", "HeartGold",
+        "SoulSilver", "Black", "White", "Black 2", "White 2", "X", "Y", "Omega Ruby",
+        "Alpha Sapphire", "Sun", "Moon", "Ultra Sun", "Ultra Moon"
+      ],
+      "buying": 700,
+      "selling": 350
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [1, 2, 3],
+      "pocket": "Items"
+    },
+    {
+      "generations": [4, 5, 6, 7],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 60
+        }
+      ]
+    }
+  ]
+}

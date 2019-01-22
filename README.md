@@ -39,6 +39,9 @@ bulbasaur.attributes
 tackle = Oakdex::Pokedex::Move.find('Tackle')
 # => #<Oakdex::Pokedex::Move:0x007fbc9a10cda0 @attributes={"index_number"=>33, "pp"=>35, "max_pp"=>56, "power"=>50, "accuracy"=>100, "category"=>"physical", "priority"=>0, "target"=>"target", ...>
 
+potion = Oakdex::Pokedex::Item.find('Potion')
+# => #<Oakdex::Pokedex::Item:0x007fd48f1b14b0 @attributes={"names"=>{"en"=>"Potion", "de"=>"Trank", "fr"=>"Potion, ...>
+
 contrary = Oakdex::Pokedex::Ability.find('Contrary')
 # => #<Oakdex::Pokedex::Ability:0x007fbc9b033540 @attributes={"index_number"=>126, "names"=>{"fr"=>"Contestation", "de"=>"Umkehrung", "it"=>"Inversione", "en"=>"Contrary"}, "descriptions"=>{"en"=>"Inverts stat modifiers.", "de"=>"Attacken, die einen Statuswert des Pokémon erhöhen würden, senken ihn und umgekehrt."}}>
 
@@ -70,6 +73,12 @@ Oakdex::Pokedex::Pokemon.where(alola_id: 1)
 
 Oakdex::Pokedex::Move.where(type: 'Ground').size
 # => 26
+
+Oakdex::Pokedex::Item.all.size
+# => 5, still WIP
+
+Oakdex::Pokedex::Item.where(category: 'Potion').size
+# => 5
 ```
 
 
@@ -98,6 +107,10 @@ const tackle = oakdexPokedex.findMove('Tackle')
 // returns data/move/tackle.json
 console.log(m.names.en); // Tackle
 
+const potion = oakdexPokedex.findItem('Potion')
+// returns data/item/potion.json
+console.log(m.names.en); // Potion
+
 const contrary = oakdexPokedex.findAbility('Contrary')
 // returns data/ability/contrary.json
 console.log(a.names.en); // Contrary
@@ -119,7 +132,10 @@ const bold = oakdexPokedex.findNature('Bold')
 console.log(bold.names.en); // Bold
 
 const allPokemon = oakdexPokedex.allPokemon()
-console.log(allPokemon.length); // 802
+console.log(allPokemon.length); // 807
+
+const allItems = oakdexPokedex.allItems()
+console.log(allItems.length); // 5, WIP
 
 const darkPokemon = oakdexPokedex.allPokemon({ type: 'Dark' })
 console.log(darkPokemon.length); // 46
