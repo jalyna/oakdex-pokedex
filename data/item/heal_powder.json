@@ -1,0 +1,164 @@
+{
+  "names": {
+    "en": "Heal Powder",
+    "de": "Heilpuder",
+    "fr": "Poudre Soin",
+    "es": "Polvo Curación",
+    "it": "Polvocura"
+  },
+  "category": "Herbal medicine",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Cures all status problems. Bitter.",
+        "de": "Heilt alle Statusprobleme. Bitter."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A bitter powder that heals all status problems.",
+        "de": "Ein bitteres Pulver, das alle Statusprobleme heilt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A very bitter medicine powder. It heals all the status problems of one Pokémon.",
+        "de": "Ein bitteres Pulver, das alle Statusprobleme eines POKéMON beseitigt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A very bitter medicine powder. It heals all the status problems of a single Pokémon.",
+        "de": "Ein bitteres, medizinisches Pulver, das alle Statusprobleme eines Pokémon aufhebt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "A very bitter medicine powder. When consumed, it heals all of a Pokémon's status conditions.",
+        "de": "Ein bitteres medizinisches Pulver, das alle Statusprobleme eines Pokémon aufhebt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A very bitter medicinal powder. It can be used once to heal all the status conditions of a Pokémon.",
+        "de": "Ein bitteres medizinisches Pulver, das alle Statusprobleme eines Pokémon aufhebt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 450,
+      "selling": 225
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 300,
+      "selling": 150
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison",
+            "paralysis",
+            "sleep",
+            "burn",
+            "freeze",
+            "confusion"
+          ]
+        }
+      ]
+    }
+  ]
+}
