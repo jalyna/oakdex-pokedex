@@ -1,0 +1,132 @@
+{
+  "names": {
+    "en": "PP Max",
+    "de": "AP-Top",
+    "fr": "PP Max",
+    "es": "Máx. PP",
+    "it": "PP-Max"
+  },
+  "category": "Vitamins",
+  "descriptions": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the PP of a move to its maximum points.",
+        "de": "Maximiert die Anzahl der AP einer Attacke."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Raises the PP of a selected move to its maximum level for one Pokémon.",
+        "de": "Maximiert die Anzahl der AP einer Attacke eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "It maximally raises the top PP of a selected move that has been learned by the target Pokémon.",
+        "de": "Maximiert die Anzahl der AP einer Attacke eines Pokémon."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A medicine that can optimally raise the maximum PP of a single move that has been learned by the target Pokémon.",
+        "de": "Maximiert die Anzahl der AP einer Attacke eines Pokémon."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 4900
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 5000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon > Single Move",
+      "move_changes": [
+        {
+          "field": "max_pp",
+          "change_by_percent": 160
+        }
+      ]
+    }
+  ]
+}

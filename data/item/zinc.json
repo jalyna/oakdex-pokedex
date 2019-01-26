@@ -1,0 +1,140 @@
+{
+  "names": {
+    "en": "Zinc",
+    "de": "Zink",
+    "fr": "Zinc",
+    "es": "Zinc",
+    "it": "Zinco"
+  },
+  "category": "Vitamins",
+  "descriptions": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "translations": {
+        "en": "Raises the stat Sp.Def of one Pokémon.",
+        "de": "Hebt den SP. VERT.-Wert eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the base Sp.Def stat of one Pokémon.",
+        "de": "Hebt den SP. VERT.-Wert eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base Sp. Def stat of one Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den SP. VER.-Wert eines POKéMON hebt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das die Spezial-Verteidigung eines Pokémon dauerhaft hebt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. When consumed, it raises the base Sp. Def stat of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den Spezial-Verteidigungs-Basiswert eines Pokémon dauerhaft erhöht."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 9800,
+      "selling": 4900
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 10000,
+      "selling": 5000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "ev_sp_def",
+          "change_by": 10
+        }
+      ]
+    }
+  ]
+}

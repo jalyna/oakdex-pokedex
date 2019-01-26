@@ -1,0 +1,160 @@
+{
+  "names": {
+    "en": "Calcium",
+    "de": "Kalzium",
+    "fr": "Calcium",
+    "es": "Calcio",
+    "it": "Calcio"
+  },
+  "category": "Vitamins",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Ups Special stats of one Pokémon.",
+        "de": "Erhöht den SPEZ-Wert."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire"
+      ],
+      "translations": {
+        "en": "Raises the stat Sp.Atk of one Pokémon.",
+        "de": "Hebt den SP. ANGR.-Wert eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the base Sp.Atk stat of one Pokémon.",
+        "de": "Hebt den SP. ANGR.-Wert eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base Sp. Atk stat of one Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den SP. ANG.-Wert eines POKéMON hebt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den Spezial-Angriff eines Pokémon dauerhaft hebt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. When consumed, it raises the base Sp. Atk stat of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den Spezial-Angriffs-Basiswert eines Pokémon dauerhaft erhöht."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 9800,
+      "selling": 4900
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 10000,
+      "selling": 5000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "ev_sp_atk",
+          "change_by": 10
+        }
+      ]
+    }
+  ]
+}

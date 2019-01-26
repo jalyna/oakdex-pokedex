@@ -1,0 +1,162 @@
+{
+  "names": {
+    "en": "Rare Candy",
+    "de": "Sonderbonbon",
+    "fr": "Super Bonbon",
+    "es": "Caramelo Raro",
+    "it": "Caramella rara"
+  },
+  "category": "Vitamins",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Raises level of a Pokémon by one.",
+        "de": "Hebt Level um eins an."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the level of a Pokémon by one.",
+        "de": "Hebt den Level eines POKéMON um eins an."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A candy that is packed with energy. It raises the level of a Pokémon by one.",
+        "de": "Ein energiereiches Bonbon, das den Level eines POKéMON um eins anhebt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A candy that is packed with energy. It raises the level of a single Pokémon by one.",
+        "de": "Ein energiereiches Bonbon, das den Level eines Pokémon dauerhaft um eins anhebt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A candy that is packed with energy. When consumed, it will instantly raise the level of a single Pokémon by one.",
+        "de": "Ein energiereiches Bonbon, das den Level eines Pokémon dauerhaft um 1 erhöht."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 2400
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 5000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        5,
+        6
+      ],
+      "pocket": "Medicine"
+    },
+    {
+      "generations": [
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "level",
+          "change_by": 1
+        },
+        {
+          "field": "current_hp",
+          "change_by": 2,
+          "revive": true
+        }
+      ]
+    }
+  ]
+}
