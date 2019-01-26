@@ -286,12 +286,12 @@
           "buying": {
             "type": "integer",
             "minimum": 0,
-            "maximum": 40000
+            "maximum": 60000
           },
           "selling": {
             "type": "integer",
             "minimum": 0,
-            "maximum": 40000
+            "maximum": 60000
           }
         },
         "required": [

@@ -79,13 +79,13 @@ The array object has the following properties:
 
 Additional restrictions:
 
-* Maximum: `40000`
+* Maximum: `60000`
 
 ### `selling` (integer, required)
 
 Additional restrictions:
 
-* Maximum: `40000`
+* Maximum: `60000`
 
 ## `pockets` (array, required)
 
