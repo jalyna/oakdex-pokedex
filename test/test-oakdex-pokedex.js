@@ -322,7 +322,7 @@ describe('OakdexPokedex', function() {
   describe('#allItems', function() {
     it('finds all items', function(done) {
       const list = oakdexPokedex.allItems()
-      expect(list.length).to.equal(5);
+      expect(list.length >= 7).to.be(true);
       done();
     });
 

@@ -38,6 +38,9 @@
                 "minimum": -100,
                 "maximum": 100
               },
+              "revive": {
+                "type": "boolean"
+              },
               "change_by": {
                 "type": "integer",
                 "minimum": -10000,
