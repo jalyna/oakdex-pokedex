@@ -5,6 +5,7 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 ## [Unreleased]
 
 ### Added
+- Added `description` method to `Oakdex::Pokedex::Item` that returns latest description
 - Added Revive and Max Revive
 - Added all 9 Vitamins
 - Added 13 Status condition healing items
