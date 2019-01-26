@@ -1,0 +1,155 @@
+{
+  "names": {
+    "en": "Ice Heal",
+    "de": "Eisheiler",
+    "fr": "Antigel",
+    "es": "Antihielo",
+    "it": "Antigelo"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Defrosts frozen Pokémon.",
+        "de": "Taut POKéMON wieder auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Defrosts a frozen Pokémon.",
+        "de": "Taut POKéMON wieder auf."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A spray-type medicine. It defrosts a frozen Pokémon.",
+        "de": "Taut ein eingefrorenes POKéMON wieder auf."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A spray-type medicine. It defrosts a Pokémon that has been frozen solid.",
+        "de": "Ein Spray, das ein eingefrorenes Pokémon auftaut."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A spray-type medicine for freezing. It can be used once to defrost a Pokémon that has been frozen solid.",
+        "de": "Ein Spray, das ein eingefrorenes Pokémon auftaut."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 250,
+      "selling": 125
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 100,
+      "selling": 50
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "freeze"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "names": {
+    "en": "Antidote",
+    "de": "Gegengift",
+    "fr": "Antidote",
+    "es": "Antídoto",
+    "it": "Antidoto"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Cures poisoned Pokémon.",
+        "de": "Heilt Vergiftungen."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Heals a poisoned Pokémon.",
+        "de": "Heilt Vergiftungen bei POKéMON."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A spray-type medicine. It heals one Pokémon from a poisoning.",
+        "de": "Heilt Vergiftungen bei POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A spray-type medicine. It lifts the effect of poison from one Pokémon.",
+        "de": "Ein Spray, das Vergiftungen eines Pokémon heilt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A spray-type medicine for poisoning. It can be used once to lift the effects of being poisoned from a Pokémon.",
+        "de": "Ein Spray, das Vergiftungen eines Pokémon heilt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 100,
+      "selling": 50
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 200,
+      "selling": 100
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison"
+          ]
+        }
+      ]
+    }
+  ]
+}

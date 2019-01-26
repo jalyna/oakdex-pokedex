@@ -1,0 +1,87 @@
+{
+  "names": {
+    "en": "Lumiose Galette",
+    "de": "Illumina-Galette",
+    "fr": "Galette Illumis",
+    "es": "Crêpe Luminalia",
+    "it": "Pan di Lumi"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.",
+        "de": "Eine beliebte Süßigkeit in Illumina City, die alle Statusprobleme eines Pokémon behebt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "buying": 100,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 175
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison",
+            "paralysis",
+            "sleep",
+            "burn",
+            "freeze",
+            "confusion"
+          ]
+        }
+      ]
+    }
+  ]
+}
