@@ -1,0 +1,165 @@
+{
+  "names": {
+    "en": "Lava Cookie",
+    "de": "Lavakeks",
+    "fr": "Lava Cookie",
+    "es": "Galleta Lava",
+    "it": "Lavottino"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A local specialty that heals all status problems.",
+        "de": "Eine regionale Spezialität. Heilt alle Statusprobleme."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.",
+        "de": "Eine Spezialität aus BAD LAVASTADT, die alle Statusprobleme eines POKéMON heilt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.",
+        "de": "Eine Spezialität aus Bad Lavastadt, die alle Statusprobleme eines Pokémon heilt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "Lavaridge Town's local specialty. It can be used once to heal all the status conditions of a Pokémon.",
+        "de": "Eine Spezialität aus Bad Lavastadt, die alle Statusprobleme eines Pokémon heilt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen"
+      ],
+      "buying": 200,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl"
+      ],
+      "buying": 0,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Platinum"
+      ],
+      "buying": 200,
+      "selling": 100
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y"
+      ],
+      "buying": 0,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 200,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 175
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison",
+            "paralysis",
+            "sleep",
+            "burn",
+            "freeze",
+            "confusion"
+          ]
+        }
+      ]
+    }
+  ]
+}

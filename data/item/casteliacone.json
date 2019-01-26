@@ -1,0 +1,104 @@
+{
+  "names": {
+    "en": "Casteliacone",
+    "de": "Stratos-Eis",
+    "fr": "Glace Volute",
+    "es": "Porcehelado",
+    "it": "Conostropoli"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.",
+        "de": "Dieses Eis ist eine Spezialität aus Stratos City. Es behebt alle Statusprobleme eines Pokémon."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "Castelia City's specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon.",
+        "de": "Dieses Eis ist eine Spezialität aus Stratos City. Es behebt alle Statusprobleme eines Pokémon."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "buying": 100,
+      "selling": 50
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 50
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 175
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison",
+            "paralysis",
+            "sleep",
+            "burn",
+            "freeze",
+            "confusion"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "names": {
+    "en": "Rage Candy Bar",
+    "de": "Wutkeks",
+    "fr": "Bonbon Rage",
+    "es": "Furia",
+    "it": "Iramella"
+  },
+  "category": "Status condition healing items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 20.",
+        "de": "Füllt KP um 20 auf."
+      }
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "translations": {
+        "en": "A famous candy in Mahogany Town. Many tourists like to buy them to take home.",
+        "de": "Eine Spezialität aus Mahagonia City. Sie wird gern als Souvenir gekauft."
+      }
+    },
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points.",
+        "de": "Eine Spezialität aus Mahagonia City. Sie wird gern als Souvenir gekauft."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "Mahogany Town's famous candy. When consumed, it restores 20 HP to an injured Pokémon.",
+        "de": "Eine Spezialität aus Mahagonia City. Sie wird gern als Souvenir gekauft."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon.",
+        "de": "Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "buying": 300,
+      "selling": 150
+    },
+    {
+      "games": [
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "buying": 300,
+      "selling": 0
+    },
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 150
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 175
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4
+      ],
+      "pocket": "Key items"
+    },
+    {
+      "generations": [
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "status_condition",
+          "change": "remove",
+          "conditions": [
+            "poison",
+            "bad_poison",
+            "paralysis",
+            "sleep",
+            "burn",
+            "freeze",
+            "confusion"
+          ]
+        }
+      ]
+    }
+  ]
+}
