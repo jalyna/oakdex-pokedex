@@ -79,13 +79,13 @@ The array object has the following properties:
 
 Additional restrictions:
 
-* Maximum: `10000`
+* Maximum: `60000`
 
 ### `selling` (integer, required)
 
 Additional restrictions:
 
-* Maximum: `10000`
+* Maximum: `60000`
 
 ## `pockets` (array, required)
 
@@ -135,6 +135,8 @@ This element must be one of the following enum values:
 * `Single Pokemon > Single Move`
 * `Team`
 * `Trainer`
+
+### `triggers_evolution` (boolean)
 
 ### `move_changes` (array)
 

@@ -1,0 +1,151 @@
+{
+  "names": {
+    "en": "Sun Stone",
+    "de": "Sonnenstein",
+    "fr": "Pierresoleil",
+    "es": "Piedra Solar",
+    "it": "Pietrasolare"
+  },
+  "category": "Evolutionary stones",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Evolves certain kinds of Pokémon.",
+        "de": "Entwickelt manche POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Makes certain species of Pokémon evolve.",
+        "de": "Löst bei bestimmten POKéMON die Entwicklung aus."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.",
+        "de": "Dieser spezielle Stein löst bei bestimmten POKéMON die Entwicklung aus. Er ist rot wie die Sonne."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.",
+        "de": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Sonne."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.",
+        "de": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Abendsonne."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "buying": 10000,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "triggers_evolution": true
+    }
+  ]
+}

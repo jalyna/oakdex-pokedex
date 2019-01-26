@@ -1,0 +1,186 @@
+{
+  "names": {
+    "en": "Water Stone",
+    "de": "Wasserstein",
+    "fr": "Pierre Eau",
+    "es": "Piedra Agua",
+    "it": "Pietraidrica"
+  },
+  "category": "Evolutionary stones",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Evolves certain kinds of Pokémon.",
+        "de": "Entwickelt manche POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Makes certain species of Pokémon evolve.",
+        "de": "Löst bei bestimmten POKéMON die Entwicklung aus."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A peculiar stone that makes certain species of Pokémon evolve. It is a clear light blue.",
+        "de": "Dieser spezielle Stein löst bei bestimmten POKéMON die Entwicklung aus. Er ist hellblau."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.",
+        "de": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist hellblau."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.",
+        "de": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist hellblau."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "buying": 2100,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "buying": 2100,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "buying": 10000,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "buying": 2000,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "buying": 2100,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 3000,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "triggers_evolution": true
+    }
+  ]
+}

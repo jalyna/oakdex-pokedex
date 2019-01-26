@@ -9,6 +9,7 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 - Added Revive and Max Revive
 - Added all 9 Vitamins
 - Added 13 Status condition healing items
+- Added all 10 Evolutionary stones
 
 ## [0.4.1] - 2019-01-22
 
