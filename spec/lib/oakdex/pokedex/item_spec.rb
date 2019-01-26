@@ -15,6 +15,13 @@ describe Oakdex::Pokedex::Item do
             'en' => 'Fully restores HP & status.',
             'de' => 'Stellt KP und Status wieder her.'
           }
+        },
+        {
+          'games' => ['X', 'Y'],
+          'translations' => {
+            'en' => 'A medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.',
+            'de' => 'Dieses Item stellt alle KP eines Pokémon wieder her und behebt alle Statusprobleme.'
+          }
         }
       ],
       'prices' => [
@@ -41,6 +48,12 @@ describe Oakdex::Pokedex::Item do
     it { expect(subject.name).to eq('Full Restore') }
     it { expect(subject.name('de')).to eq('Top-Genesung') }
     it { expect(subject.name('nope')).to eq('Full Restore') }
+  end
+
+  describe '#description' do
+    it { expect(subject.description).to eq('A medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.') }
+    it { expect(subject.description('de')).to eq('Dieses Item stellt alle KP eines Pokémon wieder her und behebt alle Statusprobleme.') }
+    it { expect(subject.description('nope')).to eq('A medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.') }
   end
 
   describe '.find' do
