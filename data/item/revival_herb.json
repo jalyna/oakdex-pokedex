@@ -1,0 +1,142 @@
+{
+  "names": {
+    "en": "Revival Herb",
+    "de": "Vitalkraut",
+    "fr": "Herbe Rappel",
+    "es": "Hierba Revivir",
+    "it": "Vitalerba"
+  },
+  "category": "Herbal medicine",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Revives fainted Pokémon. Bitter.",
+        "de": "Belebt besiegte POKéMON wieder."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A very bitter herb that revives a fainted Pokémon.",
+        "de": "Ein bitteres Kraut, das besiegte POKéMON belebt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A very bitter medicinal herb. It revives a fainted Pokémon, restoring HP fully.",
+        "de": "Ein bitteres Kraut, das besiegte POKéMON belebt und die KP vollständig auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.",
+        "de": "Ein bitteres, medizinisches Kraut, das kampfunfähige Pokémon belebt und die KP vollständig auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A terribly bitter medicinal herb. It revives a fainted Pokémon and fully restores its maximum HP.",
+        "de": "Ein bitteres medizinisches Kraut, das kampfunfähige Pokémon belebt und die KP vollständig auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 2800,
+      "selling": 1400
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by_percent": 100,
+          "revive": true
+        }
+      ]
+    }
+  ]
+}

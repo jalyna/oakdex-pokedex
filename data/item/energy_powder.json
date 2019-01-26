@@ -1,0 +1,149 @@
+{
+  "names": {
+    "en": "Energy Powder",
+    "de": "Energiestaub",
+    "fr": "Poudrenergie",
+    "es": "Polvoenergía",
+    "it": "Polvenergia"
+  },
+  "category": "Herbal medicine",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 50. Bitter.",
+        "de": "Füllt KP um 50 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A bitter powder that restores HP by 50 points.",
+        "de": "Ein bitteres Pulver, das die KP um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A very bitter medicine powder. It restores the HP of one Pokémon by 50 points.",
+        "de": "Ein bitteres Pulver, das die KP eines POKéMON um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A very bitter medicine powder. It restores the HP of one Pokémon by 50 points.",
+        "de": "Ein bitteres, medizinisches Pulver, das die KP eines Pokémon um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "A bitter medicine powder. When consumed, it restores 50 HP to an injured Pokémon.",
+        "de": "Ein bitteres medizinisches Pulver, das die KP eines Pokémon um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A very bitter medicinal powder. When consumed, it restores up to 60 HP to an injured Pokémon.",
+        "de": "Ein bitteres medizinisches Pulver, das die KP eines Pokémon um 60 Punkte auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 500,
+      "selling": 250
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 60
+        }
+      ]
+    }
+  ]
+}
