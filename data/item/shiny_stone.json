@@ -1,0 +1,115 @@
+{
+  "names": {
+    "en": "Shiny Stone",
+    "de": "Leuchtstein",
+    "fr": "Pierre Éclat",
+    "es": "Piedra Día",
+    "it": "Pietrabrillo"
+  },
+  "category": "Evolutionary stones",
+  "descriptions": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.",
+        "de": "Dieser besondere, hell leuchtende Stein hilft manchen Pokémon bei ihrer Evolution."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light.",
+        "de": "Dieser besondere, hell leuchtende Stein hilft manchen Pokémon bei ihrer Evolution."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "buying": 10000,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Black 2",
+        "White 2"
+      ],
+      "buying": 4000,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 1050
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 80,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "triggers_evolution": true
+    }
+  ]
+}

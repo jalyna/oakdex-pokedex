@@ -136,6 +136,8 @@ This element must be one of the following enum values:
 * `Team`
 * `Trainer`
 
+### `triggers_evolution` (boolean)
+
 ### `move_changes` (array)
 
 The object is an array with all elements of the type `object`.

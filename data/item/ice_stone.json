@@ -1,0 +1,52 @@
+{
+  "names": {
+    "en": "Ice Stone",
+    "de": "Eisstein",
+    "fr": "Pierre Glace",
+    "es": "Piedra Hielo",
+    "it": "Pietragelo"
+  },
+  "category": "Evolutionary stones",
+  "descriptions": [
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.",
+        "de": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er hat ein Schneeflockenmuster."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "triggers_evolution": true
+    }
+  ]
+}

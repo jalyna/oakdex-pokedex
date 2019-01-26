@@ -75,7 +75,7 @@ Oakdex::Pokedex::Move.where(type: 'Ground').size
 # => 26
 
 Oakdex::Pokedex::Item.all.size
-# => 29, still WIP
+# => 39, still WIP
 
 Oakdex::Pokedex::Item.where(category: 'Potion').size
 # => 5
@@ -135,7 +135,7 @@ const allPokemon = oakdexPokedex.allPokemon()
 console.log(allPokemon.length); // 807
 
 const allItems = oakdexPokedex.allItems()
-console.log(allItems.length); // 29, WIP
+console.log(allItems.length); // 39, WIP
 
 const darkPokemon = oakdexPokedex.allPokemon({ type: 'Dark' })
 console.log(darkPokemon.length); // 46
