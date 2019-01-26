@@ -155,6 +155,8 @@ Additional restrictions:
 * Minimum: `-100`
 * Maximum: `100`
 
+#### `revive` (boolean)
+
 #### `change_by` (integer)
 
 Additional restrictions:

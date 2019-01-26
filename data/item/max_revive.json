@@ -1,0 +1,84 @@
+{
+  "names": {
+    "en": "Max Revive",
+    "de": "Top-Beleber",
+    "fr": "Rappel Max",
+    "es": "Revivir Máximo",
+    "it": "Revital. Max"
+  },
+  "category": "Revives",
+  "descriptions": [
+    {
+      "games": ["Gold", "Silver", "Crystal"],
+      "translations": {
+        "en": "Fully restores a fainted Pokémon.",
+        "de": "Belebt POKéMON plus volle KP."
+      }
+    },
+    {
+      "games": ["Ruby", "Sapphire", "Emerald"],
+      "translations": {
+        "en": "Revives a fainted Pokémon with all its HP.",
+        "de": "Belebt POKéMON und füllt KP vollständig wieder auf."
+      }
+    },
+    {
+      "games": ["FireRed", "LeafGreen"],
+      "translations": {
+        "en": "A medicine that revives a fainted Pokémon, restoring HP fully.",
+        "de": "Belebt ein POKéMON und füllt die KP vollständig wieder auf."
+      }
+    },
+    {
+      "games": ["Diamond", "Pearl", "Platinum", "HeartGold",
+        "SoulSilver", "Black", "White", "Black 2", "White 2"],
+      "translations": {
+        "en": "A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.",
+        "de": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die KP werden vollständig wiederhergestellt."
+      }
+    },
+    {
+      "games": ["X", "Y", "Omega Ruby", "Alpha Sapphire", "Sun", "Moon", "Ultra Sun", "Ultra Moon"],
+      "translations": {
+        "en": "A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon's maximum HP.",
+        "de": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die KP werden vollständig wiederhergestellt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Red", "Blue", "Yellow", "Gold", "Silver", "Crystal", "Ruby", "Sapphire",
+        "Emerald", "FireRed", "LeafGreen", "Diamond", "Pearl", "Platinum", "HeartGold",
+        "SoulSilver", "Black", "White", "Black 2", "White 2", "X", "Y", "Omega Ruby",
+        "Alpha Sapphire", "Sun", "Moon", "Ultra Sun", "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 2000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [1, 2, 3],
+      "pocket": "Items"
+    },
+    {
+      "generations": [4, 5, 6, 7],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by_percent": 100,
+          "revive": true
+        }
+      ]
+    }
+  ]
+}
