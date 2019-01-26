@@ -6,6 +6,7 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 
 ### Added
 - Added Revive and Max Revive
+- Added all 9 Vitamins
 
 ## [0.4.1] - 2019-01-22
 

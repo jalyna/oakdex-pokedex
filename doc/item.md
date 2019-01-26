@@ -132,8 +132,46 @@ This element must be one of the following enum values:
 This element must be one of the following enum values:
 
 * `Single Pokemon`
+* `Single Pokemon > Single Move`
 * `Team`
 * `Trainer`
+
+### `move_changes` (array)
+
+The object is an array with all elements of the type `object`.
+
+The array object has the following properties:
+
+#### `field` (string, enum, required)
+
+This element must be one of the following enum values:
+
+* `max_pp`
+
+#### `change_by_percent` (integer)
+
+Additional restrictions:
+
+* Minimum: `-100`
+* Maximum: `160`
+
+#### `change_by` (integer)
+
+Additional restrictions:
+
+* Minimum: `-10000`
+* Maximum: `10000`
+
+#### `change_by_max` (integer)
+
+Additional restrictions:
+
+* Minimum: `-10000`
+* Maximum: `10000`
+
+Additional restrictions:
+
+* Minimum items: `1`
 
 ### `pokemon_changes` (array)
 
@@ -147,6 +185,13 @@ This element must be one of the following enum values:
 
 * `current_hp`
 * `status_condition`
+* `ev_hp`
+* `ev_atk`
+* `ev_def`
+* `ev_sp_def`
+* `ev_sp_atk`
+* `ev_speed`
+* `level`
 
 #### `change_by_percent` (integer)
 

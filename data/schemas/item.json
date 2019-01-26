@@ -16,9 +16,44 @@
           "type": "string",
           "enum": [
             "Single Pokemon",
+            "Single Pokemon > Single Move",
             "Team",
             "Trainer"
           ]
+        },
+        "move_changes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "field": {
+                "type": "string",
+                "enum": [
+                  "max_pp"
+                ]
+              },
+              "change_by_percent": {
+                "type": "integer",
+                "minimum": -100,
+                "maximum": 160
+              },
+              "change_by": {
+                "type": "integer",
+                "minimum": -10000,
+                "maximum": 10000
+              },
+              "change_by_max": {
+                "type": "integer",
+                "minimum": -10000,
+                "maximum": 10000
+              }
+            },
+            "required": [
+              "field"
+            ],
+            "additionalProperties": false
+          }
         },
         "pokemon_changes": {
           "type": "array",
@@ -30,7 +65,14 @@
                 "type": "string",
                 "enum": [
                   "current_hp",
-                  "status_condition"
+                  "status_condition",
+                  "ev_hp",
+                  "ev_atk",
+                  "ev_def",
+                  "ev_sp_def",
+                  "ev_sp_atk",
+                  "ev_speed",
+                  "level"
                 ]
               },
               "change_by_percent": {

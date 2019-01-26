@@ -1,0 +1,152 @@
+{
+  "names": {
+    "en": "HP Up",
+    "de": "KP-Plus",
+    "fr": "PV Plus",
+    "es": "Más PS",
+    "it": "PS-Su"
+  },
+  "category": "Vitamins",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire"
+      ],
+      "translations": {
+        "en": "Raises the HP of one Pokémon.",
+        "de": "Erhöht die KP eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base HP of one Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das die KP-Anzeige eines POKéMON erhöht."
+      }
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the base HP of one Pokémon.",
+        "de": "Hebt die KP eines POKéMON."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das die KP-Anzahl eines Pokémon dauerhaft erhöht."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A nutritious drink for Pokémon. When consumed, it raises the base HP of a single Pokémon.",
+        "de": "Ein gehaltvolles Getränk, das den KP-Basiswert eines Pokémon dauerhaft erhöht."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 9800,
+      "selling": 4900
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 10000,
+      "selling": 5000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "ev_hp",
+          "change_by": 10
+        }
+      ]
+    }
+  ]
+}
