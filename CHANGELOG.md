@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## [Unreleased]
+## [0.4.2] - 2019-01-26
 
 ### Added
 - Added `description` method to `Oakdex::Pokedex::Item` that returns latest description
