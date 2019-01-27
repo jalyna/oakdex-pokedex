@@ -1,0 +1,155 @@
+{
+  "names": {
+    "en": "Berry Juice",
+    "de": "Beerensaft",
+    "fr": "Jus de Baie",
+    "es": "Zumo de Baya",
+    "it": "Succodibacca"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 20.",
+        "de": "Füllt KP um 20 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A 100% pure juice that restores HP by 20 points.",
+        "de": "Reiner Fruchtsaft, der die KP um 20 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A 100% pure juice. It restores the HP of one Pokémon by 20 points.",
+        "de": "Reiner Fruchtsaft, der die KP eines POKéMON um 20 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.",
+        "de": "100%iger Fruchtsaft, aus Beeren gekeltert. Er stellt 20 KP eines Pokémon wieder her."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A 100 percent pure juice made of Berries. When consumed, it restores 20 HP to an injured Pokémon.",
+        "de": "Hundertprozentiger Fruchtsaft, aus Beeren gekeltert. Füllt die KP eines Pokémon um 20 KP auf."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver"
+      ],
+      "buying": 0,
+      "selling": 50
+    },
+    {
+      "games": [
+        "Black",
+        "White"
+      ],
+      "buying": 1500,
+      "selling": 50
+    },
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 50
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 20
+        }
+      ]
+    }
+  ]
+}

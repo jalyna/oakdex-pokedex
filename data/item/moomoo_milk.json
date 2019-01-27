@@ -1,0 +1,167 @@
+{
+  "names": {
+    "en": "Moomoo Milk",
+    "de": "Kuhmuh-Milch",
+    "fr": "Lait Meumeu",
+    "es": "Leche Mu-Mu",
+    "it": "Latte Mumu"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 100.",
+        "de": "Füllt die KP um 100 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A nutritious milk that restores HP by 100 points.",
+        "de": "Milch, die die KP um 100 Punkte auffült."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Highly nutritious milk. It restores the HP of one Pokémon by 100 points.",
+        "de": "Vitaminreiche Milch, welche die KP eines POKéMON um 100 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.",
+        "de": "Eine äußerst nährstoffreiche Milch, die die KP eines Pokémon um 100 Punkte wieder auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "A bottle of highly nutritious milk. When consumed, it restores 100 HP to an injured Pokémon.",
+        "de": "Eine äußerst nährstoffreiche Milch, die die KP eines Pokémon um 100 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A bottle of highly nutritious milk. When consumed, it restores up to 100 HP to an injured Pokémon.",
+        "de": "Eine äußerst nährstoffreiche Milch, die die KP eines Pokémon um 100 Punkte auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "buying": 500,
+      "selling": 250
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "buying": 0,
+      "selling": 250
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 500,
+      "selling": 250
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 300
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 100
+        }
+      ]
+    }
+  ]
+}
