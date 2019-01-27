@@ -1,0 +1,70 @@
+{
+  "names": {
+    "en": "Pretty Wing",
+    "de": "Prachtfeder",
+    "fr": "Jolie Aile",
+    "es": "P. Bella",
+    "it": "Piumabella"
+  },
+  "category": "Wings",
+  "descriptions": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon.",
+        "de": "Eine ganz normale Feder, die rein gar nichts bewirkt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 0,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": []
+}
