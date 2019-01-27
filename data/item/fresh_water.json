@@ -1,0 +1,166 @@
+{
+  "names": {
+    "en": "Fresh Water",
+    "de": "Tafelwasser",
+    "fr": "Eau Fraîche",
+    "es": "Agua Fresca",
+    "it": "Acqua Fresca"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 50.",
+        "de": "Füllt KP um 50 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A mineral water that restores HP by 50 points.",
+        "de": "Ein stilles Wasser, das die KP um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Water with a high mineral content. It restores the HP of one Pokémon by 50 points.",
+        "de": "Ein stilles Wasser mit hohem Mineralienanteil, das die KP eines POKéMON um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "Water with a high mineral content. It restores the HP of one Pokémon by 50 points.",
+        "de": "Ein stilles Wasser mit hohem Mineralienanteil, das die KP eines Pokémon um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "Water with a high mineral content. When consumed, it restores 50 HP to an injured Pokémon.",
+        "de": "Ein stilles Wasser mit hohem Mineralienanteil, das die KP eines Pokémon um 50 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "Water with a high mineral content. When consumed, it restores up to 30 HP to an injured Pokémon.",
+        "de": "Ein stilles Wasser mit hohem Mineralienanteil, das die KP eines Pokémon um 30 Punkte auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "buying": 200,
+      "selling": 100
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "buying": 300,
+      "selling": 100
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 200,
+      "selling": 100
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "names": {
+    "en": "Lemonade",
+    "de": "Limonade",
+    "fr": "Limonade",
+    "es": "Limonada",
+    "it": "Lemonsucco"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 80.",
+        "de": "Füllt KP um 80 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A very sweet drink that restores HP by 80 points.",
+        "de": "Ein süßes Getränk, das die KP um 80 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A very sweet drink. It restores the HP of one Pokémon by 80 points.",
+        "de": "Ein süßes Getränk, das die KP eines POKéMON um 80 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A very sweet drink. It restores the HP of one Pokémon by 80 points.",
+        "de": "Ein süßes Getränk, das die KP eines Pokémon um 80 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "A very sweet and refreshing drink. When consumed, it restores 80 HP to an injured Pokémon.",
+        "de": "Ein sehr süßes Getränk, das die KP eines Pokémon um 80 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A very sweet and refreshing drink. When consumed, it restores up to 70 HP to an injured Pokémon.",
+        "de": "Ein sehr süßes Getränk, das die KP eines Pokémon um 70 Punkte auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "buying": 350,
+      "selling": 175
+    },
+    {
+      "games": [
+        "X",
+        "Y"
+      ],
+      "buying": 0,
+      "selling": 175
+    },
+    {
+      "games": [
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 350,
+      "selling": 175
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 350,
+      "selling": 200
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 70
+        }
+      ]
+    }
+  ]
+}

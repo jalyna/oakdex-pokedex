@@ -1,0 +1,51 @@
+{
+  "names": {
+    "en": "Tea",
+    "de": "Tee",
+    "fr": "The",
+    "es": "Té",
+    "it": "Tè"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A hot drink which is good for quenching thirst.",
+        "de": "Ein aromatischer TEE, der von einer alten Dame zubereitet wird. Auch großer Durst wird damit gelöscht."
+      }
+    },
+    {
+      "games": [
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A thirst-quenching tea prepared by an old lady.",
+        "de": "TEE, der von einer alten Dame zubereitet wird."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "buying": 0,
+      "selling": 0
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        3
+      ],
+      "pocket": "Key items"
+    }
+  ],
+  "fling_power": 0,
+  "effects": []
+}

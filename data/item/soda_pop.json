@@ -1,0 +1,154 @@
+{
+  "names": {
+    "en": "Soda Pop",
+    "de": "Sprudel",
+    "fr": "Soda Cool",
+    "es": "Refresco",
+    "it": "Gassosa"
+  },
+  "category": "Drinks",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores Pokémon HP by 60.",
+        "de": "Füllt KP um 60 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "A fizzy soda drink that restores HP by 60 points.",
+        "de": "Ein Mineralwasser, das die KP um 60 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "A fizzy soda drink. It restores the HP of one Pokémon by 60 points.",
+        "de": "Ein sprudelndes Mineralwasser, das die KP eines POKéMON um 60 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "A fizzy soda drink. It restores the HP of one Pokémon by 60 points.",
+        "de": "Ein sprudelndes Mineralwasser, das die KP eines Pokémon um 60 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "A highly carbonated soda drink. When consumed, it restores 60 HP to an injured Pokémon.",
+        "de": "Ein sprudelndes Mineralwasser, das die KP eines Pokémon um 60 Punkte auffüllt."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "A highly carbonated soda drink. When consumed, it restores up to 50 HP to an injured Pokémon.",
+        "de": "Ein sprudelndes Mineralwasser, das die KP eines Pokémon um 50 Punkte auffüllt."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 300,
+      "selling": 150
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "current_hp",
+          "change_by": 50
+        }
+      ]
+    }
+  ]
+}
