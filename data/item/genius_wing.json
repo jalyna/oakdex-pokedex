@@ -1,0 +1,75 @@
+{
+  "names": {
+    "en": "Genius Wing",
+    "de": "Geniefeder",
+    "fr": "Aile Esprit",
+    "es": "P. Intelecto",
+    "it": "Piumingegno"
+  },
+  "category": "Wings",
+  "descriptions": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.",
+        "de": "Schenkt man einem Pokémon dieses Item, wird dessen Spezial-Angriff dauerhaft erhöht."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 20,
+  "effects": [
+    {
+      "condition": "Outside of Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "ev_sp_atk",
+          "change_by": 1
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 - Added Sacred Ash Item
 - Added all 4 PP-restoring items
 - Added all 6 Drinks
+- Added all 7 Wings
 
 ## [0.4.2] - 2019-01-26
 
