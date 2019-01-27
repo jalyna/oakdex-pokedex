@@ -1,0 +1,145 @@
+{
+  "names": {
+    "en": "Elixir",
+    "de": "Elixier",
+    "fr": "Élixir",
+    "es": "Elixir",
+    "it": "Elisir"
+  },
+  "category": "PP-restoring items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Restores PP of all moves by 10.",
+        "de": "Füllt alle AP um 10 auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Restores 10 PP to each move.",
+        "de": "Füllt alle AP um 10 Punkte auf."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Restores the PP of all moves for one Pokémon by 10 points each.",
+        "de": "Füllt alle AP aller Attacken eines POKéMON um 10 Punkte auf."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.",
+        "de": "Füllt die AP aller Attacken eines Pokémon um 10 Punkte auf."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "This medicine can restore 10 PP to each of the moves that have been learned by a Pokémon.",
+        "de": "Füllt die AP aller Attacken eines Pokémon um 10 Punkte auf."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon > All Moves",
+      "move_changes": [
+        {
+          "field": "pp",
+          "change_by": 10
+        }
+      ]
+    }
+  ]
+}

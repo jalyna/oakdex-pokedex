@@ -133,6 +133,7 @@ This element must be one of the following enum values:
 
 * `Single Pokemon`
 * `Single Pokemon > Single Move`
+* `Single Pokemon > All Moves`
 * `Team`
 * `Trainer`
 
@@ -149,6 +150,7 @@ The array object has the following properties:
 This element must be one of the following enum values:
 
 * `max_pp`
+* `pp`
 
 #### `change_by_percent` (integer)
 

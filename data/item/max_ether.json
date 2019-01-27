@@ -1,0 +1,146 @@
+{
+  "names": {
+    "en": "Max Ether",
+    "de": "Top-Äther",
+    "fr": "Huile Max",
+    "es": "Éter Máximo",
+    "it": "Etere Max"
+  },
+  "category": "PP-restoring items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver",
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Fully restores PP of one move.",
+        "de": "Füllt die AP vollständig auf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Fully restores the PP of a selected move.",
+        "de": "Füllt AP einer ausgewählten Attacke vollständig auf."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Fully restores a selected move's PP for one Pokémon.",
+        "de": "Füllt AP einer ausgewählten Attacke eines POKéMON vollständig auf."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "It fully restores the PP of a single selected move that has been learned by the target Pokémon.",
+        "de": "Füllt die AP einer ausgewählten Attacke eines Pokémon vollständig auf."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon.",
+        "de": "Füllt die AP einer ausgewählten Attacke eines Pokémon vollständig auf."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 0,
+      "selling": 1000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Medicine"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "Always",
+      "target": "Single Pokemon > Single Move",
+      "move_changes": [
+        {
+          "field": "pp",
+          "change_by_percent": 100
+        }
+      ]
+    }
+  ]
+}
