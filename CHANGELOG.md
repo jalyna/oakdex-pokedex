@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## [Unreleased]
+## [0.4.3] - 2019-01-27
 
 ### Added
 - Added Sacred Ash Item
