@@ -133,6 +133,7 @@ This element must be one of the following enum values:
 
 * `Single Pokemon`
 * `Single Pokemon > Single Move`
+* `Single Pokemon > All Moves`
 * `Team`
 * `Trainer`
 
