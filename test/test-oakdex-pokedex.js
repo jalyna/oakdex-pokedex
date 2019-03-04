@@ -18,7 +18,7 @@ describe('OakdexPokedex', function() {
       oakdexPokedex.importPokemon([fakemon1, fakemon2])
       expect(oakdexPokedex.findPokemon('Fakemon1')).not.to.equal(null)
       expect(oakdexPokedex.findPokemon('Fakemon2')).not.to.equal(null)
-      expect(oakdexPokedex.allPokemon().length).to.equal(809)
+      expect(oakdexPokedex.allPokemon().length).to.equal(811)
     })
 
     it('imports custom pokemon by object', function() {
@@ -29,7 +29,7 @@ describe('OakdexPokedex', function() {
       oakdexPokedex.importPokemon([fakemon1, fakemon2])
       expect(oakdexPokedex.findPokemon('Fakemon1')).not.to.equal(null)
       expect(oakdexPokedex.findPokemon('Fakemon2')).not.to.equal(null)
-      expect(oakdexPokedex.allPokemon().length).to.equal(809)
+      expect(oakdexPokedex.allPokemon().length).to.equal(811)
     })
 
     it('throws error when national id is lower than 10001', function() {
@@ -41,7 +41,7 @@ describe('OakdexPokedex', function() {
       });
       expect(oakdexPokedex.findPokemon('Fakemon1')).to.equal(null)
       expect(oakdexPokedex.findPokemon('Fakemon2')).to.equal(null)
-      expect(oakdexPokedex.allPokemon().length).to.equal(807)
+      expect(oakdexPokedex.allPokemon().length).to.equal(809)
     })
   })
 
@@ -234,7 +234,7 @@ describe('OakdexPokedex', function() {
   describe('#allPokemon', function() {
     it('finds all pokemon', function(done) {
       const list = oakdexPokedex.allPokemon()
-      expect(list.length).to.equal(807);
+      expect(list.length).to.equal(809);
       done();
     });
 
@@ -260,7 +260,7 @@ describe('OakdexPokedex', function() {
   describe('#allMoves', function() {
     it('finds all moves', function(done) {
       const list = oakdexPokedex.allMoves()
-      expect(list.length).to.equal(710);
+      expect(list.length).to.equal(711);
       done();
     });
 

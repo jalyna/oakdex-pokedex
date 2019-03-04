@@ -9,14 +9,14 @@ The schema defines the following properties:
 Additional restrictions:
 
 * Minimum: `1`
-* Maximum: `807`
+* Maximum: `809`
 
 ## `kanto_id` (integer,null, required)
 
 Additional restrictions:
 
 * Minimum: `1`
-* Maximum: `151`
+* Maximum: `153`
 
 ## `johto_id` (integer,null, required)
 

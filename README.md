@@ -61,7 +61,7 @@ bold = Oakdex::Pokedex::Nature.find('Bold')
 
 
 Oakdex::Pokedex::Pokemon.all.size
-# => 807
+# => 809
 Oakdex::Pokedex::Pokemon.where(type: 'Dark').size
 # => 46
 Oakdex::Pokedex::Pokemon.where(egg_group: 'Human-Like').size
@@ -132,7 +132,7 @@ const bold = oakdexPokedex.findNature('Bold')
 console.log(bold.names.en); // Bold
 
 const allPokemon = oakdexPokedex.allPokemon()
-console.log(allPokemon.length); // 807
+console.log(allPokemon.length); // 809
 
 const allItems = oakdexPokedex.allItems()
 console.log(allItems.length); // 61, WIP

@@ -398,6 +398,8 @@
         "Meditite",
         "Meganium",
         "Meloetta",
+        "Melmetal",
+        "Meltan",
         "Meowstic",
         "Meowth",
         "Mesprit",
@@ -946,6 +948,7 @@
         "Doom Desire",
         "Double-Edge",
         "Double Hit",
+        "Double Iron Bash",
         "Double Kick",
         "Double Slap",
         "Double Team",
@@ -2009,6 +2012,7 @@
           "items": {
             "type": "string",
             "enum": [
+              "400 Meltan Candy",
               "Female",
               "Male",
               "Attack > Defense",
@@ -2088,8 +2092,7 @@
           }
         }
       },
-      "additionalProperties": false,
-      "required": ["speed", "power", "stamina", "skill", "jump"]
+      "additionalProperties": false
     }
   },
   "properties": {
@@ -2099,12 +2102,12 @@
     "national_id": {
       "type": "integer",
       "minimum": 1,
-      "maximum": 807
+      "maximum": 809
     },
     "kanto_id": {
       "type": ["integer", "null"],
       "minimum": 1,
-      "maximum": 151
+      "maximum": 153
     },
     "johto_id": {
       "type": ["integer", "null"],
@@ -2149,7 +2152,7 @@
     "pokedex_entries": {
       "type": "object",
       "patternProperties": {
-        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon|Ultra Sun|Ultra Moon": {
+        "Red|Blue|Yellow|Gold|Silver|Crystal|Ruby|Sapphire|Emerald|FireRed|LeafGreen|Diamond|Pearl|Platinum|HeartGold|SoulSilver|Black|White|Black 2|White 2|X|Y|Omega Ruby|Alpha Sapphire|Sun|Moon|Ultra Sun|Ultra Moon|Let's Go Pikachu|Let's Go Eevee": {
           "$ref": "#/definitions/translations"
         }
       },
@@ -2526,7 +2529,9 @@
                 "Sun",
                 "Moon",
                 "Ultra Sun",
-                "Ultra Moon"
+                "Ultra Moon",
+                "Let's Go Pikachu",
+                "Let's Go Eevee"
               ]
             }
           },
