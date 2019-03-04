@@ -62,7 +62,7 @@
     "games": {
       "type": "array",
       "minItems": 1,
-      "maxItems": 5,
+      "maxItems": 7,
       "items": {
         "$ref": "#/definitions/translations"
       }

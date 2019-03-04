@@ -1,0 +1,153 @@
+{
+  "names": {
+    "fr": "Meltan",
+    "de": "Meltan",
+    "it": "Meltan",
+    "en": "Meltan"
+  },
+  "national_id": 808,
+  "kanto_id": 152,
+  "types": [
+    "Steel"
+  ],
+  "abilities": [
+    {
+      "name": "Magnet Pull"
+    }
+  ],
+  "gender_ratios": null,
+  "egg_groups": [
+    "Undiscovered"
+  ],
+  "catch_rate": 3,
+  "hatch_time": [
+    30840,
+    31096
+  ],
+  "height_us": "0'08\"",
+  "height_eu": "0.2 m",
+  "weight_us": "17.6 lbs.",
+  "weight_eu": "8.0 kg",
+  "base_exp_yield": 135,
+  "leveling_rate": "Slow",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "color": "Gray",
+  "categories": {
+    "en": "Hex Nut Pokémon",
+    "de": "Mutter"
+  },
+  "base_friendship": 0,
+  "base_stats": {
+    "hp": 46,
+    "atk": 65,
+    "def": 65,
+    "sp_atk": 55,
+    "sp_def": 35,
+    "speed": 34
+  },
+  "johto_id": null,
+  "hoenn_id": null,
+  "sinnoh_id": null,
+  "unova_id": null,
+  "kalos_id": null,
+  "alola_id": null,
+  "ultra_alola_id": null,
+  "mega_evolutions": [
+
+  ],
+  "evolutions": [
+    {
+      "to": "Melmetal",
+      "conditions": ["400 Meltan Candy"]
+    }
+  ],
+  "evolution_from": null,
+  "variations": [
+
+  ],
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+      "de": "Sein Körper besteht aus geschmolzenem Stahl. Es bringt Eisen und andere Metalle im Boden zum Schmelzen, um sie dann zu absorbieren."
+    },
+    "Let's Go Eevee": {
+      "en": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+      "de": "Sein Körper besteht aus geschmolzenem Stahl. Es bringt Eisen und andere Metalle im Boden zum Schmelzen, um sie dann zu absorbieren."
+    }
+  },
+  "pokeathlon_stats": {},
+  "move_learnsets": [
+    {
+      "games": ["Let's Go Pikachu", "Let's Go Eevee"],
+      "learnset": [
+        {
+          "move": "Headbutt",
+          "level": 1
+        },
+        {
+          "move": "Harden",
+          "level": 1
+        },
+        {
+          "move": "Tail Whip",
+          "level": 9
+        },
+        {
+          "move": "Thunder Wave",
+          "level": 18
+        },
+        {
+          "move": "Thunder Shock",
+          "level": 27
+        },
+        {
+          "move": "Acid Armor",
+          "level": 36
+        },
+        {
+          "move": "Flash Cannon",
+          "level": 45
+        },
+        {
+          "move": "Headbutt",
+          "tm": "TM01"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM05"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM07"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM08"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM16"
+        },
+        {
+          "move": "Toxic",
+          "tm": "TM27"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM36"
+        },
+        {
+          "move": "Flash Cannon",
+          "tm": "TM54"
+        }
+      ]
+    }
+  ]
+}

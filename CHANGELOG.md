@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
+## unreleased
+
+### Added
+- Added Meltan and Melmetal from Let's Go Pikachu/Eevee
+- Added Let's Go Pikachu/Eevee to Generation VII
+- Added Double Iron Bash Move
+
 ## [0.4.3] - 2019-01-27
 
 ### Added
