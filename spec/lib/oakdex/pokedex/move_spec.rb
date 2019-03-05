@@ -119,7 +119,7 @@ describe Oakdex::Pokedex::Move do
   describe '.where' do
     it 'filters by type' do
       collection = described_class.where(type: 'Grass')
-      expect(collection.size).to eq(42)
+      expect(collection.size).to eq(43)
       expect(collection.first.type).to eq('Grass')
       expect(collection.last.type).to eq('Grass')
     end

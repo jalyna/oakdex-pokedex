@@ -8,6 +8,7 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 - Added Meltan and Melmetal from Let's Go Pikachu/Eevee
 - Added Let's Go Pikachu/Eevee to Generation VII
 - Added Double Iron Bash Move
+- Added all 13 Let's Go Pikachu/Eevee only moves
 
 ## [0.4.3] - 2019-01-27
 

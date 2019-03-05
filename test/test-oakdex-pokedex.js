@@ -260,7 +260,7 @@ describe('OakdexPokedex', function() {
   describe('#allMoves', function() {
     it('finds all moves', function(done) {
       const list = oakdexPokedex.allMoves()
-      expect(list.length).to.equal(711);
+      expect(list.length).to.equal(724);
       done();
     });
 

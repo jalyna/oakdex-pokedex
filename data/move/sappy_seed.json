@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Sappy Seed",
+    "fr": "Évo-Écolo",
+    "de": "Sprießbomben",
+    "it": "Bombafrush",
+    "es": "Leafitobombas"
+  },
+  "index_number": 738,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "contests": [
+
+  ],
+  "type": "Grass",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target's HP every turn.",
+      "de": "Evoli lässt eine riesige Ranke wachsen, von der Samen herabfallen, die dem Ziel schaden und ihm in jeder Runde KP absaugen."
+    },
+    "Let's Go Eevee": {
+      "en": "The user grows a gigantic stalk that scatters seeds to attack the target. The seeds drain the target's HP every turn.",
+      "de": "Evoli lässt eine riesige Ranke wachsen, von der Samen herabfallen, die dem Ziel schaden und ihm in jeder Runde KP absaugen."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Veevee Volley",
+    "fr": "Évo-Chardasso",
+    "de": "Evo-Crash",
+    "it": "Eeveempatto",
+    "es": "Eevimpacto"
+  },
+  "index_number": 741,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Normal",
+  "category": "physical",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "max_pp": 32,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party.",
+      "de": "The more Eevee loves its Trainer, the greater the move's power. It never misses."
+    },
+    "Let's Go Eevee": {
+      "en": "The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party.",
+      "de": "The more Eevee loves its Trainer, the greater the move's power. It never misses."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Freezy Frost",
+    "fr": "Évo-Congélo",
+    "de": "Klirrfrost",
+    "it": "Scricchiagelo",
+    "es": "Glaceoprisma"
+  },
+  "index_number": 739,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Ice",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Pokémon engaged in battle.",
+      "de": "Evoli greift mit einem schwarzen Kristall aus gefrorenem Nebel an. Die Statusveränderungen aller am Kampf beteiligten Pokémon werden zurückgesetzt."
+    },
+    "Let's Go Eevee": {
+      "en": "The user attacks with a crystal made of cold frozen haze. It eliminates every stat change among all the Pokémon engaged in battle.",
+      "de": "Evoli greift mit einem schwarzen Kristall aus gefrorenem Nebel an. Die Statusveränderungen aller am Kampf beteiligten Pokémon werden zurückgesetzt."
+    }
+  }
+}
