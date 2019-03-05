@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Sizzly Slide",
+    "fr": "Évo-Flambo",
+    "de": "Flackerbrand",
+    "it": "Fiammabam",
+    "es": "Flarembestida"
+  },
+  "index_number": 735,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Fire",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user cloaks itself in fire and charges at the target. This also leaves the target with a burn.",
+      "de": "Evoli hüllt sich in Flammen und stürzt sich beherzt auf das Ziel, welches dadurch Verbrennungen erleidet."
+    },
+    "Let's Go Eevee": {
+      "en": "The user cloaks itself in fire and charges at the target. This also leaves the target with a burn.",
+      "de": "Evoli hüllt sich in Flammen und stürzt sich beherzt auf das Ziel, welches dadurch Verbrennungen erleidet."
+    }
+  }
+}

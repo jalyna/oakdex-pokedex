@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Buzzy Buzz",
+    "fr": "Évo-Dynamo",
+    "de": "Knisterladung",
+    "it": "Elettrozap",
+    "es": "Joltioparálisis"
+  },
+  "index_number": 734,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Electric",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user shoots a jolt of electricity to attack the target. This also leaves the target with paralysis.",
+      "de": "Evoli greift das Ziel mit Elektrizität an, wodurch dieses paralysiert wird."
+    },
+    "Let's Go Eevee": {
+      "en": "The user shoots a jolt of electricity to attack the target. This also leaves the target with paralysis.",
+      "de": "Evoli greift das Ziel mit Elektrizität an, wodurch dieses paralysiert wird."
+    }
+  }
+}

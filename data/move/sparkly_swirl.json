@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Sparkly Swirl",
+    "fr": "Évo-Fabulo",
+    "de": "Glitzersturm",
+    "it": "Sbrilluccibufera",
+    "es": "Sylveotornado"
+  },
+  "index_number": 740,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "contests": [
+
+  ],
+  "type": "Fairy",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party.",
+      "de": "Evoli greift an, indem es das Ziel in einen nahezu erstickend wohlriechenden Wirbelwind hüllt. Das Team des Anwenders wird von Statusproblemen geheilt."
+    },
+    "Let's Go Eevee": {
+      "en": "The user attacks the target by wrapping it with a whirlwind of an overpowering scent. This also heals all status conditions of the user's party.",
+      "de": "Evoli greift an, indem es das Ziel in einen nahezu erstickend wohlriechenden Wirbelwind hüllt. Das Team des Anwenders wird von Statusproblemen geheilt."
+    }
+  }
+}

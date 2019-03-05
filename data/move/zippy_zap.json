@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Zippy Zap",
+    "fr": "Pika-Sprint",
+    "de": "Britzelturbo",
+    "it": "Sprintaboom",
+    "es": "Pikaturbo"
+  },
+  "index_number": 729,
+  "target": "all_adjacent",
+  "priority": 2,
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "contests": [
+
+  ],
+  "type": "Electric",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit.",
+      "de": "Ein stürmischer Blitz-Angriff mit hoher Erstschlag- und Volltrefferquote."
+    },
+    "Let's Go Eevee": {
+      "en": "The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit.",
+      "de": "Ein stürmischer Blitz-Angriff mit hoher Erstschlag- und Volltrefferquote."
+    }
+  }
+}

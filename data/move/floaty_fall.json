@@ -1,0 +1,38 @@
+{
+  "names": {
+    "en": "Floaty Fall",
+    "fr": "Pika-Piqué",
+    "de": "Schwebesturz",
+    "it": "Piombaflap",
+    "es": "Pikapicado"
+  },
+  "index_number": 731,
+  "target": "all_adjacent",
+  "priority": 0,
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "contests": [
+
+  ],
+  "type": "Flying",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 15,
+  "max_pp": 24,
+  "pokedex_entries": {
+    "Let's Go Pikachu": {
+      "en": "The user floats in the air, and then dives at a steep angle to attack the target. This may also make the target flinch.",
+      "de": "Pikachu schwebt nach oben und stürzt dann unvermittelt auf das Ziel herab. Das Ziel schreckt eventuell zurück."
+    },
+    "Let's Go Eevee": {
+      "en": "The user floats in the air, and then dives at a steep angle to attack the target. This may also make the target flinch.",
+      "de": "Pikachu schwebt nach oben und stürzt dann unvermittelt auf das Ziel herab. Das Ziel schreckt eventuell zurück."
+    }
+  }
+}
