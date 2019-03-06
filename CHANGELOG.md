@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## unreleased
+## [0.4.4] - 2019-03-06
 
 ### Added
 - Added Meltan and Melmetal from Let's Go Pikachu/Eevee
