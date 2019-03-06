@@ -1,0 +1,168 @@
+{
+  "names": {
+    "en": "X Sp. Atk",
+    "de": "X-Spezial",
+    "fr": "Atq. Spé. +Spécial +",
+    "es": "Especial X",
+    "it": "Att. Speciale X (+)Special X (-)"
+  },
+  "category": "Battle items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "translations": {
+        "en": "Raises Special stats. (1 BTL)",
+        "de": "Hebt SPEZ-Wert für 1 Kampf."
+      }
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Raises Special Attack. (1 BTL)",
+        "de": "Hebt SPEZ. ANG für 1 Kampf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Raises the stat Sp.Atk during one battle.",
+        "de": "Hebt den SP. ANGR.-Wert für einen Kampf."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "Raises the Sp.Atk stat of Pokémon in battle. Wears off if the Pokémon is withdrawn.",
+        "de": "Hebt den SP. ANG.-Wert eines PKMN im Kampf. Die Wirkung wird mit dem Tausch des POKéMON beendet."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+        "de": "Hebt den Spezial-Angriff eines Pokémon im Kampf. Die Wirkung wird mit dem Tausch des Pokémon beendet."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "An item that boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+        "de": "Hebt den Spezial-Angriff eines Pokémon im Kampf. Die Wirkung wird mit dem Austausch des Pokémon beendet."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "An item that sharply boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+        "de": "Hebt den Spezial-Angriff eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 350,
+      "selling": 175
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 1000,
+      "selling": 500
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4
+      ],
+      "pocket": "Battle items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "During Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "sp_atk",
+          "change_by": 2
+        }
+      ]
+    }
+  ]
+}

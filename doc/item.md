@@ -196,6 +196,14 @@ This element must be one of the following enum values:
 * `ev_sp_atk`
 * `ev_speed`
 * `level`
+* `atk`
+* `def`
+* `sp_atk`
+* `sp_def`
+* `speed`
+* `accuracy`
+* `critical_hit`
+* `stat_reduction`
 
 #### `change_by_percent` (integer)
 
@@ -218,6 +226,7 @@ Additional restrictions:
 This element must be one of the following enum values:
 
 * `remove`
+* `immune_for_5_turns`
 
 #### `conditions` (array)
 
