@@ -120,7 +120,23 @@
   ],
   "evolution_from": null,
   "variations": [
-
+    {
+      "names":{
+        "fr": "Évoli (Pokémon partenaire)",
+        "de": "Evoli (Partner-Pokémon)",
+        "it": "Eevee (Pokémon compagno)",
+        "en": "Eevee (Partner Pokémon)"
+      },
+      "types": ["Normal"],
+      "base_stats": {
+        "hp": 65,
+        "atk": 75,
+        "def": 70,
+        "sp_atk": 65,
+        "sp_def": 85,
+        "speed": 75
+      }
+    }
   ],
   "pokedex_entries": {
     "Red": {

@@ -77,7 +77,23 @@
 
   ],
   "variations": [
-
+    {
+      "names":{
+        "fr": "Pikachu (Pokémon partenaire)",
+        "de": "Pikachu (Partner-Pokémon)",
+        "it": "Pikachu (Pokémon compagno)",
+        "en": "Pikachu (Partner Pokémon)"
+      },
+      "types": ["Electric"],
+      "base_stats": {
+        "hp": 45,
+        "atk": 80,
+        "def": 50,
+        "sp_atk": 75,
+        "sp_def": 60,
+        "speed": 120
+      }
+    }
   ],
   "pokedex_entries": {
     "Red": {
