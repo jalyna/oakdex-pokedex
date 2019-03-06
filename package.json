@@ -3,10 +3,12 @@
   "version": "0.4.4",
   "description": "Comprehensive Pokedex for Gen 1-7",
   "main": "./src/oakdex_pokedex.js",
+  "types": "./src/oakdex_pokedex.d.ts",
   "directories": {
     "doc": "doc"
   },
   "dependencies": {
+    "@types/jsonschema": "^1.1.1",
     "jsonschema": "^1.2.4"
   },
   "devDependencies": {
