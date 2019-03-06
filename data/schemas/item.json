@@ -77,7 +77,16 @@
                   "ev_sp_def",
                   "ev_sp_atk",
                   "ev_speed",
-                  "level"
+                  "level",
+
+                  "atk",
+                  "def",
+                  "sp_atk",
+                  "sp_def",
+                  "speed",
+                  "accuracy",
+                  "critical_hit",
+                  "stat_reduction"
                 ]
               },
               "change_by_percent": {
@@ -96,7 +105,8 @@
               "change": {
                 "type": "string",
                 "enum": [
-                  "remove"
+                  "remove",
+                  "immune_for_5_turns"
                 ]
               },
               "conditions": {
@@ -147,6 +157,7 @@
       "enum": [
         "Items",
         "Medicine",
+        "Battle items",
         "Key items"
       ]
     },

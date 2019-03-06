@@ -1,0 +1,160 @@
+{
+  "names": {
+    "en": "Guard Spec.",
+    "de": "Megablock",
+    "fr": "Défense Spéc.Défense SpécialeGarde-Stats",
+    "es": "Protec. Especial",
+    "it": "Superguardia"
+  },
+  "category": "Battle items",
+  "descriptions": [
+    {
+      "games": [
+        "Gold",
+        "Silver"
+      ],
+      "translations": {
+        "en": "Prevents stat reduction. (1 BTL)",
+        "de": "Keine Statusänderung für 1 Kampf."
+      }
+    },
+    {
+      "games": [
+        "Crystal"
+      ],
+      "translations": {
+        "en": "Prevents stats reduction. (1 BTL)",
+        "de": "Keine Statusänderung für 1 Kampf."
+      }
+    },
+    {
+      "games": [
+        "Ruby",
+        "Sapphire",
+        "Emerald"
+      ],
+      "translations": {
+        "en": "Prevents stat reduction when used in battle.",
+        "de": "Statusänderung wird für einen Kampf verhindert."
+      }
+    },
+    {
+      "games": [
+        "FireRed",
+        "LeafGreen"
+      ],
+      "translations": {
+        "en": "An item that prevents stat reduction among party Pokémon for five turns after use.",
+        "de": "Eine mögliche Statusänderung der POKéMON im Team wird für fünf Runden verhindert."
+      }
+    },
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.",
+        "de": "Eine mögliche Statuswertänderung der Pokémon im Team wird für 5 Runden verhindert."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire",
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "An item that prevents stat reduction among the Trainer's party Pokémon for five turns after it is used in battle.",
+        "de": "Eine mögliche Statusveränderung der Pokémon im Team wird für 5 Runden verhindert."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Yellow",
+        "Gold",
+        "Silver",
+        "Crystal",
+        "Ruby",
+        "Sapphire",
+        "Emerald",
+        "FireRed",
+        "LeafGreen",
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 700,
+      "selling": 350
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 1500,
+      "selling": 750
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    },
+    {
+      "generations": [
+        4
+      ],
+      "pocket": "Battle items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "During Battle",
+      "target": "Trainer",
+      "pokemon_changes": [
+        {
+          "field": "stat_reduction",
+          "change": "immune_for_5_turns"
+        }
+      ]
+    }
+  ]
+}

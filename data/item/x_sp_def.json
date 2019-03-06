@@ -1,0 +1,113 @@
+{
+  "names": {
+    "en": "X Sp. Def",
+    "de": "X-Spezial-Vert.",
+    "fr": "Déf. Spé. +",
+    "es": "Def. Especial X",
+    "it": "Dif. Speciale X"
+  },
+  "category": "Battle items",
+  "descriptions": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2"
+      ],
+      "translations": {
+        "en": "An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+        "de": "Hebt die Spezial-Verteidigung eines Pokémon im Kampf. Die Wirkung wird mit dem Tausch des Pokémon beendet."
+      }
+    },
+    {
+      "games": [
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "translations": {
+        "en": "An item that boosts the Sp. Def stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+        "de": "Hebt die Spezial-Verteidigung eines Pokémon im Kampf. Die Wirkung wird mit dem Austausch des Pokémon beendet."
+      }
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "translations": {
+        "en": "An item that sharply boosts the Sp. Def stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+        "de": "Hebt die Spezial-Verteidigung eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet."
+      }
+    }
+  ],
+  "prices": [
+    {
+      "games": [
+        "Diamond",
+        "Pearl",
+        "Platinum",
+        "HeartGold",
+        "SoulSilver",
+        "Black",
+        "White",
+        "Black 2",
+        "White 2",
+        "X",
+        "Y",
+        "Omega Ruby",
+        "Alpha Sapphire"
+      ],
+      "buying": 350,
+      "selling": 175
+    },
+    {
+      "games": [
+        "Sun",
+        "Moon",
+        "Ultra Sun",
+        "Ultra Moon"
+      ],
+      "buying": 2000,
+      "selling": 1000
+    }
+  ],
+  "pockets": [
+    {
+      "generations": [
+        4
+      ],
+      "pocket": "Battle items"
+    },
+    {
+      "generations": [
+        5,
+        6,
+        7
+      ],
+      "pocket": "Items"
+    }
+  ],
+  "fling_power": 30,
+  "effects": [
+    {
+      "condition": "During Battle",
+      "target": "Single Pokemon",
+      "pokemon_changes": [
+        {
+          "field": "sp_def",
+          "change_by": 2
+        }
+      ]
+    }
+  ]
+}
