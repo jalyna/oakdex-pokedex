@@ -160,6 +160,7 @@ describe Oakdex::Pokedex::Pokemon do
     evolutions].each do |attribute|
     describe "##{attribute}" do
       it { expect(subject.public_send(attribute)).to eq(attributes[attribute]) }
+      it { expect(subject).to respond_to(attribute) }
     end
   end
 

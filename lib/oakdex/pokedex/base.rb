@@ -78,6 +78,10 @@ module Oakdex
           super
         end
       end
+
+      def respond_to_missing?(method, *args)
+        @attributes.key?(method.to_s) || super
+      end
     end
   end
 end

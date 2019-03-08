@@ -7,6 +7,9 @@ Please keep to the changelog format described on [keepachangelog.com](http://kee
 ### Added
 - Added all 8 Battle Items
 
+### Fixed
+- Added `respond_to_missing?` for pokedex base class.
+
 ## [0.4.4] - 2019-03-06
 
 ### Added
