@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 Please keep to the changelog format described on [keepachangelog.com](http://keepachangelog.com).
 
-## [unreleased]
+## [0.4.5] - 2019-03-08
 
 ### Added
 - Added all 8 Battle Items
